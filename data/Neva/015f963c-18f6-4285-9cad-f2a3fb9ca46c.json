@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/015f963c-18f6-4285-9cad-f2a3fb9ca46c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/015f963c-18f6-4285-9cad-f2a3fb9ca46c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Neva Saz Semai (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/015f963c-18f6-4285-9cad-f2a3fb9ca46c", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "015f963c-18f6-4285-9cad-f2a3fb9ca46c", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/015f963c-18f6-4285-9cad-f2a3fb9ca46c"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 260, 
+    "path": "../data/Neva/015f963c-18f6-4285-9cad-f2a3fb9ca46c.mp3", 
+    "works": [
+        {
+            "mbid": "fd510c52-1e03-4e4e-ada1-1b533e18a585", 
+            "title": "Nev\u00e2 Sazsem\u00e2\u00eesi"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/64f18042-48fc-4089-8fe2-2e81b7746e28"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "68b016fe-03ac-430f-b969-7a53e485841f", 
+            "title": "A\u015fk ile"
+        }
+    ], 
+    "title": "Rabb\u00fcn Allah \u00fcl lezi la mabude illa Hu", 
+    "url": "http://musicbrainz.org/work/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0", 
+    "form": [
+        {
+            "attribute_key": "tesbih", 
+            "mb_attribute": "Tesbih", 
+            "source": "http://musicbrainz.org/work/64f18042-48fc-4089-8fe2-2e81b7746e28"
+        }, 
+        {
+            "attribute_key": "tesbih", 
+            "mb_tag": "tesbih", 
+            "source": "http://musicbrainz.org/recording/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "duration": 124, 
+    "path": "../data/Neva/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0.mp3", 
+    "works": [
+        {
+            "mbid": "64f18042-48fc-4089-8fe2-2e81b7746e28", 
+            "title": "Neva Tesbih"
+        }
+    ]
+}

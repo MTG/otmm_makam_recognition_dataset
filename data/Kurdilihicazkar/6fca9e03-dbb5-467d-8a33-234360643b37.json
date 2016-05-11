@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6fca9e03-dbb5-467d-8a33-234360643b37"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bfd2fcde-2271-4d8a-af42-98e174e13a4b", 
+            "title": "Murat Aydemir"
+        }
+    ], 
+    "title": "K\u00fcrd\u00eeli-Hicazk\u00e2r Taksim", 
+    "url": "http://musicbrainz.org/work/6fca9e03-dbb5-467d-8a33-234360643b37", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "6fca9e03-dbb5-467d-8a33-234360643b37", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 187, 
+    "path": "../data/Kurdilihicazkar/6fca9e03-dbb5-467d-8a33-234360643b37.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6fca9e03-dbb5-467d-8a33-234360643b37"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/6fca9e03-dbb5-467d-8a33-234360643b37"
+        }
+    ]
+}

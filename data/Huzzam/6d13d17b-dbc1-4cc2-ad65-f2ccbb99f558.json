@@ -1,0 +1,103 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/495bf7af-6849-4977-899d-c3a03e21ca36"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/495bf7af-6849-4977-899d-c3a03e21ca36"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "60c842ae-6879-4e41-9fad-0b8a7b552fa6", 
+            "title": "The Early Recordings, Volume 1"
+        }
+    ], 
+    "title": "Ne \u00c7apk\u0131n Duda\u011f\u0131n", 
+    "url": "http://musicbrainz.org/work/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558", 
+    "artist_credits": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/495bf7af-6849-4977-899d-c3a03e21ca36"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Hrant Kenkulian"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "type": "vocal", 
+            "name": "Udi Hrant Kenkulian"
+        }, 
+        {
+            "mbid": "df01d2b0-d8e4-447f-a5f1-034b9587ca83", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Yatman"
+        }, 
+        {
+            "mbid": "e26c9288-91f6-4ac7-9883-c570180e9fd1", 
+            "attribute-list": [
+                "darbuka"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Kocadin\u00e7"
+        }
+    ], 
+    "duration": 172, 
+    "path": "../data/Huzzam/6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558.mp3", 
+    "works": [
+        {
+            "mbid": "495bf7af-6849-4977-899d-c3a03e21ca36", 
+            "title": "Ne \u00c7apk\u0131n Duda\u011f\u0131n Var"
+        }
+    ]
+}

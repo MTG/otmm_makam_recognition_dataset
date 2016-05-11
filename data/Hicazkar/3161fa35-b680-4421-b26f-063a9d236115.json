@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3161fa35-b680-4421-b26f-063a9d236115"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/3161fa35-b680-4421-b26f-063a9d236115"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "eb008617-09d0-4f3c-8be3-b5f703f40e73", 
+            "title": "Birlikte 50 Y\u0131l"
+        }
+    ], 
+    "title": "\u00c7i\u00e7eklerin G\u00fcl\u00fcyor Sevincinden", 
+    "url": "http://musicbrainz.org/work/3161fa35-b680-4421-b26f-063a9d236115", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }, 
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3161fa35-b680-4421-b26f-063a9d236115", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3161fa35-b680-4421-b26f-063a9d236115"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }, 
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "duration": 191, 
+    "path": "../data/Hicazkar/3161fa35-b680-4421-b26f-063a9d236115.mp3", 
+    "works": [
+        {
+            "mbid": "d5bd93bd-dd23-42b2-a01c-1dc1b28f21b9", 
+            "title": "\u00c7i\u00e7eklerin G\u00fcl\u00fcyor"
+        }
+    ]
+}

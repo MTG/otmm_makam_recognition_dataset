@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9c389567-926c-4ba8-abac-c445565361df"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a8c6952a-d8b8-4014-90f2-46650bac4ff6", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ud"
+        }
+    ], 
+    "title": "Rast Taksim", 
+    "url": "http://musicbrainz.org/work/9c389567-926c-4ba8-abac-c445565361df", 
+    "artist_credits": [
+        {
+            "mbid": "dc886aa6-044b-4737-9498-caf65944570c", 
+            "name": "Udi Ne\u015fet Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9c389567-926c-4ba8-abac-c445565361df", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "dc886aa6-044b-4737-9498-caf65944570c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Ne\u015fet Bey"
+        }
+    ], 
+    "duration": 195, 
+    "path": "../data/Rast/9c389567-926c-4ba8-abac-c445565361df.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9c389567-926c-4ba8-abac-c445565361df"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/9c389567-926c-4ba8-abac-c445565361df"
+        }
+    ]
+}

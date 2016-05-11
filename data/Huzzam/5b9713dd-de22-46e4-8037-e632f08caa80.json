@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/5b9713dd-de22-46e4-8037-e632f08caa80"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fe49d6ee-a2b1-4d0d-8277-1f3fbb5df116", 
+            "title": "Teredd\u00fct"
+        }
+    ], 
+    "title": "K\u0131ld\u0131 Z\u00fclf\u00fcn (Gazel)", 
+    "url": "http://musicbrainz.org/work/5b9713dd-de22-46e4-8037-e632f08caa80", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "mbid": "5b9713dd-de22-46e4-8037-e632f08caa80", 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 205, 
+    "path": "../data/Huzzam/5b9713dd-de22-46e4-8037-e632f08caa80.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5b9713dd-de22-46e4-8037-e632f08caa80"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/5b9713dd-de22-46e4-8037-e632f08caa80"
+        }
+    ]
+}

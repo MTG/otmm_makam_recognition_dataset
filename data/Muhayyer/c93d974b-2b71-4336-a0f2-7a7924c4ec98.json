@@ -1,0 +1,147 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/c93d974b-2b71-4336-a0f2-7a7924c4ec98"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/c93d974b-2b71-4336-a0f2-7a7924c4ec98"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "172af7d8-9817-49ab-8f1d-e7593984b8ad", 
+            "title": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "title": "Muhayyer Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/c93d974b-2b71-4336-a0f2-7a7924c4ec98", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "c93d974b-2b71-4336-a0f2-7a7924c4ec98", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/c93d974b-2b71-4336-a0f2-7a7924c4ec98"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan G\u00fcndiyer"
+        }, 
+        {
+            "mbid": "2843dde9-4f34-415f-abce-df3c142d406e", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Dolguny\u00fcrek"
+        }, 
+        {
+            "mbid": "2e06c7c2-c2fd-4484-8b28-b8d9efe0e9d1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Haluk Derin\u00f6z"
+        }, 
+        {
+            "mbid": "43f14d88-8f74-4254-9837-6c9350b03f27", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer Yaman"
+        }, 
+        {
+            "mbid": "51dd67df-47be-454f-b6e0-9c947581e7d7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ali A\u015fk\u0131n"
+        }, 
+        {
+            "mbid": "5a68da84-b56f-4780-8f47-3b07e1b4d5a3", 
+            "attribute-list": [
+                "cello", 
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Emin Safa Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "618e982e-4df7-41e5-bec3-674f9fe33e95", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "A. Y\u0131ldan Dirik"
+        }, 
+        {
+            "mbid": "6b31f595-1fee-4bae-9cf9-fa3810731fed", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim Oytun"
+        }, 
+        {
+            "mbid": "85015e35-c8d5-42f2-bd68-60483874bf6d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcseyin Turna"
+        }, 
+        {
+            "mbid": "d9a58619-ec31-4bcc-a0b6-54b6c1e6a96a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sedat G\u00fcndiyer"
+        }
+    ], 
+    "duration": 100, 
+    "path": "../data/Muhayyer/c93d974b-2b71-4336-a0f2-7a7924c4ec98.mp3", 
+    "works": [
+        {
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ]
+}

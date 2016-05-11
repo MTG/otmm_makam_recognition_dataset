@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "Hicaz Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "duration": 368, 
+    "path": "../data/Hicaz/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8.mp3", 
+    "works": [
+        {
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

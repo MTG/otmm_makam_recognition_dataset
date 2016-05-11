@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "I\u015f\u0131l I\u015f\u0131l G\u00f6zlerinde Siyah Sa\u00e7\u0131n Rengi Mi Var (Cici K\u0131z)", 
+    "url": "http://musicbrainz.org/work/020be96d-54c2-440e-9e91-c17f242b1dbb", 
+    "artist_credits": [
+        {
+            "mbid": "73ff78e8-de82-4622-a66c-ffd80afb1e5c", 
+            "name": "Bahad\u0131r \u00d6z\u00fc\u015fen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "020be96d-54c2-440e-9e91-c17f242b1dbb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "73ff78e8-de82-4622-a66c-ffd80afb1e5c", 
+            "type": "vocal", 
+            "name": "Bahad\u0131r \u00d6z\u00fc\u015fen"
+        }
+    ], 
+    "duration": 163, 
+    "path": "../data/Nihavent/020be96d-54c2-440e-9e91-c17f242b1dbb.mp3", 
+    "works": [
+        {
+            "mbid": "f1c64982-8ff2-4d1e-a579-fa4ee562ee3b", 
+            "title": "I\u015f\u0131l I\u015f\u0131l G\u00f6zlerinde Siyah Sa\u00e7\u0131n Rengi Mi Var"
+        }
+    ]
+}

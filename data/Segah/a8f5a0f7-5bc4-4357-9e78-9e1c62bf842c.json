@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sakil", 
+            "mb_attribute": "Sakil", 
+            "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
+        }, 
+        {
+            "attribute_key": "sakil", 
+            "mb_tag": "sakil", 
+            "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Segah Karabatak Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Nevres Bey"
+        }, 
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "duration": 427, 
+    "path": "../data/Segah/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c.mp3", 
+    "works": [
+        {
+            "mbid": "b3604693-be59-472e-8d23-e9207ffbddce", 
+            "title": "Segah Karabatak Pe\u015frevi"
+        }
+    ]
+}

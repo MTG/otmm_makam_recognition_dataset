@@ -1,0 +1,135 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bdc8ef2-27b9-4dac-8bc6-3b5872883d88", 
+            "title": "Ermeni Bestekarlar -1- (Armenian Composers)"
+        }
+    ], 
+    "title": "Ge\u00e7en G\u00fcn Eyledin \u0130krar", 
+    "url": "http://musicbrainz.org/work/79ef8add-d7c5-40b3-a172-44ec34da8ef9", 
+    "artist_credits": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "79ef8add-d7c5-40b3-a172-44ec34da8ef9", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }, 
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 143, 
+    "path": "../data/Saba/79ef8add-d7c5-40b3-a172-44ec34da8ef9.mp3", 
+    "works": [
+        {
+            "mbid": "af14f16d-f7fd-42d3-8221-e4b83fca949d", 
+            "title": "Ge\u00e7en G\u00fcn Eyledin \u0130krar"
+        }
+    ]
+}

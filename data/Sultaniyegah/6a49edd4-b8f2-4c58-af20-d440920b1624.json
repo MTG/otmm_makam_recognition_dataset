@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6a49edd4-b8f2-4c58-af20-d440920b1624"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/6a49edd4-b8f2-4c58-af20-d440920b1624"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bd4f2c79-fef5-4566-b696-7a2aa315e505", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi - Kalplerden Dudaklara"
+        }
+    ], 
+    "title": "Biz Heybelide Her Gece", 
+    "url": "http://musicbrainz.org/work/6a49edd4-b8f2-4c58-af20-d440920b1624", 
+    "artist_credits": [
+        {
+            "mbid": "d18bcad9-42a8-43ef-8d3a-c8f46568770d", 
+            "name": "Deniz K\u0131z\u0131 Eftalya"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "6a49edd4-b8f2-4c58-af20-d440920b1624", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6a49edd4-b8f2-4c58-af20-d440920b1624"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "d18bcad9-42a8-43ef-8d3a-c8f46568770d", 
+            "type": "vocal", 
+            "name": "Deniz K\u0131z\u0131 Eftalya"
+        }
+    ], 
+    "duration": 190, 
+    "path": "../data/Sultaniyegah/6a49edd4-b8f2-4c58-af20-d440920b1624.mp3", 
+    "works": [
+        {
+            "mbid": "888edc19-be16-47c6-92db-170b65caba0e", 
+            "title": "Biz Heybeli'de Her Gece"
+        }
+    ]
+}

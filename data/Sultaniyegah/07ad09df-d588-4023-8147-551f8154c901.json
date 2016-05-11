@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/07ad09df-d588-4023-8147-551f8154c901"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c918f46-420f-45e9-8ef4-3176a67a356a", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ney"
+        }
+    ], 
+    "title": "Sultaniyegah Taksim", 
+    "url": "http://musicbrainz.org/work/07ad09df-d588-4023-8147-551f8154c901", 
+    "artist_credits": [
+        {
+            "mbid": "156b7534-053e-42da-ada3-a0199f1cff2c", 
+            "name": "S\u00fcleyman Erg\u00fcner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "07ad09df-d588-4023-8147-551f8154c901", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "156b7534-053e-42da-ada3-a0199f1cff2c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "S\u00fcleyman Erg\u00fcner"
+        }
+    ], 
+    "duration": 259, 
+    "path": "../data/Sultaniyegah/07ad09df-d588-4023-8147-551f8154c901.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/07ad09df-d588-4023-8147-551f8154c901"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/07ad09df-d588-4023-8147-551f8154c901"
+        }
+    ]
+}

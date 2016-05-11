@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b4930148-e5da-4c51-892f-896832e69832"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b7b6bfec-d7b6-4eec-944e-445c9e1e40f8", 
+            "title": "Udi"
+        }
+    ], 
+    "title": "Rast Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/b4930148-e5da-4c51-892f-896832e69832", 
+    "artist_credits": [
+        {
+            "mbid": "2fbfeea4-cbe6-49e7-9470-59a36d8bcbe5", 
+            "name": "Ozan Karata\u015f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b4930148-e5da-4c51-892f-896832e69832", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2fbfeea4-cbe6-49e7-9470-59a36d8bcbe5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ozan Karata\u015f"
+        }
+    ], 
+    "duration": 147, 
+    "path": "../data/Rast/b4930148-e5da-4c51-892f-896832e69832.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b4930148-e5da-4c51-892f-896832e69832"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/b4930148-e5da-4c51-892f-896832e69832"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0fe07917-1432-42b5-b9be-d8d61046aba0", 
+            "title": "T\u00fcrk Bestekarlar Serisi - \u015eevki Bey"
+        }
+    ], 
+    "title": "Nedendir Bu Dil-i Zar\u0131n Figan\u0131", 
+    "url": "http://musicbrainz.org/work/7aec9833-6482-4917-87bd-e60c7c1dae3c", 
+    "artist_credits": [
+        {
+            "mbid": "2f4e08c9-169f-4cfc-bf30-0a419ff30c33", 
+            "name": "\u0130lhan Yaz\u0131c\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "7aec9833-6482-4917-87bd-e60c7c1dae3c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
+            "type": "vocal", 
+            "name": "G\u00fcl Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "2f4e08c9-169f-4cfc-bf30-0a419ff30c33", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "\u0130lhan Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }, 
+        {
+            "mbid": "a2a8f24d-a417-417b-8989-001eb1376fde", 
+            "type": "vocal", 
+            "name": "Kaan Safkan"
+        }, 
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "type": "vocal", 
+            "name": "Recep Birgit"
+        }, 
+        {
+            "mbid": "d227a44e-13fe-4b46-a53f-7e92aaa1d3d2", 
+            "type": "vocal", 
+            "name": "Cengizhan S\u00f6nmez"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }
+    ], 
+    "duration": 197, 
+    "path": "../data/Rast/7aec9833-6482-4917-87bd-e60c7c1dae3c.mp3", 
+    "works": [
+        {
+            "mbid": "bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a", 
+            "title": "Nedendir Bu Dil-i zar\u0131n Figan\u0131"
+        }
+    ]
+}

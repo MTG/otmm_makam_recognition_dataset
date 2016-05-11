@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/ced43288-4f64-49f1-b1e7-e8006e7f781e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/ced43288-4f64-49f1-b1e7-e8006e7f781e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "abb360bb-6fe2-46f5-a301-fbea5795762b", 
+            "title": "Sufi Breaths - \u015eah-\u0131 Devran"
+        }
+    ], 
+    "title": "Bestenigar Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/ced43288-4f64-49f1-b1e7-e8006e7f781e", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "ced43288-4f64-49f1-b1e7-e8006e7f781e", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ced43288-4f64-49f1-b1e7-e8006e7f781e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }
+    ], 
+    "duration": 398, 
+    "path": "../data/Bestenigar/ced43288-4f64-49f1-b1e7-e8006e7f781e.mp3", 
+    "works": [
+        {
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "title": "Bestenig\u00e2r Pe\u015frevi"
+        }
+    ]
+}

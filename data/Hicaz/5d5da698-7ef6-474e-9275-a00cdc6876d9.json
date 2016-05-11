@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5d5da698-7ef6-474e-9275-a00cdc6876d9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Hic\u00e2z Taksim", 
+    "url": "http://musicbrainz.org/work/5d5da698-7ef6-474e-9275-a00cdc6876d9", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5d5da698-7ef6-474e-9275-a00cdc6876d9", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }
+    ], 
+    "duration": 190, 
+    "path": "../data/Hicaz/5d5da698-7ef6-474e-9275-a00cdc6876d9.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5d5da698-7ef6-474e-9275-a00cdc6876d9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/5d5da698-7ef6-474e-9275-a00cdc6876d9"
+        }
+    ]
+}

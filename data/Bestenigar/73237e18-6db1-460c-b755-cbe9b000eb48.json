@@ -1,0 +1,73 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/8ff551e0-507d-418e-a62f-57d3126bc671"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/73237e18-6db1-460c-b755-cbe9b000eb48"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1669d3fc-418d-41f0-be1e-c757d360c21a", 
+            "title": "\u015eevahot Lael / Allah'a \u00d6vg\u00fcler"
+        }
+    ], 
+    "title": "Karev-l\u0131 \u015eenat", 
+    "url": "http://musicbrainz.org/work/73237e18-6db1-460c-b755-cbe9b000eb48", 
+    "artist_credits": [
+        {
+            "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
+            "name": "Aaron Kohen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "73237e18-6db1-460c-b755-cbe9b000eb48", 
+    "form": [], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
+            "type": "vocal", 
+            "name": "Aaron Kohen"
+        }, 
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 174, 
+    "path": "../data/Bestenigar/73237e18-6db1-460c-b755-cbe9b000eb48.mp3", 
+    "works": [
+        {
+            "mbid": "8ff551e0-507d-418e-a62f-57d3126bc671", 
+            "title": "Karev-l\u0131 \u015eenat"
+        }
+    ]
+}

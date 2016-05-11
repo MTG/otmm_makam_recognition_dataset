@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ac32b548-e42e-4b40-90b6-ea1ea751844e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/34856d8c-11c3-4ae2-baee-58bc6835df8f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/ac32b548-e42e-4b40-90b6-ea1ea751844e"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/34856d8c-11c3-4ae2-baee-58bc6835df8f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "495f6cda-3abd-4144-900f-3a526eecd2b9", 
+            "title": "Haf\u0131z Burhan - A\u015fk\u0131n G\u00f6zya\u015flar\u0131"
+        }
+    ], 
+    "title": "Bir G\u00f6n\u00fclde \u0130ki Sevda Olamaz", 
+    "url": "http://musicbrainz.org/work/34856d8c-11c3-4ae2-baee-58bc6835df8f", 
+    "artist_credits": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "34856d8c-11c3-4ae2-baee-58bc6835df8f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ac32b548-e42e-4b40-90b6-ea1ea751844e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/34856d8c-11c3-4ae2-baee-58bc6835df8f"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "duration": 160, 
+    "path": "../data/Mahur/34856d8c-11c3-4ae2-baee-58bc6835df8f.mp3", 
+    "works": [
+        {
+            "mbid": "ac32b548-e42e-4b40-90b6-ea1ea751844e", 
+            "title": "Bir G\u00f6n\u00fclde \u0130ki Sevda Olamaz"
+        }
+    ]
+}

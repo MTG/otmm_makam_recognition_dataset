@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/4457c208-f54f-441f-8260-a8f1a9f926ee"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/03425c44-4665-4cee-8b04-39bb3de019b5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/4457c208-f54f-441f-8260-a8f1a9f926ee"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/03425c44-4665-4cee-8b04-39bb3de019b5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50d11824-b02a-406d-9ba7-8471f9dbbebb", 
+            "title": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "title": "Eri\u015fti Nevbahar Eyyam\u0131 A\u00e7\u0131ld\u0131 G\u00fcl-i G\u00fcl\u015fen", 
+    "url": "http://musicbrainz.org/work/03425c44-4665-4cee-8b04-39bb3de019b5", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "03425c44-4665-4cee-8b04-39bb3de019b5", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4457c208-f54f-441f-8260-a8f1a9f926ee"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/03425c44-4665-4cee-8b04-39bb3de019b5"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 313, 
+    "path": "../data/Nihavent/03425c44-4665-4cee-8b04-39bb3de019b5.mp3", 
+    "works": [
+        {
+            "mbid": "4457c208-f54f-441f-8260-a8f1a9f926ee", 
+            "title": "Eri\u015fti Nevbahar Eyyam\u0131 A\u00e7\u0131ld\u0131 G\u00fcl-i G\u00fcl\u015fen"
+        }
+    ]
+}

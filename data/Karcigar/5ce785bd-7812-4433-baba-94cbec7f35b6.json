@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/5ce785bd-7812-4433-baba-94cbec7f35b6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/5ce785bd-7812-4433-baba-94cbec7f35b6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "\u0130stemem Seni Art\u0131k Gelsen de Olur Gelmesen de", 
+    "url": "http://musicbrainz.org/work/5ce785bd-7812-4433-baba-94cbec7f35b6", 
+    "artist_credits": [
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "5ce785bd-7812-4433-baba-94cbec7f35b6", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5ce785bd-7812-4433-baba-94cbec7f35b6"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "type": "vocal", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "duration": 214, 
+    "path": "../data/Karcigar/5ce785bd-7812-4433-baba-94cbec7f35b6.mp3", 
+    "works": [
+        {
+            "mbid": "1fe8de49-0fbc-4c0e-9fd0-9fc8124364b3", 
+            "title": "\u0130stemem Seni Art\u0131k Gelsen de Olur Gelmesen de"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/6c8c8406-9b5c-412a-b52f-45a5d5749d1e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/6c8c8406-9b5c-412a-b52f-45a5d5749d1e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "94fcf33a-25f6-4a91-950c-eb90affa1af2", 
+            "title": "Yahudi Bestekarlar (Jewish Composers)"
+        }
+    ], 
+    "title": "Acema\u015firan Saz Semai", 
+    "url": "http://musicbrainz.org/work/6c8c8406-9b5c-412a-b52f-45a5d5749d1e", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "6c8c8406-9b5c-412a-b52f-45a5d5749d1e", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/6c8c8406-9b5c-412a-b52f-45a5d5749d1e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 216, 
+    "path": "../data/Acemasiran/6c8c8406-9b5c-412a-b52f-45a5d5749d1e.mp3", 
+    "works": [
+        {
+            "mbid": "baabfe67-5f03-4f6a-8d0d-592e36a2894b", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9302786c-46c8-4170-95b9-8a20dc18b750"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Bestenigar Taksim", 
+    "url": "http://musicbrainz.org/work/9302786c-46c8-4170-95b9-8a20dc18b750", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9302786c-46c8-4170-95b9-8a20dc18b750", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 71, 
+    "path": "../data/Bestenigar/9302786c-46c8-4170-95b9-8a20dc18b750.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9302786c-46c8-4170-95b9-8a20dc18b750"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/9302786c-46c8-4170-95b9-8a20dc18b750"
+        }
+    ]
+}

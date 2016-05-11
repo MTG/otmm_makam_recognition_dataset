@@ -1,0 +1,143 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5592b59b-e75a-4269-a71a-ee36ab050f31", 
+            "title": "TRT \u0130stanbul Radyosu - 13.12.1991"
+        }
+    ], 
+    "title": "Sebeb Ne Bakm\u0131yor Yarim Y\u00fcz\u00fcme", 
+    "url": "http://musicbrainz.org/work/9058fddc-ebd0-408a-b70b-4ad4f0024e6e", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "9058fddc-ebd0-408a-b70b-4ad4f0024e6e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u00c7ak\u0131r"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "30fb8657-1330-41d5-b2b1-55b4891fd0b8", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayd\u0131n Oran"
+        }, 
+        {
+            "mbid": "35f1b9e1-9a40-44be-a0d5-7b089ff07f53", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcng\u00f6r Ho\u015fses"
+        }, 
+        {
+            "mbid": "480aa839-4292-4d95-9fc5-5299217de0f7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bertan \u00dcsk\u00fcdarl\u0131"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "a6fe8566-a246-40b9-8a86-1ada5884ca81", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Selahattin Erk\u00f6se"
+        }, 
+        {
+            "mbid": "cece3abf-2755-490c-b12c-e9663513187b", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Aslan Hepg\u00fcr"
+        }, 
+        {
+            "mbid": "e8c0fddc-2ba0-494c-90a9-9ad51d01619d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Nuri G\u00fcn"
+        }
+    ], 
+    "duration": 153, 
+    "path": "../data/Beyati/9058fddc-ebd0-408a-b70b-4ad4f0024e6e.mp3", 
+    "works": [
+        {
+            "mbid": "15b03ad0-4fbf-47fd-9a13-34e2c472aba4", 
+            "title": "Sebep Ne Bakm\u0131yor Yarim"
+        }
+    ]
+}

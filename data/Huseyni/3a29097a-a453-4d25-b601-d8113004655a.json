@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrituran", 
+            "mb_attribute": "Devr-i Turan", 
+            "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
+        }, 
+        {
+            "attribute_key": "devrituran_ii", 
+            "mb_tag": "devr-i turan", 
+            "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fd519a20-0111-45f0-a4f4-ccec1558e126", 
+            "title": "Necdet Ya\u015far - Ar\u015fiv Serisi 2"
+        }
+    ], 
+    "title": "D\u00fc\u011f\u00fcn Evinde (Oyun Havas\u0131)", 
+    "url": "http://musicbrainz.org/work/3a29097a-a453-4d25-b601-d8113004655a", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "3a29097a-a453-4d25-b601-d8113004655a", 
+    "form": [
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
+        }, 
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 133, 
+    "path": "../data/Huseyni/3a29097a-a453-4d25-b601-d8113004655a.mp3", 
+    "works": [
+        {
+            "mbid": "fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7", 
+            "title": "D\u00fc\u011f\u00fcn Evinde"
+        }
+    ]
+}

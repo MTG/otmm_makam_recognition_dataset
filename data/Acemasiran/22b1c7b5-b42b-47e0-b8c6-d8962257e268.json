@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/22b1c7b5-b42b-47e0-b8c6-d8962257e268"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/22b1c7b5-b42b-47e0-b8c6-d8962257e268"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden", 
+    "url": "http://musicbrainz.org/work/22b1c7b5-b42b-47e0-b8c6-d8962257e268", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "22b1c7b5-b42b-47e0-b8c6-d8962257e268", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/22b1c7b5-b42b-47e0-b8c6-d8962257e268"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 243, 
+    "path": "../data/Acemasiran/22b1c7b5-b42b-47e0-b8c6-d8962257e268.mp3", 
+    "works": [
+        {
+            "mbid": "197e8937-cb96-463c-bbac-223b1a9f9e73", 
+            "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden"
+        }
+    ]
+}

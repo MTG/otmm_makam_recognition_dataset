@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3310f52d-0eda-40d0-b937-e79589fe61c3", 
+            "title": "Bayati"
+        }
+    ], 
+    "title": "Seni Ne \u00c7ok Sevdi\u011fimi S\u00f6ylesem de Bilemezsin", 
+    "url": "http://musicbrainz.org/work/9566c9df-1a60-4a8f-bd02-c846e3cbee6b", 
+    "artist_credits": [
+        {
+            "mbid": "74db65a8-3e56-4978-bbc0-6996ae597ec0", 
+            "name": "\u0130nci \u00c7ay\u0131rl\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "9566c9df-1a60-4a8f-bd02-c846e3cbee6b", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "74db65a8-3e56-4978-bbc0-6996ae597ec0", 
+            "type": "vocal", 
+            "name": "\u0130nci \u00c7ay\u0131rl\u0131"
+        }
+    ], 
+    "duration": 228, 
+    "path": "../data/Beyati/9566c9df-1a60-4a8f-bd02-c846e3cbee6b.mp3", 
+    "works": [
+        {
+            "mbid": "2376eca5-8386-432a-aa23-ad42bfd610ad", 
+            "title": "Seni Ne \u00c7ok Sevdi\u011fimi"
+        }
+    ]
+}

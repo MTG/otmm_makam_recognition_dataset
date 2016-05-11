@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ddb102d1-e2b3-4fb5-a202-a80e61a0ec95"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d5209d9d-48b2-4efa-a03b-88848a793a3c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/ddb102d1-e2b3-4fb5-a202-a80e61a0ec95"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/d5209d9d-48b2-4efa-a03b-88848a793a3c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d4651847-8f6e-4b80-95f2-4c88495b63ea", 
+            "title": "Hicazkar 1"
+        }
+    ], 
+    "title": "Sakiya Sun Bade-i La'lin Bana", 
+    "url": "http://musicbrainz.org/work/d5209d9d-48b2-4efa-a03b-88848a793a3c", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "d5209d9d-48b2-4efa-a03b-88848a793a3c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ddb102d1-e2b3-4fb5-a202-a80e61a0ec95"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d5209d9d-48b2-4efa-a03b-88848a793a3c"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 170, 
+    "path": "../data/Hicazkar/d5209d9d-48b2-4efa-a03b-88848a793a3c.mp3", 
+    "works": [
+        {
+            "mbid": "ddb102d1-e2b3-4fb5-a202-a80e61a0ec95", 
+            "title": "Sakiya Sun Bade-i Lalin Bana"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "Mahrum-i \u015eevkim Ruhum P\u00fcr Ahzan", 
+    "url": "http://musicbrainz.org/work/a8bbb2db-6685-47ae-8e8e-a853ea12760f", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "a8bbb2db-6685-47ae-8e8e-a853ea12760f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }, 
+        {
+            "mbid": "e92a1226-c0a8-490f-b09b-eedfdfc5fedb", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Turgut Karadeniz"
+        }
+    ], 
+    "duration": 257, 
+    "path": "../data/Kurdilihicazkar/a8bbb2db-6685-47ae-8e8e-a853ea12760f.mp3", 
+    "works": [
+        {
+            "mbid": "89298a3f-7789-4183-b24b-8d36ee25f36d", 
+            "title": "Mahrum-i \u015eevkim, Ruhum P\u00fcr-ahzan"
+        }
+    ]
+}

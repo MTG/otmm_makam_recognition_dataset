@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/b36dcdfc-86c9-4d03-ab11-d1a121f8fcdb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Saba Gazel", 
+    "url": "http://musicbrainz.org/work/b36dcdfc-86c9-4d03-ab11-d1a121f8fcdb", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b36dcdfc-86c9-4d03-ab11-d1a121f8fcdb", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2f6eefb7-c283-4fa6-8381-46c7bad9ca14", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Sabri Aksoy"
+        }, 
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "duration": 228, 
+    "path": "../data/Saba/b36dcdfc-86c9-4d03-ab11-d1a121f8fcdb.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b36dcdfc-86c9-4d03-ab11-d1a121f8fcdb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/b36dcdfc-86c9-4d03-ab11-d1a121f8fcdb"
+        }
+    ]
+}

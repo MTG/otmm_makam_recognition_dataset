@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3a4e3bd0-ed13-4945-8cd3-201497263329", 
+            "title": "Yusuf Nalkesen"
+        }
+    ], 
+    "title": "Saymad\u0131m Ka\u00e7 Y\u0131l Oldu", 
+    "url": "http://musicbrainz.org/work/3f07e596-d91c-4247-81f7-63c31b2fe1fe", 
+    "artist_credits": [
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3f07e596-d91c-4247-81f7-63c31b2fe1fe", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "type": "vocal", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "duration": 225, 
+    "path": "../data/Kurdilihicazkar/3f07e596-d91c-4247-81f7-63c31b2fe1fe.mp3", 
+    "works": [
+        {
+            "mbid": "7617065c-b875-4c22-b167-43eec6e7b9da", 
+            "title": "Saymad\u0131m Ka\u00e7 Y\u0131l Oldu"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7a31af52-be40-4f09-b9bd-67c17ed73740"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/7a31af52-be40-4f09-b9bd-67c17ed73740"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e8e5fd78-af90-40e2-a5bd-de5217f899ff", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 25"
+        }
+    ], 
+    "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol \u015euh-i Cihan A\u015fubu", 
+    "url": "http://musicbrainz.org/work/7a31af52-be40-4f09-b9bd-67c17ed73740", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "7a31af52-be40-4f09-b9bd-67c17ed73740", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/7a31af52-be40-4f09-b9bd-67c17ed73740"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 290, 
+    "path": "../data/Suzinak/7a31af52-be40-4f09-b9bd-67c17ed73740.mp3", 
+    "works": [
+        {
+            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
+            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol"
+        }
+    ]
+}

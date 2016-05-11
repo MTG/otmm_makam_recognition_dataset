@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/aa060cc9-f1d8-412b-8504-031f6ae8dc5b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d9ce2ec7-afa3-43c3-8023-55932611ac9d", 
+            "title": "TRT \u0130stanbul Radyosu - 24.02.1992"
+        }
+    ], 
+    "title": "Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/aa060cc9-f1d8-412b-8504-031f6ae8dc5b", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "aa060cc9-f1d8-412b-8504-031f6ae8dc5b", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Bitmez"
+        }
+    ], 
+    "duration": 125, 
+    "path": "../data/Segah/aa060cc9-f1d8-412b-8504-031f6ae8dc5b.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/aa060cc9-f1d8-412b-8504-031f6ae8dc5b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/aa060cc9-f1d8-412b-8504-031f6ae8dc5b"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "45ffbadf-c6ba-45a6-a24e-aded89391963", 
+            "title": "Re\u015fat Aysu Saz Semaileri"
+        }
+    ], 
+    "title": "Sultaniyegah Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/af7fd1eb-f077-4245-836b-83d86732924b", 
+    "artist_credits": [
+        {
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "name": "Osman Nuri \u00d6zpekel"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "af7fd1eb-f077-4245-836b-83d86732924b", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Nuri \u00d6zpekel"
+        }
+    ], 
+    "duration": 445, 
+    "path": "../data/Sultaniyegah/af7fd1eb-f077-4245-836b-83d86732924b.mp3", 
+    "works": [
+        {
+            "mbid": "e0159abe-cf95-4c83-8c88-e764402784d0", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

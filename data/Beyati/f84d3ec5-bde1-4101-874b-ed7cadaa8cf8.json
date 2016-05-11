@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/2e5be809-a06d-4dcb-8b5b-f2f38a81b074"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/2e5be809-a06d-4dcb-8b5b-f2f38a81b074"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3310f52d-0eda-40d0-b937-e79589fe61c3", 
+            "title": "Bayati"
+        }
+    ], 
+    "title": "\u0130\u00e7en Bir Daha Ay\u0131lmaz", 
+    "url": "http://musicbrainz.org/work/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8", 
+    "artist_credits": [
+        {
+            "mbid": "af9e2a73-7d4c-4b4b-8edd-4ddab4eee132", 
+            "name": "G\u00fcler Basu \u015een"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "f84d3ec5-bde1-4101-874b-ed7cadaa8cf8", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2e5be809-a06d-4dcb-8b5b-f2f38a81b074"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "af9e2a73-7d4c-4b4b-8edd-4ddab4eee132", 
+            "type": "vocal", 
+            "name": "G\u00fcler Basu \u015een"
+        }
+    ], 
+    "duration": 255, 
+    "path": "../data/Beyati/f84d3ec5-bde1-4101-874b-ed7cadaa8cf8.mp3", 
+    "works": [
+        {
+            "mbid": "2e5be809-a06d-4dcb-8b5b-f2f38a81b074", 
+            "title": "\u0130\u00e7en Bir Daha Ay\u0131lmaz"
+        }
+    ]
+}

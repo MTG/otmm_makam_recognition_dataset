@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/dea0c119-bb90-41ef-af87-c38dd877ab0e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0faed82b-3d66-45c2-b449-76c47e892d1a", 
+            "title": "Yorgo Bacanos'tan Ud Taksimleri"
+        }
+    ], 
+    "title": "Mahur Taksim", 
+    "url": "http://musicbrainz.org/work/dea0c119-bb90-41ef-af87-c38dd877ab0e", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "dea0c119-bb90-41ef-af87-c38dd877ab0e", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 151, 
+    "path": "../data/Mahur/dea0c119-bb90-41ef-af87-c38dd877ab0e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/dea0c119-bb90-41ef-af87-c38dd877ab0e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/dea0c119-bb90-41ef-af87-c38dd877ab0e"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "\u0130stanbul'u Art\u0131k Hi\u00e7 Sevmiyorum", 
+    "url": "http://musicbrainz.org/work/789270e5-8f0e-4103-ae5c-981dbacdea5c", 
+    "artist_credits": [
+        {
+            "mbid": "25890cac-65c8-44c6-ad07-f9684f018bc8", 
+            "name": "Belgin G\u00f6k"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "789270e5-8f0e-4103-ae5c-981dbacdea5c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "25890cac-65c8-44c6-ad07-f9684f018bc8", 
+            "type": "vocal", 
+            "name": "Belgin G\u00f6k"
+        }
+    ], 
+    "duration": 233, 
+    "path": "../data/Rast/789270e5-8f0e-4103-ae5c-981dbacdea5c.mp3", 
+    "works": [
+        {
+            "mbid": "cbbe9a40-5844-4c0c-b92d-5bb06ea345f2", 
+            "title": "\u0130stanbul'u Art\u0131k Hi\u00e7 Sevmiyorum"
+        }
+    ]
+}

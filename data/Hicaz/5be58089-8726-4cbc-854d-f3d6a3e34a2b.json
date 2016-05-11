@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ccbb9023-a235-4ca3-bc68-043cdf463903", 
+            "title": "Makber - Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "title": "Ada Sahillerinde Bekliyorum", 
+    "url": "http://musicbrainz.org/work/5be58089-8726-4cbc-854d-f3d6a3e34a2b", 
+    "artist_credits": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "5be58089-8726-4cbc-854d-f3d6a3e34a2b", 
+    "form": [
+        {
+            "attribute_key": "kanto", 
+            "mb_attribute": "Kanto", 
+            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "type": "vocal", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "duration": 254, 
+    "path": "../data/Hicaz/5be58089-8726-4cbc-854d-f3d6a3e34a2b.mp3", 
+    "works": [
+        {
+            "mbid": "a2e9116f-55a2-3427-a140-09bd7a5b1bed", 
+            "title": "Ada Sahilleri"
+        }
+    ]
+}

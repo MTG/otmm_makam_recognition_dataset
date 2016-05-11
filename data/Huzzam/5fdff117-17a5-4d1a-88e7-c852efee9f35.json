@@ -1,0 +1,167 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5fdff117-17a5-4d1a-88e7-c852efee9f35"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/5fdff117-17a5-4d1a-88e7-c852efee9f35"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "97d01da1-cafb-4b90-ad5b-49a8b637fadf", 
+            "title": "TRT \u0130stanbul Radyosu - 30.10.1993"
+        }
+    ], 
+    "title": "D\u00fcn Gece Bir \u015euhun Bezmine Gittim", 
+    "url": "http://musicbrainz.org/work/5fdff117-17a5-4d1a-88e7-c852efee9f35", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5fdff117-17a5-4d1a-88e7-c852efee9f35", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5fdff117-17a5-4d1a-88e7-c852efee9f35"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "448df366-e3be-4927-aebf-a02aa9a3ebd2", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Dilek Zertun\u00e7"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "ceddc90f-3517-4b3d-a5bf-b6bbef47e2af", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Naci G\u00f6\u00e7men"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }, 
+        {
+            "mbid": "f4251bcb-34a6-4333-8129-0c0bc3b96335", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "\u00dcmit G\u00fcrelman"
+        }
+    ], 
+    "duration": 207, 
+    "path": "../data/Huzzam/5fdff117-17a5-4d1a-88e7-c852efee9f35.mp3", 
+    "works": [
+        {
+            "mbid": "fba48015-ae62-4425-a6ef-1dff5f20cd93", 
+            "title": "D\u00fcn Gece Bir \u015euhun..."
+        }
+    ]
+}

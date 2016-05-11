@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0e657ee7-f8b7-4619-82a8-f4d774b7b258"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/617528a8-1524-4855-8c84-ead1d79932b2"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/0e657ee7-f8b7-4619-82a8-f4d774b7b258"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/617528a8-1524-4855-8c84-ead1d79932b2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "01f38c6a-df28-462d-9ed1-a581c8dc03cc", 
+            "title": "Whirling Dervish Music"
+        }
+    ], 
+    "title": "Gel Derim Gelmez Yan\u0131ma", 
+    "url": "http://musicbrainz.org/work/617528a8-1524-4855-8c84-ead1d79932b2", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "617528a8-1524-4855-8c84-ead1d79932b2", 
+    "form": [
+        {
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/work/0e657ee7-f8b7-4619-82a8-f4d774b7b258"
+        }, 
+        {
+            "attribute_key": "kocekce", 
+            "mb_tag": "k\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/recording/617528a8-1524-4855-8c84-ead1d79932b2"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 269, 
+    "path": "../data/Karcigar/617528a8-1524-4855-8c84-ead1d79932b2.mp3", 
+    "works": [
+        {
+            "mbid": "0e657ee7-f8b7-4619-82a8-f4d774b7b258", 
+            "title": "Gel Derim Gelmez Yan\u0131ma"
+        }
+    ]
+}

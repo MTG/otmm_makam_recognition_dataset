@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/97104ba8-adff-401e-84ef-7e32992edd7a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbb0fa02-5fe1-4aca-950e-2f235c193f87", 
+            "title": "\u015eark\u0131larla \u0130stanbul"
+        }
+    ], 
+    "title": "Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/97104ba8-adff-401e-84ef-7e32992edd7a", 
+    "artist_credits": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "97104ba8-adff-401e-84ef-7e32992edd7a", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "duration": 163, 
+    "path": "../data/Kurdilihicazkar/97104ba8-adff-401e-84ef-7e32992edd7a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/97104ba8-adff-401e-84ef-7e32992edd7a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/97104ba8-adff-401e-84ef-7e32992edd7a"
+        }
+    ]
+}

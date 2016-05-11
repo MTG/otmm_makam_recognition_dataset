@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0b054319-53f5-44ba-8278-733f5ddd3cb7", 
+            "title": "Karc\u0131\u011far"
+        }
+    ], 
+    "title": "Da\u011fda Tav\u015fanlar Geziyor", 
+    "url": "http://musicbrainz.org/work/1ff4b31b-91bc-48d0-a184-6666f443a010", 
+    "artist_credits": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "1ff4b31b-91bc-48d0-a184-6666f443a010", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "duration": 137, 
+    "path": "../data/Karcigar/1ff4b31b-91bc-48d0-a184-6666f443a010.mp3", 
+    "works": [
+        {
+            "mbid": "256efd9c-8c81-4065-9968-f760a5742dd7", 
+            "title": "Da\u011fda Tav\u015fanlar Geziyor"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "Ba\u015fka S\u00f6z S\u00f6ylemem A\u015fktan Yana Ben", 
+    "url": "http://musicbrainz.org/work/c0ae080c-6a01-4b7a-898b-68e3525f78e6", 
+    "artist_credits": [
+        {
+            "mbid": "ea72cc73-500e-45f4-a5f3-8c15ebf9eec8", 
+            "name": "Ferahnaz G\u00fcndo\u011fdu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "c0ae080c-6a01-4b7a-898b-68e3525f78e6", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "ea72cc73-500e-45f4-a5f3-8c15ebf9eec8", 
+            "type": "vocal", 
+            "name": "Ferahnaz G\u00fcndo\u011fdu"
+        }
+    ], 
+    "duration": 253, 
+    "path": "../data/Kurdilihicazkar/c0ae080c-6a01-4b7a-898b-68e3525f78e6.mp3", 
+    "works": [
+        {
+            "mbid": "9823474a-ec2d-498f-a5b2-f0f798e2b11b", 
+            "title": "Ba\u015fka S\u00f6z S\u00f6ylemem A\u015fktan Yana Ben"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/06edff91-7617-4b6e-ba75-4537a56f86cb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Muhayyer Pe\u015frev (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/06edff91-7617-4b6e-ba75-4537a56f86cb", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "06edff91-7617-4b6e-ba75-4537a56f86cb", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/06edff91-7617-4b6e-ba75-4537a56f86cb"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 431, 
+    "path": "../data/Muhayyer/06edff91-7617-4b6e-ba75-4537a56f86cb.mp3", 
+    "works": [
+        {
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ]
+}

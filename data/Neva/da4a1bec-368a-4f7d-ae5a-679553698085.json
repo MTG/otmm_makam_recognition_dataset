@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/da4a1bec-368a-4f7d-ae5a-679553698085"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/da4a1bec-368a-4f7d-ae5a-679553698085"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7f517fb3-a133-4c9d-8c6f-12c08e4fa14f", 
+            "title": "T\u00fcrk M\u00fczi\u011finde Taksim, Pe\u015frev Ve Sazsemaileri"
+        }
+    ], 
+    "title": "Neva Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/da4a1bec-368a-4f7d-ae5a-679553698085", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "da4a1bec-368a-4f7d-ae5a-679553698085", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/da4a1bec-368a-4f7d-ae5a-679553698085"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 265, 
+    "path": "../data/Neva/da4a1bec-368a-4f7d-ae5a-679553698085.mp3", 
+    "works": [
+        {
+            "mbid": "fd510c52-1e03-4e4e-ada1-1b533e18a585", 
+            "title": "Nev\u00e2 Sazsem\u00e2\u00eesi"
+        }
+    ]
+}

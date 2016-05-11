@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/7e3d2ceb-64a3-48c7-8fc5-e378fe1e89ad"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/de729ce8-2c2a-404a-9084-37db074e0551"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/7e3d2ceb-64a3-48c7-8fc5-e378fe1e89ad"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/de729ce8-2c2a-404a-9084-37db074e0551"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Bayati Na't", 
+    "url": "http://musicbrainz.org/work/de729ce8-2c2a-404a-9084-37db074e0551", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "de729ce8-2c2a-404a-9084-37db074e0551", 
+    "form": [
+        {
+            "attribute_key": "naat", 
+            "mb_attribute": "Naat", 
+            "source": "http://musicbrainz.org/work/7e3d2ceb-64a3-48c7-8fc5-e378fe1e89ad"
+        }, 
+        {
+            "attribute_key": "naat", 
+            "mb_tag": "naat", 
+            "source": "http://musicbrainz.org/recording/de729ce8-2c2a-404a-9084-37db074e0551"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 409, 
+    "path": "../data/Beyati/de729ce8-2c2a-404a-9084-37db074e0551.mp3", 
+    "works": [
+        {
+            "mbid": "7e3d2ceb-64a3-48c7-8fc5-e378fe1e89ad", 
+            "title": "\u015ea\u015fm\u0131\u015fam Vasf\u0131nda Eya Sana Hayret mi Diyem"
+        }
+    ]
+}

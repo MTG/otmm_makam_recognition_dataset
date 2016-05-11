@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/53d8cf86-f36b-4f6f-95c7-1dc7e5975f68"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/4b31c6ab-c401-42d7-af85-a330aef806d3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/53d8cf86-f36b-4f6f-95c7-1dc7e5975f68"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/4b31c6ab-c401-42d7-af85-a330aef806d3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8024b6af-73d3-47ac-a20c-06d4114363f5", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 15"
+        }
+    ], 
+    "title": "Ey Melek Sima Seni G\u00fcnden G\u00fcne Sevmekteyim", 
+    "url": "http://musicbrainz.org/work/4b31c6ab-c401-42d7-af85-a330aef806d3", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "4b31c6ab-c401-42d7-af85-a330aef806d3", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/53d8cf86-f36b-4f6f-95c7-1dc7e5975f68"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4b31c6ab-c401-42d7-af85-a330aef806d3"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 283, 
+    "path": "../data/Karcigar/4b31c6ab-c401-42d7-af85-a330aef806d3.mp3", 
+    "works": [
+        {
+            "mbid": "53d8cf86-f36b-4f6f-95c7-1dc7e5975f68", 
+            "title": "Ey Melek Sima Seni G\u00fcnden G\u00fcne Sevmekteyim"
+        }
+    ]
+}

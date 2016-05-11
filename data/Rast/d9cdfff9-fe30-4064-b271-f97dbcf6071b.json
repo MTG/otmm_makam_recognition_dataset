@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/03395494-23ec-4a85-8fab-d4c0dbbec2e2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d9cdfff9-fe30-4064-b271-f97dbcf6071b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/03395494-23ec-4a85-8fab-d4c0dbbec2e2"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/d9cdfff9-fe30-4064-b271-f97dbcf6071b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "Bana Nas\u0131l Vazge\u00e7 Dersin", 
+    "url": "http://musicbrainz.org/work/d9cdfff9-fe30-4064-b271-f97dbcf6071b", 
+    "artist_credits": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d9cdfff9-fe30-4064-b271-f97dbcf6071b", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/03395494-23ec-4a85-8fab-d4c0dbbec2e2"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d9cdfff9-fe30-4064-b271-f97dbcf6071b"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "duration": 208, 
+    "path": "../data/Rast/d9cdfff9-fe30-4064-b271-f97dbcf6071b.mp3", 
+    "works": [
+        {
+            "mbid": "03395494-23ec-4a85-8fab-d4c0dbbec2e2", 
+            "title": "Bana Nas\u0131l Vazge\u00e7 Dersin"
+        }
+    ]
+}

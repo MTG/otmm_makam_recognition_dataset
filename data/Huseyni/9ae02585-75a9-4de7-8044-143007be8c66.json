@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f34311ed-7f5f-4300-91bc-c3dc28eb1585"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/9ae02585-75a9-4de7-8044-143007be8c66"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/f34311ed-7f5f-4300-91bc-c3dc28eb1585"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/9ae02585-75a9-4de7-8044-143007be8c66"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bd4f2c79-fef5-4566-b696-7a2aa315e505", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi - Kalplerden Dudaklara"
+        }
+    ], 
+    "title": "Dula G\u00f6n\u00fcl Verdim", 
+    "url": "http://musicbrainz.org/work/9ae02585-75a9-4de7-8044-143007be8c66", 
+    "artist_credits": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "9ae02585-75a9-4de7-8044-143007be8c66", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f34311ed-7f5f-4300-91bc-c3dc28eb1585"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9ae02585-75a9-4de7-8044-143007be8c66"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "type": "vocal", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "duration": 215, 
+    "path": "../data/Huseyni/9ae02585-75a9-4de7-8044-143007be8c66.mp3", 
+    "works": [
+        {
+            "mbid": "f34311ed-7f5f-4300-91bc-c3dc28eb1585", 
+            "title": "Dula G\u00f6n\u00fcl Verdim"
+        }
+    ]
+}

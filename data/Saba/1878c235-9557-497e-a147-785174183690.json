@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/1878c235-9557-497e-a147-785174183690"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c918f46-420f-45e9-8ef4-3176a67a356a", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ney"
+        }
+    ], 
+    "title": "Saba Taksim", 
+    "url": "http://musicbrainz.org/work/1878c235-9557-497e-a147-785174183690", 
+    "artist_credits": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "1878c235-9557-497e-a147-785174183690", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "duration": 197, 
+    "path": "../data/Saba/1878c235-9557-497e-a147-785174183690.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1878c235-9557-497e-a147-785174183690"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/1878c235-9557-497e-a147-785174183690"
+        }
+    ]
+}

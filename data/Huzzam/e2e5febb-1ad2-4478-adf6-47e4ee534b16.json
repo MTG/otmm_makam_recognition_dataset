@@ -1,0 +1,159 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3699fb2d-bd77-4cc9-bf2d-1352f5449495", 
+            "title": "TRT \u0130stanbul Radyosu - 18.02.1991"
+        }
+    ], 
+    "title": "Yine Kalbim Co\u015far A\u011flar Bu Gece", 
+    "url": "http://musicbrainz.org/work/e2e5febb-1ad2-4478-adf6-47e4ee534b16", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e2e5febb-1ad2-4478-adf6-47e4ee534b16", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "4f0848c6-0867-458c-a02d-7d4352643f7d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Duyarlar"
+        }, 
+        {
+            "mbid": "51c0b22d-3a05-4c21-98b8-0a4aebaf9aa7", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Barbaros Erk\u00f6se"
+        }, 
+        {
+            "mbid": "74627c36-d382-411e-8a05-38e1d8e86c08", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Sayan"
+        }, 
+        {
+            "mbid": "9a56c302-69e0-449e-88e6-54f45aff8594", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Ali Hevenk"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cece3abf-2755-490c-b12c-e9663513187b", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Aslan Hepg\u00fcr"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }, 
+        {
+            "mbid": "f970f540-19a8-4bb9-aec8-0a687a998dd1", 
+            "attribute-list": [
+                "other instruments"
+            ], 
+            "type": "instrument", 
+            "name": "Faik Dinleten"
+        }
+    ], 
+    "duration": 171, 
+    "path": "../data/Huzzam/e2e5febb-1ad2-4478-adf6-47e4ee534b16.mp3", 
+    "works": [
+        {
+            "mbid": "05118462-66f2-4506-bf76-3faa5dca485e", 
+            "title": "Yine Kalbim Co\u015far A\u011flar"
+        }
+    ]
+}

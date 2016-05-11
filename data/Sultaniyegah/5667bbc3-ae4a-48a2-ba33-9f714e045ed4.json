@@ -1,0 +1,95 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b046a3af-4881-4aaa-8af7-42c87ae576f4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/5667bbc3-ae4a-48a2-ba33-9f714e045ed4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/b046a3af-4881-4aaa-8af7-42c87ae576f4"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/5667bbc3-ae4a-48a2-ba33-9f714e045ed4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "84e8f4b5-026a-487a-b547-f35a8247b8fc", 
+            "title": "\u00d6zdal Orhon (1941-1986) - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Geldi Ku\u015flarla Ye\u015fil Dallara Yaz", 
+    "url": "http://musicbrainz.org/work/5667bbc3-ae4a-48a2-ba33-9f714e045ed4", 
+    "artist_credits": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "name": "\u00d6zdal Orhon"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5667bbc3-ae4a-48a2-ba33-9f714e045ed4", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b046a3af-4881-4aaa-8af7-42c87ae576f4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5667bbc3-ae4a-48a2-ba33-9f714e045ed4"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "type": "vocal", 
+            "name": "\u00d6zdal Orhon"
+        }, 
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "afe4b055-2d1f-401b-8a7f-56b8457e8e9d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Giray"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "duration": 125, 
+    "path": "../data/Sultaniyegah/5667bbc3-ae4a-48a2-ba33-9f714e045ed4.mp3", 
+    "works": [
+        {
+            "mbid": "b046a3af-4881-4aaa-8af7-42c87ae576f4", 
+            "title": "Geldi Ku\u015flarla Ye\u015fil Dallara"
+        }
+    ]
+}

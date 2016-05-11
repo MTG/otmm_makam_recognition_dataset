@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9337924d-ff88-4ed2-85d0-35fddb2e1eee"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2922e15c-3f88-45d8-b62e-ba6fb08957d4", 
+            "title": "TRT \u0130stanbul Radyosu - 02.08.1996"
+        }
+    ], 
+    "title": "Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/9337924d-ff88-4ed2-85d0-35fddb2e1eee", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 48000, 
+    "mbid": "9337924d-ff88-4ed2-85d0-35fddb2e1eee", 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "duration": 201, 
+    "path": "../data/Huzzam/9337924d-ff88-4ed2-85d0-35fddb2e1eee.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9337924d-ff88-4ed2-85d0-35fddb2e1eee"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/9337924d-ff88-4ed2-85d0-35fddb2e1eee"
+        }
+    ]
+}

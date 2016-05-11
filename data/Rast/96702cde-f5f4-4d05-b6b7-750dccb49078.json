@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6ce2b833-ba3d-454a-8fb2-08474474c758", 
+            "title": "Letter From Istanbul"
+        }
+    ], 
+    "title": "Rast Taksim on Kanun", 
+    "url": "http://musicbrainz.org/work/96702cde-f5f4-4d05-b6b7-750dccb49078", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "04b094d6-4b13-4f01-b010-3c96d6561fa0", 
+            "name": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03a3\u03b9\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "96702cde-f5f4-4d05-b6b7-750dccb49078", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }
+    ], 
+    "duration": 79, 
+    "path": "../data/Rast/96702cde-f5f4-4d05-b6b7-750dccb49078.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
+        }
+    ]
+}

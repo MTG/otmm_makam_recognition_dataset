@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/36944934-556a-42d9-9360-690a306c5d1f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93eb4d4b-b3f7-4650-913a-93d8c8ecd9a4", 
+            "title": "Ottoman Turkish Court Music / Osmanl\u0131 T\u00fcrk Enderun Musikisi"
+        }
+    ], 
+    "title": "H\u00fcseyni Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/36944934-556a-42d9-9360-690a306c5d1f", 
+    "artist_credits": [
+        {
+            "mbid": "9ed62346-228f-48e9-9a1d-f6052c982edd", 
+            "name": "Meral U\u011furlu Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "36944934-556a-42d9-9360-690a306c5d1f", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }
+    ], 
+    "duration": 176, 
+    "path": "../data/Huseyni/36944934-556a-42d9-9360-690a306c5d1f.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/36944934-556a-42d9-9360-690a306c5d1f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/36944934-556a-42d9-9360-690a306c5d1f"
+        }
+    ]
+}

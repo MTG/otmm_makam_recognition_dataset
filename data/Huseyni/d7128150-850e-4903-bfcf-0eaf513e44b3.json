@@ -1,0 +1,130 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bdc8ef2-27b9-4dac-8bc6-3b5872883d88", 
+            "title": "Ermeni Bestekarlar -1- (Armenian Composers)"
+        }
+    ], 
+    "title": "Bir G\u00f6r\u00fc\u015fte Ey Peri Yand\u0131m Sana", 
+    "url": "http://musicbrainz.org/work/d7128150-850e-4903-bfcf-0eaf513e44b3", 
+    "artist_credits": [
+        {
+            "mbid": "fd8bceee-b3a4-4870-851a-0374f5542751", 
+            "name": "Bekir \u00dcnl\u00fcataer"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "d7128150-850e-4903-bfcf-0eaf513e44b3", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }, 
+        {
+            "mbid": "fd8bceee-b3a4-4870-851a-0374f5542751", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir \u00dcnl\u00fcataer"
+        }
+    ], 
+    "duration": 176, 
+    "path": "../data/Huseyni/d7128150-850e-4903-bfcf-0eaf513e44b3.mp3", 
+    "works": [
+        {
+            "mbid": "47a23970-65ef-42b7-8ad7-c71a7541a089", 
+            "title": "Bir G\u00f6r\u00fc\u015fte Ey Peri Yand\u0131m Sana"
+        }
+    ]
+}

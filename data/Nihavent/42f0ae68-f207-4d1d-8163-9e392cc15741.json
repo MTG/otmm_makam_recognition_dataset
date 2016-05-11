@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "S\u00fcz\u00fcp S\u00fcz\u00fcp De Ey Melek O \u00c7e\u015fm-i Nim Hab\u0131n", 
+    "url": "http://musicbrainz.org/work/42f0ae68-f207-4d1d-8163-9e392cc15741", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "42f0ae68-f207-4d1d-8163-9e392cc15741", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "57810d39-de39-4fe2-8e87-2ecb022cd4d6", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Saadettin \u015eenoymak"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }
+    ], 
+    "duration": 210, 
+    "path": "../data/Nihavent/42f0ae68-f207-4d1d-8163-9e392cc15741.mp3", 
+    "works": [
+        {
+            "mbid": "51374aea-cbaa-4c47-a030-2adbeac48d61", 
+            "title": "S\u00fcz\u00fcp S\u00fcz\u00fcp de Ey Melek"
+        }
+    ]
+}

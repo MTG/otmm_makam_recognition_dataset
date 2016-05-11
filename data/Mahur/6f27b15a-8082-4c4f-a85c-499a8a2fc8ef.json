@@ -1,0 +1,151 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/48dc2fc5-fb47-429d-8a48-286a5b966c64"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/48dc2fc5-fb47-429d-8a48-286a5b966c64"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbeecb49-f434-4558-a441-3d0c9a60af37", 
+            "title": "Mahur 01"
+        }
+    ], 
+    "title": "Olsa da Ho\u015f Kokulu Dikenidir G\u00fcl Yolu", 
+    "url": "http://musicbrainz.org/work/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6f27b15a-8082-4c4f-a85c-499a8a2fc8ef", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/48dc2fc5-fb47-429d-8a48-286a5b966c64"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "1082c2d9-9896-4db8-a9ad-5ca8bd7b0005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Arma\u011fan Boran"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }, 
+        {
+            "mbid": "4f0848c6-0867-458c-a02d-7d4352643f7d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Duyarlar"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "65f0a385-09d1-45d0-9045-9de674ff7d55", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nihat Do\u011fu"
+        }, 
+        {
+            "mbid": "66f06c81-daec-4530-bd12-5f3b450c1857", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Do\u011fan Ergin"
+        }, 
+        {
+            "mbid": "7559efa4-95a2-4282-bc26-3c245264513f", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cahit Peksayar"
+        }, 
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }, 
+        {
+            "mbid": "a5e88a2e-f405-483d-8a3b-3e55c2113acd", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Erkahveci"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "f970f540-19a8-4bb9-aec8-0a687a998dd1", 
+            "attribute-list": [
+                "other instruments"
+            ], 
+            "type": "instrument", 
+            "name": "Faik Dinleten"
+        }
+    ], 
+    "duration": 175, 
+    "path": "../data/Mahur/6f27b15a-8082-4c4f-a85c-499a8a2fc8ef.mp3", 
+    "works": [
+        {
+            "mbid": "48dc2fc5-fb47-429d-8a48-286a5b966c64", 
+            "title": "Olsa da Ho\u015f Kokulu Dikenidir"
+        }
+    ]
+}

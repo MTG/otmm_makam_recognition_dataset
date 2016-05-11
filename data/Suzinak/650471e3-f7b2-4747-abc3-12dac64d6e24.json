@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/650471e3-f7b2-4747-abc3-12dac64d6e24"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "189bbe93-186a-46b8-a6da-df8864e6dd4a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 14"
+        }
+    ], 
+    "title": "Suzinak Kanun Taksimi", 
+    "url": "http://musicbrainz.org/work/650471e3-f7b2-4747-abc3-12dac64d6e24", 
+    "artist_credits": [
+        {
+            "mbid": "3e753aab-d842-481e-81ea-74918ab1fb04", 
+            "name": "C\u00fcneyt Kosal"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "650471e3-f7b2-4747-abc3-12dac64d6e24", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3e753aab-d842-481e-81ea-74918ab1fb04", 
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyt Kosal"
+        }
+    ], 
+    "duration": 118, 
+    "path": "../data/Suzinak/650471e3-f7b2-4747-abc3-12dac64d6e24.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/650471e3-f7b2-4747-abc3-12dac64d6e24"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/650471e3-f7b2-4747-abc3-12dac64d6e24"
+        }
+    ]
+}

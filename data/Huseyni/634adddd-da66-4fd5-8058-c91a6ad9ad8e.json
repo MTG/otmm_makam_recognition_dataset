@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "046f767d-5965-474a-8097-6f5beac12453", 
+            "title": "\u0130zak Algazi Efendi"
+        }
+    ], 
+    "title": "Durmadan Aylar Ge\u00e7er (H\u00fcseyni A\u011f\u0131raksak \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/work/634adddd-da66-4fd5-8058-c91a6ad9ad8e", 
+    "artist_credits": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "634adddd-da66-4fd5-8058-c91a6ad9ad8e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "type": "vocal", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "duration": 227, 
+    "path": "../data/Huseyni/634adddd-da66-4fd5-8058-c91a6ad9ad8e.mp3", 
+    "works": [
+        {
+            "mbid": "8fc9db17-c9f4-4ae8-a962-27fe5eaf828b", 
+            "title": "Durmadan Aylar Ge\u00e7er"
+        }
+    ]
+}

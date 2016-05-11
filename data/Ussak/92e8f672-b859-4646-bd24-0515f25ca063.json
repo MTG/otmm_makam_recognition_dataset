@@ -1,0 +1,127 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/ab720bc6-4976-475e-853e-ff00ce44e9d3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/92e8f672-b859-4646-bd24-0515f25ca063"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/ab720bc6-4976-475e-853e-ff00ce44e9d3"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/92e8f672-b859-4646-bd24-0515f25ca063"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4aaf9a49-48c7-4634-b6e7-c26f954aa951", 
+            "title": "Kad\u0131n Bestekarlar - 1"
+        }
+    ], 
+    "title": "G\u00f6n\u00fcl \u015eark\u0131lar\u0131", 
+    "url": "http://musicbrainz.org/work/92e8f672-b859-4646-bd24-0515f25ca063", 
+    "artist_credits": [
+        {
+            "mbid": "0e776210-165c-43d8-988f-e9f7f0b1de8a", 
+            "name": "Ayta\u00e7 Do\u011fan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "92e8f672-b859-4646-bd24-0515f25ca063", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ab720bc6-4976-475e-853e-ff00ce44e9d3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/92e8f672-b859-4646-bd24-0515f25ca063"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e3c7ff4d-27fe-4225-9e04-91c84a9a303c", 
+            "type": "vocal", 
+            "name": "Ayta\u00e7 Ergen"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 177, 
+    "path": "../data/Ussak/92e8f672-b859-4646-bd24-0515f25ca063.mp3", 
+    "works": [
+        {
+            "mbid": "ab720bc6-4976-475e-853e-ff00ce44e9d3", 
+            "title": "G\u00f6n\u00fcl \u015eark\u0131lar\u0131"
+        }
+    ]
+}

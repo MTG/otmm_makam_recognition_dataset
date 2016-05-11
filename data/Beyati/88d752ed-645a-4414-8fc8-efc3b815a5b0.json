@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bff09ec9-804a-4df6-ad14-6d4e79f456cf"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/88d752ed-645a-4414-8fc8-efc3b815a5b0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/bff09ec9-804a-4df6-ad14-6d4e79f456cf"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/88d752ed-645a-4414-8fc8-efc3b815a5b0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Ne Bahar Kald\u0131 Ne G\u00fcl, Ne De B\u00fclb\u00fcl Sesi Var", 
+    "url": "http://musicbrainz.org/work/88d752ed-645a-4414-8fc8-efc3b815a5b0", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "88d752ed-645a-4414-8fc8-efc3b815a5b0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bff09ec9-804a-4df6-ad14-6d4e79f456cf"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/88d752ed-645a-4414-8fc8-efc3b815a5b0"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 208, 
+    "path": "../data/Beyati/88d752ed-645a-4414-8fc8-efc3b815a5b0.mp3", 
+    "works": [
+        {
+            "mbid": "bff09ec9-804a-4df6-ad14-6d4e79f456cf", 
+            "title": "Ne Bahar Kald\u0131 Ne G\u00fcl"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/fb95a551-f535-4bfb-a7df-420e909949b1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f4b01313-9665-4dba-8709-6f02698eeddb", 
+            "title": "Kanuni"
+        }
+    ], 
+    "title": "K\u00fcrdili Hicazkar Taksim", 
+    "url": "http://musicbrainz.org/work/fb95a551-f535-4bfb-a7df-420e909949b1", 
+    "artist_credits": [
+        {
+            "mbid": "b5481038-251d-4c64-8f33-488c9cb43b3b", 
+            "name": "S\u00fcleyman Ta\u015fp\u0131narl\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "fb95a551-f535-4bfb-a7df-420e909949b1", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "b5481038-251d-4c64-8f33-488c9cb43b3b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "S\u00fcleyman Ta\u015fp\u0131narl\u0131"
+        }
+    ], 
+    "duration": 157, 
+    "path": "../data/Kurdilihicazkar/fb95a551-f535-4bfb-a7df-420e909949b1.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/fb95a551-f535-4bfb-a7df-420e909949b1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/fb95a551-f535-4bfb-a7df-420e909949b1"
+        }
+    ]
+}

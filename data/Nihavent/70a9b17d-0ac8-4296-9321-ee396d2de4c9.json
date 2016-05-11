@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/5e5aa6ce-3295-42ea-84ce-16005862d7b0"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "aa9ec1d7-5633-481b-abca-0866afbf8f6f", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Tambur"
+        }
+    ], 
+    "title": "Nihavent Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/70a9b17d-0ac8-4296-9321-ee396d2de4c9", 
+    "artist_credits": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "70a9b17d-0ac8-4296-9321-ee396d2de4c9", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/5e5aa6ce-3295-42ea-84ce-16005862d7b0"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "duration": 260, 
+    "path": "../data/Nihavent/70a9b17d-0ac8-4296-9321-ee396d2de4c9.mp3", 
+    "works": [
+        {
+            "mbid": "5e5aa6ce-3295-42ea-84ce-16005862d7b0", 
+            "title": "Nihavent Saz Semai"
+        }
+    ]
+}

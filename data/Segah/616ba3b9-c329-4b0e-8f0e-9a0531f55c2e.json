@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b312598-d743-41ad-b193-785872b2888a", 
+            "title": "12 Makamda Yayl\u0131 Tanbur Taksimleri"
+        }
+    ], 
+    "title": "Segah Taksimi", 
+    "url": "http://musicbrainz.org/work/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "616ba3b9-c329-4b0e-8f0e-9a0531f55c2e", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 268, 
+    "path": "../data/Segah/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e"
+        }
+    ]
+}

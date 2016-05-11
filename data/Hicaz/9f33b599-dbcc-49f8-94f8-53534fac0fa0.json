@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1447eb4e-b6c2-4076-96ae-384eacd092d6"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9f33b599-dbcc-49f8-94f8-53534fac0fa0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/1447eb4e-b6c2-4076-96ae-384eacd092d6"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/9f33b599-dbcc-49f8-94f8-53534fac0fa0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bd4f2c79-fef5-4566-b696-7a2aa315e505", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi - Kalplerden Dudaklara"
+        }
+    ], 
+    "title": "Sine-i Suzan\u0131ma Ah\u0131m Yeter", 
+    "url": "http://musicbrainz.org/work/9f33b599-dbcc-49f8-94f8-53534fac0fa0", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "9f33b599-dbcc-49f8-94f8-53534fac0fa0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/1447eb4e-b6c2-4076-96ae-384eacd092d6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9f33b599-dbcc-49f8-94f8-53534fac0fa0"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 203, 
+    "path": "../data/Hicaz/9f33b599-dbcc-49f8-94f8-53534fac0fa0.mp3", 
+    "works": [
+        {
+            "mbid": "1447eb4e-b6c2-4076-96ae-384eacd092d6", 
+            "title": "Sine-i Suzan\u0131ma Ah\u0131m Yeter"
+        }
+    ]
+}

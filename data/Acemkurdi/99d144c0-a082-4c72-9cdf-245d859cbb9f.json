@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ddd1a358-ce8a-4151-b888-fce9de078c97", 
+            "title": "Acemk\u00fcrdi 3"
+        }
+    ], 
+    "title": "Dur Etme Yan\u0131ndan Asla Bendeni Ey Ka\u015f-\u0131 Keman", 
+    "url": "http://musicbrainz.org/work/99d144c0-a082-4c72-9cdf-245d859cbb9f", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "99d144c0-a082-4c72-9cdf-245d859cbb9f", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 222, 
+    "path": "../data/Acemkurdi/99d144c0-a082-4c72-9cdf-245d859cbb9f.mp3", 
+    "works": [
+        {
+            "mbid": "60bb4a74-8934-49fa-8179-045d4c360dcf", 
+            "title": "Dur Etme Yan\u0131ndan Asla Bendeni Ey Ka\u015f-\u0131 Keman"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "Karc\u0131\u011far Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/6f49b674-4843-4577-8dcd-3b06c9851c65", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "6f49b674-4843-4577-8dcd-3b06c9851c65", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "duration": 275, 
+    "path": "../data/Karcigar/6f49b674-4843-4577-8dcd-3b06c9851c65.mp3", 
+    "works": [
+        {
+            "mbid": "263ec746-c61d-4d79-a67b-99e86387c29a", 
+            "title": "Karc\u0131\u011far Sazsemaisi"
+        }
+    ]
+}

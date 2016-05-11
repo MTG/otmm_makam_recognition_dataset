@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f1cdf510-ed50-4fbe-948e-cd0da4d769d4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/f1cdf510-ed50-4fbe-948e-cd0da4d769d4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3310f52d-0eda-40d0-b937-e79589fe61c3", 
+            "title": "Bayati"
+        }
+    ], 
+    "title": "Benzemez Kimse Sana Tavr\u0131na Hayran Olay\u0131m", 
+    "url": "http://musicbrainz.org/work/f1cdf510-ed50-4fbe-948e-cd0da4d769d4", 
+    "artist_credits": [
+        {
+            "mbid": "321fa912-6c30-4b7b-9ba9-9c98d7304d34", 
+            "name": "Adnan Mungan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "f1cdf510-ed50-4fbe-948e-cd0da4d769d4", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "321fa912-6c30-4b7b-9ba9-9c98d7304d34", 
+            "type": "vocal", 
+            "name": "Adnan Mungan"
+        }
+    ], 
+    "duration": 178, 
+    "path": "../data/Beyati/f1cdf510-ed50-4fbe-948e-cd0da4d769d4.mp3", 
+    "works": [
+        {
+            "mbid": "a346442e-7713-4233-b119-6dee53c4e9b8", 
+            "title": "Benzemez Kimse Sana"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/25935bea-2b0b-4069-ae7d-876d9103f80a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5c36bc1a-87df-4f1b-bbc8-cd8e0d41626d", 
+            "title": "Tanbur"
+        }
+    ], 
+    "title": "Saba Taksimi", 
+    "url": "http://musicbrainz.org/work/25935bea-2b0b-4069-ae7d-876d9103f80a", 
+    "artist_credits": [
+        {
+            "mbid": "9a4ac46f-f63b-4e05-9fdd-8f0366338df7", 
+            "name": "Taner Demiralp"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "25935bea-2b0b-4069-ae7d-876d9103f80a", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9a4ac46f-f63b-4e05-9fdd-8f0366338df7", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Demiralp"
+        }
+    ], 
+    "duration": 288, 
+    "path": "../data/Saba/25935bea-2b0b-4069-ae7d-876d9103f80a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/25935bea-2b0b-4069-ae7d-876d9103f80a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/25935bea-2b0b-4069-ae7d-876d9103f80a"
+        }
+    ]
+}

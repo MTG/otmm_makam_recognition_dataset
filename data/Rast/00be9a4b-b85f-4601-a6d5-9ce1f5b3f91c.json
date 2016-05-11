@@ -1,0 +1,63 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/6ae39b1b-488c-4cb9-ab0f-f3752414a013"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/00be9a4b-b85f-4601-a6d5-9ce1f5b3f91c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Rast Saz Semai (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/00be9a4b-b85f-4601-a6d5-9ce1f5b3f91c", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "00be9a4b-b85f-4601-a6d5-9ce1f5b3f91c", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/6ae39b1b-488c-4cb9-ab0f-f3752414a013"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/00be9a4b-b85f-4601-a6d5-9ce1f5b3f91c"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 249, 
+    "path": "../data/Rast/00be9a4b-b85f-4601-a6d5-9ce1f5b3f91c.mp3", 
+    "works": [
+        {
+            "mbid": "6ae39b1b-488c-4cb9-ab0f-f3752414a013", 
+            "title": "Rast Sazsemaisi"
+        }
+    ]
+}

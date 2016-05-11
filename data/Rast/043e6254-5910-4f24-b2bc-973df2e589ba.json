@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/043e6254-5910-4f24-b2bc-973df2e589ba"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "Rast Taksim", 
+    "url": "http://musicbrainz.org/work/043e6254-5910-4f24-b2bc-973df2e589ba", 
+    "artist_credits": [
+        {
+            "mbid": "732ece1c-3464-4a22-811b-27829a9ea793", 
+            "name": "Vedia Tun\u00e7\u00e7eki\u00e7"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "043e6254-5910-4f24-b2bc-973df2e589ba", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "732ece1c-3464-4a22-811b-27829a9ea793", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Vedia Tun\u00e7\u00e7eki\u00e7"
+        }
+    ], 
+    "duration": 96, 
+    "path": "../data/Rast/043e6254-5910-4f24-b2bc-973df2e589ba.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/043e6254-5910-4f24-b2bc-973df2e589ba"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/043e6254-5910-4f24-b2bc-973df2e589ba"
+        }
+    ]
+}

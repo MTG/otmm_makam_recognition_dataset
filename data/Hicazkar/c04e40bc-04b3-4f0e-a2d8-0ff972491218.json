@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ba32d223-5f01-48c4-af7e-34707353ddea"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c04e40bc-04b3-4f0e-a2d8-0ff972491218"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/ba32d223-5f01-48c4-af7e-34707353ddea"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/c04e40bc-04b3-4f0e-a2d8-0ff972491218"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "A\u00e7\u0131l Ey Gonce-i Sad-berg Yara\u015f\u0131r", 
+    "url": "http://musicbrainz.org/work/c04e40bc-04b3-4f0e-a2d8-0ff972491218", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c04e40bc-04b3-4f0e-a2d8-0ff972491218", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ba32d223-5f01-48c4-af7e-34707353ddea"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c04e40bc-04b3-4f0e-a2d8-0ff972491218"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 167, 
+    "path": "../data/Hicazkar/c04e40bc-04b3-4f0e-a2d8-0ff972491218.mp3", 
+    "works": [
+        {
+            "mbid": "ba32d223-5f01-48c4-af7e-34707353ddea", 
+            "title": "A\u00e7\u0131l Ey Gonce-i"
+        }
+    ]
+}

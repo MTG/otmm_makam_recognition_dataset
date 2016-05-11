@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/a3fbe35a-c473-4a15-bd1d-4fe2e22e3030"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "dc91e041-1eb2-4d2d-bb08-b23aac8add86", 
+            "title": "Hicazkar 6"
+        }
+    ], 
+    "title": "Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/a3fbe35a-c473-4a15-bd1d-4fe2e22e3030", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "a3fbe35a-c473-4a15-bd1d-4fe2e22e3030", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 213, 
+    "path": "../data/Hicazkar/a3fbe35a-c473-4a15-bd1d-4fe2e22e3030.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a3fbe35a-c473-4a15-bd1d-4fe2e22e3030"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/a3fbe35a-c473-4a15-bd1d-4fe2e22e3030"
+        }
+    ]
+}

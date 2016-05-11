@@ -1,0 +1,91 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/ce39ab0b-069c-4cd2-9da4-cd78be083a77"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/ad25235c-895d-4b5a-a8cc-cb461a41e092"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d6d34079-7cb4-4fd0-96bb-7e709db45f40", 
+            "title": "Charmenko Womex'10 Sampler"
+        }, 
+        {
+            "mbid": "fabc564c-e3dd-4903-a224-1ddf48438197", 
+            "title": "Minstrel's Era"
+        }
+    ], 
+    "title": "Nihavend Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/ad25235c-895d-4b5a-a8cc-cb461a41e092", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "ad25235c-895d-4b5a-a8cc-cb461a41e092", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/ce39ab0b-069c-4cd2-9da4-cd78be083a77"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ad25235c-895d-4b5a-a8cc-cb461a41e092"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Renaud Garcia-Fons"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 229, 
+    "path": "../data/Nihavent/ad25235c-895d-4b5a-a8cc-cb461a41e092.mp3", 
+    "works": [
+        {
+            "mbid": "ce39ab0b-069c-4cd2-9da4-cd78be083a77", 
+            "title": "Nihavent Pe\u015frev"
+        }
+    ]
+}

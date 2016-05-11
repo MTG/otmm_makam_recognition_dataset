@@ -1,0 +1,122 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/1bd274e5-c6d5-430b-a533-f02247f80bd1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/1bd274e5-c6d5-430b-a533-f02247f80bd1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90bcecd9-6213-430a-8cda-fecf6062d19c", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 1"
+        }
+    ], 
+    "title": "Hicazkar Sirto", 
+    "url": "http://musicbrainz.org/work/1bd274e5-c6d5-430b-a533-f02247f80bd1", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "name": "G\u00fcrcan Yaman"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "1bd274e5-c6d5-430b-a533-f02247f80bd1", 
+    "form": [
+        {
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
+            "source": "http://musicbrainz.org/work/8705e9de-bf2c-4590-8be3-f116131c8bb0"
+        }, 
+        {
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
+            "source": "http://musicbrainz.org/recording/1bd274e5-c6d5-430b-a533-f02247f80bd1"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcrcan Yaman"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 204, 
+    "path": "../data/Hicazkar/1bd274e5-c6d5-430b-a533-f02247f80bd1.mp3", 
+    "works": [
+        {
+            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
+            "title": "Hicazkar Sirto"
+        }
+    ]
+}

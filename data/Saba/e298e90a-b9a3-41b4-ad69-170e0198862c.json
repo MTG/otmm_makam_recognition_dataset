@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fce8042d-ad5d-42cc-bf7f-8d717a399bfe"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/fce8042d-ad5d-42cc-bf7f-8d717a399bfe"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/e298e90a-b9a3-41b4-ad69-170e0198862c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "G\u00fcle Sorma o Bilmez A\u015fk\u0131 Sevday\u0131", 
+    "url": "http://musicbrainz.org/work/e298e90a-b9a3-41b4-ad69-170e0198862c", 
+    "artist_credits": [
+        {
+            "mbid": "77feb136-91c1-4ec8-acdb-b929f62ff157", 
+            "name": "Necmettin Y\u0131ld\u0131r\u0131m"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e298e90a-b9a3-41b4-ad69-170e0198862c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fce8042d-ad5d-42cc-bf7f-8d717a399bfe"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e298e90a-b9a3-41b4-ad69-170e0198862c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "77feb136-91c1-4ec8-acdb-b929f62ff157", 
+            "type": "vocal", 
+            "name": "Necmettin Y\u0131ld\u0131r\u0131m"
+        }
+    ], 
+    "duration": 373, 
+    "path": "../data/Saba/e298e90a-b9a3-41b4-ad69-170e0198862c.mp3", 
+    "works": [
+        {
+            "mbid": "fce8042d-ad5d-42cc-bf7f-8d717a399bfe", 
+            "title": "G\u00fcle Sorma o Bilmez A\u015fk\u0131 Sevday\u0131"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/044b43b8-989c-4595-994a-644f890ee5c4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90bcecd9-6213-430a-8cda-fecf6062d19c", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 1"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/044b43b8-989c-4595-994a-644f890ee5c4", 
+    "artist_credits": [
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "name": "G\u00fcrcan Yaman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "044b43b8-989c-4595-994a-644f890ee5c4", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/044b43b8-989c-4595-994a-644f890ee5c4"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcrcan Yaman"
+        }, 
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 283, 
+    "path": "../data/Kurdilihicazkar/044b43b8-989c-4595-994a-644f890ee5c4.mp3", 
+    "works": [
+        {
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+        }
+    ]
+}

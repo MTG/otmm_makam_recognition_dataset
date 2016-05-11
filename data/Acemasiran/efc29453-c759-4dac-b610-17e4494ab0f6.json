@@ -1,0 +1,77 @@
+{
+    "instrumentation_voicing": "Trio instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/efc29453-c759-4dac-b610-17e4494ab0f6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a401a3ef-3869-450b-9ae0-a32036f2b2bd", 
+            "title": "A\u015fk"
+        }
+    ], 
+    "title": "Acem-A\u015f\u00eer\u00e2n M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/work/efc29453-c759-4dac-b610-17e4494ab0f6", 
+    "artist_credits": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "66f06c81-daec-4530-bd12-5f3b450c1857", 
+            "name": "Ali Do\u011fan Ergin"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "efc29453-c759-4dac-b610-17e4494ab0f6", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "66f06c81-daec-4530-bd12-5f3b450c1857", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Do\u011fan Ergin"
+        }
+    ], 
+    "duration": 319, 
+    "path": "../data/Acemasiran/efc29453-c759-4dac-b610-17e4494ab0f6.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/efc29453-c759-4dac-b610-17e4494ab0f6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/efc29453-c759-4dac-b610-17e4494ab0f6"
+        }
+    ]
+}

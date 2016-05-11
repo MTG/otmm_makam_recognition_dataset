@@ -1,0 +1,96 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7cbd09db-d4d7-4dbb-b5f9-870a8ae60194", 
+            "title": "Ahenk 1"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi sazsemaisi", 
+    "url": "http://musicbrainz.org/work/fd368217-78e4-4832-acaf-2494ad0e6640", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "fd368217-78e4-4832-acaf-2494ad0e6640", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 443, 
+    "path": "../data/Acemkurdi/fd368217-78e4-4832-acaf-2494ad0e6640.mp3", 
+    "works": [
+        {
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ]
+}

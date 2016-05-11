@@ -1,0 +1,95 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/09bfd6ea-7e7f-427c-b837-93030e9bce42"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/09bfd6ea-7e7f-427c-b837-93030e9bce42"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "84e8f4b5-026a-487a-b547-f35a8247b8fc", 
+            "title": "\u00d6zdal Orhon (1941-1986) - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Senden Uzak G\u00fcnlerim", 
+    "url": "http://musicbrainz.org/work/09bfd6ea-7e7f-427c-b837-93030e9bce42", 
+    "artist_credits": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "name": "\u00d6zdal Orhon"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "09bfd6ea-7e7f-427c-b837-93030e9bce42", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/09bfd6ea-7e7f-427c-b837-93030e9bce42"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "type": "vocal", 
+            "name": "\u00d6zdal Orhon"
+        }, 
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "afe4b055-2d1f-401b-8a7f-56b8457e8e9d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Giray"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "duration": 180, 
+    "path": "../data/Rast/09bfd6ea-7e7f-427c-b837-93030e9bce42.mp3", 
+    "works": [
+        {
+            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
+            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+        }
+    ]
+}

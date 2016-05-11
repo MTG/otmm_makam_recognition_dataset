@@ -1,0 +1,183 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/8c6dbffc-ff4e-4ecf-a433-b506838a8f8d"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5707eda4-0b71-4013-9e94-dcfc72440210", 
+            "title": "Nevzat S\u00fcmer Yorumuyla Saz Eserleri"
+        }
+    ], 
+    "title": "Saba Saz Semai", 
+    "url": "http://musicbrainz.org/work/338337b7-6f73-4bb3-be34-d59621eb4b02", 
+    "artist_credits": [
+        {
+            "mbid": "bfc03772-040f-429d-99cd-b9aa4fc54d39", 
+            "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "338337b7-6f73-4bb3-be34-d59621eb4b02", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8c6dbffc-ff4e-4ecf-a433-b506838a8f8d"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serkan Mesut Halili"
+        }, 
+        {
+            "mbid": "0dabbc73-f5ff-4097-b0c8-233a5b61fdf2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Gamze Nevra G\u00fclser"
+        }, 
+        {
+            "mbid": "1f82d08c-8312-4d94-8713-109776ff3881", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Lale Akay Umul"
+        }, 
+        {
+            "mbid": "392e3db3-0d28-4b5e-accf-486eabe6b1ca", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Ufuk \u00c7a\u011flar Akman"
+        }, 
+        {
+            "mbid": "669e7fa0-c006-4ca2-9946-afaf41686ddf", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Mert Nar"
+        }, 
+        {
+            "mbid": "7273be74-fdca-4e76-888d-37a84ae20860", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Ertem"
+        }, 
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hulusi Babal\u0131k"
+        }, 
+        {
+            "mbid": "8b967fbc-899f-4591-9f96-f5c7615703f7", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Toz"
+        }, 
+        {
+            "mbid": "adcc32aa-da2b-435c-937c-95bcef1a9d07", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan Gunca"
+        }, 
+        {
+            "mbid": "bfc03772-040f-429d-99cd-b9aa4fc54d39", 
+            "type": "performing orchestra", 
+            "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
+        }, 
+        {
+            "mbid": "c1432312-3f2a-4263-84cf-a667dfcfbf35", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Polat"
+        }, 
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }, 
+        {
+            "mbid": "d5572546-fbe3-4e80-a166-696498bf34b3", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eule \u00c7akar"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "type": "conductor", 
+            "name": "Nevzat S\u00fcmer"
+        }, 
+        {
+            "mbid": "ef92981e-27d9-4726-8f61-6d8f159d3428", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "O\u011fuzhan Balc\u0131"
+        }, 
+        {
+            "mbid": "efbae001-1129-44e3-8e30-7957054f939f", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Aykut B\u00fcy\u00fck\u00e7\u0131nar"
+        }
+    ], 
+    "duration": 237, 
+    "path": "../data/Saba/338337b7-6f73-4bb3-be34-d59621eb4b02.mp3", 
+    "works": [
+        {
+            "mbid": "8c6dbffc-ff4e-4ecf-a433-b506838a8f8d", 
+            "title": "Saba Sazsemaisi"
+        }
+    ]
+}

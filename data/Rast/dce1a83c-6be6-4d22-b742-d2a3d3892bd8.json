@@ -1,0 +1,65 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/dce1a83c-6be6-4d22-b742-d2a3d3892bd8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
+        }
+    ], 
+    "title": "Rast Kar-\u0131 Nat\u0131k'tan Esintiler", 
+    "url": "http://musicbrainz.org/work/dce1a83c-6be6-4d22-b742-d2a3d3892bd8", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "dce1a83c-6be6-4d22-b742-d2a3d3892bd8", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 158, 
+    "path": "../data/Rast/dce1a83c-6be6-4d22-b742-d2a3d3892bd8.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/dce1a83c-6be6-4d22-b742-d2a3d3892bd8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/dce1a83c-6be6-4d22-b742-d2a3d3892bd8"
+        }
+    ]
+}

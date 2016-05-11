@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/337e5065-945d-42a9-9e5e-7a86f5d63bef"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/337e5065-945d-42a9-9e5e-7a86f5d63bef"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a62f3a6-69c6-4237-87fb-f5163a9d070e", 
+            "title": "Canl\u0131 Fas\u0131l 9 - Saba"
+        }
+    ], 
+    "title": "Mendilimin Ye\u015fili (Aman Doktor)", 
+    "url": "http://musicbrainz.org/work/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e", 
+    "artist_credits": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d6e84d9f-bf51-473e-a54d-26b9b2f52f2e", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/337e5065-945d-42a9-9e5e-7a86f5d63bef"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
+        }
+    ], 
+    "duration": 222, 
+    "path": "../data/Saba/d6e84d9f-bf51-473e-a54d-26b9b2f52f2e.mp3", 
+    "works": [
+        {
+            "mbid": "337e5065-945d-42a9-9e5e-7a86f5d63bef", 
+            "title": "Mendilimin Ye\u015fili"
+        }
+    ]
+}

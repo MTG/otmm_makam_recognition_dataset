@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/572eafd6-283f-44b9-b08e-a96f7c7b1ba0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b7b6bfec-d7b6-4eec-944e-445c9e1e40f8", 
+            "title": "Udi"
+        }
+    ], 
+    "title": "Nihavent Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/572eafd6-283f-44b9-b08e-a96f7c7b1ba0", 
+    "artist_credits": [
+        {
+            "mbid": "2fbfeea4-cbe6-49e7-9470-59a36d8bcbe5", 
+            "name": "Ozan Karata\u015f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "572eafd6-283f-44b9-b08e-a96f7c7b1ba0", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2fbfeea4-cbe6-49e7-9470-59a36d8bcbe5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Ozan Karata\u015f"
+        }
+    ], 
+    "duration": 149, 
+    "path": "../data/Nihavent/572eafd6-283f-44b9-b08e-a96f7c7b1ba0.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/572eafd6-283f-44b9-b08e-a96f7c7b1ba0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/572eafd6-283f-44b9-b08e-a96f7c7b1ba0"
+        }
+    ]
+}

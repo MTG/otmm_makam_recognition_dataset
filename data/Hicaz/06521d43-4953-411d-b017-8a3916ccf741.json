@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/06521d43-4953-411d-b017-8a3916ccf741"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9df9903d-c975-4ad0-8845-9dc8674b6fd1", 
+            "title": "Hicaz Nihavend Fasl\u0131"
+        }
+    ], 
+    "title": "Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/06521d43-4953-411d-b017-8a3916ccf741", 
+    "artist_credits": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "06521d43-4953-411d-b017-8a3916ccf741", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "duration": 140, 
+    "path": "../data/Hicaz/06521d43-4953-411d-b017-8a3916ccf741.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06521d43-4953-411d-b017-8a3916ccf741"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/06521d43-4953-411d-b017-8a3916ccf741"
+        }
+    ]
+}

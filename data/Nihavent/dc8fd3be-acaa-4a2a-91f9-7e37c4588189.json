@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "Sevgilim Desen Bana (Yalvar\u0131r\u0131m \u00dczme Beni)", 
+    "url": "http://musicbrainz.org/work/dc8fd3be-acaa-4a2a-91f9-7e37c4588189", 
+    "artist_credits": [
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "dc8fd3be-acaa-4a2a-91f9-7e37c4588189", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "type": "vocal", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "duration": 198, 
+    "path": "../data/Nihavent/dc8fd3be-acaa-4a2a-91f9-7e37c4588189.mp3", 
+    "works": [
+        {
+            "mbid": "f90770a6-4687-4d88-8d3d-0ccbd5119f3f", 
+            "title": "Sevgilim Desen Bana"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a53ea432-bdf0-4b1a-9726-48af3d38cd6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/83deb922-e969-4d62-9105-4b2c5c4b54a8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/a53ea432-bdf0-4b1a-9726-48af3d38cd6b"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/83deb922-e969-4d62-9105-4b2c5c4b54a8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "dd26b194-8b0d-4b8d-a936-33d92b557fa6", 
+            "title": "U\u015f\u015fak 11"
+        }
+    ], 
+    "title": "Al Yazmal\u0131 Hadi Gel", 
+    "url": "http://musicbrainz.org/work/83deb922-e969-4d62-9105-4b2c5c4b54a8", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "83deb922-e969-4d62-9105-4b2c5c4b54a8", 
+    "form": [
+        {
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/work/a53ea432-bdf0-4b1a-9726-48af3d38cd6b"
+        }, 
+        {
+            "attribute_key": "kocekce", 
+            "mb_tag": "k\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/recording/83deb922-e969-4d62-9105-4b2c5c4b54a8"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 225, 
+    "path": "../data/Karcigar/83deb922-e969-4d62-9105-4b2c5c4b54a8.mp3", 
+    "works": [
+        {
+            "mbid": "a53ea432-bdf0-4b1a-9726-48af3d38cd6b", 
+            "title": "Al Yazmal\u0131m Hadi Gel"
+        }
+    ]
+}

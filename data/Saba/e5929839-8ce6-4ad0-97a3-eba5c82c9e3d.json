@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2599722c-ff7c-4772-92c7-7727194e34f3", 
+            "title": "\u015e\u00fckr\u00fc Tunar - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Hovarda Zeybe\u011fi", 
+    "url": "http://musicbrainz.org/work/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d", 
+    "artist_credits": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "e5929839-8ce6-4ad0-97a3-eba5c82c9e3d", 
+    "form": [
+        {
+            "attribute_key": "zeybek", 
+            "mb_attribute": "Zeybek", 
+            "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
+        }, 
+        {
+            "attribute_key": "zeybek", 
+            "mb_tag": "zeybek", 
+            "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }
+    ], 
+    "duration": 192, 
+    "path": "../data/Saba/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d.mp3", 
+    "works": [
+        {
+            "mbid": "02a469db-f0bc-4796-a773-bda58d9e896c", 
+            "title": "Hovarda Zeybe\u011fi"
+        }
+    ]
+}

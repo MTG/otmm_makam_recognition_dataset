@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "Acema\u015firan Taksim", 
+    "url": "http://musicbrainz.org/work/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb", 
+    "artist_credits": [
+        {
+            "mbid": "e1264eb5-b6d7-4c7e-b551-9a6bce7fb64a", 
+            "name": "Haluk Recai"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "2963c41b-d1ef-47a0-98f7-8ffd8912f8fb", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "e1264eb5-b6d7-4c7e-b551-9a6bce7fb64a", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Haluk Recai"
+        }
+    ], 
+    "duration": 112, 
+    "path": "../data/Acemasiran/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb"
+        }
+    ]
+}

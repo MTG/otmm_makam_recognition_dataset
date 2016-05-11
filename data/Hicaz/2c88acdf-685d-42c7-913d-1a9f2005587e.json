@@ -1,0 +1,101 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/2c88acdf-685d-42c7-913d-1a9f2005587e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "933a4ccf-ddda-4bd3-98e5-660634005054", 
+            "title": "Rum Bestek\u00e2rlar"
+        }
+    ], 
+    "title": "Gam-\u0131 Hicr\u00e2nla Peri\u015fan Ne Karanl\u0131k Kaderim", 
+    "url": "http://musicbrainz.org/work/2c88acdf-685d-42c7-913d-1a9f2005587e", 
+    "artist_credits": [
+        {
+            "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
+            "name": "G\u00fcl G\u00f6re"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "2c88acdf-685d-42c7-913d-1a9f2005587e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2c88acdf-685d-42c7-913d-1a9f2005587e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "G\u00fcl G\u00f6re"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 130, 
+    "path": "../data/Hicaz/2c88acdf-685d-42c7-913d-1a9f2005587e.mp3", 
+    "works": [
+        {
+            "mbid": "981de4a1-1073-4ba3-a3fe-fb577c29cb42", 
+            "title": "Gam-\u0131 Hicr\u00e2nla Peri\u015fan Ne Karanl\u0131k Kaderim"
+        }
+    ]
+}

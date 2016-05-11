@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "805a3604-92e6-482f-a0e3-6620c4523d7a", 
+            "title": "Tanburi Cemil Bey - Volumes II & III"
+        }
+    ], 
+    "title": "U\u015f\u015fak Gazel", 
+    "url": "http://musicbrainz.org/work/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "7693fcf6-4a57-4dc2-b505-4f3d87ca71d0", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }, 
+        {
+            "mbid": "e9bfa361-28a3-407a-bcb2-1e2cfa298c82", 
+            "type": "vocal", 
+            "name": "Haf\u0131z \u015ea\u015f\u0131 Osman Efendi"
+        }
+    ], 
+    "duration": 231, 
+    "path": "../data/Ussak/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ede7de37-eab2-4812-9d90-09f2803dd969"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/ede7de37-eab2-4812-9d90-09f2803dd969"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2599722c-ff7c-4772-92c7-7727194e34f3", 
+            "title": "\u015e\u00fckr\u00fc Tunar - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Longa", 
+    "url": "http://musicbrainz.org/work/ede7de37-eab2-4812-9d90-09f2803dd969", 
+    "artist_credits": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "ede7de37-eab2-4812-9d90-09f2803dd969", 
+    "form": [
+        {
+            "attribute_key": "longa", 
+            "mb_attribute": "Longa", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "longa", 
+            "mb_tag": "longa", 
+            "source": "http://musicbrainz.org/recording/ede7de37-eab2-4812-9d90-09f2803dd969"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }
+    ], 
+    "duration": 175, 
+    "path": "../data/Kurdilihicazkar/ede7de37-eab2-4812-9d90-09f2803dd969.mp3", 
+    "works": [
+        {
+            "mbid": "a7de0206-4f78-473c-8224-ac32c235f93a", 
+            "title": "K\u00fcrdilihicazk\u00e2r Longa"
+        }
+    ]
+}

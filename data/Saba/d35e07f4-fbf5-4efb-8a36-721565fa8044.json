@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d35e07f4-fbf5-4efb-8a36-721565fa8044"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/d35e07f4-fbf5-4efb-8a36-721565fa8044"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cc8282ea-d0d2-473e-ba98-9d2acdf9df02", 
+            "title": "Saba"
+        }
+    ], 
+    "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini Kalbimi Yakt\u0131n", 
+    "url": "http://musicbrainz.org/work/d35e07f4-fbf5-4efb-8a36-721565fa8044", 
+    "artist_credits": [
+        {
+            "mbid": "d1246e00-d12f-4617-837d-3f434bdd5c07", 
+            "name": "Tahir Engin \u0130\u00e7\u00f6z"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d35e07f4-fbf5-4efb-8a36-721565fa8044", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d35e07f4-fbf5-4efb-8a36-721565fa8044"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "d1246e00-d12f-4617-837d-3f434bdd5c07", 
+            "type": "vocal", 
+            "name": "Tahir Engin \u0130\u00e7\u00f6z"
+        }
+    ], 
+    "duration": 265, 
+    "path": "../data/Saba/d35e07f4-fbf5-4efb-8a36-721565fa8044.mp3", 
+    "works": [
+        {
+            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
+            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+        }
+    ]
+}

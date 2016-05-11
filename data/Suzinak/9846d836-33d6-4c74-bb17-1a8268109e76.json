@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b607f980-ab7a-468b-9d4a-418512b58f61", 
+            "title": "S\u00fczinak"
+        }
+    ], 
+    "title": "Yand\u0131m O G\u00fczel G\u00f6zlere Ey \u015euh-i Sitemkar", 
+    "url": "http://musicbrainz.org/work/9846d836-33d6-4c74-bb17-1a8268109e76", 
+    "artist_credits": [
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "name": "Nusret Y\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "9846d836-33d6-4c74-bb17-1a8268109e76", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "type": "vocal", 
+            "name": "Nusret Y\u0131lmaz"
+        }
+    ], 
+    "duration": 182, 
+    "path": "../data/Suzinak/9846d836-33d6-4c74-bb17-1a8268109e76.mp3", 
+    "works": [
+        {
+            "mbid": "013503a8-66e9-4dcb-87f4-caf26dd5aea1", 
+            "title": "Yand\u0131m O G\u00fczel G\u00f6zlere Ey \u015euh-i Sitemkar"
+        }
+    ]
+}

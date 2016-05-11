@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9159ad88-77d7-4e40-9861-3f15bc4bd6d4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d1864e9d-9ffa-4156-90fe-0a992685ab1f", 
+            "title": "Trt Ar\u015fiv Serisi 1 - Zeki M\u00fcren'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Keman Taksimi", 
+    "url": "http://musicbrainz.org/work/9159ad88-77d7-4e40-9861-3f15bc4bd6d4", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9159ad88-77d7-4e40-9861-3f15bc4bd6d4", 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "5f7c5fc5-0958-49e3-8e17-d638ddd30938", 
+            "attribute-list": [
+                "solo", 
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sadi I\u015f\u0131lay"
+        }
+    ], 
+    "duration": 193, 
+    "path": "../data/Karcigar/9159ad88-77d7-4e40-9861-3f15bc4bd6d4.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9159ad88-77d7-4e40-9861-3f15bc4bd6d4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/9159ad88-77d7-4e40-9861-3f15bc4bd6d4"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/0a47662e-c58b-4395-bbd7-b846eac81ee9"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/61859472-d87c-4cc7-b91d-f3f16128a3e0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
+            "source": "http://musicbrainz.org/work/0a47662e-c58b-4395-bbd7-b846eac81ee9"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/61859472-d87c-4cc7-b91d-f3f16128a3e0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "046f767d-5965-474a-8097-6f5beac12453", 
+            "title": "\u0130zak Algazi Efendi"
+        }
+    ], 
+    "title": "Ni\u00e7in A Sevdi\u011fim Ni\u00e7in (Hicaz Evsat \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/work/61859472-d87c-4cc7-b91d-f3f16128a3e0", 
+    "artist_credits": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "61859472-d87c-4cc7-b91d-f3f16128a3e0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0a47662e-c58b-4395-bbd7-b846eac81ee9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/61859472-d87c-4cc7-b91d-f3f16128a3e0"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "type": "vocal", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "duration": 171, 
+    "path": "../data/Hicaz/61859472-d87c-4cc7-b91d-f3f16128a3e0.mp3", 
+    "works": [
+        {
+            "mbid": "0a47662e-c58b-4395-bbd7-b846eac81ee9", 
+            "title": "Ni\u00e7in A Sevdi\u011fim Ni\u00e7in"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9e84ab88-20d9-40d5-8a33-bd68c4ff95e9", 
+            "title": "Buselik"
+        }
+    ], 
+    "title": "G\u00f6z\u00fcmde \u00d6zleyi\u015f G\u00f6nl\u00fcmde Ac\u0131", 
+    "url": "http://musicbrainz.org/work/37c86b43-3a89-420e-965f-50af06629c53", 
+    "artist_credits": [
+        {
+            "mbid": "d3e36121-7c17-4ba8-bcd0-7929c2baf103", 
+            "name": "Ayla B\u00fcy\u00fckataman"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "37c86b43-3a89-420e-965f-50af06629c53", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "d3e36121-7c17-4ba8-bcd0-7929c2baf103", 
+            "type": "vocal", 
+            "name": "Ayla B\u00fcy\u00fckataman"
+        }
+    ], 
+    "duration": 211, 
+    "path": "../data/Bestenigar/37c86b43-3a89-420e-965f-50af06629c53.mp3", 
+    "works": [
+        {
+            "mbid": "06dc5d29-9aa6-4dc9-aa09-b25d1720ed69", 
+            "title": "G\u00f6z\u00fcmde \u00d6zleyi\u015f"
+        }
+    ]
+}

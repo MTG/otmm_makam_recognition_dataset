@@ -1,0 +1,143 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "77034ccf-273c-4b63-847e-af59d5c8e352", 
+            "title": "TRT \u0130stanbul Radyosu - 14.04.1993"
+        }
+    ], 
+    "title": "Bir Bahar Ak\u015fam\u0131 Rastlad\u0131m Size", 
+    "url": "http://musicbrainz.org/work/7b6f48da-b415-4664-880b-2a37a60fb897", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "7b6f48da-b415-4664-880b-2a37a60fb897", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "35f1b9e1-9a40-44be-a0d5-7b089ff07f53", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcng\u00f6r Ho\u015fses"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "51c0b22d-3a05-4c21-98b8-0a4aebaf9aa7", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Barbaros Erk\u00f6se"
+        }, 
+        {
+            "mbid": "74627c36-d382-411e-8a05-38e1d8e86c08", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Sayan"
+        }, 
+        {
+            "mbid": "a6fe8566-a246-40b9-8a86-1ada5884ca81", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Selahattin Erk\u00f6se"
+        }, 
+        {
+            "mbid": "b611c81e-2ff9-408c-bfb3-4ad94affbd79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nevbahar \u00d6zel"
+        }, 
+        {
+            "mbid": "cab02cb9-d0b2-4ba5-8ea3-e5c6ab46b005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Kemanc\u0131"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }
+    ], 
+    "duration": 227, 
+    "path": "../data/Hicaz/7b6f48da-b415-4664-880b-2a37a60fb897.mp3", 
+    "works": [
+        {
+            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
+            "title": "Bir Bahar Ak\u015fam\u0131"
+        }
+    ]
+}

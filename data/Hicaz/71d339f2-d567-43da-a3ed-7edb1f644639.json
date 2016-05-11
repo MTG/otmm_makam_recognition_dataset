@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2d9ce22c-dba1-489a-b5f3-eb216817616d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/71d339f2-d567-43da-a3ed-7edb1f644639"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/2d9ce22c-dba1-489a-b5f3-eb216817616d"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/71d339f2-d567-43da-a3ed-7edb1f644639"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "A\u011flar Gezerim Sahili Sanki Benimlesin", 
+    "url": "http://musicbrainz.org/work/71d339f2-d567-43da-a3ed-7edb1f644639", 
+    "artist_credits": [
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "name": "\u015eehnaz U\u011furel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "71d339f2-d567-43da-a3ed-7edb1f644639", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2d9ce22c-dba1-489a-b5f3-eb216817616d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/71d339f2-d567-43da-a3ed-7edb1f644639"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }
+    ], 
+    "duration": 244, 
+    "path": "../data/Hicaz/71d339f2-d567-43da-a3ed-7edb1f644639.mp3", 
+    "works": [
+        {
+            "mbid": "2d9ce22c-dba1-489a-b5f3-eb216817616d", 
+            "title": "A\u011flar Gezerim Sahili Sanki Benimlesin"
+        }
+    ]
+}

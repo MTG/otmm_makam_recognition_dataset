@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5c9bd32c-f6b4-498b-99af-e8ede17c8a70"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ac450f9d-f97e-4213-bca6-5130e45ef455", 
+            "title": "Anatolia: A. Meragi - M. Itri"
+        }
+    ], 
+    "title": "Rebab Taksimi", 
+    "url": "http://musicbrainz.org/work/5c9bd32c-f6b4-498b-99af-e8ede17c8a70", 
+    "artist_credits": [
+        {
+            "mbid": "b1e00ce8-97e0-4173-8e93-cfa7f3d3ea56", 
+            "name": "Anatolia"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5c9bd32c-f6b4-498b-99af-e8ede17c8a70", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "d1553ce6-8749-4b15-b598-f9d4684719e8", 
+            "attribute-list": [
+                "rebab"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Refik Kaya"
+        }
+    ], 
+    "duration": 94, 
+    "path": "../data/Segah/5c9bd32c-f6b4-498b-99af-e8ede17c8a70.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5c9bd32c-f6b4-498b-99af-e8ede17c8a70"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/5c9bd32c-f6b4-498b-99af-e8ede17c8a70"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aydin", 
+            "mb_attribute": "Ayd\u0131n", 
+            "source": "http://musicbrainz.org/work/d67aa8f5-d4d8-4da1-9f67-071922b5595a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/d67aa8f5-d4d8-4da1-9f67-071922b5595a"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Yabandan Geldim", 
+    "url": "http://musicbrainz.org/work/3a2da49a-bf3e-4d90-8033-a9b221cbb292", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "3a2da49a-bf3e-4d90-8033-a9b221cbb292", 
+    "form": [
+        {
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/work/d67aa8f5-d4d8-4da1-9f67-071922b5595a"
+        }, 
+        {
+            "attribute_key": "kocekce", 
+            "mb_tag": "k\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 166, 
+    "path": "../data/Hicazkar/3a2da49a-bf3e-4d90-8033-a9b221cbb292.mp3", 
+    "works": [
+        {
+            "mbid": "d67aa8f5-d4d8-4da1-9f67-071922b5595a", 
+            "title": "Yabandan Geldim"
+        }
+    ]
+}

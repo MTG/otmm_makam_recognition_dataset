@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/5e129f56-00ea-454a-b13a-006862bdb631"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/ea7e2b41-e009-48f9-88e3-9fcf9854d9f9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/5e129f56-00ea-454a-b13a-006862bdb631"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/ea7e2b41-e009-48f9-88e3-9fcf9854d9f9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "495f6cda-3abd-4144-900f-3a526eecd2b9", 
+            "title": "Haf\u0131z Burhan - A\u015fk\u0131n G\u00f6zya\u015flar\u0131"
+        }
+    ], 
+    "title": "Sabr\u0131m\u0131 Gamzelerin Sihriyle", 
+    "url": "http://musicbrainz.org/work/ea7e2b41-e009-48f9-88e3-9fcf9854d9f9", 
+    "artist_credits": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "ea7e2b41-e009-48f9-88e3-9fcf9854d9f9", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5e129f56-00ea-454a-b13a-006862bdb631"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ea7e2b41-e009-48f9-88e3-9fcf9854d9f9"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "duration": 174, 
+    "path": "../data/Huzzam/ea7e2b41-e009-48f9-88e3-9fcf9854d9f9.mp3", 
+    "works": [
+        {
+            "mbid": "5e129f56-00ea-454a-b13a-006862bdb631", 
+            "title": "Sabr\u0131m\u0131 Gamzelerin Sihriyle"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/7c8933cf-9fc1-43cb-9331-9eebc984a345"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/463db2a4-91f3-482a-bed7-df211c0286e7"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/7c8933cf-9fc1-43cb-9331-9eebc984a345"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/463db2a4-91f3-482a-bed7-df211c0286e7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6ae0a118-220c-4b4e-9c66-b6294416927d", 
+            "title": "Bestenigar"
+        }
+    ], 
+    "title": "Yar A\u011flamadan Didelerim Kane Boyand\u0131", 
+    "url": "http://musicbrainz.org/work/463db2a4-91f3-482a-bed7-df211c0286e7", 
+    "artist_credits": [
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "name": "Selma Sa\u011fba\u015f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "463db2a4-91f3-482a-bed7-df211c0286e7", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7c8933cf-9fc1-43cb-9331-9eebc984a345"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/463db2a4-91f3-482a-bed7-df211c0286e7"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "type": "vocal", 
+            "name": "Selma Sa\u011fba\u015f"
+        }
+    ], 
+    "duration": 215, 
+    "path": "../data/Bestenigar/463db2a4-91f3-482a-bed7-df211c0286e7.mp3", 
+    "works": [
+        {
+            "mbid": "7c8933cf-9fc1-43cb-9331-9eebc984a345", 
+            "title": "Yar A\u011flamadan"
+        }
+    ]
+}

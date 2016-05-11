@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
+            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Ey Lebleri Gonce Y\u00fcz\u00fc G\u00fcl Serv-i B\u00fclendim", 
+    "url": "http://musicbrainz.org/work/b0b77d1c-bbd8-4e47-9d73-34cc316448ef", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "b0b77d1c-bbd8-4e47-9d73-34cc316448ef", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "duration": 385, 
+    "path": "../data/Acemasiran/b0b77d1c-bbd8-4e47-9d73-34cc316448ef.mp3", 
+    "works": [
+        {
+            "mbid": "e534e173-68aa-4b90-a82c-4d247d8d4eed", 
+            "title": "Ey Lebleri Gonce Y\u00fcz\u00fc"
+        }
+    ]
+}

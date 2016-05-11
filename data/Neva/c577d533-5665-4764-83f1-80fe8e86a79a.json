@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/c577d533-5665-4764-83f1-80fe8e86a79a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Didemden Nigehban Oldum", 
+    "url": "http://musicbrainz.org/work/c577d533-5665-4764-83f1-80fe8e86a79a", 
+    "artist_credits": [
+        {
+            "mbid": "8e08efbf-03e7-436a-a8b3-ded43399e3e2", 
+            "name": "Bursal\u0131 Hamit Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "c577d533-5665-4764-83f1-80fe8e86a79a", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "8e08efbf-03e7-436a-a8b3-ded43399e3e2", 
+            "type": "vocal", 
+            "name": "Bursal\u0131 Hamit Bey"
+        }
+    ], 
+    "duration": 186, 
+    "path": "../data/Neva/c577d533-5665-4764-83f1-80fe8e86a79a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c577d533-5665-4764-83f1-80fe8e86a79a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/c577d533-5665-4764-83f1-80fe8e86a79a"
+        }
+    ]
+}

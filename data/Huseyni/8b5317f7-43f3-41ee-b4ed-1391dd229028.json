@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/8b5317f7-43f3-41ee-b4ed-1391dd229028"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ac0f5805-4a28-416d-8a09-b6f174e859fe", 
+            "title": "H\u00fcseyni 3"
+        }
+    ], 
+    "title": "Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/8b5317f7-43f3-41ee-b4ed-1391dd229028", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "8b5317f7-43f3-41ee-b4ed-1391dd229028", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 160, 
+    "path": "../data/Huseyni/8b5317f7-43f3-41ee-b4ed-1391dd229028.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8b5317f7-43f3-41ee-b4ed-1391dd229028"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/8b5317f7-43f3-41ee-b4ed-1391dd229028"
+        }
+    ]
+}

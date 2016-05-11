@@ -1,0 +1,124 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ee2f03ba-e6e0-44cf-b94a-f54703bfc372", 
+            "title": "Bestekar III. Selim Han / Composer Sultan Selim Khan III."
+        }
+    ], 
+    "title": "Mahur Makam\u0131nda \u015eark\u0131", 
+    "url": "http://musicbrainz.org/work/244ed755-df1f-495b-847a-1d0a0262aafa", 
+    "artist_credits": [
+        {
+            "mbid": "c9809367-e347-417f-8dd9-d0f8adbdb5d0", 
+            "name": "Ayangil T\u00fcrk M\u00fczi\u011fi Orkestra Ve Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "244ed755-df1f-495b-847a-1d0a0262aafa", 
+    "form": [
+        {
+            "attribute_key": "tavsanca", 
+            "mb_attribute": "Tav\u015fanca", 
+            "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "38709d7c-71bc-4663-8355-c0c62e919192", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet \u00c7\u0131\u011f Turgay"
+        }, 
+        {
+            "mbid": "60cdd03a-dcf9-4da7-96f7-7b343261cc07", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Furkan Bilgi"
+        }, 
+        {
+            "mbid": "801e2b0d-b425-4cb1-8b08-fd187c863f96", 
+            "type": "vocal", 
+            "name": "Ferhat \u015eim\u015fek"
+        }, 
+        {
+            "mbid": "c10e4c1d-6acc-4163-96ad-6b3236cdd991", 
+            "type": "vocal", 
+            "name": "Ebru Delice"
+        }, 
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }, 
+        {
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ruhi Ayangil"
+        }, 
+        {
+            "mbid": "dc9bc60d-fd49-4ea9-8790-e6c08636437d", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fatih Oval\u0131"
+        }, 
+        {
+            "mbid": "fd95489c-f4e4-44cc-b79e-a2f3bbbf7e55", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali T\u00fcfek\u00e7i"
+        }
+    ], 
+    "duration": 289, 
+    "path": "../data/Mahur/244ed755-df1f-495b-847a-1d0a0262aafa.mp3", 
+    "works": [
+        {
+            "mbid": "054cb841-ecb2-4faa-a358-7088a356d8bb", 
+            "title": "Ne Ararsam"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/1305a1db-9673-4e17-bda9-0b8437aaf19b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/1305a1db-9673-4e17-bda9-0b8437aaf19b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0b054319-53f5-44ba-8278-733f5ddd3cb7", 
+            "title": "Karc\u0131\u011far"
+        }
+    ], 
+    "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde", 
+    "url": "http://musicbrainz.org/work/1305a1db-9673-4e17-bda9-0b8437aaf19b", 
+    "artist_credits": [
+        {
+            "mbid": "57ec4576-e8e7-4f47-bb7e-81945c106b56", 
+            "name": "Turhan \u00d6ge"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "1305a1db-9673-4e17-bda9-0b8437aaf19b", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/1305a1db-9673-4e17-bda9-0b8437aaf19b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "57ec4576-e8e7-4f47-bb7e-81945c106b56", 
+            "type": "vocal", 
+            "name": "Turhan \u00d6ge"
+        }
+    ], 
+    "duration": 168, 
+    "path": "../data/Karcigar/1305a1db-9673-4e17-bda9-0b8437aaf19b.mp3", 
+    "works": [
+        {
+            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
+            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+        }
+    ]
+}

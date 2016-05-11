@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/e40b335c-227e-4768-9002-15725f21af6e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "dc91e041-1eb2-4d2d-bb08-b23aac8add86", 
+            "title": "Hicazkar 6"
+        }
+    ], 
+    "title": "Kanun - Tanbur M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/work/e40b335c-227e-4768-9002-15725f21af6e", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "e40b335c-227e-4768-9002-15725f21af6e", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 150, 
+    "path": "../data/Hicazkar/e40b335c-227e-4768-9002-15725f21af6e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e40b335c-227e-4768-9002-15725f21af6e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/e40b335c-227e-4768-9002-15725f21af6e"
+        }
+    ]
+}

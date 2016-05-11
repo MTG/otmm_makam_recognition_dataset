@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6058e35b-b0b8-44de-9492-8e7d7de5c130"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "859229ff-6bac-4bf0-8687-a7a820750c89", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 16"
+        }
+    ], 
+    "title": "U\u015f\u015fak Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/6058e35b-b0b8-44de-9492-8e7d7de5c130", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "6058e35b-b0b8-44de-9492-8e7d7de5c130", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 174, 
+    "path": "../data/Ussak/6058e35b-b0b8-44de-9492-8e7d7de5c130.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6058e35b-b0b8-44de-9492-8e7d7de5c130"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/6058e35b-b0b8-44de-9492-8e7d7de5c130"
+        }
+    ]
+}

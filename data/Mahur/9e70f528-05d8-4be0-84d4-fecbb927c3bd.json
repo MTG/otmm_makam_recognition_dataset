@@ -1,0 +1,114 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a81d1218-ddc5-4856-b106-08f72db8f39c", 
+            "title": "Refik Fersan"
+        }
+    ], 
+    "title": "D\u00fcn Yine G\u00fcn\u00fcm\u00fcz Ge\u00e7ti Beraber", 
+    "url": "http://musicbrainz.org/work/9e70f528-05d8-4be0-84d4-fecbb927c3bd", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "9e70f528-05d8-4be0-84d4-fecbb927c3bd", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "G\u00fcl G\u00f6re"
+        }, 
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 109, 
+    "path": "../data/Mahur/9e70f528-05d8-4be0-84d4-fecbb927c3bd.mp3", 
+    "works": [
+        {
+            "mbid": "ecadfcac-8580-4070-8ddb-e2359c6cf741", 
+            "title": "D\u00fcn Yine G\u00fcn\u00fcm\u00fcz Ge\u00e7ti Beraber"
+        }
+    ]
+}

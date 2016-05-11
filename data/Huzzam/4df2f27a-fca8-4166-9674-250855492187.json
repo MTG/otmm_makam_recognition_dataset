@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ed541e65-e400-4cae-844e-73aa4f7395e9"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/4df2f27a-fca8-4166-9674-250855492187"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/ed541e65-e400-4cae-844e-73aa4f7395e9"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/4df2f27a-fca8-4166-9674-250855492187"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Ak\u015fam D\u00f6n\u00fc\u015f\u00fc Ge\u00e7tim O Esrarl\u0131 Ba\u011f\u0131ndan", 
+    "url": "http://musicbrainz.org/work/4df2f27a-fca8-4166-9674-250855492187", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "4df2f27a-fca8-4166-9674-250855492187", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ed541e65-e400-4cae-844e-73aa4f7395e9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4df2f27a-fca8-4166-9674-250855492187"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 188, 
+    "path": "../data/Huzzam/4df2f27a-fca8-4166-9674-250855492187.mp3", 
+    "works": [
+        {
+            "mbid": "ed541e65-e400-4cae-844e-73aa4f7395e9", 
+            "title": "Ak\u015fam D\u00f6n\u00fc\u015f\u00fc Ge\u00e7tim O Esrarl\u0131 Ba\u011f\u0131ndan"
+        }
+    ]
+}

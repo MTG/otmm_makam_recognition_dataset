@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/0ca70ef3-af89-4066-a1e4-d9b2bc30390a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbb0fa02-5fe1-4aca-950e-2f235c193f87", 
+            "title": "\u015eark\u0131larla \u0130stanbul"
+        }
+    ], 
+    "title": "Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/0ca70ef3-af89-4066-a1e4-d9b2bc30390a", 
+    "artist_credits": [
+        {
+            "mbid": "449541e1-16c5-47c0-bbf2-936c1cd13fc7", 
+            "name": "Hakan Talu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "0ca70ef3-af89-4066-a1e4-d9b2bc30390a", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "449541e1-16c5-47c0-bbf2-936c1cd13fc7", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan Talu"
+        }
+    ], 
+    "duration": 155, 
+    "path": "../data/Muhayyer/0ca70ef3-af89-4066-a1e4-d9b2bc30390a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0ca70ef3-af89-4066-a1e4-d9b2bc30390a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/0ca70ef3-af89-4066-a1e4-d9b2bc30390a"
+        }
+    ]
+}

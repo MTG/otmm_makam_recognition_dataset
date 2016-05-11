@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/1ca64bd5-f22c-4125-b5e8-2c4dc189e52a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Mahur Taksim", 
+    "url": "http://musicbrainz.org/work/1ca64bd5-f22c-4125-b5e8-2c4dc189e52a", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "1ca64bd5-f22c-4125-b5e8-2c4dc189e52a", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 83, 
+    "path": "../data/Mahur/1ca64bd5-f22c-4125-b5e8-2c4dc189e52a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1ca64bd5-f22c-4125-b5e8-2c4dc189e52a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/1ca64bd5-f22c-4125-b5e8-2c4dc189e52a"
+        }
+    ]
+}

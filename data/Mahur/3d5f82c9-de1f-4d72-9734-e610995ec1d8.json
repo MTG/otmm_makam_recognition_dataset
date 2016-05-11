@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/0d420917-66e3-4926-9c5a-9b88e672ddf7"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/3d5f82c9-de1f-4d72-9734-e610995ec1d8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/0d420917-66e3-4926-9c5a-9b88e672ddf7"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/3d5f82c9-de1f-4d72-9734-e610995ec1d8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Hala Kanayan Kalbimi", 
+    "url": "http://musicbrainz.org/work/3d5f82c9-de1f-4d72-9734-e610995ec1d8", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "3d5f82c9-de1f-4d72-9734-e610995ec1d8", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0d420917-66e3-4926-9c5a-9b88e672ddf7"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3d5f82c9-de1f-4d72-9734-e610995ec1d8"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 180, 
+    "path": "../data/Mahur/3d5f82c9-de1f-4d72-9734-e610995ec1d8.mp3", 
+    "works": [
+        {
+            "mbid": "0d420917-66e3-4926-9c5a-9b88e672ddf7", 
+            "title": "Hala Kanayan"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "859229ff-6bac-4bf0-8687-a7a820750c89", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 16"
+        }
+    ], 
+    "title": "Hal-i Siyehi Gerden-i Nazik Terindedir", 
+    "url": "http://musicbrainz.org/work/254ea8b1-3924-4ef2-b799-544fc062b7e6", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "254ea8b1-3924-4ef2-b799-544fc062b7e6", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 273, 
+    "path": "../data/Muhayyer/254ea8b1-3924-4ef2-b799-544fc062b7e6.mp3", 
+    "works": [
+        {
+            "mbid": "cde88fcc-0cb1-454e-b94a-6f784c688eb5", 
+            "title": "Hal-i Siyah\u0131 Gerden-i Nazik Terindedir"
+        }
+    ]
+}

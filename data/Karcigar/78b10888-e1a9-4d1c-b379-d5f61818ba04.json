@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/78b10888-e1a9-4d1c-b379-d5f61818ba04"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/78b10888-e1a9-4d1c-b379-d5f61818ba04"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Bu Gece \u00c7amlarda Kalsak Ne Olur", 
+    "url": "http://musicbrainz.org/work/78b10888-e1a9-4d1c-b379-d5f61818ba04", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "78b10888-e1a9-4d1c-b379-d5f61818ba04", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/78b10888-e1a9-4d1c-b379-d5f61818ba04"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 180, 
+    "path": "../data/Karcigar/78b10888-e1a9-4d1c-b379-d5f61818ba04.mp3", 
+    "works": [
+        {
+            "mbid": "906fd932-864a-4764-8b25-57da63c17cec", 
+            "title": "Bu Gece \u00c7amlarda"
+        }
+    ]
+}

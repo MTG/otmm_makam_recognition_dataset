@@ -1,0 +1,100 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/b1ca68f2-ef46-4765-9e9b-74062607fe5b"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/3169d091-28e2-439f-96d5-54f54ae372b7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1669d3fc-418d-41f0-be1e-c757d360c21a", 
+            "title": "\u015eevahot Lael / Allah'a \u00d6vg\u00fcler"
+        }
+    ], 
+    "title": "Anenu", 
+    "url": "http://musicbrainz.org/work/3169d091-28e2-439f-96d5-54f54ae372b7", 
+    "artist_credits": [
+        {
+            "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
+            "name": "Aaron Kohen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3169d091-28e2-439f-96d5-54f54ae372b7", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/b1ca68f2-ef46-4765-9e9b-74062607fe5b"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/3169d091-28e2-439f-96d5-54f54ae372b7"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
+            "type": "vocal", 
+            "name": "Aaron Kohen"
+        }, 
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }, 
+        {
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Birol Yayla"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 244, 
+    "path": "../data/Huseyni/3169d091-28e2-439f-96d5-54f54ae372b7.mp3", 
+    "works": [
+        {
+            "mbid": "b1ca68f2-ef46-4765-9e9b-74062607fe5b", 
+            "title": "Anenu"
+        }
+    ]
+}

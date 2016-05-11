@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/beefbedd-7bd4-414d-a197-e44745b51434"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "046f767d-5965-474a-8097-6f5beac12453", 
+            "title": "\u0130zak Algazi Efendi"
+        }
+    ], 
+    "title": "Aman Nazre-i Taban-\u0131 \u00c7e\u015fman\u0131 (Muhayyer Gazel [Improvisation])", 
+    "url": "http://musicbrainz.org/work/beefbedd-7bd4-414d-a197-e44745b51434", 
+    "artist_credits": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "beefbedd-7bd4-414d-a197-e44745b51434", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "type": "vocal", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "duration": 168, 
+    "path": "../data/Muhayyer/beefbedd-7bd4-414d-a197-e44745b51434.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/beefbedd-7bd4-414d-a197-e44745b51434"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/beefbedd-7bd4-414d-a197-e44745b51434"
+        }
+    ]
+}

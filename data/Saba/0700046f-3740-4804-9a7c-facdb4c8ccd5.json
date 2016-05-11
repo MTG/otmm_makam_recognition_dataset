@@ -1,0 +1,72 @@
+{
+    "instrumentation_voicing": "Trio instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "Saba Ney Taksim", 
+    "url": "http://musicbrainz.org/work/0700046f-3740-4804-9a7c-facdb4c8ccd5", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "0700046f-3740-4804-9a7c-facdb4c8ccd5", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "additional", 
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "additional", 
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "duration": 140, 
+    "path": "../data/Saba/0700046f-3740-4804-9a7c-facdb4c8ccd5.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/36057ec2-1df5-4dab-9051-1643b6530b9a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79b14e67-fbbc-4989-a72b-002792b3fee3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/36057ec2-1df5-4dab-9051-1643b6530b9a"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/79b14e67-fbbc-4989-a72b-002792b3fee3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be879d40-3ebe-4892-81a7-f22704458cdd", 
+            "title": "Karc\u0131\u011far \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "Bana O Kadar Yak\u0131ns\u0131n ki Seni Ben Sand\u0131m", 
+    "url": "http://musicbrainz.org/work/79b14e67-fbbc-4989-a72b-002792b3fee3", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "79b14e67-fbbc-4989-a72b-002792b3fee3", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/36057ec2-1df5-4dab-9051-1643b6530b9a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/79b14e67-fbbc-4989-a72b-002792b3fee3"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 310, 
+    "path": "../data/Karcigar/79b14e67-fbbc-4989-a72b-002792b3fee3.mp3", 
+    "works": [
+        {
+            "mbid": "36057ec2-1df5-4dab-9051-1643b6530b9a", 
+            "title": "Bana O Kadar Yak\u0131ns\u0131n ki"
+        }
+    ]
+}

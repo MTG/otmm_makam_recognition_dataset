@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/a1eab713-fe6f-4b66-ab2d-d9d7a77cc92e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/a1eab713-fe6f-4b66-ab2d-d9d7a77cc92e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "55b20427-c7a5-4e8b-a26f-c6096fb69eeb", 
+            "title": "Mevlana Beyati Mevlevi Ayini- Dervi\u015f K\u00fc\u00e7ek Mustafa Dede"
+        }
+    ], 
+    "title": "Bayati Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/a1eab713-fe6f-4b66-ab2d-d9d7a77cc92e", 
+    "artist_credits": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "a1eab713-fe6f-4b66-ab2d-d9d7a77cc92e", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/a1eab713-fe6f-4b66-ab2d-d9d7a77cc92e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "type": "conductor", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "duration": 363, 
+    "path": "../data/Beyati/a1eab713-fe6f-4b66-ab2d-d9d7a77cc92e.mp3", 
+    "works": [
+        {
+            "mbid": "c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3", 
+            "title": "Beyati Pe\u015frevi"
+        }
+    ]
+}

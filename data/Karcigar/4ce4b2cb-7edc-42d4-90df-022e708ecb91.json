@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/47894461-f6c9-46c9-8179-7a2d35560dbd"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4ce4b2cb-7edc-42d4-90df-022e708ecb91"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/47894461-f6c9-46c9-8179-7a2d35560dbd"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/4ce4b2cb-7edc-42d4-90df-022e708ecb91"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "Def D\u00fcmbelek \u00c7engi \u00c7emen", 
+    "url": "http://musicbrainz.org/work/4ce4b2cb-7edc-42d4-90df-022e708ecb91", 
+    "artist_credits": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "4ce4b2cb-7edc-42d4-90df-022e708ecb91", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/47894461-f6c9-46c9-8179-7a2d35560dbd"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4ce4b2cb-7edc-42d4-90df-022e708ecb91"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "type": "vocal", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "duration": 188, 
+    "path": "../data/Karcigar/4ce4b2cb-7edc-42d4-90df-022e708ecb91.mp3", 
+    "works": [
+        {
+            "mbid": "47894461-f6c9-46c9-8179-7a2d35560dbd", 
+            "title": "Def D\u00fcmbelek \u00c7engi \u00c7emen"
+        }
+    ]
+}

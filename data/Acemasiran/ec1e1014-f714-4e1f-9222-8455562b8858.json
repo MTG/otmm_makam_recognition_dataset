@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
+            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Yand\u0131 Dil A\u015fk\u0131na Ey \u015euh-i \u015eenim", 
+    "url": "http://musicbrainz.org/work/ec1e1014-f714-4e1f-9222-8455562b8858", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "ec1e1014-f714-4e1f-9222-8455562b8858", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "duration": 233, 
+    "path": "../data/Acemasiran/ec1e1014-f714-4e1f-9222-8455562b8858.mp3", 
+    "works": [
+        {
+            "mbid": "d8f70cd1-ea9a-4ec3-bb38-40335d222d7f", 
+            "title": "Yand\u0131 Dil A\u015fk\u0131na Ey \u015euh-i \u015eenim"
+        }
+    ]
+}

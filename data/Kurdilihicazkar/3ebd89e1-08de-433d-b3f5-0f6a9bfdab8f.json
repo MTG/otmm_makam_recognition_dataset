@@ -1,0 +1,127 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fee24520-d533-40f1-94cf-cc8e178d10cd", 
+            "title": "Selahattin P\u0131nar"
+        }
+    ], 
+    "title": "Ak\u015fam Yine G\u00f6lgenle Sabah Etti", 
+    "url": "http://musicbrainz.org/work/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "00747e0a-cfdf-4391-903c-af9c6df6dd2e", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Erk\u00f6se"
+        }, 
+        {
+            "mbid": "3dbd62ed-b90e-4a49-a075-4e4e50b0343d", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Naime Batanay"
+        }, 
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ulvi Erg\u00fcner"
+        }, 
+        {
+            "mbid": "6a1f9f25-0255-4341-9485-e88a5ba08053", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fahire Fersan"
+        }, 
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }, 
+        {
+            "mbid": "87cd8d25-1ff8-4b7c-8fd9-3786a2ff75f7", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "R\u00fc\u015ft\u00fc Eri\u00e7"
+        }, 
+        {
+            "mbid": "aac2ac47-c429-4656-b0b5-fbeae5ccdcb0", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Y\u0131ld\u0131zdo\u011fan"
+        }, 
+        {
+            "mbid": "fe0e21e7-4ea0-4edb-97c2-947dc19843ea", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcsn\u00fc \u00d6zenen"
+        }
+    ], 
+    "duration": 214, 
+    "path": "../data/Kurdilihicazkar/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f.mp3", 
+    "works": [
+        {
+            "mbid": "5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9", 
+            "title": "Ak\u015fam Yine G\u00f6lgenle Sabah Etti Bu G\u00f6nl\u00fcm"
+        }
+    ]
+}

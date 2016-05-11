@@ -1,0 +1,63 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/3524bd9b-4ab7-46cd-b781-0121c8c6c7a4"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/152a35e0-5a36-43a1-81ca-bad4464f6a09"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Suz-nak Pe\u015frev (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/152a35e0-5a36-43a1-81ca-bad4464f6a09", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "152a35e0-5a36-43a1-81ca-bad4464f6a09", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/3524bd9b-4ab7-46cd-b781-0121c8c6c7a4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/152a35e0-5a36-43a1-81ca-bad4464f6a09"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 287, 
+    "path": "../data/Suzinak/152a35e0-5a36-43a1-81ca-bad4464f6a09.mp3", 
+    "works": [
+        {
+            "mbid": "3524bd9b-4ab7-46cd-b781-0121c8c6c7a4", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ]
+}

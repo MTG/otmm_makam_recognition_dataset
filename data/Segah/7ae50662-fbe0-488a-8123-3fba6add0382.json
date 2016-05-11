@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/7ae50662-fbe0-488a-8123-3fba6add0382"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Segah Taksim", 
+    "url": "http://musicbrainz.org/work/7ae50662-fbe0-488a-8123-3fba6add0382", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "7ae50662-fbe0-488a-8123-3fba6add0382", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "duration": 213, 
+    "path": "../data/Segah/7ae50662-fbe0-488a-8123-3fba6add0382.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7ae50662-fbe0-488a-8123-3fba6add0382"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/7ae50662-fbe0-488a-8123-3fba6add0382"
+        }
+    ]
+}

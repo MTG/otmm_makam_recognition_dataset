@@ -1,0 +1,155 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "885776a7-190d-41a1-99d0-9f5441eea5c4", 
+            "title": "Me\u015fk-i Safa"
+        }
+    ], 
+    "title": "Bakm\u0131yor \u00c7e\u015fm-i Siy\u00e2hfery\u00e2de (Nihavend \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/work/133dec8a-fd3e-4347-b71a-230a9899673f", 
+    "artist_credits": [
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "name": "M\u00fcnip Utand\u0131"
+        }, 
+        {
+            "mbid": "6844715d-999e-4f5b-af4f-6fc6ada0f8ba", 
+            "name": "Adnan \u00c7oban"
+        }, 
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }, 
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "133dec8a-fd3e-4347-b71a-230a9899673f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }
+    ], 
+    "bit_rate": 48, 
+    "artists": [
+        {
+            "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Sermet Kutlu\u011f"
+        }, 
+        {
+            "mbid": "006f76d9-ddc1-4d98-83ed-12f4138a01e6", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Yasemin \u015eehnaz Ayan"
+        }, 
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "type": "vocal", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }, 
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "type": "vocal", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }, 
+        {
+            "mbid": "669e7fa0-c006-4ca2-9946-afaf41686ddf", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Mert Nar"
+        }, 
+        {
+            "mbid": "6844715d-999e-4f5b-af4f-6fc6ada0f8ba", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Adnan \u00c7oban"
+        }, 
+        {
+            "mbid": "6844715d-999e-4f5b-af4f-6fc6ada0f8ba", 
+            "type": "vocal", 
+            "name": "Adnan \u00c7oban"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8c4eb972-21df-4274-9349-0f68fe2de8cd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Gamze Ege K\u00f6prek Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "c15e3386-1159-4e38-8457-475972ac5333", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ne\u015fe Ye\u015fim Alt\u0131nel \u00c7oban"
+        }, 
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "type": "vocal", 
+            "name": "M\u00fcnip Utand\u0131"
+        }, 
+        {
+            "mbid": "ef52537c-139d-451f-9ab5-e8300a48bfae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Sarper Ero\u011flu"
+        }
+    ], 
+    "duration": 202, 
+    "path": "../data/Nihavent/133dec8a-fd3e-4347-b71a-230a9899673f.mp3", 
+    "works": [
+        {
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ]
+}

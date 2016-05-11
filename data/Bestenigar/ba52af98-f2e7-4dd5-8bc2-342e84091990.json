@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ba52af98-f2e7-4dd5-8bc2-342e84091990"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Bestenigar Taksim", 
+    "url": "http://musicbrainz.org/work/ba52af98-f2e7-4dd5-8bc2-342e84091990", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ba52af98-f2e7-4dd5-8bc2-342e84091990", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "duration": 214, 
+    "path": "../data/Bestenigar/ba52af98-f2e7-4dd5-8bc2-342e84091990.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ba52af98-f2e7-4dd5-8bc2-342e84091990"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/ba52af98-f2e7-4dd5-8bc2-342e84091990"
+        }
+    ]
+}

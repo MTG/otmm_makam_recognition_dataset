@@ -1,0 +1,65 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b9a75230-07f1-4651-a8a7-637d405f789d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90bcecd9-6213-430a-8cda-fecf6062d19c", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 1"
+        }
+    ], 
+    "title": "M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/work/b9a75230-07f1-4651-a8a7-637d405f789d", 
+    "artist_credits": [
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b9a75230-07f1-4651-a8a7-637d405f789d", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 149, 
+    "path": "../data/Mahur/b9a75230-07f1-4651-a8a7-637d405f789d.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b9a75230-07f1-4651-a8a7-637d405f789d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/b9a75230-07f1-4651-a8a7-637d405f789d"
+        }
+    ]
+}

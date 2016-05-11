@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrirevan", 
+            "mb_attribute": "Devr-i Revan", 
+            "source": "http://musicbrainz.org/work/3476df12-cbff-4901-8464-f946bb63b501"
+        }, 
+        {
+            "attribute_key": "devrirevan", 
+            "mb_tag": "devr-i revan", 
+            "source": "http://musicbrainz.org/recording/dcf12b5e-7734-4eb2-91f9-af7476f2db5c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/3476df12-cbff-4901-8464-f946bb63b501"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/dcf12b5e-7734-4eb2-91f9-af7476f2db5c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3310f52d-0eda-40d0-b937-e79589fe61c3", 
+            "title": "Bayati"
+        }
+    ], 
+    "title": "Ba\u011f-\u0131 A\u015fk\u0131n Andelibi Hazret-i \u00dcftadedir", 
+    "url": "http://musicbrainz.org/work/dcf12b5e-7734-4eb2-91f9-af7476f2db5c", 
+    "artist_credits": [
+        {
+            "mbid": "a8d8d8c6-e785-46bc-9896-f92a1c673a28", 
+            "name": "Cinu\u00e7en Tanr\u0131korur"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "dcf12b5e-7734-4eb2-91f9-af7476f2db5c", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/3476df12-cbff-4901-8464-f946bb63b501"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/dcf12b5e-7734-4eb2-91f9-af7476f2db5c"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "a8d8d8c6-e785-46bc-9896-f92a1c673a28", 
+            "type": "vocal", 
+            "name": "Cinu\u00e7en Tanr\u0131korur"
+        }
+    ], 
+    "duration": 282, 
+    "path": "../data/Beyati/dcf12b5e-7734-4eb2-91f9-af7476f2db5c.mp3", 
+    "works": [
+        {
+            "mbid": "3476df12-cbff-4901-8464-f946bb63b501", 
+            "title": "Ba\u011f-\u0131 A\u015fk\u0131n"
+        }
+    ]
+}

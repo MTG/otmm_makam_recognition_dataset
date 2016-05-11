@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Bu Ak\u015fam Ay I\u015f\u0131\u011f\u0131nda Bulu\u015fal\u0131m", 
+    "url": "http://musicbrainz.org/work/0b45417b-acb4-4f8a-b180-5ad45be889af", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "0b45417b-acb4-4f8a-b180-5ad45be889af", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 171, 
+    "path": "../data/Saba/0b45417b-acb4-4f8a-b180-5ad45be889af.mp3", 
+    "works": [
+        {
+            "mbid": "139beb14-cfc7-4409-a37c-bba1571aa555", 
+            "title": "Bu Ak\u015fam Ay I\u015f\u0131\u011f\u0131nda"
+        }
+    ]
+}

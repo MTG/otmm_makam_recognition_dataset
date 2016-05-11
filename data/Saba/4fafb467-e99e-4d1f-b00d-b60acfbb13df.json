@@ -1,0 +1,66 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/a4ad187b-3560-48c8-9ab3-50ca71ccece8"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/4fafb467-e99e-4d1f-b00d-b60acfbb13df"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1669d3fc-418d-41f0-be1e-c757d360c21a", 
+            "title": "\u015eevahot Lael / Allah'a \u00d6vg\u00fcler"
+        }
+    ], 
+    "title": "Nakdi\u015fah", 
+    "url": "http://musicbrainz.org/work/4fafb467-e99e-4d1f-b00d-b60acfbb13df", 
+    "artist_credits": [
+        {
+            "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
+            "name": "Aaron Kohen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "4fafb467-e99e-4d1f-b00d-b60acfbb13df", 
+    "form": [], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
+            "type": "vocal", 
+            "name": "Aaron Kohen"
+        }, 
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "bendir", 
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }
+    ], 
+    "duration": 182, 
+    "path": "../data/Saba/4fafb467-e99e-4d1f-b00d-b60acfbb13df.mp3", 
+    "works": [
+        {
+            "mbid": "a4ad187b-3560-48c8-9ab3-50ca71ccece8", 
+            "title": "Nakdi\u015fah"
+        }
+    ]
+}

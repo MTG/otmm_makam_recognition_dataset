@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/4f474517-de8a-45af-bf83-f6385b47fca0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0faed82b-3d66-45c2-b449-76c47e892d1a", 
+            "title": "Yorgo Bacanos'tan Ud Taksimleri"
+        }
+    ], 
+    "title": "Suzinak Taksim", 
+    "url": "http://musicbrainz.org/work/4f474517-de8a-45af-bf83-f6385b47fca0", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "4f474517-de8a-45af-bf83-f6385b47fca0", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 267, 
+    "path": "../data/Suzinak/4f474517-de8a-45af-bf83-f6385b47fca0.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4f474517-de8a-45af-bf83-f6385b47fca0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/4f474517-de8a-45af-bf83-f6385b47fca0"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b955ff3a-99c4-4703-9443-47cdcb4feb69"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/b955ff3a-99c4-4703-9443-47cdcb4feb69", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b955ff3a-99c4-4703-9443-47cdcb4feb69", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 196, 
+    "path": "../data/Suzinak/b955ff3a-99c4-4703-9443-47cdcb4feb69.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b955ff3a-99c4-4703-9443-47cdcb4feb69"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/b955ff3a-99c4-4703-9443-47cdcb4feb69"
+        }
+    ]
+}

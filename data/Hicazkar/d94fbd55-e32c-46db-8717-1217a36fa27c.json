@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d94fbd55-e32c-46db-8717-1217a36fa27c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/d94fbd55-e32c-46db-8717-1217a36fa27c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50d11824-b02a-406d-9ba7-8471f9dbbebb", 
+            "title": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "title": "Bana Hem- Dem Eyleyen Ey Gam Seni", 
+    "url": "http://musicbrainz.org/work/d94fbd55-e32c-46db-8717-1217a36fa27c", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d94fbd55-e32c-46db-8717-1217a36fa27c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e41ab346-4c6f-4639-9ac0-e9de1caccdf4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d94fbd55-e32c-46db-8717-1217a36fa27c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 123, 
+    "path": "../data/Hicazkar/d94fbd55-e32c-46db-8717-1217a36fa27c.mp3", 
+    "works": [
+        {
+            "mbid": "e41ab346-4c6f-4639-9ac0-e9de1caccdf4", 
+            "title": "Bana Hem Dem Eyleyen Ey Gam Seni"
+        }
+    ]
+}

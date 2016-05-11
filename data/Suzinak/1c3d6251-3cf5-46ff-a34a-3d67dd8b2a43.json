@@ -1,0 +1,127 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e64c1fb2-c85f-4734-b736-490320ef7f4a", 
+            "title": "Suzinak 13"
+        }
+    ], 
+    "title": "Sensiz Ya\u015famak Bil ki \u00d6l\u00fcmden de Ac\u0131ym\u0131\u015f", 
+    "url": "http://musicbrainz.org/work/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }, 
+        {
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cevdet \u00c7a\u011fla"
+        }, 
+        {
+            "mbid": "2dd7b59a-9069-4eec-b69a-b8bc38d60ed4", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Cenneto\u011flu"
+        }, 
+        {
+            "mbid": "2ec77a24-e39f-4895-9d3d-e9860dd721ba", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Erko\u00e7"
+        }, 
+        {
+            "mbid": "4fff52f9-95d8-4896-8d0d-c2538987e1a4", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Necat G\u00fcray"
+        }, 
+        {
+            "mbid": "74627c36-d382-411e-8a05-38e1d8e86c08", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Sayan"
+        }, 
+        {
+            "mbid": "a211fc89-02ab-4924-8463-0de9db87e06c", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ekrem Erdo\u011fru"
+        }, 
+        {
+            "mbid": "f970f540-19a8-4bb9-aec8-0a687a998dd1", 
+            "attribute-list": [
+                "other instruments"
+            ], 
+            "type": "instrument", 
+            "name": "Faik Dinleten"
+        }
+    ], 
+    "duration": 186, 
+    "path": "../data/Suzinak/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43.mp3", 
+    "works": [
+        {
+            "mbid": "a00aa0d1-1e59-40d1-8602-76b4aef68ada", 
+            "title": "Sensiz Ya\u015famak Bil ki \u00d6l\u00fcmden de Ac\u0131ym\u0131\u015f"
+        }
+    ]
+}

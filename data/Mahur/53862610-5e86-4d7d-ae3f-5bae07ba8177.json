@@ -1,0 +1,142 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/40acd362-0a5a-416c-931d-6329d87d8016"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/53862610-5e86-4d7d-ae3f-5bae07ba8177"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f3858a7-bda0-4b34-8849-177dcacc5784", 
+            "title": "17. Y\u00fczy\u0131l \u0130stanbul'unda Musiki (Ali Ufki Bey'in Tan\u0131kl\u0131\u011f\u0131yla)"
+        }
+    ], 
+    "title": "Dide G\u00f6rince Ol \u015euh\u0131 Nice Karar\u0131 Kal\u0131r", 
+    "url": "http://musicbrainz.org/work/53862610-5e86-4d7d-ae3f-5bae07ba8177", 
+    "artist_credits": [
+        {
+            "mbid": "0684b310-0672-438f-9e77-149e5f34bd95", 
+            "name": "Bezm\u00e2r\u00e2"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "53862610-5e86-4d7d-ae3f-5bae07ba8177", 
+    "form": [
+        {
+            "attribute_key": "murabba", 
+            "mb_attribute": "Murabba", 
+            "source": "http://musicbrainz.org/work/40acd362-0a5a-416c-931d-6329d87d8016"
+        }, 
+        {
+            "attribute_key": "murabba", 
+            "mb_tag": "murabba", 
+            "source": "http://musicbrainz.org/recording/53862610-5e86-4d7d-ae3f-5bae07ba8177"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "04b11cfe-d9cc-4350-852f-4212e2e358f1", 
+            "attribute-list": [
+                "komuz"
+            ], 
+            "type": "instrument", 
+            "name": "Adem Tosuno\u011flu"
+        }, 
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "attribute-list": [
+                "harp"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "type": "vocal", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
+            "type": "vocal", 
+            "name": "Mehmet Kemiksiz"
+        }, 
+        {
+            "mbid": "1cd3f92c-2b4b-45af-b9a2-b70432271be3", 
+            "attribute-list": [
+                "pan flute"
+            ], 
+            "type": "instrument", 
+            "name": "Tugay Ba\u015far"
+        }, 
+        {
+            "mbid": "530bbaea-d6c0-4f9e-a04d-f51eccee42f7", 
+            "attribute-list": [
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Kerem Karakaya"
+        }, 
+        {
+            "mbid": "582ed11b-5b45-40c5-afdc-c02a77c695e3", 
+            "type": "vocal", 
+            "name": "Ersin \u00c7elik"
+        }, 
+        {
+            "mbid": "6d47c26c-2a6d-4f34-a7c5-4b2bd61b21fc", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serap \u00c7a\u011flayan"
+        }, 
+        {
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "attribute-list": [
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Kamil Bilgin"
+        }, 
+        {
+            "mbid": "8bf07d92-bce8-4eac-817e-3efa3d7c0e07", 
+            "attribute-list": [
+                "santur"
+            ], 
+            "type": "instrument", 
+            "name": "Didem Dermen"
+        }, 
+        {
+            "mbid": "cf36460f-525e-46b3-95a3-12302f1be1cd", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Nurullah Kan\u0131k"
+        }, 
+        {
+            "mbid": "d6126451-8a9b-4e59-9c0b-542c5c4b7f78", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Balo\u011flu"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Mahur/53862610-5e86-4d7d-ae3f-5bae07ba8177.mp3", 
+    "works": [
+        {
+            "mbid": "40acd362-0a5a-416c-931d-6329d87d8016", 
+            "title": "Dide G\u00f6rince Ol \u015euh\u0131 Nice Karar\u0131 Kal\u0131r"
+        }
+    ]
+}

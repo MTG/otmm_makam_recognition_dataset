@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "aa9ec1d7-5633-481b-abca-0866afbf8f6f", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Tambur"
+        }
+    ], 
+    "title": "H\u00fcseyni Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/7a761e89-a5a8-42c2-ba69-b7cbed15bb30", 
+    "artist_credits": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "7a761e89-a5a8-42c2-ba69-b7cbed15bb30", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "duration": 266, 
+    "path": "../data/Huseyni/7a761e89-a5a8-42c2-ba69-b7cbed15bb30.mp3", 
+    "works": [
+        {
+            "mbid": "53b4d534-9bd1-440c-a58a-a2ae11731b23", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ]
+}

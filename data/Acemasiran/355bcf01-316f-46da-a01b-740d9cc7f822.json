@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/355bcf01-316f-46da-a01b-740d9cc7f822"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/355bcf01-316f-46da-a01b-740d9cc7f822"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2e8e09e0-d85d-4699-9d73-551a6bebd289", 
+            "title": "Eski Devir Bah\u00e7eleri"
+        }
+    ], 
+    "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden", 
+    "url": "http://musicbrainz.org/work/355bcf01-316f-46da-a01b-740d9cc7f822", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "355bcf01-316f-46da-a01b-740d9cc7f822", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/355bcf01-316f-46da-a01b-740d9cc7f822"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 270, 
+    "path": "../data/Acemasiran/355bcf01-316f-46da-a01b-740d9cc7f822.mp3", 
+    "works": [
+        {
+            "mbid": "197e8937-cb96-463c-bbac-223b1a9f9e73", 
+            "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden"
+        }
+    ]
+}

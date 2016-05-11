@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/be19c072-319c-4ca0-afc3-96b036684cd9"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/6c48b93f-16fa-4adc-bf7b-26652f64defb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/be19c072-319c-4ca0-afc3-96b036684cd9"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/6c48b93f-16fa-4adc-bf7b-26652f64defb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d1864e9d-9ffa-4156-90fe-0a992685ab1f", 
+            "title": "Trt Ar\u015fiv Serisi 1 - Zeki M\u00fcren'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Bir G\u00f6nl\u00fcme Bir Hali Peri\u015fan\u0131ma Bakt\u0131m", 
+    "url": "http://musicbrainz.org/work/6c48b93f-16fa-4adc-bf7b-26652f64defb", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "6c48b93f-16fa-4adc-bf7b-26652f64defb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/be19c072-319c-4ca0-afc3-96b036684cd9"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6c48b93f-16fa-4adc-bf7b-26652f64defb"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 162, 
+    "path": "../data/Rast/6c48b93f-16fa-4adc-bf7b-26652f64defb.mp3", 
+    "works": [
+        {
+            "mbid": "be19c072-319c-4ca0-afc3-96b036684cd9", 
+            "title": "Bir G\u00f6nl\u00fcme Bir Hal-i Peri\u015fan\u0131ma"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "instrumentation_voicing": "Trio instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "917f9158-b14d-4abd-a132-30200d0a759b", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 2"
+        }
+    ], 
+    "title": "M\u00fc\u015fterek Taksim - K\u00fcrdilihicazk\u00e2r", 
+    "url": "http://musicbrainz.org/work/48f3ff44-c15f-4588-af65-6be454328b02", 
+    "artist_credits": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "48f3ff44-c15f-4588-af65-6be454328b02", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Turay Dinleyen"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Tahir Aydo\u011fdu"
+        }
+    ], 
+    "duration": 165, 
+    "path": "../data/Kurdilihicazkar/48f3ff44-c15f-4588-af65-6be454328b02.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
+        }
+    ]
+}

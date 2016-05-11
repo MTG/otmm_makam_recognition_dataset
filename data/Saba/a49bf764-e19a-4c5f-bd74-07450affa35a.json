@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/448b3505-8a3a-467b-86ac-3a168eb4ee1e"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/a49bf764-e19a-4c5f-bd74-07450affa35a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/448b3505-8a3a-467b-86ac-3a168eb4ee1e"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/a49bf764-e19a-4c5f-bd74-07450affa35a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c70ada1d-1d60-4173-aaca-324066efac82", 
+            "title": "T\u00fcrk Tasavvuf M\u00fczi\u011fi"
+        }
+    ], 
+    "title": "C\u00fcmle H\u00fcccac", 
+    "url": "http://musicbrainz.org/work/a49bf764-e19a-4c5f-bd74-07450affa35a", 
+    "artist_credits": [
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "name": "Ahmet \u00d6zhan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "a49bf764-e19a-4c5f-bd74-07450affa35a", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/448b3505-8a3a-467b-86ac-3a168eb4ee1e"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/a49bf764-e19a-4c5f-bd74-07450affa35a"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "type": "conductor", 
+            "name": "Ahmet \u00d6zhan"
+        }
+    ], 
+    "duration": 211, 
+    "path": "../data/Saba/a49bf764-e19a-4c5f-bd74-07450affa35a.mp3", 
+    "works": [
+        {
+            "mbid": "448b3505-8a3a-467b-86ac-3a168eb4ee1e", 
+            "title": "C\u00fcmle H\u00fcccac \u0130le"
+        }
+    ]
+}

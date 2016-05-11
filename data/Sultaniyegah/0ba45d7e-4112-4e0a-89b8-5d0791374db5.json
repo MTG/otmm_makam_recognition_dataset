@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2e8e09e0-d85d-4699-9d73-551a6bebd289", 
+            "title": "Eski Devir Bah\u00e7eleri"
+        }
+    ], 
+    "title": "Misalini Ne Zemin \u00fc Zeman G\u00f6rm\u00fc\u015ft\u00fcr", 
+    "url": "http://musicbrainz.org/work/0ba45d7e-4112-4e0a-89b8-5d0791374db5", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "0ba45d7e-4112-4e0a-89b8-5d0791374db5", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 175, 
+    "path": "../data/Sultaniyegah/0ba45d7e-4112-4e0a-89b8-5d0791374db5.mp3", 
+    "works": [
+        {
+            "mbid": "3122c992-e159-46a3-b0b2-57005dd76a80", 
+            "title": "Misalini Ne Zemin \u00fc Zaman G\u00f6rm\u00fc\u015ft\u00fcr"
+        }
+    ]
+}

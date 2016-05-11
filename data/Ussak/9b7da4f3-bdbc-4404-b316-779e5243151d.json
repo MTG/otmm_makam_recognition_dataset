@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9b7da4f3-bdbc-4404-b316-779e5243151d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "89c6eab0-efd6-469a-bee8-00c5684eb6e6", 
+            "title": "Bestekarlar\u0131m\u0131z: 7 - Tanburi Mustafa \u00c7avu\u015f"
+        }
+    ], 
+    "title": "U\u015f\u015fak Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/9b7da4f3-bdbc-4404-b316-779e5243151d", 
+    "artist_credits": [
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9b7da4f3-bdbc-4404-b316-779e5243151d", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "51dd67df-47be-454f-b6e0-9c947581e7d7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ali A\u015fk\u0131n"
+        }, 
+        {
+            "mbid": "a079cf48-d56c-4e79-9276-3097a11fa5fa", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Civan"
+        }
+    ], 
+    "duration": 112, 
+    "path": "../data/Ussak/9b7da4f3-bdbc-4404-b316-779e5243151d.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9b7da4f3-bdbc-4404-b316-779e5243151d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/9b7da4f3-bdbc-4404-b316-779e5243151d"
+        }
+    ]
+}

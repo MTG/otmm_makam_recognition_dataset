@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/63eaeb8c-26d7-4ba4-ae77-4f1d113f68c5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a8c6952a-d8b8-4014-90f2-46650bac4ff6", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ud"
+        }
+    ], 
+    "title": "Hicaz Taksim", 
+    "url": "http://musicbrainz.org/work/63eaeb8c-26d7-4ba4-ae77-4f1d113f68c5", 
+    "artist_credits": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "name": "Udi Nevres Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "63eaeb8c-26d7-4ba4-ae77-4f1d113f68c5", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Nevres Bey"
+        }
+    ], 
+    "duration": 194, 
+    "path": "../data/Hicaz/63eaeb8c-26d7-4ba4-ae77-4f1d113f68c5.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/63eaeb8c-26d7-4ba4-ae77-4f1d113f68c5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/63eaeb8c-26d7-4ba4-ae77-4f1d113f68c5"
+        }
+    ]
+}

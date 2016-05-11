@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "Bin H\u00fcz\u00fcn \u00c7\u00f6kt\u00fc Yine", 
+    "url": "http://musicbrainz.org/work/0fbb13d9-823d-4f93-af9f-f5e14e032f10", 
+    "artist_credits": [
+        {
+            "mbid": "58af6edc-f7c8-462a-90ec-4d5851598a1b", 
+            "name": "Mediha Demirk\u0131ran"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "0fbb13d9-823d-4f93-af9f-f5e14e032f10", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "58af6edc-f7c8-462a-90ec-4d5851598a1b", 
+            "type": "vocal", 
+            "name": "Mediha Demirk\u0131ran"
+        }
+    ], 
+    "duration": 223, 
+    "path": "../data/Huzzam/0fbb13d9-823d-4f93-af9f-f5e14e032f10.mp3", 
+    "works": [
+        {
+            "mbid": "c4d707dd-393d-4511-a9a9-297226964e1c", 
+            "title": "Bin H\u00fcz\u00fcn \u00c7\u00f6kt\u00fc Yine G\u00f6nl\u00fcme"
+        }
+    ]
+}

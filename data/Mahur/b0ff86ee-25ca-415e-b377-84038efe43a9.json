@@ -1,0 +1,81 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b0ff86ee-25ca-415e-b377-84038efe43a9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/b0ff86ee-25ca-415e-b377-84038efe43a9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "Mahur Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/b0ff86ee-25ca-415e-b377-84038efe43a9", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "b0ff86ee-25ca-415e-b377-84038efe43a9", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/b0ff86ee-25ca-415e-b377-84038efe43a9"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }
+    ], 
+    "duration": 366, 
+    "path": "../data/Mahur/b0ff86ee-25ca-415e-b377-84038efe43a9.mp3", 
+    "works": [
+        {
+            "mbid": "2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

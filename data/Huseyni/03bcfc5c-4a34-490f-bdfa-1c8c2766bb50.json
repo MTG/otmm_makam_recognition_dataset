@@ -1,0 +1,98 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/22a5384c-d693-40c1-bf6d-b188807eabaf"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/22a5384c-d693-40c1-bf6d-b188807eabaf"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "H\u00fcseyni Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer"
+        }, 
+        {
+            "mbid": "fe0e21e7-4ea0-4edb-97c2-947dc19843ea", 
+            "name": "H\u00fcsn\u00fc \u00d6zenen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "03bcfc5c-4a34-490f-bdfa-1c8c2766bb50", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/22a5384c-d693-40c1-bf6d-b188807eabaf"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }, 
+        {
+            "mbid": "fe0e21e7-4ea0-4edb-97c2-947dc19843ea", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcsn\u00fc \u00d6zenen"
+        }
+    ], 
+    "duration": 162, 
+    "path": "../data/Huseyni/03bcfc5c-4a34-490f-bdfa-1c8c2766bb50.mp3", 
+    "works": [
+        {
+            "mbid": "22a5384c-d693-40c1-bf6d-b188807eabaf", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/2433d1e7-acd1-4c18-b205-76875b0d5b54"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0faed82b-3d66-45c2-b449-76c47e892d1a", 
+            "title": "Yorgo Bacanos'tan Ud Taksimleri"
+        }
+    ], 
+    "title": "Muhayyer Taksim", 
+    "url": "http://musicbrainz.org/work/2433d1e7-acd1-4c18-b205-76875b0d5b54", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "2433d1e7-acd1-4c18-b205-76875b0d5b54", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 231, 
+    "path": "../data/Muhayyer/2433d1e7-acd1-4c18-b205-76875b0d5b54.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2433d1e7-acd1-4c18-b205-76875b0d5b54"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/2433d1e7-acd1-4c18-b205-76875b0d5b54"
+        }
+    ]
+}

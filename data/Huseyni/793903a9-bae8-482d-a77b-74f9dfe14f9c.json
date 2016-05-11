@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/793903a9-bae8-482d-a77b-74f9dfe14f9c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Tanbur Taksim", 
+    "url": "http://musicbrainz.org/work/793903a9-bae8-482d-a77b-74f9dfe14f9c", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "793903a9-bae8-482d-a77b-74f9dfe14f9c", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 199, 
+    "path": "../data/Huseyni/793903a9-bae8-482d-a77b-74f9dfe14f9c.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/793903a9-bae8-482d-a77b-74f9dfe14f9c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/793903a9-bae8-482d-a77b-74f9dfe14f9c"
+        }
+    ]
+}

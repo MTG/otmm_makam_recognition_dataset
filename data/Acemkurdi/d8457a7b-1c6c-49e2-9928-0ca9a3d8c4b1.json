@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/d8457a7b-1c6c-49e2-9928-0ca9a3d8c4b1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/d8457a7b-1c6c-49e2-9928-0ca9a3d8c4b1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c053c125-88e1-43a9-8764-09a786fcb86e", 
+            "title": "Acem K\u00fcrdi"
+        }
+    ], 
+    "title": "A\u015fk\u0131n ile G\u00fcnd\u00fcz Gece Giryan\u0131m Efendim", 
+    "url": "http://musicbrainz.org/work/d8457a7b-1c6c-49e2-9928-0ca9a3d8c4b1", 
+    "artist_credits": [
+        {
+            "mbid": "daf912d9-a40c-4576-ba1f-39d1cd312cae", 
+            "name": "Behiye Aksoy"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d8457a7b-1c6c-49e2-9928-0ca9a3d8c4b1", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d8457a7b-1c6c-49e2-9928-0ca9a3d8c4b1"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "daf912d9-a40c-4576-ba1f-39d1cd312cae", 
+            "type": "vocal", 
+            "name": "Behiye Aksoy"
+        }
+    ], 
+    "duration": 128, 
+    "path": "../data/Acemkurdi/d8457a7b-1c6c-49e2-9928-0ca9a3d8c4b1.mp3", 
+    "works": [
+        {
+            "mbid": "a463f395-9c0b-4edc-af43-5c0267240d9f", 
+            "title": "A\u015fk\u0131n \u0130le G\u00fcnd\u00fcz Gece"
+        }
+    ]
+}

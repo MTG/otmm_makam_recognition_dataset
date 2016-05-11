@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/08507ea8-4766-4850-a971-bcc47737f6e4"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/f15e55b0-77e3-4e01-9c84-c3a45144c523"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/08507ea8-4766-4850-a971-bcc47737f6e4"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/f15e55b0-77e3-4e01-9c84-c3a45144c523"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d0f952fe-7896-4489-958e-ed2f724f93ec", 
+            "title": "Vasf\u0131n\u0131 Bu Resme Tertip Ettiler\u2026"
+        }
+    ], 
+    "title": "G\u00f6sterip A\u011fyare Lutfun Bizlere Biganesin", 
+    "url": "http://musicbrainz.org/work/f15e55b0-77e3-4e01-9c84-c3a45144c523", 
+    "artist_credits": [
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "f15e55b0-77e3-4e01-9c84-c3a45144c523", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/08507ea8-4766-4850-a971-bcc47737f6e4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f15e55b0-77e3-4e01-9c84-c3a45144c523"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }, 
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "duration": 226, 
+    "path": "../data/Mahur/f15e55b0-77e3-4e01-9c84-c3a45144c523.mp3", 
+    "works": [
+        {
+            "mbid": "08507ea8-4766-4850-a971-bcc47737f6e4", 
+            "title": "G\u00f6sterip A\u011fyare Lutfun Bizlere Biganesin"
+        }
+    ]
+}

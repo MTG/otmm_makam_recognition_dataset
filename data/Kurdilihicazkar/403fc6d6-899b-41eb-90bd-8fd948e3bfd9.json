@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Taksim", 
+    "url": "http://musicbrainz.org/work/403fc6d6-899b-41eb-90bd-8fd948e3bfd9", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "403fc6d6-899b-41eb-90bd-8fd948e3bfd9", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "lute"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "duration": 210, 
+    "path": "../data/Kurdilihicazkar/403fc6d6-899b-41eb-90bd-8fd948e3bfd9.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
+        }
+    ]
+}

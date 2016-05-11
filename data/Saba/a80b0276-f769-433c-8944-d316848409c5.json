@@ -1,0 +1,255 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a80b0276-f769-433c-8944-d316848409c5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/a80b0276-f769-433c-8944-d316848409c5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "89c6eab0-efd6-469a-bee8-00c5684eb6e6", 
+            "title": "Bestekarlar\u0131m\u0131z: 7 - Tanburi Mustafa \u00c7avu\u015f"
+        }
+    ], 
+    "title": "Bir Esmere G\u00f6n\u00fcl Verdim", 
+    "url": "http://musicbrainz.org/work/a80b0276-f769-433c-8944-d316848409c5", 
+    "artist_credits": [
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "a80b0276-f769-433c-8944-d316848409c5", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a80b0276-f769-433c-8944-d316848409c5"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "03d362b0-4c8f-4d86-8ee1-aaa039f3f7f8", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Cem O\u011fuz"
+        }, 
+        {
+            "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan G\u00fcndiyer"
+        }, 
+        {
+            "mbid": "121e4ec9-43a0-40fc-bfbe-03c2429856dd", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Tando\u011fan Ba\u015fkurt"
+        }, 
+        {
+            "mbid": "16f6e20e-0674-4880-9497-b231e234b127", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Mahir K\u0131l\u0131\u00e7"
+        }, 
+        {
+            "mbid": "2e06c7c2-c2fd-4484-8b28-b8d9efe0e9d1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Haluk Derin\u00f6z"
+        }, 
+        {
+            "mbid": "3477c9a3-47b0-4cc0-8acd-3691c2aa7ad6", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Tanju Kabac\u0131"
+        }, 
+        {
+            "mbid": "34d08f2f-7f19-472d-9111-8b65d3a48e98", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Dinleyen"
+        }, 
+        {
+            "mbid": "380b5d3a-7b23-44f3-abc9-7ac316cb3bcd", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Alaeddin Sezen"
+        }, 
+        {
+            "mbid": "43f14d88-8f74-4254-9837-6c9350b03f27", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer Yaman"
+        }, 
+        {
+            "mbid": "4d70bdcb-1d9b-4137-ab88-ef96e26d0a69", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Tevfik Soyata"
+        }, 
+        {
+            "mbid": "51dd67df-47be-454f-b6e0-9c947581e7d7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ali A\u015fk\u0131n"
+        }, 
+        {
+            "mbid": "618e982e-4df7-41e5-bec3-674f9fe33e95", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "A. Y\u0131ldan Dirik"
+        }, 
+        {
+            "mbid": "69f50ac4-f907-4935-9f6b-842eeb551144", 
+            "type": "vocal", 
+            "name": "Figen Ak\u0131\u015f\u0131k"
+        }, 
+        {
+            "mbid": "6aca5d05-8e09-49e1-8882-92058e6b3471", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim Alt\u0131nba\u015f"
+        }, 
+        {
+            "mbid": "6b31f595-1fee-4bae-9cf9-fa3810731fed", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim Oytun"
+        }, 
+        {
+            "mbid": "78726252-3ef1-42dc-9463-a3cc477b027c", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Reyyan Kurbani"
+        }, 
+        {
+            "mbid": "828322ad-aab8-4bb4-a9d0-06bfef56ea9d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Fatih Akdeniz"
+        }, 
+        {
+            "mbid": "85015e35-c8d5-42f2-bd68-60483874bf6d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcseyin Turna"
+        }, 
+        {
+            "mbid": "8eb84904-410b-496a-8afa-d817cfb61c10", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Bur\u00e7"
+        }, 
+        {
+            "mbid": "a079cf48-d56c-4e79-9276-3097a11fa5fa", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Civan"
+        }, 
+        {
+            "mbid": "ac6965c8-cebd-42c8-9e62-5f91d46d0aa6", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130lmiye Mercan"
+        }, 
+        {
+            "mbid": "ce32b651-c74b-4d87-a37a-ef68d5b7939f", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Ya\u015far G\u00fczeller"
+        }, 
+        {
+            "mbid": "ce641d12-e61b-4480-98b3-57f90a265e12", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Veysel G\u00fcng\u00f6ren"
+        }, 
+        {
+            "mbid": "d9a58619-ec31-4bcc-a0b6-54b6c1e6a96a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sedat G\u00fcndiyer"
+        }
+    ], 
+    "duration": 133, 
+    "path": "../data/Saba/a80b0276-f769-433c-8944-d316848409c5.mp3", 
+    "works": [
+        {
+            "mbid": "0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f", 
+            "title": "Bir Esmere G\u00f6n\u00fcl Verdim"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ce85916c-8458-443c-9821-aa77102e16b6"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5f135ea4-abc1-4b55-8335-722f059321a5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/ce85916c-8458-443c-9821-aa77102e16b6"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/5f135ea4-abc1-4b55-8335-722f059321a5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbe5e02d-024c-465f-b438-cefba565f5c8", 
+            "title": "Enginde Yava\u015f Yava\u015f"
+        }
+    ], 
+    "title": "Yalans\u0131z Riyas\u0131z Tatl\u0131 Dilleri", 
+    "url": "http://musicbrainz.org/work/5f135ea4-abc1-4b55-8335-722f059321a5", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5f135ea4-abc1-4b55-8335-722f059321a5", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ce85916c-8458-443c-9821-aa77102e16b6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5f135ea4-abc1-4b55-8335-722f059321a5"
+        }
+    ], 
+    "bit_rate": 320, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 286, 
+    "path": "../data/Huzzam/5f135ea4-abc1-4b55-8335-722f059321a5.mp3", 
+    "works": [
+        {
+            "mbid": "ce85916c-8458-443c-9821-aa77102e16b6", 
+            "title": "Yalans\u0131z Riyas\u0131z"
+        }
+    ]
+}

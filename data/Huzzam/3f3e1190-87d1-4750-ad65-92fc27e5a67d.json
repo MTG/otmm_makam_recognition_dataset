@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/3f3e1190-87d1-4750-ad65-92fc27e5a67d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c7f750d-8868-46d6-bfbf-7fd2a5e04b95", 
+            "title": "40 Makam 40 Anlam"
+        }
+    ], 
+    "title": "H\u00fczzam Gazel", 
+    "url": "http://musicbrainz.org/work/3f3e1190-87d1-4750-ad65-92fc27e5a67d", 
+    "artist_credits": [
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "3f3e1190-87d1-4750-ad65-92fc27e5a67d", 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
+            "type": "vocal", 
+            "name": "Mehmet Kemiksiz"
+        }
+    ], 
+    "duration": 314, 
+    "path": "../data/Huzzam/3f3e1190-87d1-4750-ad65-92fc27e5a67d.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3f3e1190-87d1-4750-ad65-92fc27e5a67d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/3f3e1190-87d1-4750-ad65-92fc27e5a67d"
+        }
+    ]
+}

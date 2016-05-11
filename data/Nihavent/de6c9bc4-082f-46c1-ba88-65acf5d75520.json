@@ -1,0 +1,87 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/b4678320-3127-495c-b4e4-4d414da32d28"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/de6c9bc4-082f-46c1-ba88-65acf5d75520"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90bcecd9-6213-430a-8cda-fecf6062d19c", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 1"
+        }
+    ], 
+    "title": "Nihavend Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/de6c9bc4-082f-46c1-ba88-65acf5d75520", 
+    "artist_credits": [
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "de6c9bc4-082f-46c1-ba88-65acf5d75520", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/b4678320-3127-495c-b4e4-4d414da32d28"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/de6c9bc4-082f-46c1-ba88-65acf5d75520"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 382, 
+    "path": "../data/Nihavent/de6c9bc4-082f-46c1-ba88-65acf5d75520.mp3", 
+    "works": [
+        {
+            "mbid": "b4678320-3127-495c-b4e4-4d414da32d28", 
+            "title": "Nihavend Saz Semaisi"
+        }
+    ]
+}

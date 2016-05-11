@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/9b59b8cb-7dde-4c63-8db1-a64178516aea"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/8956dc84-ce4f-4bba-8826-d284876d21b6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/9b59b8cb-7dde-4c63-8db1-a64178516aea"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/8956dc84-ce4f-4bba-8826-d284876d21b6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "001deb7f-3a8d-4690-9be6-f9fe7370aea2", 
+            "title": "Mahur"
+        }
+    ], 
+    "title": "\u015eark\u0131m\u0131 Senin \u0130\u00e7in Yazd\u0131\u011f\u0131m\u0131 Bilseydin", 
+    "url": "http://musicbrainz.org/work/8956dc84-ce4f-4bba-8826-d284876d21b6", 
+    "artist_credits": [
+        {
+            "mbid": "ef422c4a-8938-4551-ab8d-603e533025cd", 
+            "name": "Burhan Dikencik"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "8956dc84-ce4f-4bba-8826-d284876d21b6", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9b59b8cb-7dde-4c63-8db1-a64178516aea"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/8956dc84-ce4f-4bba-8826-d284876d21b6"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "ef422c4a-8938-4551-ab8d-603e533025cd", 
+            "type": "vocal", 
+            "name": "Burhan Dikencik"
+        }
+    ], 
+    "duration": 264, 
+    "path": "../data/Mahur/8956dc84-ce4f-4bba-8826-d284876d21b6.mp3", 
+    "works": [
+        {
+            "mbid": "9b59b8cb-7dde-4c63-8db1-a64178516aea", 
+            "title": "\u015eark\u0131m\u0131 Senin \u0130\u00e7in Yazd\u0131\u011f\u0131m\u0131"
+        }
+    ]
+}

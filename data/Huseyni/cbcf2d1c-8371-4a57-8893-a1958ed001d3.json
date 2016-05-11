@@ -1,0 +1,167 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c50ef6d2-450f-41c4-8949-cc1ef7d2a328", 
+            "title": "TRT \u0130stanbul Radyosu - 11.02.1992"
+        }
+    ], 
+    "title": "Demirciler Demir D\u00f6ver Tun\u00e7 Olur", 
+    "url": "http://musicbrainz.org/work/cbcf2d1c-8371-4a57-8893-a1958ed001d3", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "cbcf2d1c-8371-4a57-8893-a1958ed001d3", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "0bf88572-db68-4b2c-9a24-45e8cd0279f4", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcniz Akcan"
+        }, 
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u00c7ak\u0131r"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "2dd7b59a-9069-4eec-b69a-b8bc38d60ed4", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Cenneto\u011flu"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "a1383787-7039-45e8-a0ad-0012f472439f", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "R\u0131dvan Aytan"
+        }, 
+        {
+            "mbid": "a5e88a2e-f405-483d-8a3b-3e55c2113acd", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Erkahveci"
+        }, 
+        {
+            "mbid": "b611c81e-2ff9-408c-bfb3-4ad94affbd79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nevbahar \u00d6zel"
+        }, 
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Demir"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "e8c0fddc-2ba0-494c-90a9-9ad51d01619d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Nuri G\u00fcn"
+        }
+    ], 
+    "duration": 239, 
+    "path": "../data/Huseyni/cbcf2d1c-8371-4a57-8893-a1958ed001d3.mp3", 
+    "works": [
+        {
+            "mbid": "580aa88c-f6f5-4dae-af5c-3c036fa85b3e", 
+            "title": "Demirciler Demir D\u00f6ver Tun\u00e7 Olur"
+        }
+    ]
+}

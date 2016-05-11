@@ -1,0 +1,115 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/2ec806b4-7df2-4fd4-9752-140a0bcc9730"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/2ec806b4-7df2-4fd4-9752-140a0bcc9730"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b27b0bc-ee6e-4838-85ee-cce0cdaf4537", 
+            "title": "T\u00fcrk Bestekarlar\u0131 Serisi - Hac\u0131 Arif Bey"
+        }, 
+        {
+            "mbid": "bc356bab-e393-41e7-be92-ed1d6a57c16b", 
+            "title": "Segah"
+        }
+    ], 
+    "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme", 
+    "url": "http://musicbrainz.org/work/2ec806b4-7df2-4fd4-9752-140a0bcc9730", 
+    "artist_credits": [
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "name": "Recep Birgit"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "2ec806b4-7df2-4fd4-9752-140a0bcc9730", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2ec806b4-7df2-4fd4-9752-140a0bcc9730"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Recep Birgit"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 197, 
+    "path": "../data/Segah/2ec806b4-7df2-4fd4-9752-140a0bcc9730.mp3", 
+    "works": [
+        {
+            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
+            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+        }
+    ]
+}

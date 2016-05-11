@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/46b1d655-724a-464a-a127-f0075a6f8856"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/46b1d655-724a-464a-a127-f0075a6f8856"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fd519a20-0111-45f0-a4f4-ccec1558e126", 
+            "title": "Necdet Ya\u015far - Ar\u015fiv Serisi 2"
+        }
+    ], 
+    "title": "Nihavent Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "63cf6e28-86bb-4ceb-9a36-5a9c27de12a8", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/46b1d655-724a-464a-a127-f0075a6f8856"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 304, 
+    "path": "../data/Nihavent/63cf6e28-86bb-4ceb-9a36-5a9c27de12a8.mp3", 
+    "works": [
+        {
+            "mbid": "46b1d655-724a-464a-a127-f0075a6f8856", 
+            "title": "Nih\u00e2vend Saz Sem\u00e2isi"
+        }
+    ]
+}

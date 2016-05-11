@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/3e178c2d-4b13-497b-84c5-ec9fcbbf3f04"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/e52d63a8-0e8b-49e2-a0f0-271fd8183764"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/3e178c2d-4b13-497b-84c5-ec9fcbbf3f04"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/e52d63a8-0e8b-49e2-a0f0-271fd8183764"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "Esselam\u00fc Aleyke Ya \u015eehrel Lutfu Vel \u0130hsan", 
+    "url": "http://musicbrainz.org/work/e52d63a8-0e8b-49e2-a0f0-271fd8183764", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e52d63a8-0e8b-49e2-a0f0-271fd8183764", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/3e178c2d-4b13-497b-84c5-ec9fcbbf3f04"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/e52d63a8-0e8b-49e2-a0f0-271fd8183764"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 147, 
+    "path": "../data/Segah/e52d63a8-0e8b-49e2-a0f0-271fd8183764.mp3", 
+    "works": [
+        {
+            "mbid": "3e178c2d-4b13-497b-84c5-ec9fcbbf3f04", 
+            "title": "Esselam\u00fc Aleyke Ya \u015eehrel Lutfu Vel \u0130hsan"
+        }
+    ]
+}

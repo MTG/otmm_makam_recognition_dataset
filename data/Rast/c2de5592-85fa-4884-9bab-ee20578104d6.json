@@ -1,0 +1,80 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c2de5592-85fa-4884-9bab-ee20578104d6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/c2de5592-85fa-4884-9bab-ee20578104d6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "495f6cda-3abd-4144-900f-3a526eecd2b9", 
+            "title": "Haf\u0131z Burhan - A\u015fk\u0131n G\u00f6zya\u015flar\u0131"
+        }, 
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Makber (Her Yer Karanl\u0131k)", 
+    "url": "http://musicbrainz.org/work/c2de5592-85fa-4884-9bab-ee20578104d6", 
+    "artist_credits": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "c2de5592-85fa-4884-9bab-ee20578104d6", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_attribute": "Gazel", 
+            "source": "http://musicbrainz.org/work/4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4"
+        }, 
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/c2de5592-85fa-4884-9bab-ee20578104d6"
+        }, 
+        {
+            "attribute_key": "mersiye", 
+            "mb_tag": "mersiye", 
+            "source": "http://musicbrainz.org/recording/c2de5592-85fa-4884-9bab-ee20578104d6"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "duration": 330, 
+    "path": "../data/Rast/c2de5592-85fa-4884-9bab-ee20578104d6.mp3", 
+    "works": [
+        {
+            "mbid": "4f2ccde3-2508-41ae-9d08-b0e72bb6f0a4", 
+            "title": "Makber"
+        }
+    ]
+}

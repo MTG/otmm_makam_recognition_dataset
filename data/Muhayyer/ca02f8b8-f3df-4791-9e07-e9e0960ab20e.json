@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ca02f8b8-f3df-4791-9e07-e9e0960ab20e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93eb4d4b-b3f7-4650-913a-93d8c8ecd9a4", 
+            "title": "Ottoman Turkish Court Music / Osmanl\u0131 T\u00fcrk Enderun Musikisi"
+        }
+    ], 
+    "title": "Muhayyer Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/ca02f8b8-f3df-4791-9e07-e9e0960ab20e", 
+    "artist_credits": [
+        {
+            "mbid": "9ed62346-228f-48e9-9a1d-f6052c982edd", 
+            "name": "Meral U\u011furlu Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ca02f8b8-f3df-4791-9e07-e9e0960ab20e", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3b574ce5-00f2-4fe5-9b7b-201d168372e1", 
+            "attribute-list": [
+                "oud", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Samim Karaca"
+        }
+    ], 
+    "duration": 116, 
+    "path": "../data/Muhayyer/ca02f8b8-f3df-4791-9e07-e9e0960ab20e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ca02f8b8-f3df-4791-9e07-e9e0960ab20e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/ca02f8b8-f3df-4791-9e07-e9e0960ab20e"
+        }
+    ]
+}

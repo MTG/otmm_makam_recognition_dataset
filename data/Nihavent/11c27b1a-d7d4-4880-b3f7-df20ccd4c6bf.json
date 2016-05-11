@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "Kalplerden Yine Dudaklara", 
+    "url": "http://musicbrainz.org/work/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 266, 
+    "path": "../data/Nihavent/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf.mp3", 
+    "works": [
+        {
+            "mbid": "7c97ffbb-a591-4158-bd1b-f0d5ef84545b", 
+            "title": "Kalplerden Dudaklara"
+        }
+    ]
+}

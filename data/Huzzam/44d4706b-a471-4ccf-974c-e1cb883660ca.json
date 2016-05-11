@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bd4f2c79-fef5-4566-b696-7a2aa315e505", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi - Kalplerden Dudaklara"
+        }
+    ], 
+    "title": "D\u00fcn Gece Bir \u015euhun...", 
+    "url": "http://musicbrainz.org/work/44d4706b-a471-4ccf-974c-e1cb883660ca", 
+    "artist_credits": [
+        {
+            "mbid": "74f57922-a7dd-4d93-81f7-4be9c173a407", 
+            "name": "Yesari As\u0131m Arsoy"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "44d4706b-a471-4ccf-974c-e1cb883660ca", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "74f57922-a7dd-4d93-81f7-4be9c173a407", 
+            "type": "vocal", 
+            "name": "Yesari As\u0131m Arsoy"
+        }
+    ], 
+    "duration": 196, 
+    "path": "../data/Huzzam/44d4706b-a471-4ccf-974c-e1cb883660ca.mp3", 
+    "works": [
+        {
+            "mbid": "fba48015-ae62-4425-a6ef-1dff5f20cd93", 
+            "title": "D\u00fcn Gece Bir \u015euhun..."
+        }
+    ]
+}

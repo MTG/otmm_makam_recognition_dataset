@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9c974473-d2b8-47b1-b76d-921ba24a0d92"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/9c974473-d2b8-47b1-b76d-921ba24a0d92"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bc356bab-e393-41e7-be92-ed1d6a57c16b", 
+            "title": "Segah"
+        }
+    ], 
+    "title": "K\u0131rd\u0131n \u00dcmmidimi Y\u0131kt\u0131n \u015eu G\u00f6n\u00fcl Lanesini", 
+    "url": "http://musicbrainz.org/work/9c974473-d2b8-47b1-b76d-921ba24a0d92", 
+    "artist_credits": [
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "name": "M\u00fcnip Utand\u0131"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "9c974473-d2b8-47b1-b76d-921ba24a0d92", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9c974473-d2b8-47b1-b76d-921ba24a0d92"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "type": "vocal", 
+            "name": "M\u00fcnip Utand\u0131"
+        }
+    ], 
+    "duration": 193, 
+    "path": "../data/Segah/9c974473-d2b8-47b1-b76d-921ba24a0d92.mp3", 
+    "works": [
+        {
+            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
+            "title": "K\u0131rd\u0131n \u00dcmidimi"
+        }
+    ]
+}

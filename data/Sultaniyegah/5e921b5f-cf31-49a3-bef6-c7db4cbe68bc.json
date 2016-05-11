@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8a4bd2fa-e57a-4d11-bd99-92ae1ff3d99f", 
+            "title": "Kanun Sololar\u0131"
+        }
+    ], 
+    "title": "Sultaniyegah Taksim", 
+    "url": "http://musicbrainz.org/work/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc", 
+    "artist_credits": [
+        {
+            "mbid": "275d05f3-a41e-4143-b966-5066abd0161b", 
+            "name": "Halil Karaduman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5e921b5f-cf31-49a3-bef6-c7db4cbe68bc", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "275d05f3-a41e-4143-b966-5066abd0161b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Halil Karaduman"
+        }
+    ], 
+    "duration": 367, 
+    "path": "../data/Sultaniyegah/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc"
+        }
+    ]
+}

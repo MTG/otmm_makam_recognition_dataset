@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/71c8034a-6eff-4258-a25b-e366dd7c0b70"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/afaddf40-84fa-4d4a-8bf1-57acaee91d3f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/71c8034a-6eff-4258-a25b-e366dd7c0b70"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/afaddf40-84fa-4d4a-8bf1-57acaee91d3f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "Nur \u0130le Doldu Yine Kevn u Mekan", 
+    "url": "http://musicbrainz.org/work/afaddf40-84fa-4d4a-8bf1-57acaee91d3f", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "afaddf40-84fa-4d4a-8bf1-57acaee91d3f", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/71c8034a-6eff-4258-a25b-e366dd7c0b70"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/afaddf40-84fa-4d4a-8bf1-57acaee91d3f"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 189, 
+    "path": "../data/Saba/afaddf40-84fa-4d4a-8bf1-57acaee91d3f.mp3", 
+    "works": [
+        {
+            "mbid": "71c8034a-6eff-4258-a25b-e366dd7c0b70", 
+            "title": "Nur \u0130le Doldu Yine"
+        }
+    ]
+}

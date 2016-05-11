@@ -1,0 +1,65 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9521c36a-68bc-4126-ba71-21b214ed1222"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "H\u00fcseyni Taksim", 
+    "url": "http://musicbrainz.org/work/9521c36a-68bc-4126-ba71-21b214ed1222", 
+    "artist_credits": [
+        {
+            "mbid": "4a062748-b2b4-4b60-b5e5-46b68f29dc1b", 
+            "name": "Aleko Bacanos Efendi"
+        }, 
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9521c36a-68bc-4126-ba71-21b214ed1222", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }, 
+        {
+            "mbid": "4a062748-b2b4-4b60-b5e5-46b68f29dc1b", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Aleko Bacanos Efendi"
+        }
+    ], 
+    "duration": 209, 
+    "path": "../data/Huseyni/9521c36a-68bc-4126-ba71-21b214ed1222.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9521c36a-68bc-4126-ba71-21b214ed1222"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/9521c36a-68bc-4126-ba71-21b214ed1222"
+        }
+    ]
+}

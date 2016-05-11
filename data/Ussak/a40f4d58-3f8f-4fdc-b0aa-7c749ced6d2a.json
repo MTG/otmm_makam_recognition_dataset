@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f19fa9e0-d7e6-40ef-8ea3-3610a13e44cd", 
+            "title": "Ar\u015fiv Serisi - Gazeller II"
+        }
+    ], 
+    "title": "Hacer\u00fc-l Esved \u0130mi\u015f", 
+    "url": "http://musicbrainz.org/work/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a", 
+    "artist_credits": [
+        {
+            "mbid": "9068602f-10ab-4f70-a714-5998e892d834", 
+            "name": "Udi Marko \u00c7olako\u011flu Efendi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9068602f-10ab-4f70-a714-5998e892d834", 
+            "type": "vocal", 
+            "name": "Udi Marko \u00c7olako\u011flu Efendi"
+        }
+    ], 
+    "duration": 192, 
+    "path": "../data/Ussak/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a"
+        }
+    ]
+}

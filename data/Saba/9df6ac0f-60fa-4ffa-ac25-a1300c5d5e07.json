@@ -1,0 +1,90 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "906fbc02-b66f-4fd7-858a-55774846d184", 
+            "title": "\u00dcstad'lardan Saz Eserleri ve Taksimler, Volume II"
+        }
+    ], 
+    "title": "Saba Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 428, 
+    "path": "../data/Saba/9df6ac0f-60fa-4ffa-ac25-a1300c5d5e07.mp3", 
+    "works": [
+        {
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Saba Pe\u015frev"
+        }
+    ]
+}

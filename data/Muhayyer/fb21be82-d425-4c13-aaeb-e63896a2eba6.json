@@ -1,0 +1,103 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c7f750d-8868-46d6-bfbf-7fd2a5e04b95", 
+            "title": "40 Makam 40 Anlam"
+        }
+    ], 
+    "title": "Muhayyer Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/fb21be82-d425-4c13-aaeb-e63896a2eba6", 
+    "artist_credits": [
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "fb21be82-d425-4c13-aaeb-e63896a2eba6", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Emre Erdal"
+        }, 
+        {
+            "mbid": "5b69b276-4bc4-49ee-8123-dc8b51a686cb", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla Ak\u0131nt\u00fcrk"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "type": "conductor", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "duration": 304, 
+    "path": "../data/Muhayyer/fb21be82-d425-4c13-aaeb-e63896a2eba6.mp3", 
+    "works": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

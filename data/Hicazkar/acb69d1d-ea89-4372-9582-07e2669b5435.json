@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/acb69d1d-ea89-4372-9582-07e2669b5435"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
+            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
+        }
+    ], 
+    "title": "Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/acb69d1d-ea89-4372-9582-07e2669b5435", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "acb69d1d-ea89-4372-9582-07e2669b5435", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "279d2704-2462-4ebe-8230-2fc7af3dcd9c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Erba\u015f\u0131"
+        }, 
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "duration": 61, 
+    "path": "../data/Hicazkar/acb69d1d-ea89-4372-9582-07e2669b5435.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/acb69d1d-ea89-4372-9582-07e2669b5435"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/acb69d1d-ea89-4372-9582-07e2669b5435"
+        }
+    ]
+}

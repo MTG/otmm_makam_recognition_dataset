@@ -1,0 +1,90 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/2794722a-eefe-4ba8-bd94-4a9d327f5c05"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/2794722a-eefe-4ba8-bd94-4a9d327f5c05"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "906fbc02-b66f-4fd7-858a-55774846d184", 
+            "title": "\u00dcstad'lardan Saz Eserleri ve Taksimler, Volume II"
+        }
+    ], 
+    "title": "Acema\u015firan Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/2794722a-eefe-4ba8-bd94-4a9d327f5c05", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "2794722a-eefe-4ba8-bd94-4a9d327f5c05", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/2794722a-eefe-4ba8-bd94-4a9d327f5c05"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 221, 
+    "path": "../data/Acemasiran/2794722a-eefe-4ba8-bd94-4a9d327f5c05.mp3", 
+    "works": [
+        {
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "title": "Acema\u015firan Pe\u015frev"
+        }
+    ]
+}

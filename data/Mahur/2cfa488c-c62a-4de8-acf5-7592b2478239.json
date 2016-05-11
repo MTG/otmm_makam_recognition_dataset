@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/2cfa488c-c62a-4de8-acf5-7592b2478239"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a81d1218-ddc5-4856-b106-08f72db8f39c", 
+            "title": "Refik Fersan"
+        }
+    ], 
+    "title": "\u00c7ello Taksimi", 
+    "url": "http://musicbrainz.org/work/2cfa488c-c62a-4de8-acf5-7592b2478239", 
+    "artist_credits": [
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "2cfa488c-c62a-4de8-acf5-7592b2478239", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 85, 
+    "path": "../data/Mahur/2cfa488c-c62a-4de8-acf5-7592b2478239.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2cfa488c-c62a-4de8-acf5-7592b2478239"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/2cfa488c-c62a-4de8-acf5-7592b2478239"
+        }
+    ]
+}

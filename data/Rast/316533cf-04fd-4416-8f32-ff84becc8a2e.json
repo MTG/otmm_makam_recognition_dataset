@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/316533cf-04fd-4416-8f32-ff84becc8a2e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/316533cf-04fd-4416-8f32-ff84becc8a2e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "C\u00fcmle \u015eark\u0131lar Yar\u0131m G\u00f6zlerinde", 
+    "url": "http://musicbrainz.org/work/316533cf-04fd-4416-8f32-ff84becc8a2e", 
+    "artist_credits": [
+        {
+            "mbid": "600e835b-4e3e-440f-8c73-8ea03a51c773", 
+            "name": "Zuhal E\u011filmez"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "316533cf-04fd-4416-8f32-ff84becc8a2e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/316533cf-04fd-4416-8f32-ff84becc8a2e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "600e835b-4e3e-440f-8c73-8ea03a51c773", 
+            "type": "vocal", 
+            "name": "Zuhal E\u011filmez"
+        }
+    ], 
+    "duration": 280, 
+    "path": "../data/Rast/316533cf-04fd-4416-8f32-ff84becc8a2e.mp3", 
+    "works": [
+        {
+            "mbid": "d1a3ef59-2a1f-4672-84dd-aa0a2a4f3fb3", 
+            "title": "C\u00fcmle \u015eark\u0131lar Yar\u0131m G\u00f6zlerinde"
+        }
+    ]
+}

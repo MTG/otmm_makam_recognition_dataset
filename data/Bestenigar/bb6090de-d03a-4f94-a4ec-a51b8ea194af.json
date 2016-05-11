@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/bb6090de-d03a-4f94-a4ec-a51b8ea194af"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "21fbaf13-6ec2-4537-b1bb-b607eb2ece4e", 
+            "title": "\"Hi\u00e7\" in \"Azab-\u0131 Mukaddes\"i"
+        }
+    ], 
+    "title": "Bestenigar Taksim", 
+    "url": "http://musicbrainz.org/work/bb6090de-d03a-4f94-a4ec-a51b8ea194af", 
+    "artist_credits": [
+        {
+            "mbid": "14ba9c4e-103f-4511-b315-6d4bdea89497", 
+            "name": "Neyzen Tevfik"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "bb6090de-d03a-4f94-a4ec-a51b8ea194af", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "14ba9c4e-103f-4511-b315-6d4bdea89497", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Neyzen Tevfik"
+        }
+    ], 
+    "duration": 175, 
+    "path": "../data/Bestenigar/bb6090de-d03a-4f94-a4ec-a51b8ea194af.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/bb6090de-d03a-4f94-a4ec-a51b8ea194af"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/bb6090de-d03a-4f94-a4ec-a51b8ea194af"
+        }
+    ]
+}

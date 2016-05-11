@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/fae0590a-0913-4637-8005-e85e0c439063"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Neva Pe\u015frev (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/fae0590a-0913-4637-8005-e85e0c439063", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "fae0590a-0913-4637-8005-e85e0c439063", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/fae0590a-0913-4637-8005-e85e0c439063"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 505, 
+    "path": "../data/Neva/fae0590a-0913-4637-8005-e85e0c439063.mp3", 
+    "works": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

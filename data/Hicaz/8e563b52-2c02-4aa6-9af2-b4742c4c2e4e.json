@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "046f767d-5965-474a-8097-6f5beac12453", 
+            "title": "\u0130zak Algazi Efendi"
+        }
+    ], 
+    "title": "Bi-karar Olmakt\u0131 Sevmekten (Hicaz Gazel [Improvisation])", 
+    "url": "http://musicbrainz.org/work/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e", 
+    "artist_credits": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "8e563b52-2c02-4aa6-9af2-b4742c4c2e4e", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "type": "vocal", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "duration": 169, 
+    "path": "../data/Hicaz/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
+        }
+    ]
+}

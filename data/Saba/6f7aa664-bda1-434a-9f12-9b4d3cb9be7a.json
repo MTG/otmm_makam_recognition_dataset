@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c3a29b5e-e881-45bc-8775-3b2fb0467243", 
+            "title": "\u015eark\u0131lar"
+        }
+    ], 
+    "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini Kalbimi Yakt\u0131n", 
+    "url": "http://musicbrainz.org/work/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6f7aa664-bda1-434a-9f12-9b4d3cb9be7a", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 216, 
+    "path": "../data/Saba/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a.mp3", 
+    "works": [
+        {
+            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
+            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+        }
+    ]
+}

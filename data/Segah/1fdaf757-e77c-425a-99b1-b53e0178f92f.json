@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b2846496-340b-4602-82a1-c5a55d4ffb04", 
+            "title": "M\u00fczi\u011fimizden \u00c7e\u015fitlemeler / Klasik Ney Taksimleri Ve \u0130lahiler"
+        }, 
+        {
+            "mbid": "c001f400-7a8c-4a6f-824d-86cfbf25c35a", 
+            "title": "M\u00fczi\u011fimizden \u00c7e\u015fitlemeler / Klasik Ney Taksimleri Ve \u0130lahiler"
+        }
+    ], 
+    "title": "Acep L\u00fctfun Seherinde", 
+    "url": "http://musicbrainz.org/work/1fdaf757-e77c-425a-99b1-b53e0178f92f", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "1fdaf757-e77c-425a-99b1-b53e0178f92f", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 117, 
+    "path": "../data/Segah/1fdaf757-e77c-425a-99b1-b53e0178f92f.mp3", 
+    "works": [
+        {
+            "mbid": "40950656-d3c2-4567-a8e1-bb12007b0a08", 
+            "title": "Acep L\u00fctfun Seherinde"
+        }
+    ]
+}

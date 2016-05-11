@@ -1,0 +1,80 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8aadb37c-20c4-4757-b285-2c4147a6553f", 
+            "title": "Lale - Nerkis Han\u0131mlar"
+        }
+    ], 
+    "title": "Aman Da\u011flar", 
+    "url": "http://musicbrainz.org/work/07f02eac-fe66-4baf-a863-7adea1408e64", 
+    "artist_credits": [
+        {
+            "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
+            "name": "Lale Han\u0131m"
+        }, 
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "name": "Nerkis Han\u0131m"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "07f02eac-fe66-4baf-a863-7adea1408e64", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "type": "vocal", 
+            "name": "Nerkis Han\u0131m"
+        }, 
+        {
+            "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
+            "type": "vocal", 
+            "name": "Lale Han\u0131m"
+        }
+    ], 
+    "duration": 176, 
+    "path": "../data/Huseyni/07f02eac-fe66-4baf-a863-7adea1408e64.mp3", 
+    "works": [
+        {
+            "mbid": "24e8f453-2971-4b5f-b6ff-4b193a230bd8", 
+            "title": "Aman Da\u011flar"
+        }
+    ]
+}

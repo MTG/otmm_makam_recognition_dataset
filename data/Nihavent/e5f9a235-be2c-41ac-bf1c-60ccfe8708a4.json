@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "G\u00fcllerin Rengine Bir Bak De\u011fme B\u00fclb\u00fcl A\u011flas\u0131n", 
+    "url": "http://musicbrainz.org/work/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4", 
+    "artist_credits": [
+        {
+            "mbid": "4ab06465-1b36-43d9-974c-c8b0a61ff0cf", 
+            "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e5f9a235-be2c-41ac-bf1c-60ccfe8708a4", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "4ab06465-1b36-43d9-974c-c8b0a61ff0cf", 
+            "type": "vocal", 
+            "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
+        }
+    ], 
+    "duration": 170, 
+    "path": "../data/Nihavent/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4.mp3", 
+    "works": [
+        {
+            "mbid": "d1c5238b-fa17-4710-8b67-268d5238a994", 
+            "title": "G\u00fcllerin Rengine Bir Bak De\u011fme B\u00fclb\u00fcl A\u011flas\u0131n"
+        }
+    ]
+}

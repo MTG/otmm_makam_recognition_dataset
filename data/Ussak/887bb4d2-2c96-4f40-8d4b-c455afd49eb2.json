@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/887bb4d2-2c96-4f40-8d4b-c455afd49eb2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "13d7ec34-3b52-4839-9145-f6b2a1ef9952", 
+            "title": "Sultan Bestekarlar"
+        }
+    ], 
+    "title": "Kanun Taksimi", 
+    "url": "http://musicbrainz.org/work/887bb4d2-2c96-4f40-8d4b-c455afd49eb2", 
+    "artist_credits": [
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "887bb4d2-2c96-4f40-8d4b-c455afd49eb2", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }
+    ], 
+    "duration": 123, 
+    "path": "../data/Ussak/887bb4d2-2c96-4f40-8d4b-c455afd49eb2.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/887bb4d2-2c96-4f40-8d4b-c455afd49eb2"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/887bb4d2-2c96-4f40-8d4b-c455afd49eb2"
+        }
+    ]
+}

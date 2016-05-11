@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/acc2c656-a980-44fa-8f88-9d0c89ca1a4c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/acc2c656-a980-44fa-8f88-9d0c89ca1a4c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bd4f2c79-fef5-4566-b696-7a2aa315e505", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi - Kalplerden Dudaklara"
+        }
+    ], 
+    "title": "\u015eu G\u00f6\u011fs\u00fcm Y\u0131rt\u0131l\u0131p", 
+    "url": "http://musicbrainz.org/work/acc2c656-a980-44fa-8f88-9d0c89ca1a4c", 
+    "artist_credits": [
+        {
+            "mbid": "cb5590f0-8520-4d6e-acd8-ddeb5bae8067", 
+            "name": "Ahmet \u00dcst\u00fcn"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "acc2c656-a980-44fa-8f88-9d0c89ca1a4c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/acc2c656-a980-44fa-8f88-9d0c89ca1a4c"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "cb5590f0-8520-4d6e-acd8-ddeb5bae8067", 
+            "type": "vocal", 
+            "name": "Ahmet \u00dcst\u00fcn"
+        }
+    ], 
+    "duration": 196, 
+    "path": "../data/Huzzam/acc2c656-a980-44fa-8f88-9d0c89ca1a4c.mp3", 
+    "works": [
+        {
+            "mbid": "da42bcac-7633-44ec-8626-4356064695c1", 
+            "title": "\u015eu G\u00f6\u011fs\u00fcm Y\u0131rt\u0131l\u0131p"
+        }
+    ]
+}

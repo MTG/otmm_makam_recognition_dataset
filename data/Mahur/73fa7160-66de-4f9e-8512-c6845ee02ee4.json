@@ -1,0 +1,84 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/73fa7160-66de-4f9e-8512-c6845ee02ee4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/73fa7160-66de-4f9e-8512-c6845ee02ee4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6bb7533b-9429-45ec-ad93-21f30b21ccd7", 
+            "title": "Udi Yorgo Bacanos 1900-1977"
+        }
+    ], 
+    "title": "Haf\u0131z Kemal & Sadettin \"Gulchen Es Haar\"", 
+    "url": "http://musicbrainz.org/work/73fa7160-66de-4f9e-8512-c6845ee02ee4", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "73fa7160-66de-4f9e-8512-c6845ee02ee4", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/73fa7160-66de-4f9e-8512-c6845ee02ee4"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "type": "vocal", 
+            "name": "Sadettin Kaynak"
+        }, 
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }, 
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "duration": 216, 
+    "path": "../data/Mahur/73fa7160-66de-4f9e-8512-c6845ee02ee4.mp3", 
+    "works": [
+        {
+            "mbid": "237394f7-e02e-4ee8-8a9e-f2ee35ed9786", 
+            "title": "G\u00fcl\u015fen-i Ezhar A\u00e7t\u0131"
+        }
+    ]
+}

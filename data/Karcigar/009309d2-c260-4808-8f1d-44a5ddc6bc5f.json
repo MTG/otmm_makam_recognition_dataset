@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "30712b81-762d-43ca-9465-0e84a0e1ab04", 
+            "title": "Radyo G\u00fcnleri 3: Zeki M\u00fcren ile Ba\u015fba\u015fa"
+        }
+    ], 
+    "title": "Benliyi Ald\u0131m Ka\u00e7aktan", 
+    "url": "http://musicbrainz.org/work/009309d2-c260-4808-8f1d-44a5ddc6bc5f", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "009309d2-c260-4808-8f1d-44a5ddc6bc5f", 
+    "form": [
+        {
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 132, 
+    "path": "../data/Karcigar/009309d2-c260-4808-8f1d-44a5ddc6bc5f.mp3", 
+    "works": [
+        {
+            "mbid": "67938bce-1cff-34ff-8aad-e1b3a3b17aa8", 
+            "title": "Benliyi Ald\u0131m Ka\u00e7aktan"
+        }
+    ]
+}

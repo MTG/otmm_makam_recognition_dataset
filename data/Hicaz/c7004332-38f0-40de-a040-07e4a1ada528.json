@@ -1,0 +1,129 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "885776a7-190d-41a1-99d0-9f5441eea5c4", 
+            "title": "Me\u015fk-i Safa"
+        }
+    ], 
+    "title": "Ey B\u00fct-i Nev\u2019ed\u00e2 (Hicaz \u015eark\u0131)", 
+    "url": "http://musicbrainz.org/work/c7004332-38f0-40de-a040-07e4a1ada528", 
+    "artist_credits": [
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }, 
+        {
+            "mbid": "6844715d-999e-4f5b-af4f-6fc6ada0f8ba", 
+            "name": "Adnan \u00c7oban"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "c7004332-38f0-40de-a040-07e4a1ada528", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
+        }
+    ], 
+    "bit_rate": 48, 
+    "artists": [
+        {
+            "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Sermet Kutlu\u011f"
+        }, 
+        {
+            "mbid": "006f76d9-ddc1-4d98-83ed-12f4138a01e6", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Yasemin \u015eehnaz Ayan"
+        }, 
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "type": "vocal", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }, 
+        {
+            "mbid": "669e7fa0-c006-4ca2-9946-afaf41686ddf", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Mert Nar"
+        }, 
+        {
+            "mbid": "6844715d-999e-4f5b-af4f-6fc6ada0f8ba", 
+            "type": "vocal", 
+            "name": "Adnan \u00c7oban"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8c4eb972-21df-4274-9349-0f68fe2de8cd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Gamze Ege K\u00f6prek Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "c15e3386-1159-4e38-8457-475972ac5333", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ne\u015fe Ye\u015fim Alt\u0131nel \u00c7oban"
+        }, 
+        {
+            "mbid": "ef52537c-139d-451f-9ab5-e8300a48bfae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Sarper Ero\u011flu"
+        }
+    ], 
+    "duration": 212, 
+    "path": "../data/Hicaz/c7004332-38f0-40de-a040-07e4a1ada528.mp3", 
+    "works": [
+        {
+            "mbid": "77d378a1-6879-4595-9336-5487c6507922", 
+            "title": "Ey B\u00fct-i Nev Eda"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/4befe61b-94c6-4c82-88d1-c9695b36891d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5a5f124a-766c-441c-bbf3-410a11b96c09", 
+            "title": "Ahenk 2"
+        }
+    ], 
+    "title": "M\u00e2h\u00fbr Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/4befe61b-94c6-4c82-88d1-c9695b36891d", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "4befe61b-94c6-4c82-88d1-c9695b36891d", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 216, 
+    "path": "../data/Mahur/4befe61b-94c6-4c82-88d1-c9695b36891d.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4befe61b-94c6-4c82-88d1-c9695b36891d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/4befe61b-94c6-4c82-88d1-c9695b36891d"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/d6b369ef-d619-4619-8c39-1be4292488db"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Taksim", 
+    "url": "http://musicbrainz.org/work/d6b369ef-d619-4619-8c39-1be4292488db", 
+    "artist_credits": [
+        {
+            "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+            "name": "Kanuni Hac\u0131 Arif Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "d6b369ef-d619-4619-8c39-1be4292488db", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Kanuni Hac\u0131 Arif Bey"
+        }
+    ], 
+    "duration": 180, 
+    "path": "../data/Hicaz/d6b369ef-d619-4619-8c39-1be4292488db.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d6b369ef-d619-4619-8c39-1be4292488db"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/d6b369ef-d619-4619-8c39-1be4292488db"
+        }
+    ]
+}

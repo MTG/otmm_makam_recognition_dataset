@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/c1dfe53c-66e5-4271-98b1-3d3852702889"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Bestenigar Kanun Taksimi", 
+    "url": "http://musicbrainz.org/work/c1dfe53c-66e5-4271-98b1-3d3852702889", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "c1dfe53c-66e5-4271-98b1-3d3852702889", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 279, 
+    "path": "../data/Bestenigar/c1dfe53c-66e5-4271-98b1-3d3852702889.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c1dfe53c-66e5-4271-98b1-3d3852702889"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/c1dfe53c-66e5-4271-98b1-3d3852702889"
+        }
+    ]
+}

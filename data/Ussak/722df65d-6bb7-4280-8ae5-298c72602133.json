@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/cefac26b-71b4-4e11-94f2-ac8f87f90f34"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/722df65d-6bb7-4280-8ae5-298c72602133"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/cefac26b-71b4-4e11-94f2-ac8f87f90f34"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/722df65d-6bb7-4280-8ae5-298c72602133"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "92022cd7-ff79-4c9b-a6d1-232072316e6e", 
+            "title": "\u015eerif Muhiddin Targan"
+        }
+    ], 
+    "title": "U\u015f\u015fak Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/722df65d-6bb7-4280-8ae5-298c72602133", 
+    "artist_credits": [
+        {
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "name": "\u015eerif Muhittin Targan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "722df65d-6bb7-4280-8ae5-298c72602133", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/cefac26b-71b4-4e11-94f2-ac8f87f90f34"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/722df65d-6bb7-4280-8ae5-298c72602133"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eerif Muhittin Targan"
+        }
+    ], 
+    "duration": 183, 
+    "path": "../data/Ussak/722df65d-6bb7-4280-8ae5-298c72602133.mp3", 
+    "works": [
+        {
+            "mbid": "cefac26b-71b4-4e11-94f2-ac8f87f90f34", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ]
+}

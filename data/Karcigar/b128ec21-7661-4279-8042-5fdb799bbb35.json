@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/8d7cec7c-35b1-41c1-a345-131188760980"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b128ec21-7661-4279-8042-5fdb799bbb35"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/8d7cec7c-35b1-41c1-a345-131188760980"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/b128ec21-7661-4279-8042-5fdb799bbb35"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f630b13a-d342-41b3-9289-8c5fc050b02d", 
+            "title": "Karc\u0131\u011far 5"
+        }
+    ], 
+    "title": "Ey S\u0131ra S\u0131ra Dizilen Serviler", 
+    "url": "http://musicbrainz.org/work/b128ec21-7661-4279-8042-5fdb799bbb35", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "b128ec21-7661-4279-8042-5fdb799bbb35", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/8d7cec7c-35b1-41c1-a345-131188760980"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/b128ec21-7661-4279-8042-5fdb799bbb35"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 161, 
+    "path": "../data/Karcigar/b128ec21-7661-4279-8042-5fdb799bbb35.mp3", 
+    "works": [
+        {
+            "mbid": "8d7cec7c-35b1-41c1-a345-131188760980", 
+            "title": "Ey S\u0131ra S\u0131ra Dizilen Serviler"
+        }
+    ]
+}

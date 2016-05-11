@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c9526221-1397-4fea-81b0-50f0c1b305d1"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e259c2cc-6b0c-402b-a1a8-6396beab7e3f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/c9526221-1397-4fea-81b0-50f0c1b305d1"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/e259c2cc-6b0c-402b-a1a8-6396beab7e3f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "efe16c44-dde8-4200-a375-ad820db6d7cc", 
+            "title": "H\u00fcseyni \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "Y\u00fcce Da\u011f Ba\u015f\u0131nda Yatm\u0131\u015f Uyumu\u015f", 
+    "url": "http://musicbrainz.org/work/e259c2cc-6b0c-402b-a1a8-6396beab7e3f", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e259c2cc-6b0c-402b-a1a8-6396beab7e3f", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/c9526221-1397-4fea-81b0-50f0c1b305d1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e259c2cc-6b0c-402b-a1a8-6396beab7e3f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 223, 
+    "path": "../data/Huseyni/e259c2cc-6b0c-402b-a1a8-6396beab7e3f.mp3", 
+    "works": [
+        {
+            "mbid": "c9526221-1397-4fea-81b0-50f0c1b305d1", 
+            "title": "Y\u00fcce Da\u011f Ba\u015f\u0131nda Yatm\u0131\u015f"
+        }
+    ]
+}

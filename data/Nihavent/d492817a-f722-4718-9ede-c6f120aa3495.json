@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/d4c1b72b-ae54-456d-a695-6b7d4950d6f4"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d492817a-f722-4718-9ede-c6f120aa3495"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/d4c1b72b-ae54-456d-a695-6b7d4950d6f4"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/d492817a-f722-4718-9ede-c6f120aa3495"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "Sa\u00e7lar\u0131na Ba\u011flanal\u0131 Ey Peri", 
+    "url": "http://musicbrainz.org/work/d492817a-f722-4718-9ede-c6f120aa3495", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "d492817a-f722-4718-9ede-c6f120aa3495", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d4c1b72b-ae54-456d-a695-6b7d4950d6f4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d492817a-f722-4718-9ede-c6f120aa3495"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "a6d30618-1bb0-43c0-8946-c7e298cd7da7", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Esin Din\u00e7er"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }
+    ], 
+    "duration": 160, 
+    "path": "../data/Nihavent/d492817a-f722-4718-9ede-c6f120aa3495.mp3", 
+    "works": [
+        {
+            "mbid": "d4c1b72b-ae54-456d-a695-6b7d4950d6f4", 
+            "title": "Sa\u00e7lar\u0131na Ba\u011flanal\u0131 Ey Peri"
+        }
+    ]
+}

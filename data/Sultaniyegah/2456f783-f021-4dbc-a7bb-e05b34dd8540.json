@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/2456f783-f021-4dbc-a7bb-e05b34dd8540"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/2456f783-f021-4dbc-a7bb-e05b34dd8540"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ef3511f7-a2ea-4495-866c-82b041ea6691", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Kanun"
+        }
+    ], 
+    "title": "Sultaniyegah Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/2456f783-f021-4dbc-a7bb-e05b34dd8540", 
+    "artist_credits": [
+        {
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "name": "Taner Kalkulo\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "2456f783-f021-4dbc-a7bb-e05b34dd8540", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/2456f783-f021-4dbc-a7bb-e05b34dd8540"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Kalkulo\u011flu"
+        }
+    ], 
+    "duration": 247, 
+    "path": "../data/Sultaniyegah/2456f783-f021-4dbc-a7bb-e05b34dd8540.mp3", 
+    "works": [
+        {
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

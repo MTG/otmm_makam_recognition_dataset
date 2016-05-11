@@ -1,0 +1,80 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/399e11ed-e3ad-4dc8-bca5-ac3bca298633"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/399e11ed-e3ad-4dc8-bca5-ac3bca298633"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8aadb37c-20c4-4757-b285-2c4147a6553f", 
+            "title": "Lale - Nerkis Han\u0131mlar"
+        }
+    ], 
+    "title": "Ka\u00e7ma Mecburundan Ey Ahu-i Vah\u015fi", 
+    "url": "http://musicbrainz.org/work/399e11ed-e3ad-4dc8-bca5-ac3bca298633", 
+    "artist_credits": [
+        {
+            "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
+            "name": "Lale Han\u0131m"
+        }, 
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "name": "Nerkis Han\u0131m"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "399e11ed-e3ad-4dc8-bca5-ac3bca298633", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/399e11ed-e3ad-4dc8-bca5-ac3bca298633"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "type": "vocal", 
+            "name": "Nerkis Han\u0131m"
+        }, 
+        {
+            "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
+            "type": "vocal", 
+            "name": "Lale Han\u0131m"
+        }
+    ], 
+    "duration": 170, 
+    "path": "../data/Bestenigar/399e11ed-e3ad-4dc8-bca5-ac3bca298633.mp3", 
+    "works": [
+        {
+            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
+            "title": "Ka\u00e7ma Mecburundan"
+        }
+    ]
+}

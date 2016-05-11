@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "\u00d6mr\u00fcn Ezvak\u0131nda A\u015fk\u0131n G\u00f6rmeyen Esrar\u0131n\u0131", 
+    "url": "http://musicbrainz.org/work/5a44e069-3b0e-4a28-b515-b7b257b6373a", 
+    "artist_credits": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5a44e069-3b0e-4a28-b515-b7b257b6373a", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "37ea753c-ae08-45be-a580-516f76ba4cbe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Neyzen \u0130hsan Aziz Bey"
+        }, 
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "type": "vocal", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "duration": 187, 
+    "path": "../data/Hicaz/5a44e069-3b0e-4a28-b515-b7b257b6373a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a"
+        }
+    ]
+}

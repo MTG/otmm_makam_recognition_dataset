@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6bb7533b-9429-45ec-ad93-21f30b21ccd7", 
+            "title": "Udi Yorgo Bacanos 1900-1977"
+        }
+    ], 
+    "title": "H\u00fczzam \u015eark\u0131 (Safiye Ayla)", 
+    "url": "http://musicbrainz.org/work/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }, 
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 165, 
+    "path": "../data/Huzzam/afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb.mp3", 
+    "works": [
+        {
+            "mbid": "a7c6cc83-cb0c-4ded-8812-3b580ae7c9b6", 
+            "title": "Sevdas\u0131 Hen\u00fcz Sinede G\u00f6yn\u00fcm Gibi Sa\u011fd\u0131"
+        }
+    ]
+}

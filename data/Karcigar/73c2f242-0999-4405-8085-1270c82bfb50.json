@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0b054319-53f5-44ba-8278-733f5ddd3cb7", 
+            "title": "Karc\u0131\u011far"
+        }
+    ], 
+    "title": "Bir Yareli Ku\u015f \u00c7\u0131rp\u0131n\u0131yor Sanki Telinde", 
+    "url": "http://musicbrainz.org/work/73c2f242-0999-4405-8085-1270c82bfb50", 
+    "artist_credits": [
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "name": "Recep Birgit"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "73c2f242-0999-4405-8085-1270c82bfb50", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "type": "vocal", 
+            "name": "Recep Birgit"
+        }
+    ], 
+    "duration": 165, 
+    "path": "../data/Karcigar/73c2f242-0999-4405-8085-1270c82bfb50.mp3", 
+    "works": [
+        {
+            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
+            "title": "Bir Yareli Ku\u015f"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/f1aef341-0781-4d4a-89e1-813f5d059963"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6bb7533b-9429-45ec-ad93-21f30b21ccd7", 
+            "title": "Udi Yorgo Bacanos 1900-1977"
+        }
+    ], 
+    "title": "Nihavent Taksim", 
+    "url": "http://musicbrainz.org/work/f1aef341-0781-4d4a-89e1-813f5d059963", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "f1aef341-0781-4d4a-89e1-813f5d059963", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 182, 
+    "path": "../data/Nihavent/f1aef341-0781-4d4a-89e1-813f5d059963.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f1aef341-0781-4d4a-89e1-813f5d059963"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/f1aef341-0781-4d4a-89e1-813f5d059963"
+        }
+    ]
+}

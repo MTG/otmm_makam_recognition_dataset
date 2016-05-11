@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7f0bd54b-60b9-4f28-926a-baed80fdb746"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/7f0bd54b-60b9-4f28-926a-baed80fdb746"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/7f0bd54b-60b9-4f28-926a-baed80fdb746"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "430058da-7be0-48ec-abac-9b88b87e293f", 
+            "title": "Mevlevi Sesler"
+        }
+    ], 
+    "title": "Son Y\u00fcr\u00fcksemai", 
+    "url": "http://musicbrainz.org/work/7f0bd54b-60b9-4f28-926a-baed80fdb746", 
+    "artist_credits": [
+        {
+            "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+            "name": "Dede Efendi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "7f0bd54b-60b9-4f28-926a-baed80fdb746", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/71d5fcfb-03c6-4850-b4db-b4c54a79e348"
+        }, 
+        {
+            "attribute_key": "ayin_i_serif", 
+            "mb_tag": "ayin-i \u015ferif", 
+            "source": "http://musicbrainz.org/recording/7f0bd54b-60b9-4f28-926a-baed80fdb746"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "713ad8af-1c98-4569-a445-71f7b9395945", 
+            "type": "performing orchestra", 
+            "name": "Dede Efendi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "duration": 152, 
+    "path": "../data/Bestenigar/7f0bd54b-60b9-4f28-926a-baed80fdb746.mp3", 
+    "works": [
+        {
+            "mbid": "71d5fcfb-03c6-4850-b4db-b4c54a79e348", 
+            "title": "Bestenigar Ayin-i \u015eerif"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b0604d90-0443-4c93-96b8-29861b1383fd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ff3816bb-4010-46ac-93bd-bb3eb97476c6", 
+            "title": "TRT \u0130stanbul Radyosu - 29.04.1991"
+        }
+    ], 
+    "title": "Keman Taksimi", 
+    "url": "http://musicbrainz.org/work/b0604d90-0443-4c93-96b8-29861b1383fd", 
+    "artist_credits": [
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "name": "Kemal Demir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b0604d90-0443-4c93-96b8-29861b1383fd", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "attribute-list": [
+                "solo", 
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Demir"
+        }
+    ], 
+    "duration": 86, 
+    "path": "../data/Hicazkar/b0604d90-0443-4c93-96b8-29861b1383fd.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b0604d90-0443-4c93-96b8-29861b1383fd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/b0604d90-0443-4c93-96b8-29861b1383fd"
+        }
+    ]
+}

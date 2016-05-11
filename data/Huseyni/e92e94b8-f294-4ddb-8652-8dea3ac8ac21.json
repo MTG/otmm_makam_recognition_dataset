@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ca2ba03-e886-4d6a-ac05-1641f17f666b", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "898af38b-97a2-435f-a546-5835c79d6a4e", 
+            "title": "Yasemin"
+        }, 
+        {
+            "mbid": "a30f64aa-dc94-4042-b4f3-3616c7513e28", 
+            "title": "Yasemin"
+        }
+    ], 
+    "title": "H\u00fcseyni \u00c7e\u00e7en K\u0131z\u0131", 
+    "url": "http://musicbrainz.org/work/e92e94b8-f294-4ddb-8652-8dea3ac8ac21", 
+    "artist_credits": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "e92e94b8-f294-4ddb-8652-8dea3ac8ac21", 
+    "form": [
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Necati \u00c7elik"
+        }
+    ], 
+    "duration": 186, 
+    "path": "../data/Huseyni/e92e94b8-f294-4ddb-8652-8dea3ac8ac21.mp3", 
+    "works": [
+        {
+            "mbid": "93f31506-25aa-49da-96cd-660c6a2e44bf", 
+            "title": "\u00c7e\u00e7en K\u0131z\u0131"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/ea39f5b9-9ed5-4841-b0d1-5de24083d67d"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/227624b3-dc15-4e21-837a-76df8bf27923"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/ea39f5b9-9ed5-4841-b0d1-5de24083d67d"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/227624b3-dc15-4e21-837a-76df8bf27923"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "84e8f4b5-026a-487a-b547-f35a8247b8fc", 
+            "title": "\u00d6zdal Orhon (1941-1986) - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Neden G\u00fccendin Sen Bana", 
+    "url": "http://musicbrainz.org/work/227624b3-dc15-4e21-837a-76df8bf27923", 
+    "artist_credits": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "name": "\u00d6zdal Orhon"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "227624b3-dc15-4e21-837a-76df8bf27923", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ea39f5b9-9ed5-4841-b0d1-5de24083d67d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/227624b3-dc15-4e21-837a-76df8bf27923"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "type": "vocal", 
+            "name": "\u00d6zdal Orhon"
+        }, 
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }, 
+        {
+            "mbid": "fe0e21e7-4ea0-4edb-97c2-947dc19843ea", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcsn\u00fc \u00d6zenen"
+        }
+    ], 
+    "duration": 128, 
+    "path": "../data/Hicazkar/227624b3-dc15-4e21-837a-76df8bf27923.mp3", 
+    "works": [
+        {
+            "mbid": "ea39f5b9-9ed5-4841-b0d1-5de24083d67d", 
+            "title": "Neden G\u00fccendin Sen Bana"
+        }
+    ]
+}

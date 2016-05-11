@@ -1,0 +1,65 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/76c42f82-7838-4628-bd09-a4ee4a99b9fd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7cbd09db-d4d7-4dbb-b5f9-870a8ae60194", 
+            "title": "Ahenk 1"
+        }
+    ], 
+    "title": "Sultaniyegah m\u00fc\u015fterek taksim", 
+    "url": "http://musicbrainz.org/work/76c42f82-7838-4628-bd09-a4ee4a99b9fd", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "76c42f82-7838-4628-bd09-a4ee4a99b9fd", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 259, 
+    "path": "../data/Sultaniyegah/76c42f82-7838-4628-bd09-a4ee4a99b9fd.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/76c42f82-7838-4628-bd09-a4ee4a99b9fd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/76c42f82-7838-4628-bd09-a4ee4a99b9fd"
+        }
+    ]
+}

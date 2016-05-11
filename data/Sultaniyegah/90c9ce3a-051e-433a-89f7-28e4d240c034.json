@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/90c9ce3a-051e-433a-89f7-28e4d240c034"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/90c9ce3a-051e-433a-89f7-28e4d240c034"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "Biz Heybelide Her Gece Mehtaba \u00c7\u0131kard\u0131k", 
+    "url": "http://musicbrainz.org/work/90c9ce3a-051e-433a-89f7-28e4d240c034", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "90c9ce3a-051e-433a-89f7-28e4d240c034", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/888edc19-be16-47c6-92db-170b65caba0e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/90c9ce3a-051e-433a-89f7-28e4d240c034"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 175, 
+    "path": "../data/Sultaniyegah/90c9ce3a-051e-433a-89f7-28e4d240c034.mp3", 
+    "works": [
+        {
+            "mbid": "888edc19-be16-47c6-92db-170b65caba0e", 
+            "title": "Biz Heybeli'de Her Gece"
+        }
+    ]
+}

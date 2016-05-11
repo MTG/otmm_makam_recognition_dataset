@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/74d2c020-d834-4c31-986a-b05552f8cbf2"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/dab34f13-7eec-4f87-8fb7-2d3b1ba24398"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/74d2c020-d834-4c31-986a-b05552f8cbf2"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/dab34f13-7eec-4f87-8fb7-2d3b1ba24398"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "71cbcec0-fe2d-4a2d-b187-8c7fe894bce6", 
+            "title": "H\u00fczzam \u015eark\u0131lar"
+        }
+    ], 
+    "title": "D\u00f6kt\u00fcm Derdimi Tanburda \u0130nleyen Bu En \u0130\u00e7li Na\u011fmelerle", 
+    "url": "http://musicbrainz.org/work/dab34f13-7eec-4f87-8fb7-2d3b1ba24398", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "dab34f13-7eec-4f87-8fb7-2d3b1ba24398", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/74d2c020-d834-4c31-986a-b05552f8cbf2"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/dab34f13-7eec-4f87-8fb7-2d3b1ba24398"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 255, 
+    "path": "../data/Huzzam/dab34f13-7eec-4f87-8fb7-2d3b1ba24398.mp3", 
+    "works": [
+        {
+            "mbid": "74d2c020-d834-4c31-986a-b05552f8cbf2", 
+            "title": "D\u00f6kt\u00fcm Derdimi Tanburda"
+        }
+    ]
+}

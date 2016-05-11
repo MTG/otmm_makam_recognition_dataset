@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/276002f5-ea0e-4ab9-9383-0346a396d1e4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3c25f0d8-a6df-4bde-87ef-e4af708b861d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/276002f5-ea0e-4ab9-9383-0346a396d1e4"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/3c25f0d8-a6df-4bde-87ef-e4af708b861d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Tasdi Eyleyim Yari Biraz da S\u00fchanimle", 
+    "url": "http://musicbrainz.org/work/3c25f0d8-a6df-4bde-87ef-e4af708b861d", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3c25f0d8-a6df-4bde-87ef-e4af708b861d", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/276002f5-ea0e-4ab9-9383-0346a396d1e4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3c25f0d8-a6df-4bde-87ef-e4af708b861d"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 160, 
+    "path": "../data/Hicaz/3c25f0d8-a6df-4bde-87ef-e4af708b861d.mp3", 
+    "works": [
+        {
+            "mbid": "276002f5-ea0e-4ab9-9383-0346a396d1e4", 
+            "title": "Tasdi Edeyim Yari"
+        }
+    ]
+}

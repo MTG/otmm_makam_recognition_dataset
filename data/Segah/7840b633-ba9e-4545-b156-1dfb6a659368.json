@@ -1,0 +1,63 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/87256297-1da2-41f3-851b-cb71bbff69a6"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/7840b633-ba9e-4545-b156-1dfb6a659368"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Segah Saz Semai (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/7840b633-ba9e-4545-b156-1dfb6a659368", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "7840b633-ba9e-4545-b156-1dfb6a659368", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/87256297-1da2-41f3-851b-cb71bbff69a6"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/7840b633-ba9e-4545-b156-1dfb6a659368"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 248, 
+    "path": "../data/Segah/7840b633-ba9e-4545-b156-1dfb6a659368.mp3", 
+    "works": [
+        {
+            "mbid": "87256297-1da2-41f3-851b-cb71bbff69a6", 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

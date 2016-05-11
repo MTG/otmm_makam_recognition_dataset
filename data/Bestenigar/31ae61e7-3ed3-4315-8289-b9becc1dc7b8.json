@@ -1,0 +1,85 @@
+{
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/31ae61e7-3ed3-4315-8289-b9becc1dc7b8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "Bestenigar Taksim", 
+    "url": "http://musicbrainz.org/work/31ae61e7-3ed3-4315-8289-b9becc1dc7b8", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "31ae61e7-3ed3-4315-8289-b9becc1dc7b8", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Cevdet \u00c7a\u011fla"
+        }, 
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }, 
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }, 
+        {
+            "mbid": "5f7c5fc5-0958-49e3-8e17-d638ddd30938", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sadi I\u015f\u0131lay"
+        }, 
+        {
+            "mbid": "6a1f9f25-0255-4341-9485-e88a5ba08053", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fahire Fersan"
+        }
+    ], 
+    "duration": 489, 
+    "path": "../data/Bestenigar/31ae61e7-3ed3-4315-8289-b9becc1dc7b8.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/31ae61e7-3ed3-4315-8289-b9becc1dc7b8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/31ae61e7-3ed3-4315-8289-b9becc1dc7b8"
+        }
+    ]
+}

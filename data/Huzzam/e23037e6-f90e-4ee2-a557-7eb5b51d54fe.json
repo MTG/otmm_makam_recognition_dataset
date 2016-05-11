@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/e23037e6-f90e-4ee2-a557-7eb5b51d54fe"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "89c6eab0-efd6-469a-bee8-00c5684eb6e6", 
+            "title": "Bestekarlar\u0131m\u0131z: 7 - Tanburi Mustafa \u00c7avu\u015f"
+        }
+    ], 
+    "title": "H\u00fczzam Keman Taksimi", 
+    "url": "http://musicbrainz.org/work/e23037e6-f90e-4ee2-a557-7eb5b51d54fe", 
+    "artist_credits": [
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "e23037e6-f90e-4ee2-a557-7eb5b51d54fe", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan G\u00fcndiyer"
+        }, 
+        {
+            "mbid": "51dd67df-47be-454f-b6e0-9c947581e7d7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ali A\u015fk\u0131n"
+        }
+    ], 
+    "duration": 163, 
+    "path": "../data/Huzzam/e23037e6-f90e-4ee2-a557-7eb5b51d54fe.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e23037e6-f90e-4ee2-a557-7eb5b51d54fe"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/e23037e6-f90e-4ee2-a557-7eb5b51d54fe"
+        }
+    ]
+}

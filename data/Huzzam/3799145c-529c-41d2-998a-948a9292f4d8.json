@@ -1,0 +1,143 @@
+{
+    "usul": [
+        {
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ff4a23fb-dc53-4b19-948c-58394ffcbcf7", 
+            "title": "TRT \u0130stanbul Radyosu - 27.04.1992"
+        }
+    ], 
+    "title": "Ey G\u00fcl-i Ba\u011f-\u0131 Eda", 
+    "url": "http://musicbrainz.org/work/3799145c-529c-41d2-998a-948a9292f4d8", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3799145c-529c-41d2-998a-948a9292f4d8", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "35f1b9e1-9a40-44be-a0d5-7b089ff07f53", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcng\u00f6r Ho\u015fses"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "51657ae9-50c6-41cb-bb98-8dc4a3a1a24b", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Tanju Erol"
+        }, 
+        {
+            "mbid": "a6fe8566-a246-40b9-8a86-1ada5884ca81", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Selahattin Erk\u00f6se"
+        }, 
+        {
+            "mbid": "b611c81e-2ff9-408c-bfb3-4ad94affbd79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nevbahar \u00d6zel"
+        }, 
+        {
+            "mbid": "cab02cb9-d0b2-4ba5-8ea3-e5c6ab46b005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Kemanc\u0131"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }
+    ], 
+    "duration": 141, 
+    "path": "../data/Huzzam/3799145c-529c-41d2-998a-948a9292f4d8.mp3", 
+    "works": [
+        {
+            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
+            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+        }
+    ]
+}

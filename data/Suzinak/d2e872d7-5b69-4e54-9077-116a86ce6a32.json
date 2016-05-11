@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/5001369a-437b-4331-8693-4408ee913892"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/d2e872d7-5b69-4e54-9077-116a86ce6a32"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/5001369a-437b-4331-8693-4408ee913892"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/d2e872d7-5b69-4e54-9077-116a86ce6a32"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "aaf91f89-3b53-42d7-8870-7ac879f89476", 
+            "title": "H\u00fczzam 16"
+        }
+    ], 
+    "title": "Her Dil Seni Sevda ile S\u00f6yler Avunur", 
+    "url": "http://musicbrainz.org/work/d2e872d7-5b69-4e54-9077-116a86ce6a32", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "d2e872d7-5b69-4e54-9077-116a86ce6a32", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5001369a-437b-4331-8693-4408ee913892"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d2e872d7-5b69-4e54-9077-116a86ce6a32"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 228, 
+    "path": "../data/Suzinak/d2e872d7-5b69-4e54-9077-116a86ce6a32.mp3", 
+    "works": [
+        {
+            "mbid": "5001369a-437b-4331-8693-4408ee913892", 
+            "title": "Her Dil Seni Sevda ile S\u00f6yler"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ca96f38a-884a-468c-a579-9b56401fc796"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "34f8d8a5-f305-4988-8ab9-42ecb7d5f476", 
+            "title": "H\u00fczzam 14"
+        }
+    ], 
+    "title": "H\u00fczzam Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/ca96f38a-884a-468c-a579-9b56401fc796", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ca96f38a-884a-468c-a579-9b56401fc796", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 105, 
+    "path": "../data/Huzzam/ca96f38a-884a-468c-a579-9b56401fc796.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ca96f38a-884a-468c-a579-9b56401fc796"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/ca96f38a-884a-468c-a579-9b56401fc796"
+        }
+    ]
+}

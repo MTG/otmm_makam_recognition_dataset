@@ -1,0 +1,69 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/4e506db6-daa5-4c30-8195-eee334d64d80"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/caf01faf-7e0e-4463-ac27-6d56c9055434"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/4e506db6-daa5-4c30-8195-eee334d64d80"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6bb7533b-9429-45ec-ad93-21f30b21ccd7", 
+            "title": "Udi Yorgo Bacanos 1900-1977"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Pe\u015frev (Tatyos Efendi)", 
+    "url": "http://musicbrainz.org/work/4e506db6-daa5-4c30-8195-eee334d64d80", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "4e506db6-daa5-4c30-8195-eee334d64d80", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/caf01faf-7e0e-4463-ac27-6d56c9055434"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/4e506db6-daa5-4c30-8195-eee334d64d80"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 403, 
+    "path": "../data/Kurdilihicazkar/4e506db6-daa5-4c30-8195-eee334d64d80.mp3", 
+    "works": [
+        {
+            "mbid": "caf01faf-7e0e-4463-ac27-6d56c9055434", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ]
+}

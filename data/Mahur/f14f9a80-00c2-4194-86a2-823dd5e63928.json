@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/f14f9a80-00c2-4194-86a2-823dd5e63928"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "917f9158-b14d-4abd-a132-30200d0a759b", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 2"
+        }
+    ], 
+    "title": "Ud Taksimi - Mahur", 
+    "url": "http://musicbrainz.org/work/f14f9a80-00c2-4194-86a2-823dd5e63928", 
+    "artist_credits": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "f14f9a80-00c2-4194-86a2-823dd5e63928", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "attribute-list": [
+                "oud", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Bayram Co\u015fkuner"
+        }
+    ], 
+    "duration": 97, 
+    "path": "../data/Mahur/f14f9a80-00c2-4194-86a2-823dd5e63928.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f14f9a80-00c2-4194-86a2-823dd5e63928"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/f14f9a80-00c2-4194-86a2-823dd5e63928"
+        }
+    ]
+}

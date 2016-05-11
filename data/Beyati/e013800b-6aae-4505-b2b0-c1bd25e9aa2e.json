@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/e013800b-6aae-4505-b2b0-c1bd25e9aa2e"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/e013800b-6aae-4505-b2b0-c1bd25e9aa2e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c2dd85d4-2c8d-44cc-bfa5-757f1d43cdc4", 
+            "title": "Itri Bir Medeniyet Bestekar\u0131"
+        }
+    ], 
+    "title": "Bayati Makam\u0131nda Kanun Taksimi", 
+    "url": "http://musicbrainz.org/work/e013800b-6aae-4505-b2b0-c1bd25e9aa2e", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "e013800b-6aae-4505-b2b0-c1bd25e9aa2e", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }
+    ], 
+    "duration": 75, 
+    "path": "../data/Beyati/e013800b-6aae-4505-b2b0-c1bd25e9aa2e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/e013800b-6aae-4505-b2b0-c1bd25e9aa2e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/e013800b-6aae-4505-b2b0-c1bd25e9aa2e"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/75b061d8-b064-4e81-a0b9-03780387bb30"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6bb7533b-9429-45ec-ad93-21f30b21ccd7", 
+            "title": "Udi Yorgo Bacanos 1900-1977"
+        }
+    ], 
+    "title": "Kemence Taksim (Aleko Bacanos)", 
+    "url": "http://musicbrainz.org/work/75b061d8-b064-4e81-a0b9-03780387bb30", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "75b061d8-b064-4e81-a0b9-03780387bb30", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4a062748-b2b4-4b60-b5e5-46b68f29dc1b", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Aleko Bacanos Efendi"
+        }
+    ], 
+    "duration": 194, 
+    "path": "../data/Hicazkar/75b061d8-b064-4e81-a0b9-03780387bb30.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/75b061d8-b064-4e81-a0b9-03780387bb30"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/75b061d8-b064-4e81-a0b9-03780387bb30"
+        }
+    ]
+}

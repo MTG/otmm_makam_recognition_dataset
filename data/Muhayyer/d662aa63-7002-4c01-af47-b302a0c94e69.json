@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "Muhayyer Aksak Zeybek (\"Sar\u0131 Zeybek\")", 
+    "url": "http://musicbrainz.org/work/d662aa63-7002-4c01-af47-b302a0c94e69", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d662aa63-7002-4c01-af47-b302a0c94e69", 
+    "form": [
+        {
+            "attribute_key": "zeybek", 
+            "mb_attribute": "Zeybek", 
+            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
+        }, 
+        {
+            "attribute_key": "zeybek", 
+            "mb_tag": "zeybek", 
+            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "168ada11-9c72-4641-85d4-cb41653576af", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Tarihi T\u00fcrk Musikisi K\u00fcme Okuyucular\u0131"
+        }, 
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "type": "conductor", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "duration": 198, 
+    "path": "../data/Muhayyer/d662aa63-7002-4c01-af47-b302a0c94e69.mp3", 
+    "works": [
+        {
+            "mbid": "ccd2cb76-b4f0-4033-9431-5dde0953d72c", 
+            "title": "Sar\u0131 Zeybek"
+        }
+    ]
+}

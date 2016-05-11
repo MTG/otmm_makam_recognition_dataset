@@ -1,0 +1,165 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f30dc9ba-ec52-47fb-97eb-8b8cf8d74663"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/48fb37f4-0db9-4bf9-8051-51640bbcf6f1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/f30dc9ba-ec52-47fb-97eb-8b8cf8d74663"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/48fb37f4-0db9-4bf9-8051-51640bbcf6f1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bdc8ef2-27b9-4dac-8bc6-3b5872883d88", 
+            "title": "Ermeni Bestekarlar -1- (Armenian Composers)"
+        }
+    ], 
+    "title": "Bais-i Berbad\u0131m Oldu Can Yak\u0131c\u0131 G\u00f6zlerin", 
+    "url": "http://musicbrainz.org/work/48fb37f4-0db9-4bf9-8051-51640bbcf6f1", 
+    "artist_credits": [
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "name": "Recep Birgit"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "48fb37f4-0db9-4bf9-8051-51640bbcf6f1", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f30dc9ba-ec52-47fb-97eb-8b8cf8d74663"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/48fb37f4-0db9-4bf9-8051-51640bbcf6f1"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
+            "type": "vocal", 
+            "name": "G\u00fcl G\u00f6re"
+        }, 
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "type": "vocal", 
+            "name": "Nusret Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "848cfeeb-0d8f-4b8b-9cb8-c735ef08a4d2", 
+            "type": "vocal", 
+            "name": "G\u00fclnaz Ataman"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }, 
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Recep Birgit"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "e3c7ff4d-27fe-4225-9e04-91c84a9a303c", 
+            "type": "vocal", 
+            "name": "Ayta\u00e7 Ergen"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 147, 
+    "path": "../data/Rast/48fb37f4-0db9-4bf9-8051-51640bbcf6f1.mp3", 
+    "works": [
+        {
+            "mbid": "f30dc9ba-ec52-47fb-97eb-8b8cf8d74663", 
+            "title": "Bais-i Berbad\u0131m Oldu Can Yak\u0131c\u0131 G\u00f6zlerin"
+        }
+    ]
+}

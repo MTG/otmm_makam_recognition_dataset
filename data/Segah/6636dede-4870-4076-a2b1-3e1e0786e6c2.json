@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ef3ad924-c6aa-4c61-b221-248115ac0115"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6636dede-4870-4076-a2b1-3e1e0786e6c2"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/ef3ad924-c6aa-4c61-b221-248115ac0115"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/6636dede-4870-4076-a2b1-3e1e0786e6c2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fd025ba9-daad-4fff-b196-836163418a61", 
+            "title": "Bir \u00d6zlemdir (Kendi Sesinden)"
+        }
+    ], 
+    "title": "All\u0131 Yemeni", 
+    "url": "http://musicbrainz.org/work/6636dede-4870-4076-a2b1-3e1e0786e6c2", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "6636dede-4870-4076-a2b1-3e1e0786e6c2", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/ef3ad924-c6aa-4c61-b221-248115ac0115"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/6636dede-4870-4076-a2b1-3e1e0786e6c2"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 321, 
+    "path": "../data/Segah/6636dede-4870-4076-a2b1-3e1e0786e6c2.mp3", 
+    "works": [
+        {
+            "mbid": "ef3ad924-c6aa-4c61-b221-248115ac0115", 
+            "title": "All\u0131 Yemeni"
+        }
+    ]
+}

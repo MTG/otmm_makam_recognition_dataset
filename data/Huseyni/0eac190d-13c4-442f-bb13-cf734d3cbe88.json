@@ -1,0 +1,136 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/44c61280-0061-40c1-8e83-bfd3f5c72ef4"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0eac190d-13c4-442f-bb13-cf734d3cbe88"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/44c61280-0061-40c1-8e83-bfd3f5c72ef4"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/0eac190d-13c4-442f-bb13-cf734d3cbe88"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d6894b04-7022-4c6e-83bc-8c0bf5adbdf6", 
+            "title": "Yenikap\u0131 Mevlevihanesi - The Yenikap\u0131 Mevlevi Lodge"
+        }
+    ], 
+    "title": "Senden Bilirim Yok Bana Faide Ey G\u00fcl", 
+    "url": "http://musicbrainz.org/work/0eac190d-13c4-442f-bb13-cf734d3cbe88", 
+    "artist_credits": [
+        {
+            "mbid": "4e145d13-83e5-4635-90f2-2c64a55d4ed3", 
+            "name": "S\u00f6z Saz \u0130stanbul"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "0eac190d-13c4-442f-bb13-cf734d3cbe88", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/44c61280-0061-40c1-8e83-bfd3f5c72ef4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0eac190d-13c4-442f-bb13-cf734d3cbe88"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serkan Mesut Halili"
+        }, 
+        {
+            "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
+            "type": "vocal", 
+            "name": "G\u00fcl Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "2f4e08c9-169f-4cfc-bf30-0a419ff30c33", 
+            "type": "vocal", 
+            "name": "\u0130lhan Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }, 
+        {
+            "mbid": "7ae028e6-a330-47de-894e-065f335e3a14", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zg\u00fcr \u00d6zg\u00fcler"
+        }, 
+        {
+            "mbid": "9db210e7-3a4c-4e00-b693-8cfe59bc8e09", 
+            "type": "vocal", 
+            "name": "Veysel Dalsald\u0131"
+        }, 
+        {
+            "mbid": "b0eb3f51-ad13-46ed-9206-f490f7c619eb", 
+            "attribute-list": [
+                "bendir", 
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Ferruh Yark\u0131n"
+        }, 
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }, 
+        {
+            "mbid": "c828fa17-19ef-41f9-8734-f7a988c94b26", 
+            "type": "vocal", 
+            "name": "Kemal Kara\u00f6z"
+        }, 
+        {
+            "mbid": "edb76300-a5eb-4136-8fb0-c176eb5a4ced", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Sercan Halili"
+        }
+    ], 
+    "duration": 156, 
+    "path": "../data/Huseyni/0eac190d-13c4-442f-bb13-cf734d3cbe88.mp3", 
+    "works": [
+        {
+            "mbid": "44c61280-0061-40c1-8e83-bfd3f5c72ef4", 
+            "title": "Senden Bilirim Yok Bana Faide"
+        }
+    ]
+}

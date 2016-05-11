@@ -1,0 +1,143 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5c3218e4-79d4-424e-a169-3d4cd156dc1a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/5c3218e4-79d4-424e-a169-3d4cd156dc1a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d9ce2ec7-afa3-43c3-8023-55932611ac9d", 
+            "title": "TRT \u0130stanbul Radyosu - 24.02.1992"
+        }
+    ], 
+    "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme", 
+    "url": "http://musicbrainz.org/work/5c3218e4-79d4-424e-a169-3d4cd156dc1a", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5c3218e4-79d4-424e-a169-3d4cd156dc1a", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5c3218e4-79d4-424e-a169-3d4cd156dc1a"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Bitmez"
+        }, 
+        {
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Karakaya"
+        }, 
+        {
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u00c7ak\u0131r"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "30fb8657-1330-41d5-b2b1-55b4891fd0b8", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayd\u0131n Oran"
+        }, 
+        {
+            "mbid": "35f1b9e1-9a40-44be-a0d5-7b089ff07f53", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcng\u00f6r Ho\u015fses"
+        }, 
+        {
+            "mbid": "480aa839-4292-4d95-9fc5-5299217de0f7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bertan \u00dcsk\u00fcdarl\u0131"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "cece3abf-2755-490c-b12c-e9663513187b", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Aslan Hepg\u00fcr"
+        }, 
+        {
+            "mbid": "e8c0fddc-2ba0-494c-90a9-9ad51d01619d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Nuri G\u00fcn"
+        }
+    ], 
+    "duration": 188, 
+    "path": "../data/Segah/5c3218e4-79d4-424e-a169-3d4cd156dc1a.mp3", 
+    "works": [
+        {
+            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
+            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+        }
+    ]
+}

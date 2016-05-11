@@ -1,0 +1,71 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/0ebfbe14-9cbe-4661-a829-c881812c9177"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/398c86b4-7e01-4ae9-bd7b-4430e3648257"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4a2f44fe-d4bf-4902-b11e-b0584cbfe8ee", 
+            "title": "Legacy"
+        }
+    ], 
+    "title": "Saba Nefes", 
+    "url": "http://musicbrainz.org/work/398c86b4-7e01-4ae9-bd7b-4430e3648257", 
+    "artist_credits": [
+        {
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "name": "Neva \u00d6zgen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "398c86b4-7e01-4ae9-bd7b-4430e3648257", 
+    "form": [
+        {
+            "attribute_key": "nefes", 
+            "mb_attribute": "Nefes", 
+            "source": "http://musicbrainz.org/work/0ebfbe14-9cbe-4661-a829-c881812c9177"
+        }, 
+        {
+            "attribute_key": "nefes", 
+            "mb_tag": "nefes", 
+            "source": "http://musicbrainz.org/recording/398c86b4-7e01-4ae9-bd7b-4430e3648257"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Neva \u00d6zgen"
+        }
+    ], 
+    "duration": 128, 
+    "path": "../data/Saba/398c86b4-7e01-4ae9-bd7b-4430e3648257.mp3", 
+    "works": [
+        {
+            "mbid": "0ebfbe14-9cbe-4661-a829-c881812c9177", 
+            "title": "Saba Nefes"
+        }
+    ]
+}

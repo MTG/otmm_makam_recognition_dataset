@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/40e93193-f3e4-4f0a-82cb-9c1928fe8dc0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f95996b8-452d-4e7f-baa6-ded041a4ec35"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/40e93193-f3e4-4f0a-82cb-9c1928fe8dc0"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/f95996b8-452d-4e7f-baa6-ded041a4ec35"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c3a29b5e-e881-45bc-8775-3b2fb0467243", 
+            "title": "\u015eark\u0131lar"
+        }
+    ], 
+    "title": "Bir Nigah Et Kahr ile Sen Bakma Allah A\u015fk\u0131na", 
+    "url": "http://musicbrainz.org/work/f95996b8-452d-4e7f-baa6-ded041a4ec35", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "f95996b8-452d-4e7f-baa6-ded041a4ec35", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/40e93193-f3e4-4f0a-82cb-9c1928fe8dc0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f95996b8-452d-4e7f-baa6-ded041a4ec35"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 245, 
+    "path": "../data/Saba/f95996b8-452d-4e7f-baa6-ded041a4ec35.mp3", 
+    "works": [
+        {
+            "mbid": "40e93193-f3e4-4f0a-82cb-9c1928fe8dc0", 
+            "title": "Bir Nigah Et Kahrile Sen Bakma Allah A\u015fk\u0131na"
+        }
+    ]
+}

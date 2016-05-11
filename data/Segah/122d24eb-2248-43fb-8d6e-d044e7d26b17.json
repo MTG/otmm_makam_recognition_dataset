@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/122d24eb-2248-43fb-8d6e-d044e7d26b17"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c901447d-f986-489e-9a2b-1d42958aa05a", 
+            "title": "Yorgo Bacanos 1900-1977- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Segah Taksim", 
+    "url": "http://musicbrainz.org/work/122d24eb-2248-43fb-8d6e-d044e7d26b17", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "122d24eb-2248-43fb-8d6e-d044e7d26b17", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 200, 
+    "path": "../data/Segah/122d24eb-2248-43fb-8d6e-d044e7d26b17.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/122d24eb-2248-43fb-8d6e-d044e7d26b17"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/122d24eb-2248-43fb-8d6e-d044e7d26b17"
+        }
+    ]
+}

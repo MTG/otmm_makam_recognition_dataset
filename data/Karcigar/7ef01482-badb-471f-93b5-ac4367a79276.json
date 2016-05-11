@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7ef01482-badb-471f-93b5-ac4367a79276"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/7ef01482-badb-471f-93b5-ac4367a79276"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fee24520-d533-40f1-94cf-cc8e178d10cd", 
+            "title": "Selahattin P\u0131nar"
+        }
+    ], 
+    "title": "Dile D\u00fc\u015ft\u00fcm Senin Y\u00fcz\u00fcnden Yine", 
+    "url": "http://musicbrainz.org/work/7ef01482-badb-471f-93b5-ac4367a79276", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "7ef01482-badb-471f-93b5-ac4367a79276", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/7ef01482-badb-471f-93b5-ac4367a79276"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 260, 
+    "path": "../data/Karcigar/7ef01482-badb-471f-93b5-ac4367a79276.mp3", 
+    "works": [
+        {
+            "mbid": "2b67dacd-f4da-4dc6-95ef-dbe0bcf8c764", 
+            "title": "Dile D\u00fc\u015ft\u00fcm Senin Y\u00fcz\u00fcnden"
+        }
+    ]
+}

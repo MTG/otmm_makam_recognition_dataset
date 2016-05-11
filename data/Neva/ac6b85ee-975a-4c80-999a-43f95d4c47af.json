@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ac6b85ee-975a-4c80-999a-43f95d4c47af"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7bbf7973-95f1-4dc5-8ec4-76991bec87e9", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - Kemen\u00e7e"
+        }
+    ], 
+    "title": "Neva Taksim", 
+    "url": "http://musicbrainz.org/work/ac6b85ee-975a-4c80-999a-43f95d4c47af", 
+    "artist_credits": [
+        {
+            "mbid": "65f0a385-09d1-45d0-9045-9de674ff7d55", 
+            "name": "Nihat Do\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ac6b85ee-975a-4c80-999a-43f95d4c47af", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "65f0a385-09d1-45d0-9045-9de674ff7d55", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nihat Do\u011fu"
+        }
+    ], 
+    "duration": 291, 
+    "path": "../data/Neva/ac6b85ee-975a-4c80-999a-43f95d4c47af.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ac6b85ee-975a-4c80-999a-43f95d4c47af"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/ac6b85ee-975a-4c80-999a-43f95d4c47af"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cc8282ea-d0d2-473e-ba98-9d2acdf9df02", 
+            "title": "Saba"
+        }
+    ], 
+    "title": "Uzay\u0131p Giden O Tren Yollar\u0131", 
+    "url": "http://musicbrainz.org/work/28c18713-b0f9-456d-9732-a9eae8ca0eed", 
+    "artist_credits": [
+        {
+            "mbid": "d1246e00-d12f-4617-837d-3f434bdd5c07", 
+            "name": "Tahir Engin \u0130\u00e7\u00f6z"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "28c18713-b0f9-456d-9732-a9eae8ca0eed", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "d1246e00-d12f-4617-837d-3f434bdd5c07", 
+            "type": "vocal", 
+            "name": "Tahir Engin \u0130\u00e7\u00f6z"
+        }
+    ], 
+    "duration": 172, 
+    "path": "../data/Saba/28c18713-b0f9-456d-9732-a9eae8ca0eed.mp3", 
+    "works": [
+        {
+            "mbid": "d7a2639b-035c-4220-923c-889ef7b34bfd", 
+            "title": "Uzay\u0131p Giden Tren Yollar\u0131"
+        }
+    ]
+}

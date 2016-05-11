@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d0d92446-5d0d-448a-bb84-516119fa2b8e", 
+            "title": "Unutulmayan Bestecilerin Unutulmaz Eserleri - Semahat \u00d6zdenses"
+        }
+    ], 
+    "title": "Havada Bulut Yok", 
+    "url": "http://musicbrainz.org/work/81b44968-5451-4c94-9f7f-6695fdb9aa11", 
+    "artist_credits": [
+        {
+            "mbid": "2398b010-95e9-4bd8-98a8-f18d2e42c0fb", 
+            "name": "Semahat \u00d6zdenses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "81b44968-5451-4c94-9f7f-6695fdb9aa11", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "background vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "2398b010-95e9-4bd8-98a8-f18d2e42c0fb", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Semahat \u00d6zdenses"
+        }
+    ], 
+    "duration": 154, 
+    "path": "../data/Huseyni/81b44968-5451-4c94-9f7f-6695fdb9aa11.mp3", 
+    "works": [
+        {
+            "mbid": "ae823bb9-2ca0-45c1-a454-265d29be80a5", 
+            "title": "Havada Bulut Yok"
+        }
+    ]
+}

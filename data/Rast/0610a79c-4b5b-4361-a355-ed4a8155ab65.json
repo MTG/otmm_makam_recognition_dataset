@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a7a544b9-62cd-4e90-b2d2-4f4a93202ff6"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/0610a79c-4b5b-4361-a355-ed4a8155ab65"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/a7a544b9-62cd-4e90-b2d2-4f4a93202ff6"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/0610a79c-4b5b-4361-a355-ed4a8155ab65"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ccbb9023-a235-4ca3-bc68-043cdf463903", 
+            "title": "Makber - Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "title": "Esmerim G\u00fczelim", 
+    "url": "http://musicbrainz.org/work/0610a79c-4b5b-4361-a355-ed4a8155ab65", 
+    "artist_credits": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "0610a79c-4b5b-4361-a355-ed4a8155ab65", 
+    "form": [
+        {
+            "attribute_key": "kanto", 
+            "mb_attribute": "Kanto", 
+            "source": "http://musicbrainz.org/work/a7a544b9-62cd-4e90-b2d2-4f4a93202ff6"
+        }, 
+        {
+            "attribute_key": "kanto", 
+            "mb_tag": "kanto", 
+            "source": "http://musicbrainz.org/recording/0610a79c-4b5b-4361-a355-ed4a8155ab65"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "type": "vocal", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "duration": 245, 
+    "path": "../data/Rast/0610a79c-4b5b-4361-a355-ed4a8155ab65.mp3", 
+    "works": [
+        {
+            "mbid": "a7a544b9-62cd-4e90-b2d2-4f4a93202ff6", 
+            "title": "Dar\u0131ld\u0131n m\u0131 G\u00fcl\u00fcm Bana"
+        }
+    ]
+}

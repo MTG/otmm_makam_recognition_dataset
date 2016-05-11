@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/86095f10-805a-4cf1-90c6-72f1a5346a06"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2115eba6-c085-4bd0-923f-bb99550d64ac", 
+            "title": "TRT \u0130stanbul Radyosu - 27.05.1992"
+        }
+    ], 
+    "title": "Viyola Taksimi", 
+    "url": "http://musicbrainz.org/work/86095f10-805a-4cf1-90c6-72f1a5346a06", 
+    "artist_credits": [
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "name": "Kemal Demir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "86095f10-805a-4cf1-90c6-72f1a5346a06", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "attribute-list": [
+                "solo", 
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Demir"
+        }
+    ], 
+    "duration": 125, 
+    "path": "../data/Ussak/86095f10-805a-4cf1-90c6-72f1a5346a06.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/86095f10-805a-4cf1-90c6-72f1a5346a06"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/86095f10-805a-4cf1-90c6-72f1a5346a06"
+        }
+    ]
+}

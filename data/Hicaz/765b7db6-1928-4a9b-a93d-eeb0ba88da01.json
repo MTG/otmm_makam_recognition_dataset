@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/be9fea90-30b0-4ecf-b887-aae7267f3603"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/765b7db6-1928-4a9b-a93d-eeb0ba88da01"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/be9fea90-30b0-4ecf-b887-aae7267f3603"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/765b7db6-1928-4a9b-a93d-eeb0ba88da01"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "381bd0bd-2ca5-4a93-a412-7c3b97232ca4", 
+            "title": "Mavili"
+        }
+    ], 
+    "title": "Kim G\u00f6rm\u00fc\u015ft\u00fcr G\u00fczellerin Vefas\u0131n", 
+    "url": "http://musicbrainz.org/work/765b7db6-1928-4a9b-a93d-eeb0ba88da01", 
+    "artist_credits": [
+        {
+            "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
+            "name": "Radife Erten"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "765b7db6-1928-4a9b-a93d-eeb0ba88da01", 
+    "form": [
+        {
+            "attribute_key": "rumeliturkusu", 
+            "mb_attribute": "Rumeli T\u00fcrk\u00fcs\u00fc", 
+            "source": "http://musicbrainz.org/work/be9fea90-30b0-4ecf-b887-aae7267f3603"
+        }, 
+        {
+            "attribute_key": "rumeliturkusu", 
+            "mb_tag": "rumelit\u00fcrk\u00fcs\u00fc", 
+            "source": "http://musicbrainz.org/recording/765b7db6-1928-4a9b-a93d-eeb0ba88da01"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
+            "type": "vocal", 
+            "name": "Radife Erten"
+        }
+    ], 
+    "duration": 279, 
+    "path": "../data/Hicaz/765b7db6-1928-4a9b-a93d-eeb0ba88da01.mp3", 
+    "works": [
+        {
+            "mbid": "be9fea90-30b0-4ecf-b887-aae7267f3603", 
+            "title": "Kim G\u00f6rm\u00fc\u015ft\u00fcr G\u00fczellerin Vefas\u0131n"
+        }
+    ]
+}

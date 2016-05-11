@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/9c7f9af6-9375-46f2-864c-2f5a978794d0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e2e735a4-a034-4bc5-971e-ae5fa5969c7c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/9c7f9af6-9375-46f2-864c-2f5a978794d0"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/e2e735a4-a034-4bc5-971e-ae5fa5969c7c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2d29999b-732d-4a8e-bcc0-8ef7ecf1308b", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk - \u00dcstad"
+        }
+    ], 
+    "title": "Anlatay\u0131m Halimi", 
+    "url": "http://musicbrainz.org/work/e2e735a4-a034-4bc5-971e-ae5fa5969c7c", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "e2e735a4-a034-4bc5-971e-ae5fa5969c7c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9c7f9af6-9375-46f2-864c-2f5a978794d0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e2e735a4-a034-4bc5-971e-ae5fa5969c7c"
+        }
+    ], 
+    "bit_rate": 256, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Rast/e2e735a4-a034-4bc5-971e-ae5fa5969c7c.mp3", 
+    "works": [
+        {
+            "mbid": "9c7f9af6-9375-46f2-864c-2f5a978794d0", 
+            "title": "Anlatay\u0131m Halimi"
+        }
+    ]
+}

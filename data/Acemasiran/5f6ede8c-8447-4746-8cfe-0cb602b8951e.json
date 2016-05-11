@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c7f750d-8868-46d6-bfbf-7fd2a5e04b95", 
+            "title": "40 Makam 40 Anlam"
+        }
+    ], 
+    "title": "Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/5f6ede8c-8447-4746-8cfe-0cb602b8951e", 
+    "artist_credits": [
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5f6ede8c-8447-4746-8cfe-0cb602b8951e", 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "duration": 214, 
+    "path": "../data/Acemasiran/5f6ede8c-8447-4746-8cfe-0cb602b8951e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/5f6ede8c-8447-4746-8cfe-0cb602b8951e"
+        }
+    ]
+}

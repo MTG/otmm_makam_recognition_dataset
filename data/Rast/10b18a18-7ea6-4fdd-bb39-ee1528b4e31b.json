@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2d29999b-732d-4a8e-bcc0-8ef7ecf1308b", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk - \u00dcstad"
+        }
+    ], 
+    "title": "G\u00f6z\u00fcmde Daim Hayali Cana", 
+    "url": "http://musicbrainz.org/work/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "10b18a18-7ea6-4fdd-bb39-ee1528b4e31b", 
+    "form": [
+        {
+            "attribute_key": "kar_i_nev", 
+            "mb_attribute": "Kar-\u0131 Nev", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "kar", 
+            "mb_tag": "kar", 
+            "source": "http://musicbrainz.org/recording/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b"
+        }
+    ], 
+    "bit_rate": 256, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 347, 
+    "path": "../data/Rast/10b18a18-7ea6-4fdd-bb39-ee1528b4e31b.mp3", 
+    "works": [
+        {
+            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
+            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "79cd3b04-b987-4b02-a5c2-ccb1abd825bc", 
+            "title": "Bestekarlar\u0131m\u0131z: 8 - Ahmet Rasim Bey"
+        }
+    ], 
+    "title": "Leb-i Renginine Bir G\u00fcl Konsun", 
+    "url": "http://musicbrainz.org/work/5a372d52-2dd0-445e-9607-875c36beb29c", 
+    "artist_credits": [
+        {
+            "mbid": "a6d30618-1bb0-43c0-8946-c7e298cd7da7", 
+            "name": "Esin Din\u00e7er"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5a372d52-2dd0-445e-9607-875c36beb29c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "03d362b0-4c8f-4d86-8ee1-aaa039f3f7f8", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Cem O\u011fuz"
+        }, 
+        {
+            "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan G\u00fcndiyer"
+        }, 
+        {
+            "mbid": "16f6e20e-0674-4880-9497-b231e234b127", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Mahir K\u0131l\u0131\u00e7"
+        }, 
+        {
+            "mbid": "2e06c7c2-c2fd-4484-8b28-b8d9efe0e9d1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Haluk Derin\u00f6z"
+        }, 
+        {
+            "mbid": "3477c9a3-47b0-4cc0-8acd-3691c2aa7ad6", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Tanju Kabac\u0131"
+        }, 
+        {
+            "mbid": "34d08f2f-7f19-472d-9111-8b65d3a48e98", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Dinleyen"
+        }, 
+        {
+            "mbid": "43f14d88-8f74-4254-9837-6c9350b03f27", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer Yaman"
+        }, 
+        {
+            "mbid": "4b593731-0f81-4e90-ad7a-ffd6be17c5cd", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Faruk \u015eahin"
+        }, 
+        {
+            "mbid": "6b31f595-1fee-4bae-9cf9-fa3810731fed", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim Oytun"
+        }, 
+        {
+            "mbid": "78726252-3ef1-42dc-9463-a3cc477b027c", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Reyyan Kurbani"
+        }, 
+        {
+            "mbid": "85015e35-c8d5-42f2-bd68-60483874bf6d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcseyin Turna"
+        }, 
+        {
+            "mbid": "8eb84904-410b-496a-8afa-d817cfb61c10", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Bur\u00e7"
+        }, 
+        {
+            "mbid": "91fb4418-b51a-4283-a328-5169fe5a164b", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Cevdet Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "a372acba-28fc-4237-8133-6db91f07898b", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Tu\u011fba G\u00fcvem Alag\u00f6z"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "a6d30618-1bb0-43c0-8946-c7e298cd7da7", 
+            "type": "vocal", 
+            "name": "Esin Din\u00e7er"
+        }, 
+        {
+            "mbid": "bd2e2420-35ef-49cb-93af-c8952735432c", 
+            "type": "instrument", 
+            "name": "Mete \u015eentin"
+        }, 
+        {
+            "mbid": "ce641d12-e61b-4480-98b3-57f90a265e12", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Veysel G\u00fcng\u00f6ren"
+        }, 
+        {
+            "mbid": "d9a58619-ec31-4bcc-a0b6-54b6c1e6a96a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sedat G\u00fcndiyer"
+        }
+    ], 
+    "duration": 155, 
+    "path": "../data/Rast/5a372d52-2dd0-445e-9607-875c36beb29c.mp3", 
+    "works": [
+        {
+            "mbid": "fc1508ed-2c07-46bb-b47d-71eccb822ff0", 
+            "title": "Leb-i Renginine Bir G\u00fcl Konsun"
+        }
+    ]
+}

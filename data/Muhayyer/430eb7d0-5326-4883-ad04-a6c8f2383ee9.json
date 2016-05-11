@@ -1,0 +1,63 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/46ed54ab-99be-4017-91cf-7c6a518a9533"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/430eb7d0-5326-4883-ad04-a6c8f2383ee9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3486f24f-48db-481e-9b65-3814bc215292", 
+            "title": "T\u00fcrk Dini Musikisi"
+        }
+    ], 
+    "title": "Muhayyer \u015eu\u011fl", 
+    "url": "http://musicbrainz.org/work/430eb7d0-5326-4883-ad04-a6c8f2383ee9", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "430eb7d0-5326-4883-ad04-a6c8f2383ee9", 
+    "form": [
+        {
+            "attribute_key": "sugul", 
+            "mb_attribute": "\u015eu\u011ful", 
+            "source": "http://musicbrainz.org/work/46ed54ab-99be-4017-91cf-7c6a518a9533"
+        }, 
+        {
+            "attribute_key": "sugul", 
+            "mb_tag": "\u015fu\u011ful", 
+            "source": "http://musicbrainz.org/recording/430eb7d0-5326-4883-ad04-a6c8f2383ee9"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 121, 
+    "path": "../data/Muhayyer/430eb7d0-5326-4883-ad04-a6c8f2383ee9.mp3", 
+    "works": [
+        {
+            "mbid": "46ed54ab-99be-4017-91cf-7c6a518a9533", 
+            "title": "Muhayyer \u015eu\u011ful"
+        }
+    ]
+}

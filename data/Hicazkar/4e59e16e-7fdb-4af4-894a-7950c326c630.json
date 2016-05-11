@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/9b4354cb-bf8e-4457-a561-6ad9eae7e762"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/4e59e16e-7fdb-4af4-894a-7950c326c630"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/9b4354cb-bf8e-4457-a561-6ad9eae7e762"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/4e59e16e-7fdb-4af4-894a-7950c326c630"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0fe07917-1432-42b5-b9be-d8d61046aba0", 
+            "title": "T\u00fcrk Bestekarlar Serisi - \u015eevki Bey"
+        }
+    ], 
+    "title": "G\u00f6nl\u00fcm\u00fc D\u00fc\u00e7ar Eden Bu", 
+    "url": "http://musicbrainz.org/work/4e59e16e-7fdb-4af4-894a-7950c326c630", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "4e59e16e-7fdb-4af4-894a-7950c326c630", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9b4354cb-bf8e-4457-a561-6ad9eae7e762"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4e59e16e-7fdb-4af4-894a-7950c326c630"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
+            "type": "vocal", 
+            "name": "G\u00fcl Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "2f4e08c9-169f-4cfc-bf30-0a419ff30c33", 
+            "type": "vocal", 
+            "name": "\u0130lhan Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }, 
+        {
+            "mbid": "a2a8f24d-a417-417b-8989-001eb1376fde", 
+            "type": "vocal", 
+            "name": "Kaan Safkan"
+        }, 
+        {
+            "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
+            "type": "vocal", 
+            "name": "Recep Birgit"
+        }, 
+        {
+            "mbid": "d227a44e-13fe-4b46-a53f-7e92aaa1d3d2", 
+            "type": "vocal", 
+            "name": "Cengizhan S\u00f6nmez"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }
+    ], 
+    "duration": 246, 
+    "path": "../data/Hicazkar/4e59e16e-7fdb-4af4-894a-7950c326c630.mp3", 
+    "works": [
+        {
+            "mbid": "9b4354cb-bf8e-4457-a561-6ad9eae7e762", 
+            "title": "G\u00f6nl\u00fcm\u00fc Du\u00e7ar Eden"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9f5ac91c-d168-4065-bbce-f07c33de9eb5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/9f5ac91c-d168-4065-bbce-f07c33de9eb5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cfc5e2f7-7533-4f23-8e90-cae81dcc57a5", 
+            "title": "Kanun Sololar\u0131"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi Saz Semisi", 
+    "url": "http://musicbrainz.org/work/9f5ac91c-d168-4065-bbce-f07c33de9eb5", 
+    "artist_credits": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "9f5ac91c-d168-4065-bbce-f07c33de9eb5", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9f5ac91c-d168-4065-bbce-f07c33de9eb5"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "duration": 407, 
+    "path": "../data/Acemkurdi/9f5ac91c-d168-4065-bbce-f07c33de9eb5.mp3", 
+    "works": [
+        {
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ]
+}

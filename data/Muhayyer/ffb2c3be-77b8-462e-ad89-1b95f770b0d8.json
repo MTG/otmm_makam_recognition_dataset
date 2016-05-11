@@ -1,0 +1,122 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/ffb2c3be-77b8-462e-ad89-1b95f770b0d8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/ffb2c3be-77b8-462e-ad89-1b95f770b0d8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "94e8eaf2-e8ea-4288-8692-ddb01de8b191", 
+            "title": "\u015eimdi Hat\u0131rda m\u0131d\u0131r..."
+        }
+    ], 
+    "title": "Ok Gibi Hublar Beni Yaydan Yabana Att\u0131lar", 
+    "url": "http://musicbrainz.org/work/ffb2c3be-77b8-462e-ad89-1b95f770b0d8", 
+    "artist_credits": [
+        {
+            "mbid": "add106f1-369e-4843-b6cb-a4b8db9b434d", 
+            "name": "Oya \u0130\u015fbo\u011fa"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "ffb2c3be-77b8-462e-ad89-1b95f770b0d8", 
+    "form": [
+        {
+            "attribute_key": "divan", 
+            "mb_attribute": "Divan", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "divan", 
+            "mb_tag": "divan", 
+            "source": "http://musicbrainz.org/recording/ffb2c3be-77b8-462e-ad89-1b95f770b0d8"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Buse Sever"
+        }, 
+        {
+            "mbid": "1fe3983b-db99-459d-b2c6-07a6b4d0142a", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Esra Berkman"
+        }, 
+        {
+            "mbid": "954f540c-33e4-4a39-8ea4-42b833946f26", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011furcan Sesler"
+        }, 
+        {
+            "mbid": "add106f1-369e-4843-b6cb-a4b8db9b434d", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Oya \u0130\u015fbo\u011fa"
+        }, 
+        {
+            "mbid": "b3c3314b-a470-4f42-b438-e2d8d81e603d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u00c7a\u011flar K\u0131r\u00f6mero\u011flu"
+        }, 
+        {
+            "mbid": "c1432312-3f2a-4263-84cf-a667dfcfbf35", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Polat"
+        }, 
+        {
+            "mbid": "d5572546-fbe3-4e80-a166-696498bf34b3", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eule \u00c7akar"
+        }
+    ], 
+    "duration": 279, 
+    "path": "../data/Muhayyer/ffb2c3be-77b8-462e-ad89-1b95f770b0d8.mp3", 
+    "works": [
+        {
+            "mbid": "b650f97e-0658-466e-8a39-7d43ae85620e", 
+            "title": "Ok Gibi Hublar Beni Yaydan Yabana Att\u0131lar"
+        }
+    ]
+}

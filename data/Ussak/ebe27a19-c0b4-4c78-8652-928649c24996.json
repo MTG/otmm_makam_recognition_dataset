@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ebe27a19-c0b4-4c78-8652-928649c24996"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "81e1d207-dc8d-4960-ad3f-f57cbb6a6853", 
+            "title": "Dini Musiki - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Merhaba", 
+    "url": "http://musicbrainz.org/work/ebe27a19-c0b4-4c78-8652-928649c24996", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "ebe27a19-c0b4-4c78-8652-928649c24996", 
+    "form": [
+        {
+            "attribute_key": "mevlidiserif", 
+            "mb_attribute": "Mevlidi\u015ferif", 
+            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
+        }, 
+        {
+            "attribute_key": "mevlidiserif", 
+            "mb_tag": "mevlidi\u015ferif", 
+            "source": "http://musicbrainz.org/recording/ebe27a19-c0b4-4c78-8652-928649c24996"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "type": "vocal", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "duration": 255, 
+    "path": "../data/Ussak/ebe27a19-c0b4-4c78-8652-928649c24996.mp3", 
+    "works": [
+        {
+            "mbid": "904d3ee5-f5ea-4d5a-a73d-1c8fe231da68", 
+            "title": "Yarad\u0131lm\u0131\u015f C\u00fcmle Olsun"
+        }
+    ]
+}

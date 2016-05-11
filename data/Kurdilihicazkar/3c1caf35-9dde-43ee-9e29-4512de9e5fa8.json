@@ -1,0 +1,98 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/3c1caf35-9dde-43ee-9e29-4512de9e5fa8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/3c1caf35-9dde-43ee-9e29-4512de9e5fa8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "917f9158-b14d-4abd-a132-30200d0a759b", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 2"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazk\u00e2r Sirto", 
+    "url": "http://musicbrainz.org/work/3c1caf35-9dde-43ee-9e29-4512de9e5fa8", 
+    "artist_credits": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "3c1caf35-9dde-43ee-9e29-4512de9e5fa8", 
+    "form": [
+        {
+            "attribute_key": "longa", 
+            "mb_attribute": "Longa", 
+            "source": "http://musicbrainz.org/work/a7de0206-4f78-473c-8224-ac32c235f93a"
+        }, 
+        {
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
+            "source": "http://musicbrainz.org/recording/3c1caf35-9dde-43ee-9e29-4512de9e5fa8"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Turay Dinleyen"
+        }, 
+        {
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Tahir Aydo\u011fdu"
+        }
+    ], 
+    "duration": 231, 
+    "path": "../data/Kurdilihicazkar/3c1caf35-9dde-43ee-9e29-4512de9e5fa8.mp3", 
+    "works": [
+        {
+            "mbid": "a7de0206-4f78-473c-8224-ac32c235f93a", 
+            "title": "K\u00fcrdilihicazk\u00e2r Longa"
+        }
+    ]
+}

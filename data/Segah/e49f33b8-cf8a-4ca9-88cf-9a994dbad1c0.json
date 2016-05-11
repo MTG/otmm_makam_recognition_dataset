@@ -1,0 +1,94 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e92a6ac5-6e03-4c45-a777-91284fe0dc12", 
+            "title": "The Ottoman Classical Palace Musics / Klasik Osmanl\u0131 Saray M\u00fczikleri"
+        }
+    ], 
+    "title": "Segah Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0", 
+    "artist_credits": [
+        {
+            "mbid": "d858c208-8ab3-4588-b1d7-f54d24a72f20", 
+            "name": "Turgut \u00d6z\u00fcfler"
+        }, 
+        {
+            "mbid": "e26140e6-0b60-4849-8143-c504a96a0139", 
+            "name": "Hasan Nar"
+        }, 
+        {
+            "mbid": "fbd684b5-7204-4e39-9286-ad4ae5eb481b", 
+            "name": "Ba\u015far Dikici"
+        }, 
+        {
+            "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
+            "name": "Alper Uzkur"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "d858c208-8ab3-4588-b1d7-f54d24a72f20", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Turgut \u00d6z\u00fcfler"
+        }, 
+        {
+            "mbid": "fbd684b5-7204-4e39-9286-ad4ae5eb481b", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ba\u015far Dikici"
+        }
+    ], 
+    "duration": 339, 
+    "path": "../data/Segah/e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0.mp3", 
+    "works": [
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ]
+}

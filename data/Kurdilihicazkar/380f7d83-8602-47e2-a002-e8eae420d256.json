@@ -1,0 +1,159 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "38f77760-d751-4b19-868e-adc92cb41b89", 
+            "title": "TRT \u0130stanbul Radyosu - 22.11.1992"
+        }
+    ], 
+    "title": "Meftunun Oldum Ey Vech-i Ahsen", 
+    "url": "http://musicbrainz.org/work/380f7d83-8602-47e2-a002-e8eae420d256", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "380f7d83-8602-47e2-a002-e8eae420d256", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "2dc10f79-5d9c-4387-ab03-04e78c438cf0", 
+            "attribute-list": [
+                "piano"
+            ], 
+            "type": "instrument", 
+            "name": "R\u0131fat \u015eanl\u0131el"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "51c0b22d-3a05-4c21-98b8-0a4aebaf9aa7", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Barbaros Erk\u00f6se"
+        }, 
+        {
+            "mbid": "74627c36-d382-411e-8a05-38e1d8e86c08", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Sayan"
+        }, 
+        {
+            "mbid": "a6fe8566-a246-40b9-8a86-1ada5884ca81", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Selahattin Erk\u00f6se"
+        }, 
+        {
+            "mbid": "b611c81e-2ff9-408c-bfb3-4ad94affbd79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nevbahar \u00d6zel"
+        }, 
+        {
+            "mbid": "cab02cb9-d0b2-4ba5-8ea3-e5c6ab46b005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Kemanc\u0131"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "d8f5b1ff-3e7c-48b0-827e-29a394be3159", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Do\u011fan Ho\u015fses"
+        }
+    ], 
+    "duration": 195, 
+    "path": "../data/Kurdilihicazkar/380f7d83-8602-47e2-a002-e8eae420d256.mp3", 
+    "works": [
+        {
+            "mbid": "1f23231c-13dc-4303-964b-f29db152fa6f", 
+            "title": "Meftunun Oldum Ey Vech-i Ahsen"
+        }
+    ]
+}

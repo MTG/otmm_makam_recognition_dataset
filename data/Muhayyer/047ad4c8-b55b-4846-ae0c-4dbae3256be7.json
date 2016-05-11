@@ -1,0 +1,89 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "Yetmez Mi Sana Bister \u00fc Balin Kuca\u011f\u0131m", 
+    "url": "http://musicbrainz.org/work/047ad4c8-b55b-4846-ae0c-4dbae3256be7", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "047ad4c8-b55b-4846-ae0c-4dbae3256be7", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "65d9ac2a-4142-49d3-b042-42bfee18fac1", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Volkan G\u00f6z\u00fcb\u00fcy\u00fck"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }
+    ], 
+    "duration": 151, 
+    "path": "../data/Muhayyer/047ad4c8-b55b-4846-ae0c-4dbae3256be7.mp3", 
+    "works": [
+        {
+            "mbid": "2cad3ee9-7520-4e0a-a596-c1208fc3f4b5", 
+            "title": "Yetmez Mi Sana"
+        }
+    ]
+}

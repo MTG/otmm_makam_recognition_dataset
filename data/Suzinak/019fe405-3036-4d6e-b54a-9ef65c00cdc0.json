@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/da621b0b-c408-4685-903d-5fc81d850d62"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/019fe405-3036-4d6e-b54a-9ef65c00cdc0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
+            "source": "http://musicbrainz.org/work/da621b0b-c408-4685-903d-5fc81d850d62"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/019fe405-3036-4d6e-b54a-9ef65c00cdc0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b607f980-ab7a-468b-9d4a-418512b58f61", 
+            "title": "S\u00fczinak"
+        }
+    ], 
+    "title": "Dokunma Kalbime \u00c7ok \u0130ncedir K\u0131r\u0131l\u0131r", 
+    "url": "http://musicbrainz.org/work/019fe405-3036-4d6e-b54a-9ef65c00cdc0", 
+    "artist_credits": [
+        {
+            "mbid": "9b400434-2042-4d42-8193-d9fc7aebf66e", 
+            "name": "Ya\u015far \u00d6zel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "019fe405-3036-4d6e-b54a-9ef65c00cdc0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/da621b0b-c408-4685-903d-5fc81d850d62"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/019fe405-3036-4d6e-b54a-9ef65c00cdc0"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "9b400434-2042-4d42-8193-d9fc7aebf66e", 
+            "type": "vocal", 
+            "name": "Ya\u015far \u00d6zel"
+        }
+    ], 
+    "duration": 124, 
+    "path": "../data/Suzinak/019fe405-3036-4d6e-b54a-9ef65c00cdc0.mp3", 
+    "works": [
+        {
+            "mbid": "da621b0b-c408-4685-903d-5fc81d850d62", 
+            "title": "Dokunma Kalbime"
+        }
+    ]
+}

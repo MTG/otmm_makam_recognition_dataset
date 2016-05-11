@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2389cc8e-b82b-4bba-ae29-f9a53620b49d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/2389cc8e-b82b-4bba-ae29-f9a53620b49d"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5af543f0-7287-4ced-92a3-f8f92f52e836", 
+            "title": "Ferit Sidal - S\u00f6zl\u00fc Eserlerden \u00d6rnekler - Enstrumantal Eserlerden \u00d6rnekler"
+        }
+    ], 
+    "title": "Bu G\u00fcnlerde Halimi Bir Anlasan \u015ea\u015fars\u0131n", 
+    "url": "http://musicbrainz.org/work/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb", 
+    "artist_credits": [
+        {
+            "mbid": "c7f13802-893f-4198-8408-7705db63176c", 
+            "name": "Suna Konak\u00e7\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2389cc8e-b82b-4bba-ae29-f9a53620b49d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "c7f13802-893f-4198-8408-7705db63176c", 
+            "type": "vocal", 
+            "name": "Suna Konak\u00e7\u0131"
+        }
+    ], 
+    "duration": 208, 
+    "path": "../data/Ussak/3b934a39-1d6d-4f9d-9a2c-9a6e064b68cb.mp3", 
+    "works": [
+        {
+            "mbid": "2389cc8e-b82b-4bba-ae29-f9a53620b49d", 
+            "title": "Bu G\u00fcnlerde Halimi Bir Anlasan \u015ea\u015fars\u0131n"
+        }
+    ]
+}

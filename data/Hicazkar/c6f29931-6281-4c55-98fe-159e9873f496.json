@@ -1,0 +1,87 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/4bd4e8b8-1ba5-4951-9d05-4ac9f5754fb7"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/c6f29931-6281-4c55-98fe-159e9873f496"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/4bd4e8b8-1ba5-4951-9d05-4ac9f5754fb7"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/c6f29931-6281-4c55-98fe-159e9873f496"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d53718c9-6497-44ab-82b8-1d6e8b91dde3", 
+            "title": "T\u00fcrk Musikisinin Ustalar\u0131 III"
+        }
+    ], 
+    "title": "B\u00fclb\u00fcl Gibi P\u00fcr Oldu Cihan", 
+    "url": "http://musicbrainz.org/work/c6f29931-6281-4c55-98fe-159e9873f496", 
+    "artist_credits": [
+        {
+            "mbid": "75839ef8-3a89-4d33-b618-c0f7ad213015", 
+            "name": "Haf\u0131z Sami"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c6f29931-6281-4c55-98fe-159e9873f496", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/4bd4e8b8-1ba5-4951-9d05-4ac9f5754fb7"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/c6f29931-6281-4c55-98fe-159e9873f496"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1ca1694a-6354-4414-bc3f-9dc0966bf5aa", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemani \u0130hsan Bey"
+        }, 
+        {
+            "mbid": "75839ef8-3a89-4d33-b618-c0f7ad213015", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Sami"
+        }
+    ], 
+    "duration": 183, 
+    "path": "../data/Hicazkar/c6f29931-6281-4c55-98fe-159e9873f496.mp3", 
+    "works": [
+        {
+            "mbid": "4bd4e8b8-1ba5-4951-9d05-4ac9f5754fb7", 
+            "title": "B\u00fclb\u00fcl Gibi P\u00fcr Oldu Cihan"
+        }
+    ]
+}

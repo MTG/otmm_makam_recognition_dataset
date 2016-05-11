@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/ee3ddc10-02ed-40db-b392-7af8d51fa59c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/ee3ddc10-02ed-40db-b392-7af8d51fa59c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8d71678a-4324-4754-9520-af5394356891", 
+            "title": "Turkish Music Makam Guide"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/ee3ddc10-02ed-40db-b392-7af8d51fa59c", 
+    "artist_credits": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "ee3ddc10-02ed-40db-b392-7af8d51fa59c", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/ee3ddc10-02ed-40db-b392-7af8d51fa59c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 92, 
+    "path": "../data/Acemkurdi/ee3ddc10-02ed-40db-b392-7af8d51fa59c.mp3", 
+    "works": [
+        {
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "title": "Acemk\u00fcrdi Pe\u015frev"
+        }
+    ]
+}

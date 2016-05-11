@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/afc00e14-7534-4e36-bf73-638342879966"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d24742bd-48cf-4ed9-be36-62ffe373b952"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/afc00e14-7534-4e36-bf73-638342879966"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/d24742bd-48cf-4ed9-be36-62ffe373b952"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "04063c16-21fa-41b7-8ab1-90bca0471c2f", 
+            "title": "Sazkar ve Rast \u015eark\u0131lar"
+        }
+    ], 
+    "title": "M\u00fckedder Derd-i Perderpeyle \u015eimdi", 
+    "url": "http://musicbrainz.org/work/d24742bd-48cf-4ed9-be36-62ffe373b952", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "d24742bd-48cf-4ed9-be36-62ffe373b952", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/afc00e14-7534-4e36-bf73-638342879966"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d24742bd-48cf-4ed9-be36-62ffe373b952"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 192, 
+    "path": "../data/Rast/d24742bd-48cf-4ed9-be36-62ffe373b952.mp3", 
+    "works": [
+        {
+            "mbid": "afc00e14-7534-4e36-bf73-638342879966", 
+            "title": "M\u00fckedder Derd-i Perderpeyle"
+        }
+    ]
+}

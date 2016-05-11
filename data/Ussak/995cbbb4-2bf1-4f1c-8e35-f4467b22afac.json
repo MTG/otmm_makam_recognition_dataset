@@ -1,0 +1,319 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a94eea2f-4577-4494-8d4c-af44a2894650", 
+            "title": "Klasik T\u00fcrk M\u00fczi\u011finde Musevi Bestekarlar"
+        }
+    ], 
+    "title": "U\u015f\u015fak \u015eark\u0131", 
+    "url": "http://musicbrainz.org/work/995cbbb4-2bf1-4f1c-8e35-f4467b22afac", 
+    "artist_credits": [
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "995cbbb4-2bf1-4f1c-8e35-f4467b22afac", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Sermet Kutlu\u011f"
+        }, 
+        {
+            "mbid": "03abe488-4951-4285-a8fa-9b1cc42bf0e9", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Mithat \u00d6zy\u0131lmazel"
+        }, 
+        {
+            "mbid": "0f2a5658-4429-4951-aa01-4c372226ee3d", 
+            "type": "conductor", 
+            "name": "Nevzad Atl\u0131\u011f"
+        }, 
+        {
+            "mbid": "18f0afc0-beec-4111-b076-09b1230b66f3", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Fettah Cankurtaran"
+        }, 
+        {
+            "mbid": "23082065-b1b8-4e97-9298-35dc165a4a36", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "H\u00fclya Kocabalkan"
+        }, 
+        {
+            "mbid": "3373f074-198b-4cb1-b4bb-17b433108c8a", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Re\u015fat Uca"
+        }, 
+        {
+            "mbid": "3b574ce5-00f2-4fe5-9b7b-201d168372e1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Samim Karaca"
+        }, 
+        {
+            "mbid": "3f4ce873-0e1c-45ea-9de5-e398f7a123de", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "\u00c7etin K\u00f6r\u00fck\u00e7\u00fco\u011flu"
+        }, 
+        {
+            "mbid": "402ad352-b89e-4c3b-954d-b0f6b346bbed", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Ayfer \u00c7a\u011flayan"
+        }, 
+        {
+            "mbid": "4651bcff-7cad-404d-a962-37d6737b1d3d", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Sakine Ayd\u0131n"
+        }, 
+        {
+            "mbid": "616071df-506c-4802-925a-26205aa8d0dd", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hacer T\u0131so\u011flu"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Birol Yayla"
+        }, 
+        {
+            "mbid": "71c37b8c-d91d-475a-90a2-d34062df0de6", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Mustafa G\u00fcvenkaya"
+        }, 
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "7c8c0a3f-34f9-41e1-a973-10859cbe9877", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Kaya Karata\u015f"
+        }, 
+        {
+            "mbid": "9a7bd4bf-9bf3-40f7-a056-72d596df184c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan Aslan"
+        }, 
+        {
+            "mbid": "9da0113d-6246-466c-b89f-3d977854f227", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Hulusi Y\u00fcceb\u0131y\u0131k"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }, 
+        {
+            "mbid": "b3c9ed60-289f-4635-976b-ce8a7ded20fd", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Erol \u00dcnal"
+        }, 
+        {
+            "mbid": "cd7459af-b0c3-4623-bd27-03a0164add36", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mekin \u00c7etin\u00f6z"
+        }, 
+        {
+            "mbid": "d1d73917-2f22-448e-a795-993b3c6891f3", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Fatih Salgar"
+        }, 
+        {
+            "mbid": "d3900d72-850a-4ef7-bad0-28cb85767c4a", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Asuman Ercan"
+        }, 
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "M\u00fcnip Utand\u0131"
+        }, 
+        {
+            "mbid": "d6f1ed19-4aa3-4062-a5f6-df6f7cd179d6", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Ender Erg\u00fcn"
+        }, 
+        {
+            "mbid": "e1cf066b-243e-40fd-8bf9-22196859fea3", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131lmaz \u00d6zer"
+        }, 
+        {
+            "mbid": "e4f3d278-527f-4ecd-9c4a-2f661d784370", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Galib \u00c7olako\u011flu"
+        }, 
+        {
+            "mbid": "e56195ea-142f-4003-887b-88722c2d00b3", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Ceyda Utand\u0131"
+        }, 
+        {
+            "mbid": "e97f134a-30cc-437a-809d-57b297829529", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Nursel Erg\u00fcn"
+        }, 
+        {
+            "mbid": "f900658f-e6ab-49fe-ab8c-20ea7aca7e7b", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Ne\u015fe Ak\u00e7a"
+        }, 
+        {
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Nuri \u00d6zpekel"
+        }, 
+        {
+            "mbid": "fb467895-d49d-4089-9a97-5b3f672d8ab1", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Fatma Apayd\u0131n"
+        }
+    ], 
+    "duration": 228, 
+    "path": "../data/Ussak/995cbbb4-2bf1-4f1c-8e35-f4467b22afac.mp3", 
+    "works": [
+        {
+            "mbid": "93470683-3559-490b-bf8d-1e81f3a64910", 
+            "title": "Yaln\u0131z B\u0131rak\u0131p Gitme Bu Ak\u015fam"
+        }
+    ]
+}

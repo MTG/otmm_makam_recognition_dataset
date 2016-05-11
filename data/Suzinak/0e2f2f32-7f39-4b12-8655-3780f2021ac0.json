@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
+            "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b607f980-ab7a-468b-9d4a-418512b58f61", 
+            "title": "S\u00fczinak"
+        }
+    ], 
+    "title": "G\u00f6zlerin Bir \u0130\u00e7im Su \u0130\u00e7im Yand\u0131 Do\u011frusu", 
+    "url": "http://musicbrainz.org/work/0e2f2f32-7f39-4b12-8655-3780f2021ac0", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "0e2f2f32-7f39-4b12-8655-3780f2021ac0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 208, 
+    "path": "../data/Suzinak/0e2f2f32-7f39-4b12-8655-3780f2021ac0.mp3", 
+    "works": [
+        {
+            "mbid": "348e059d-a7b3-46a8-aa53-c42fe107bedf", 
+            "title": "G\u00f6zlerin Bir \u0130\u00e7im Su"
+        }
+    ]
+}

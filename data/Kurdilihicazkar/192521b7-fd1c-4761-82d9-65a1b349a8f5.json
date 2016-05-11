@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/192521b7-fd1c-4761-82d9-65a1b349a8f5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1843f8d1-f6b8-440c-ab54-59fc8c3898a6", 
+            "title": "Yayl\u0131 Tanbur"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazkar Taksim 1", 
+    "url": "http://musicbrainz.org/work/192521b7-fd1c-4761-82d9-65a1b349a8f5", 
+    "artist_credits": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "192521b7-fd1c-4761-82d9-65a1b349a8f5", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "duration": 347, 
+    "path": "../data/Kurdilihicazkar/192521b7-fd1c-4761-82d9-65a1b349a8f5.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/192521b7-fd1c-4761-82d9-65a1b349a8f5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/192521b7-fd1c-4761-82d9-65a1b349a8f5"
+        }
+    ]
+}

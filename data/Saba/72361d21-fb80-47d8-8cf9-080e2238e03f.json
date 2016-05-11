@@ -1,0 +1,119 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6ce2b833-ba3d-454a-8fb2-08474474c758", 
+            "title": "Letter From Istanbul"
+        }
+    ], 
+    "title": "Saba Oyun Havasi (Udi Yorgo Bacanos)", 
+    "url": "http://musicbrainz.org/work/72361d21-fb80-47d8-8cf9-080e2238e03f", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "04b094d6-4b13-4f01-b010-3c96d6561fa0", 
+            "name": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03a3\u03b9\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "72361d21-fb80-47d8-8cf9-080e2238e03f", 
+    "form": [
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
+        }, 
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "04b094d6-4b13-4f01-b010-3c96d6561fa0", 
+            "attribute-list": [
+                "classical kemen\u00e7e", 
+                "lute"
+            ], 
+            "type": "instrument", 
+            "name": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03a3\u03b9\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "attribute-list": [
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Bi\u015firen"
+        }, 
+        {
+            "mbid": "7e980139-3e03-4ff8-b470-0547e91d6550", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Oktay \u00d6zerden"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 369, 
+    "path": "../data/Saba/72361d21-fb80-47d8-8cf9-080e2238e03f.mp3", 
+    "works": [
+        {
+            "mbid": "09cf48bf-4b39-4ff1-bec3-a74087a12e45", 
+            "title": "Yorgo'nun Havas\u0131"
+        }
+    ]
+}

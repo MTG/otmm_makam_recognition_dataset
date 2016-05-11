@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50d11824-b02a-406d-9ba7-8471f9dbbebb", 
+            "title": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim", 
+    "url": "http://musicbrainz.org/work/90ce68fd-f23b-46ee-bf9d-bc211935df8c", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "90ce68fd-f23b-46ee-bf9d-bc211935df8c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 129, 
+    "path": "../data/Acemasiran/90ce68fd-f23b-46ee-bf9d-bc211935df8c.mp3", 
+    "works": [
+        {
+            "mbid": "787d2c10-4cfd-45dd-9713-ec173719695a", 
+            "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim"
+        }
+    ]
+}

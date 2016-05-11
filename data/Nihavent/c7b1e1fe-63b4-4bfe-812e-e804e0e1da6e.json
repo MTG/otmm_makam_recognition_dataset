@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c7b1e1fe-63b4-4bfe-812e-e804e0e1da6e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/c7b1e1fe-63b4-4bfe-812e-e804e0e1da6e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f19fa9e0-d7e6-40ef-8ea3-3610a13e44cd", 
+            "title": "Ar\u015fiv Serisi - Gazeller II"
+        }
+    ], 
+    "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah", 
+    "url": "http://musicbrainz.org/work/c7b1e1fe-63b4-4bfe-812e-e804e0e1da6e", 
+    "artist_credits": [
+        {
+            "mbid": "75839ef8-3a89-4d33-b618-c0f7ad213015", 
+            "name": "Haf\u0131z Sami"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "c7b1e1fe-63b4-4bfe-812e-e804e0e1da6e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c7b1e1fe-63b4-4bfe-812e-e804e0e1da6e"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "75839ef8-3a89-4d33-b618-c0f7ad213015", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Sami"
+        }
+    ], 
+    "duration": 171, 
+    "path": "../data/Nihavent/c7b1e1fe-63b4-4bfe-812e-e804e0e1da6e.mp3", 
+    "works": [
+        {
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ]
+}

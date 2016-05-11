@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/3235309a-1f01-411e-850e-fac3679de9fe"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "Viyolonsel ile Rast Taksim", 
+    "url": "http://musicbrainz.org/work/3235309a-1f01-411e-850e-fac3679de9fe", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "3235309a-1f01-411e-850e-fac3679de9fe", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "duration": 108, 
+    "path": "../data/Rast/3235309a-1f01-411e-850e-fac3679de9fe.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3235309a-1f01-411e-850e-fac3679de9fe"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/3235309a-1f01-411e-850e-fac3679de9fe"
+        }
+    ]
+}

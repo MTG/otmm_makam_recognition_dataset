@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/e75867c0-44d4-4d18-a170-c096498aba8a"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9927f9c9-5528-493b-9b24-41b55b8cdb24"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/e75867c0-44d4-4d18-a170-c096498aba8a"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/9927f9c9-5528-493b-9b24-41b55b8cdb24"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c053c125-88e1-43a9-8764-09a786fcb86e", 
+            "title": "Acem K\u00fcrdi"
+        }
+    ], 
+    "title": "Sana Eller Ne G\u00fczelsin Demesin K\u0131skan\u0131r\u0131m", 
+    "url": "http://musicbrainz.org/work/9927f9c9-5528-493b-9b24-41b55b8cdb24", 
+    "artist_credits": [
+        {
+            "mbid": "ef422c4a-8938-4551-ab8d-603e533025cd", 
+            "name": "Burhan Dikencik"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "9927f9c9-5528-493b-9b24-41b55b8cdb24", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e75867c0-44d4-4d18-a170-c096498aba8a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9927f9c9-5528-493b-9b24-41b55b8cdb24"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "ef422c4a-8938-4551-ab8d-603e533025cd", 
+            "type": "vocal", 
+            "name": "Burhan Dikencik"
+        }
+    ], 
+    "duration": 264, 
+    "path": "../data/Acemkurdi/9927f9c9-5528-493b-9b24-41b55b8cdb24.mp3", 
+    "works": [
+        {
+            "mbid": "e75867c0-44d4-4d18-a170-c096498aba8a", 
+            "title": "Sana Eller Ne G\u00fczelsin Demesin"
+        }
+    ]
+}

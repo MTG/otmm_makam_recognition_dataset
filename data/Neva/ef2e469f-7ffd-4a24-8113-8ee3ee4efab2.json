@@ -1,0 +1,101 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "necd_i_huseyni", 
+            "mb_attribute": "Necd-i H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "933a4ccf-ddda-4bd3-98e5-660634005054", 
+            "title": "Rum Bestek\u00e2rlar"
+        }
+    ], 
+    "title": "Yetti Bunca \u0130ntizar\u0131n", 
+    "url": "http://musicbrainz.org/work/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2", 
+    "artist_credits": [
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "name": "Nusret Y\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "ef2e469f-7ffd-4a24-8113-8ee3ee4efab2", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Nusret Y\u0131lmaz"
+        }
+    ], 
+    "duration": 106, 
+    "path": "../data/Neva/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2.mp3", 
+    "works": [
+        {
+            "mbid": "128cb07e-000a-4d2e-ae00-92616891aca3", 
+            "title": "Yetti Bunca \u0130ntizar\u0131n"
+        }
+    ]
+}

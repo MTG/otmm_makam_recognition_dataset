@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9ae2d9dd-6dd3-490a-95ea-eb4e64df9168"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/43383c69-f078-49bb-8f89-848d65156ee7"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/9ae2d9dd-6dd3-490a-95ea-eb4e64df9168"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/43383c69-f078-49bb-8f89-848d65156ee7"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/43383c69-f078-49bb-8f89-848d65156ee7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fee24520-d533-40f1-94cf-cc8e178d10cd", 
+            "title": "Selahattin P\u0131nar"
+        }
+    ], 
+    "title": "Ellerine Kimler Yakt\u0131 K\u0131nay\u0131", 
+    "url": "http://musicbrainz.org/work/43383c69-f078-49bb-8f89-848d65156ee7", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "43383c69-f078-49bb-8f89-848d65156ee7", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9ae2d9dd-6dd3-490a-95ea-eb4e64df9168"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/43383c69-f078-49bb-8f89-848d65156ee7"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 173, 
+    "path": "../data/Hicazkar/43383c69-f078-49bb-8f89-848d65156ee7.mp3", 
+    "works": [
+        {
+            "mbid": "9ae2d9dd-6dd3-490a-95ea-eb4e64df9168", 
+            "title": "Ellerine Kimler Yakt\u0131 K\u0131nay\u0131"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9e2895d3-2382-4454-9000-bff488fce740"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/9e2895d3-2382-4454-9000-bff488fce740"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0b054319-53f5-44ba-8278-733f5ddd3cb7", 
+            "title": "Karc\u0131\u011far"
+        }
+    ], 
+    "title": "Kara Bulutlar\u0131 Kald\u0131r Aradan", 
+    "url": "http://musicbrainz.org/work/9e2895d3-2382-4454-9000-bff488fce740", 
+    "artist_credits": [
+        {
+            "mbid": "74db65a8-3e56-4978-bbc0-6996ae597ec0", 
+            "name": "\u0130nci \u00c7ay\u0131rl\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "9e2895d3-2382-4454-9000-bff488fce740", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5e916a14-8524-4bd8-9970-fff56493f348"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9e2895d3-2382-4454-9000-bff488fce740"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "74db65a8-3e56-4978-bbc0-6996ae597ec0", 
+            "type": "vocal", 
+            "name": "\u0130nci \u00c7ay\u0131rl\u0131"
+        }
+    ], 
+    "duration": 155, 
+    "path": "../data/Karcigar/9e2895d3-2382-4454-9000-bff488fce740.mp3", 
+    "works": [
+        {
+            "mbid": "5e916a14-8524-4bd8-9970-fff56493f348", 
+            "title": "Kara Bulutlar\u0131 Kald\u0131r Aradan"
+        }
+    ]
+}

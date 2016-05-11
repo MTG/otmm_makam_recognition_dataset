@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/294d2739-676b-4199-980d-0a9282562f46"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c50ef6d2-450f-41c4-8949-cc1ef7d2a328", 
+            "title": "TRT \u0130stanbul Radyosu - 11.02.1992"
+        }
+    ], 
+    "title": "Keman Taksimi", 
+    "url": "http://musicbrainz.org/work/294d2739-676b-4199-980d-0a9282562f46", 
+    "artist_credits": [
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "name": "Kemal Demir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "294d2739-676b-4199-980d-0a9282562f46", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "attribute-list": [
+                "solo", 
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Demir"
+        }
+    ], 
+    "duration": 96, 
+    "path": "../data/Huseyni/294d2739-676b-4199-980d-0a9282562f46.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/294d2739-676b-4199-980d-0a9282562f46"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/294d2739-676b-4199-980d-0a9282562f46"
+        }
+    ]
+}

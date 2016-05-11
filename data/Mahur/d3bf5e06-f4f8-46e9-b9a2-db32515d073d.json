@@ -1,0 +1,117 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/d3bf5e06-f4f8-46e9-b9a2-db32515d073d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/d3bf5e06-f4f8-46e9-b9a2-db32515d073d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "94e8eaf2-e8ea-4288-8692-ddb01de8b191", 
+            "title": "\u015eimdi Hat\u0131rda m\u0131d\u0131r..."
+        }
+    ], 
+    "title": "Yine Zevrak-\u0131 Derunum K\u0131r\u0131l\u0131p Kenare D\u00fc\u015ft\u00fc", 
+    "url": "http://musicbrainz.org/work/d3bf5e06-f4f8-46e9-b9a2-db32515d073d", 
+    "artist_credits": [
+        {
+            "mbid": "add106f1-369e-4843-b6cb-a4b8db9b434d", 
+            "name": "Oya \u0130\u015fbo\u011fa"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "d3bf5e06-f4f8-46e9-b9a2-db32515d073d", 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/d3bf5e06-f4f8-46e9-b9a2-db32515d073d"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0dabbc73-f5ff-4097-b0c8-233a5b61fdf2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Gamze Nevra G\u00fclser"
+        }, 
+        {
+            "mbid": "4095eef9-1f03-4292-bfd3-b8ac5c105880", 
+            "type": "vocal", 
+            "name": "Hanife Keskin"
+        }, 
+        {
+            "mbid": "4a2b42d9-1559-47a1-a883-d69467240d8b", 
+            "type": "vocal", 
+            "name": "Elvan \u00d6zbican"
+        }, 
+        {
+            "mbid": "72de51ca-873b-4cb1-ac80-edff8018a29b", 
+            "type": "vocal", 
+            "name": "Yaprak Sayar"
+        }, 
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hulusi Babal\u0131k"
+        }, 
+        {
+            "mbid": "a7094bd1-144e-4d05-b4b3-08f16727d856", 
+            "type": "vocal", 
+            "name": "Ay\u015feg\u00fcl Keskink\u0131l\u0131\u00e7"
+        }, 
+        {
+            "mbid": "add106f1-369e-4843-b6cb-a4b8db9b434d", 
+            "type": "vocal", 
+            "name": "Oya \u0130\u015fbo\u011fa"
+        }, 
+        {
+            "mbid": "b6e53808-2d26-4f7a-9b0d-5b8fc0154dd6", 
+            "type": "vocal", 
+            "name": "Neval Ya\u015fas\u0131n"
+        }, 
+        {
+            "mbid": "be2645c2-0a1a-456d-9275-0a92da06469a", 
+            "type": "vocal", 
+            "name": "Lebriz G\u00fcner"
+        }
+    ], 
+    "duration": 269, 
+    "path": "../data/Mahur/d3bf5e06-f4f8-46e9-b9a2-db32515d073d.mp3", 
+    "works": [
+        {
+            "mbid": "1df2736e-50be-42ff-98e0-5f0960f3ce7b", 
+            "title": "Yine Zevrak-\u0131 Derunum K\u0131r\u0131l\u0131p Kenare D\u00fc\u015ft\u00fc"
+        }
+    ]
+}

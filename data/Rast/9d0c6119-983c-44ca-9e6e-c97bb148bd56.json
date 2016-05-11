@@ -1,0 +1,84 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fbabb943-c962-48f8-bf11-899e096f57c0", 
+            "title": "Kendi Sesinden Haf\u0131z Sadettin Kaynak"
+        }
+    ], 
+    "title": "G\u00f6z\u00fcmde Daim Hayali C\u00e2n\u00e2", 
+    "url": "http://musicbrainz.org/work/9d0c6119-983c-44ca-9e6e-c97bb148bd56", 
+    "artist_credits": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "name": "Sadettin Kaynak"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "9d0c6119-983c-44ca-9e6e-c97bb148bd56", 
+    "form": [
+        {
+            "attribute_key": "kar_i_nev", 
+            "mb_attribute": "Kar-\u0131 Nev", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "kar_i_nev", 
+            "mb_tag": "kar-\u0131 nev", 
+            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "type": "vocal", 
+            "name": "Sadettin Kaynak"
+        }, 
+        {
+            "mbid": "5f7c5fc5-0958-49e3-8e17-d638ddd30938", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sadi I\u015f\u0131lay"
+        }, 
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "duration": 367, 
+    "path": "../data/Rast/9d0c6119-983c-44ca-9e6e-c97bb148bd56.mp3", 
+    "works": [
+        {
+            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
+            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+        }
+    ]
+}

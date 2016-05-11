@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b607f980-ab7a-468b-9d4a-418512b58f61", 
+            "title": "S\u00fczinak"
+        }
+    ], 
+    "title": "Pek Revad\u0131r Sevdi\u011fim Ettiklerin", 
+    "url": "http://musicbrainz.org/work/767ad7e1-4f63-4224-b630-96220556823b", 
+    "artist_credits": [
+        {
+            "mbid": "bfb3c881-6890-4ecd-8e21-75def0fd6109", 
+            "name": "M\u00fclkiye Toper"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "767ad7e1-4f63-4224-b630-96220556823b", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "bfb3c881-6890-4ecd-8e21-75def0fd6109", 
+            "type": "vocal", 
+            "name": "M\u00fclkiye Toper"
+        }
+    ], 
+    "duration": 164, 
+    "path": "../data/Suzinak/767ad7e1-4f63-4224-b630-96220556823b.mp3", 
+    "works": [
+        {
+            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
+            "title": "Pek Revad\u0131r Sevdi\u011fim"
+        }
+    ]
+}

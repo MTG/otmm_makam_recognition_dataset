@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c70ada1d-1d60-4173-aaca-324066efac82", 
+            "title": "T\u00fcrk Tasavvuf M\u00fczi\u011fi"
+        }
+    ], 
+    "title": "Urumdan \u00c7\u0131kt\u0131m", 
+    "url": "http://musicbrainz.org/work/65583781-d848-4e66-8107-bd3a8a6e1fcd", 
+    "artist_credits": [
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "name": "Ahmet \u00d6zhan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "65583781-d848-4e66-8107-bd3a8a6e1fcd", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "type": "conductor", 
+            "name": "Ahmet \u00d6zhan"
+        }
+    ], 
+    "duration": 208, 
+    "path": "../data/Beyati/65583781-d848-4e66-8107-bd3a8a6e1fcd.mp3", 
+    "works": [
+        {
+            "mbid": "b429f9aa-4473-4c1b-a738-da351f7439c9", 
+            "title": "Umrumdan \u00c7\u0131kt\u0131m"
+        }
+    ]
+}

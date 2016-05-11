@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/093694de-1920-4639-8586-5c78756a5232"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Rast Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/093694de-1920-4639-8586-5c78756a5232", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "093694de-1920-4639-8586-5c78756a5232", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }
+    ], 
+    "duration": 159, 
+    "path": "../data/Rast/093694de-1920-4639-8586-5c78756a5232.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/093694de-1920-4639-8586-5c78756a5232"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/093694de-1920-4639-8586-5c78756a5232"
+        }
+    ]
+}

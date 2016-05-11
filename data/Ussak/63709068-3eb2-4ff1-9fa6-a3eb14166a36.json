@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/63709068-3eb2-4ff1-9fa6-a3eb14166a36"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a8c6952a-d8b8-4014-90f2-46650bac4ff6", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ud"
+        }
+    ], 
+    "title": "U\u015f\u015fak Taksim", 
+    "url": "http://musicbrainz.org/work/63709068-3eb2-4ff1-9fa6-a3eb14166a36", 
+    "artist_credits": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "name": "Udi Nevres Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "63709068-3eb2-4ff1-9fa6-a3eb14166a36", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Nevres Bey"
+        }
+    ], 
+    "duration": 191, 
+    "path": "../data/Ussak/63709068-3eb2-4ff1-9fa6-a3eb14166a36.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/63709068-3eb2-4ff1-9fa6-a3eb14166a36"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/63709068-3eb2-4ff1-9fa6-a3eb14166a36"
+        }
+    ]
+}

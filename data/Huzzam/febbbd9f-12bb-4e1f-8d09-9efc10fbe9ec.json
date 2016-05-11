@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6841c94e-0228-4e39-a573-4ad8a29224d4"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/6841c94e-0228-4e39-a573-4ad8a29224d4"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a814bb45-87af-4326-8560-877e38ca3f37", 
+            "title": "Sadettin Kaynak \u015eark\u0131lar\u0131"
+        }
+    ], 
+    "title": "\u00c7\u0131kar Y\u00fccelerden Haber Sorar\u0131m", 
+    "url": "http://musicbrainz.org/work/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6841c94e-0228-4e39-a573-4ad8a29224d4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 242, 
+    "path": "../data/Huzzam/febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec.mp3", 
+    "works": [
+        {
+            "mbid": "6841c94e-0228-4e39-a573-4ad8a29224d4", 
+            "title": "\u00c7\u0131kar Y\u00fccelerden"
+        }
+    ]
+}

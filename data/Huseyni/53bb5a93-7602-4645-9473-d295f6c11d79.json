@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/53bb5a93-7602-4645-9473-d295f6c11d79"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/53bb5a93-7602-4645-9473-d295f6c11d79"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "514b5fcb-e33e-4680-ae08-e41dfb196860", 
+            "title": "L'H\u00e9ritage Ottoman: The Ottoman Heritage"
+        }
+    ], 
+    "title": "\u00c7e\u00e7en K\u0131z\u0131", 
+    "url": "http://musicbrainz.org/work/53bb5a93-7602-4645-9473-d295f6c11d79", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "53bb5a93-7602-4645-9473-d295f6c11d79", 
+    "form": [
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/recording/53bb5a93-7602-4645-9473-d295f6c11d79"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Bitmez"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }, 
+        {
+            "mbid": "9300ce7f-ba52-4dd9-84cd-5314c0077170", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan G\u00fcng\u00f6r"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }
+    ], 
+    "duration": 186, 
+    "path": "../data/Huseyni/53bb5a93-7602-4645-9473-d295f6c11d79.mp3", 
+    "works": [
+        {
+            "mbid": "93f31506-25aa-49da-96cd-660c6a2e44bf", 
+            "title": "\u00c7e\u00e7en K\u0131z\u0131"
+        }
+    ]
+}

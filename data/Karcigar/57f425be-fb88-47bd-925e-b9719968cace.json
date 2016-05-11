@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/93651162-609a-4609-ba67-7a5d1b307db1"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/57f425be-fb88-47bd-925e-b9719968cace"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/93651162-609a-4609-ba67-7a5d1b307db1"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/57f425be-fb88-47bd-925e-b9719968cace"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "G\u00fcld\u00fcn E\u011flendin", 
+    "url": "http://musicbrainz.org/work/57f425be-fb88-47bd-925e-b9719968cace", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "57f425be-fb88-47bd-925e-b9719968cace", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/93651162-609a-4609-ba67-7a5d1b307db1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/57f425be-fb88-47bd-925e-b9719968cace"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }, 
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "type": "vocal", 
+            "name": "Melihat G\u00fclses"
+        }
+    ], 
+    "duration": 229, 
+    "path": "../data/Karcigar/57f425be-fb88-47bd-925e-b9719968cace.mp3", 
+    "works": [
+        {
+            "mbid": "93651162-609a-4609-ba67-7a5d1b307db1", 
+            "title": "G\u00fcld\u00fcn E\u011flendin"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/dcc4e50b-daea-4abc-93e9-9e7699d4e897"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/dcc4e50b-daea-4abc-93e9-9e7699d4e897"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Sallasana Sallasana Mendilini", 
+    "url": "http://musicbrainz.org/work/dcc4e50b-daea-4abc-93e9-9e7699d4e897", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "dcc4e50b-daea-4abc-93e9-9e7699d4e897", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/87d713ed-0a34-4324-a415-caf93cbee43f"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/dcc4e50b-daea-4abc-93e9-9e7699d4e897"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 183, 
+    "path": "../data/Saba/dcc4e50b-daea-4abc-93e9-9e7699d4e897.mp3", 
+    "works": [
+        {
+            "mbid": "87d713ed-0a34-4324-a415-caf93cbee43f", 
+            "title": "Bir Dalda \u0130ki Kiraz"
+        }
+    ]
+}

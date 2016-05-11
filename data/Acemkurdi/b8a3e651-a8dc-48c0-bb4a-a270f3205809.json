@@ -1,0 +1,223 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e733cc8c-4896-40db-a309-c6db616350b5", 
+            "title": "Nar\u00e7i\u00e7e\u011fim 2"
+        }
+    ], 
+    "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar", 
+    "url": "http://musicbrainz.org/work/b8a3e651-a8dc-48c0-bb4a-a270f3205809", 
+    "artist_credits": [
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "name": "Melihat G\u00fclses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "b8a3e651-a8dc-48c0-bb4a-a270f3205809", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131"
+        }, 
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "4cf7b5e6-3dc6-422a-b1a6-1342340ec041", 
+            "attribute-list": [
+                "bendir", 
+                "darbuka"
+            ], 
+            "type": "instrument", 
+            "name": "Seyfettin Ura\u015f"
+        }, 
+        {
+            "mbid": "4d3ff01d-71c1-4c1c-9a44-4e4448cfb9f8", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer Arkun"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "64944130-34f4-43bf-914f-e741a04e8350", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "Kempa Yayl\u0131 Grubu"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "darbuka", 
+                "tef", 
+                "zill"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "type": "vocal", 
+            "name": "Melihat G\u00fclses"
+        }, 
+        {
+            "mbid": "cab02cb9-d0b2-4ba5-8ea3-e5c6ab46b005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Kemanc\u0131"
+        }, 
+        {
+            "mbid": "cdb989b5-6c10-4a9f-9788-fc47e3a4733c", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim \u015eent\u00fcrker"
+        }, 
+        {
+            "mbid": "cdc69411-25f2-4fe3-88e5-41da2b8c474b", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u015eenyaylar"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Yurdal Tokcan"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }, 
+        {
+            "mbid": "ec6ed4c6-d7e4-4911-9234-30720f72abc8", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Timur \u015eenyaylar"
+        }, 
+        {
+            "mbid": "f1b1b605-59d0-4ef7-b2a6-1f0256187caa", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Tar\u0131k Kemanc\u0131"
+        }, 
+        {
+            "mbid": "f7ff9d2d-bb1f-4595-b56d-f10099473276", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Nam\u0131k Ta\u015fp\u0131narl\u0131"
+        }
+    ], 
+    "duration": 315, 
+    "path": "../data/Acemkurdi/b8a3e651-a8dc-48c0-bb4a-a270f3205809.mp3", 
+    "works": [
+        {
+            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
+            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+        }
+    ]
+}

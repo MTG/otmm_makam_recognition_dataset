@@ -1,0 +1,120 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/9246750b-73bd-439f-96be-59de47b01575"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/91b39d5b-7e8b-49fb-8e12-24381c364460"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/9246750b-73bd-439f-96be-59de47b01575"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/91b39d5b-7e8b-49fb-8e12-24381c364460"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c9147c2a-e481-4723-bf97-8e40ed1cdfde", 
+            "title": "Can Sesi A\u015fk Nefesi"
+        }
+    ], 
+    "title": "Bir Gonca-femin", 
+    "url": "http://musicbrainz.org/work/91b39d5b-7e8b-49fb-8e12-24381c364460", 
+    "artist_credits": [
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }, 
+        {
+            "mbid": "a6592b6f-a8d8-41a1-8b9e-044dc9e69805", 
+            "name": "Ali Sar\u0131g\u00fcl"
+        }, 
+        {
+            "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
+            "name": "Emre Erdal"
+        }, 
+        {
+            "mbid": "6ea8e903-5a2c-4f46-9276-92c44b510156", 
+            "name": "Halil U\u011fur Kutlu"
+        }, 
+        {
+            "mbid": "a9e984a5-3452-4302-9083-ebc9b117626a", 
+            "name": "Yavuzhan Erdem"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "91b39d5b-7e8b-49fb-8e12-24381c364460", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/9246750b-73bd-439f-96be-59de47b01575"
+        }, 
+        {
+            "attribute_key": "mersiye", 
+            "mb_tag": "mersiye", 
+            "source": "http://musicbrainz.org/recording/91b39d5b-7e8b-49fb-8e12-24381c364460"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Emre Erdal"
+        }, 
+        {
+            "mbid": "6ea8e903-5a2c-4f46-9276-92c44b510156", 
+            "attribute-list": [
+                "bendir", 
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Halil U\u011fur Kutlu"
+        }, 
+        {
+            "mbid": "a6592b6f-a8d8-41a1-8b9e-044dc9e69805", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Sar\u0131g\u00fcl"
+        }, 
+        {
+            "mbid": "a9e984a5-3452-4302-9083-ebc9b117626a", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Yavuzhan Erdem"
+        }, 
+        {
+            "mbid": "f5f93b25-cf1e-4585-b274-5942469375ec", 
+            "type": "vocal", 
+            "name": "Sava\u015f \u015e. Bark\u00e7in"
+        }
+    ], 
+    "duration": 202, 
+    "path": "../data/Beyati/91b39d5b-7e8b-49fb-8e12-24381c364460.mp3", 
+    "works": [
+        {
+            "mbid": "9246750b-73bd-439f-96be-59de47b01575", 
+            "title": "Bir Gonca-femin"
+        }
+    ]
+}

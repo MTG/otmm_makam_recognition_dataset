@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/7a65df95-b305-45c4-bcc6-7c87cffe2bdd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f19fa9e0-d7e6-40ef-8ea3-3610a13e44cd", 
+            "title": "Ar\u015fiv Serisi - Gazeller II"
+        }
+    ], 
+    "title": "Beni Endi\u015feye Sald\u0131", 
+    "url": "http://musicbrainz.org/work/7a65df95-b305-45c4-bcc6-7c87cffe2bdd", 
+    "artist_credits": [
+        {
+            "mbid": "a2f1a35e-576e-4bc5-ac4c-78e27db33418", 
+            "name": "N. Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "7a65df95-b305-45c4-bcc6-7c87cffe2bdd", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "a2f1a35e-576e-4bc5-ac4c-78e27db33418", 
+            "type": "vocal", 
+            "name": "N. Bey"
+        }
+    ], 
+    "duration": 174, 
+    "path": "../data/Neva/7a65df95-b305-45c4-bcc6-7c87cffe2bdd.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7a65df95-b305-45c4-bcc6-7c87cffe2bdd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/7a65df95-b305-45c4-bcc6-7c87cffe2bdd"
+        }
+    ]
+}

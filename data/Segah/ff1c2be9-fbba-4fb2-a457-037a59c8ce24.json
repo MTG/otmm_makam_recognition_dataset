@@ -1,0 +1,94 @@
+{
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ff1c2be9-fbba-4fb2-a457-037a59c8ce24"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f60de373-b1d3-4a04-b417-261434ba968a", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 4 (Suzidil ve Segah)"
+        }
+    ], 
+    "title": "Segah Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/ff1c2be9-fbba-4fb2-a457-037a59c8ce24", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ff1c2be9-fbba-4fb2-a457-037a59c8ce24", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 50, 
+    "path": "../data/Segah/ff1c2be9-fbba-4fb2-a457-037a59c8ce24.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ff1c2be9-fbba-4fb2-a457-037a59c8ce24"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/ff1c2be9-fbba-4fb2-a457-037a59c8ce24"
+        }
+    ]
+}

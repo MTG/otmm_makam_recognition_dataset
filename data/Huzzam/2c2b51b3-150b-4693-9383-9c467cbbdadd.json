@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b383be51-a2e3-4855-b8db-feeb620f0a46"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2c2b51b3-150b-4693-9383-9c467cbbdadd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/b383be51-a2e3-4855-b8db-feeb620f0a46"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/2c2b51b3-150b-4693-9383-9c467cbbdadd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ccbb9023-a235-4ca3-bc68-043cdf463903", 
+            "title": "Makber - Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "title": "Sormad\u0131n Halimi", 
+    "url": "http://musicbrainz.org/work/2c2b51b3-150b-4693-9383-9c467cbbdadd", 
+    "artist_credits": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "2c2b51b3-150b-4693-9383-9c467cbbdadd", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b383be51-a2e3-4855-b8db-feeb620f0a46"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2c2b51b3-150b-4693-9383-9c467cbbdadd"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "type": "vocal", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "duration": 263, 
+    "path": "../data/Huzzam/2c2b51b3-150b-4693-9383-9c467cbbdadd.mp3", 
+    "works": [
+        {
+            "mbid": "b383be51-a2e3-4855-b8db-feeb620f0a46", 
+            "title": "Sormad\u0131n Halimi"
+        }
+    ]
+}

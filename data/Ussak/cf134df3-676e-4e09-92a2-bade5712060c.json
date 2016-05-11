@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/458d7a0c-817d-4af7-bc55-357c52c83cc0"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/cf134df3-676e-4e09-92a2-bade5712060c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/458d7a0c-817d-4af7-bc55-357c52c83cc0"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/cf134df3-676e-4e09-92a2-bade5712060c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ccbb9023-a235-4ca3-bc68-043cdf463903", 
+            "title": "Makber - Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "title": "Geceler", 
+    "url": "http://musicbrainz.org/work/cf134df3-676e-4e09-92a2-bade5712060c", 
+    "artist_credits": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "cf134df3-676e-4e09-92a2-bade5712060c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/458d7a0c-817d-4af7-bc55-357c52c83cc0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cf134df3-676e-4e09-92a2-bade5712060c"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
+            "type": "vocal", 
+            "name": "Hamiyet Y\u00fcceses"
+        }
+    ], 
+    "duration": 210, 
+    "path": "../data/Ussak/cf134df3-676e-4e09-92a2-bade5712060c.mp3", 
+    "works": [
+        {
+            "mbid": "458d7a0c-817d-4af7-bc55-357c52c83cc0", 
+            "title": "Geceler"
+        }
+    ]
+}

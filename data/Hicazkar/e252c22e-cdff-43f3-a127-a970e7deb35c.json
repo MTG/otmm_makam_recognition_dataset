@@ -1,0 +1,151 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ff3816bb-4010-46ac-93bd-bb3eb97476c6", 
+            "title": "TRT \u0130stanbul Radyosu - 29.04.1991"
+        }
+    ], 
+    "title": "Ben S\u00f6z\u00fcne Ba\u011flamam Bel", 
+    "url": "http://musicbrainz.org/work/e252c22e-cdff-43f3-a127-a970e7deb35c", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e252c22e-cdff-43f3-a127-a970e7deb35c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "16af5f7b-e5d9-48f1-bfae-ab4a649ce7c4", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcsn\u00fc An\u0131l"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "449541e1-16c5-47c0-bbf2-936c1cd13fc7", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan Talu"
+        }, 
+        {
+            "mbid": "4f0848c6-0867-458c-a02d-7d4352643f7d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Duyarlar"
+        }, 
+        {
+            "mbid": "65f0a385-09d1-45d0-9045-9de674ff7d55", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nihat Do\u011fu"
+        }, 
+        {
+            "mbid": "acc06ecf-0641-490c-9da6-49f8a785c3ba", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayd\u0131n Varol"
+        }, 
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Demir"
+        }, 
+        {
+            "mbid": "c55af00c-b37a-4bf9-b135-f3344b4bd713", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "S\u00fcleyman Erg\u00fcner"
+        }, 
+        {
+            "mbid": "ceddc90f-3517-4b3d-a5bf-b6bbef47e2af", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Naci G\u00f6\u00e7men"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "d8f5b1ff-3e7c-48b0-827e-29a394be3159", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Do\u011fan Ho\u015fses"
+        }
+    ], 
+    "duration": 195, 
+    "path": "../data/Hicazkar/e252c22e-cdff-43f3-a127-a970e7deb35c.mp3", 
+    "works": [
+        {
+            "mbid": "2f4fce92-f329-4e19-87a1-3fc45d602592", 
+            "title": "Ben S\u00f6z\u00fcne Ba\u011flamam Bel"
+        }
+    ]
+}

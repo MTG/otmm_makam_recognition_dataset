@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/3f724f7b-60da-4324-946f-9c4138297725"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/4b2fd03a-5dd3-45c6-a276-b986ff2c2377"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/3f724f7b-60da-4324-946f-9c4138297725"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/4b2fd03a-5dd3-45c6-a276-b986ff2c2377"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6260de01-299f-4da4-aa4c-ea21d0479843", 
+            "title": "Nihavend"
+        }
+    ], 
+    "title": "G\u00fcne\u015fin Bat\u0131\u015f\u0131n\u0131 Seyre Dald\u0131m D\u00fcn", 
+    "url": "http://musicbrainz.org/work/4b2fd03a-5dd3-45c6-a276-b986ff2c2377", 
+    "artist_credits": [
+        {
+            "mbid": "fd98f4f0-7e0c-4af2-bd00-c86cb184a5d5", 
+            "name": "\u00d6zer U\u00e7ar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "4b2fd03a-5dd3-45c6-a276-b986ff2c2377", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/3f724f7b-60da-4324-946f-9c4138297725"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4b2fd03a-5dd3-45c6-a276-b986ff2c2377"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "fd98f4f0-7e0c-4af2-bd00-c86cb184a5d5", 
+            "type": "vocal", 
+            "name": "\u00d6zer U\u00e7ar"
+        }
+    ], 
+    "duration": 260, 
+    "path": "../data/Nihavent/4b2fd03a-5dd3-45c6-a276-b986ff2c2377.mp3", 
+    "works": [
+        {
+            "mbid": "3f724f7b-60da-4324-946f-9c4138297725", 
+            "title": "G\u00fcne\u015fin Bat\u0131\u015f\u0131n\u0131 Seyre Dald\u0131m"
+        }
+    ]
+}

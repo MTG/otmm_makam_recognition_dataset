@@ -1,0 +1,126 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9f0ba6d9-8f93-426c-ba2d-739ef5677873", 
+            "title": "Bestekarlar\u0131m\u0131z: 7 - \u015eevki Bey"
+        }
+    ], 
+    "title": "Emel-i Meyl-i Vefa Sende De Var Bende De Var", 
+    "url": "http://musicbrainz.org/work/75c034d1-11e0-4851-93d8-a07ba41fae81", 
+    "artist_credits": [
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "name": "Ahmet \u00d6zhan"
+        }, 
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "75c034d1-11e0-4851-93d8-a07ba41fae81", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "26d31b66-ec11-4575-b599-6675285e0906", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zata Ayan"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "attribute-list": [
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Bi\u015firen"
+        }, 
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Ahmet \u00d6zhan"
+        }, 
+        {
+            "mbid": "7852b88e-e5e6-4971-b0a1-a9af541565f5", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcnay Uysal"
+        }, 
+        {
+            "mbid": "79e18914-03c7-49bb-9c83-ad43bd0c4648", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "B\u00fclent \u00d6zbek"
+        }, 
+        {
+            "mbid": "899e9591-4ba1-431e-91d4-418e0a06cb1b", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Serta\u00e7 Tezeren"
+        }, 
+        {
+            "mbid": "8ce63a7f-e8a2-4661-b833-d5d2a0085b49", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6khan \u00c7a\u011fl\u0131"
+        }
+    ], 
+    "duration": 232, 
+    "path": "../data/Beyati/75c034d1-11e0-4851-93d8-a07ba41fae81.mp3", 
+    "works": [
+        {
+            "mbid": "c2a3768e-6982-4c75-a30b-6abf757327bb", 
+            "title": "Emeli Meyl-i Vefa"
+        }
+    ]
+}

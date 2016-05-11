@@ -1,0 +1,144 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "61079c71-4dd4-4e8e-92bd-bb0ceef862f1", 
+            "title": "Fasl- \u0131 \u015eark\u0131lar 4"
+        }
+    ], 
+    "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini", 
+    "url": "http://musicbrainz.org/work/f6dd16a4-84e9-4cdf-8075-ce7dceedc483", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "f6dd16a4-84e9-4cdf-8075-ce7dceedc483", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "029d95e2-615e-4a0a-a162-94e1ef18806f", 
+            "type": "vocal", 
+            "name": "Arzu Kopuz"
+        }, 
+        {
+            "mbid": "0520fcb2-3f11-45a9-a0bd-7f5845066e78", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Turgay \u00d6z\u00fcfler"
+        }, 
+        {
+            "mbid": "29f8e3a7-e2b7-46a5-9f0b-f3f707e0df23", 
+            "type": "vocal", 
+            "name": "Neveser Gerginok"
+        }, 
+        {
+            "mbid": "30380155-5974-4cf5-aed9-60371470005d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131ld\u0131ran G\u00fcz"
+        }, 
+        {
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131"
+        }, 
+        {
+            "mbid": "60018146-e2fb-423b-b019-83dbb41a86ec", 
+            "type": "vocal", 
+            "name": "Hikmet Uluta\u015f"
+        }, 
+        {
+            "mbid": "6f063869-ecd9-4ceb-9800-42e96ffbd4a7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6ksel Kartal"
+        }, 
+        {
+            "mbid": "761c091c-e5f3-4856-80f9-3a0c5a07bc25", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u00d6cal"
+        }, 
+        {
+            "mbid": "93680e86-21a6-4b57-846f-e6b9e1427b3a", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen P\u0131nar"
+        }, 
+        {
+            "mbid": "9c4ca0aa-89ff-4711-a9cd-c3817b8abd88", 
+            "type": "vocal", 
+            "name": "Asl\u0131 G\u00fcn"
+        }, 
+        {
+            "mbid": "d23e30d5-12b1-4cb5-a129-aff5ffc16216", 
+            "type": "vocal", 
+            "name": "Atakan Akda\u015f"
+        }, 
+        {
+            "mbid": "d78b0d8d-d207-4ceb-993d-c270caa478f3", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Seyhun \u00c7elik"
+        }
+    ], 
+    "duration": 215, 
+    "path": "../data/Kurdilihicazkar/f6dd16a4-84e9-4cdf-8075-ce7dceedc483.mp3", 
+    "works": [
+        {
+            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
+            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+        }
+    ]
+}

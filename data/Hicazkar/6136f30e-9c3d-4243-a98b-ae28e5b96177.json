@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Hicazk\u00e2r Aksak \u015eark\u0131", 
+    "url": "http://musicbrainz.org/work/6136f30e-9c3d-4243-a98b-ae28e5b96177", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6136f30e-9c3d-4243-a98b-ae28e5b96177", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 170, 
+    "path": "../data/Hicazkar/6136f30e-9c3d-4243-a98b-ae28e5b96177.mp3", 
+    "works": [
+        {
+            "mbid": "dd055b7a-9a0e-49db-86a2-ae74b99ff2fc", 
+            "title": "Oturmu\u015f Testi Elinde"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/6e714703-73a0-43b9-8d89-b9ddda4bd530"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e56de126-2284-4d5b-9deb-3a0d908115f7", 
+            "title": "Lalezar - Music Of The Sultans, Sufis & Seraglio, Volume 3 - Minority Composers"
+        }
+    ], 
+    "title": "Kemen\u00e7e Taksim", 
+    "url": "http://musicbrainz.org/work/6e714703-73a0-43b9-8d89-b9ddda4bd530", 
+    "artist_credits": [
+        {
+            "mbid": "e71e29ab-8432-4d4b-ac10-324876534275", 
+            "name": "Lalezar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "6e714703-73a0-43b9-8d89-b9ddda4bd530", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "duration": 47, 
+    "path": "../data/Mahur/6e714703-73a0-43b9-8d89-b9ddda4bd530.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6e714703-73a0-43b9-8d89-b9ddda4bd530"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/6e714703-73a0-43b9-8d89-b9ddda4bd530"
+        }
+    ]
+}

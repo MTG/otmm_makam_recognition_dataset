@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5ee47b4f-b88d-4006-8df0-0b9c472cd145"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cfe198eb-b8c1-44b2-8284-c63851f397cb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/5ee47b4f-b88d-4006-8df0-0b9c472cd145"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/cfe198eb-b8c1-44b2-8284-c63851f397cb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Uzun Sa\u00e7lar\u0131n", 
+    "url": "http://musicbrainz.org/work/cfe198eb-b8c1-44b2-8284-c63851f397cb", 
+    "artist_credits": [
+        {
+            "mbid": "f31e522b-853e-409c-97fe-5d3cd59849b9", 
+            "name": "Haf\u0131z Ahmed Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "cfe198eb-b8c1-44b2-8284-c63851f397cb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5ee47b4f-b88d-4006-8df0-0b9c472cd145"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cfe198eb-b8c1-44b2-8284-c63851f397cb"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "f31e522b-853e-409c-97fe-5d3cd59849b9", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Ahmed Bey"
+        }
+    ], 
+    "duration": 226, 
+    "path": "../data/Kurdilihicazkar/cfe198eb-b8c1-44b2-8284-c63851f397cb.mp3", 
+    "works": [
+        {
+            "mbid": "5ee47b4f-b88d-4006-8df0-0b9c472cd145", 
+            "title": "Uzun Sa\u00e7lar\u0131n"
+        }
+    ]
+}

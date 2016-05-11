@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/822e1190-4f3a-477b-8ebf-2e733e90e670"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/9e02612c-5a0f-4d34-a627-773d86eb8532"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/822e1190-4f3a-477b-8ebf-2e733e90e670"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/9e02612c-5a0f-4d34-a627-773d86eb8532"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4a89cd3c-08c7-472f-8c26-115e53c80bdf", 
+            "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r"
+        }
+    ], 
+    "title": "\u00d6mr\u00fcm Seni Sevmekle", 
+    "url": "http://musicbrainz.org/work/9e02612c-5a0f-4d34-a627-773d86eb8532", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "9e02612c-5a0f-4d34-a627-773d86eb8532", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/822e1190-4f3a-477b-8ebf-2e733e90e670"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9e02612c-5a0f-4d34-a627-773d86eb8532"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 139, 
+    "path": "../data/Huzzam/9e02612c-5a0f-4d34-a627-773d86eb8532.mp3", 
+    "works": [
+        {
+            "mbid": "822e1190-4f3a-477b-8ebf-2e733e90e670", 
+            "title": "\u00d6mr\u00fcm Seni Sevmekle"
+        }
+    ]
+}

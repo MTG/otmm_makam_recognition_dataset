@@ -1,0 +1,111 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c2dd85d4-2c8d-44cc-bfa5-757f1d43cdc4", 
+            "title": "Itri Bir Medeniyet Bestekar\u0131"
+        }
+    ], 
+    "title": "Muhabbettin Dilimi Da\u011f Da\u011f Eder Bir G\u00fcn", 
+    "url": "http://musicbrainz.org/work/5ba25016-5e8c-427a-8ea5-a586e3282045", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5ba25016-5e8c-427a-8ea5-a586e3282045", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "viola d'amore"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "3ef73005-1e86-4920-8540-8ce0438c83df", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Tan"
+        }, 
+        {
+            "mbid": "79192ae7-7953-474b-bcd5-fd61bd337bb5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Pelin De\u011firmenci"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "duration": 239, 
+    "path": "../data/Beyati/5ba25016-5e8c-427a-8ea5-a586e3282045.mp3", 
+    "works": [
+        {
+            "mbid": "188f77fb-b044-4757-9c66-d5653091da5a", 
+            "title": "Muhabbetin Dilimi"
+        }
+    ]
+}

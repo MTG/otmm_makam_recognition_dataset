@@ -1,0 +1,152 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbb0fa02-5fe1-4aca-950e-2f235c193f87", 
+            "title": "\u015eark\u0131larla \u0130stanbul"
+        }
+    ], 
+    "title": "Beyo\u011flunda Gezersin", 
+    "url": "http://musicbrainz.org/work/71f8bdfc-6181-43b0-a993-29badae80ddd", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "71f8bdfc-6181-43b0-a993-29badae80ddd", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
+            "type": "vocal", 
+            "name": "G\u00fcl Yaz\u0131c\u0131"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "type": "vocal", 
+            "name": "Nusret Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "2adfff63-a20f-473a-9dbf-2d2a41f47ee5", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Dilek Y\u00fczl\u00fcer"
+        }, 
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "type": "vocal", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }, 
+        {
+            "mbid": "449541e1-16c5-47c0-bbf2-936c1cd13fc7", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan Talu"
+        }, 
+        {
+            "mbid": "4cf7b5e6-3dc6-422a-b1a6-1342340ec041", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Seyfettin Ura\u015f"
+        }, 
+        {
+            "mbid": "76384b29-2ad9-49ef-a446-8cc2504afd45", 
+            "type": "vocal", 
+            "name": "Tu\u011f\u00e7e Becerikli"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "b611c81e-2ff9-408c-bfb3-4ad94affbd79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nevbahar \u00d6zel"
+        }, 
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "da8a84dd-b20f-4bdf-8598-1f62df6767df", 
+            "type": "vocal", 
+            "name": "Alper Ayorak"
+        }, 
+        {
+            "mbid": "e3c7ff4d-27fe-4225-9e04-91c84a9a303c", 
+            "type": "vocal", 
+            "name": "Ayta\u00e7 Ergen"
+        }
+    ], 
+    "duration": 184, 
+    "path": "../data/Mahur/71f8bdfc-6181-43b0-a993-29badae80ddd.mp3", 
+    "works": [
+        {
+            "mbid": "8c3dba8c-f08e-4219-b1a4-b7b6eca29946", 
+            "title": "Beyo\u011flu'nda Gezersin"
+        }
+    ]
+}

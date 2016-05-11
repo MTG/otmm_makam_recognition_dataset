@@ -1,0 +1,122 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "94e8eaf2-e8ea-4288-8692-ddb01de8b191", 
+            "title": "\u015eimdi Hat\u0131rda m\u0131d\u0131r..."
+        }
+    ], 
+    "title": "Ka\u00e7\u0131nc\u0131 Fasl-\u0131 Bahar Bu Solar Gider Emelim", 
+    "url": "http://musicbrainz.org/work/351c2fd1-16af-4c05-8b65-091c7bddfc2e", 
+    "artist_credits": [
+        {
+            "mbid": "add106f1-369e-4843-b6cb-a4b8db9b434d", 
+            "name": "Oya \u0130\u015fbo\u011fa"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "351c2fd1-16af-4c05-8b65-091c7bddfc2e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Buse Sever"
+        }, 
+        {
+            "mbid": "1fe3983b-db99-459d-b2c6-07a6b4d0142a", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Esra Berkman"
+        }, 
+        {
+            "mbid": "954f540c-33e4-4a39-8ea4-42b833946f26", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011furcan Sesler"
+        }, 
+        {
+            "mbid": "add106f1-369e-4843-b6cb-a4b8db9b434d", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Oya \u0130\u015fbo\u011fa"
+        }, 
+        {
+            "mbid": "b3c3314b-a470-4f42-b438-e2d8d81e603d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "\u00c7a\u011flar K\u0131r\u00f6mero\u011flu"
+        }, 
+        {
+            "mbid": "c1432312-3f2a-4263-84cf-a667dfcfbf35", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Polat"
+        }, 
+        {
+            "mbid": "d5572546-fbe3-4e80-a166-696498bf34b3", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eule \u00c7akar"
+        }
+    ], 
+    "duration": 281, 
+    "path": "../data/Sultaniyegah/351c2fd1-16af-4c05-8b65-091c7bddfc2e.mp3", 
+    "works": [
+        {
+            "mbid": "ffefc26e-4854-4af1-83b9-ac4e773dfc75", 
+            "title": "Ka\u00e7\u0131nc\u0131 Fasl-\u0131 Bahar Bu Solar Gider Emelim"
+        }
+    ]
+}

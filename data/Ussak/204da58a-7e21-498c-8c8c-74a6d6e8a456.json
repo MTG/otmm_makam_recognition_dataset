@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/204da58a-7e21-498c-8c8c-74a6d6e8a456"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/204da58a-7e21-498c-8c8c-74a6d6e8a456"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "U\u015f\u015fak Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/204da58a-7e21-498c-8c8c-74a6d6e8a456", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "204da58a-7e21-498c-8c8c-74a6d6e8a456", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/0984224d-2f97-484f-a7b7-e6f78884f30f"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/204da58a-7e21-498c-8c8c-74a6d6e8a456"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }, 
+        {
+            "mbid": "8cd9d680-2613-47c2-8a8a-958f6cb48110", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Kad\u0131 Fuat Efendi"
+        }
+    ], 
+    "duration": 408, 
+    "path": "../data/Ussak/204da58a-7e21-498c-8c8c-74a6d6e8a456.mp3", 
+    "works": [
+        {
+            "mbid": "0984224d-2f97-484f-a7b7-e6f78884f30f", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ]
+}

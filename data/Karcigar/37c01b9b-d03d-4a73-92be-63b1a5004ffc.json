@@ -1,0 +1,191 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/23508b75-95db-4ce5-99f5-908e402aeedf"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/37c01b9b-d03d-4a73-92be-63b1a5004ffc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/23508b75-95db-4ce5-99f5-908e402aeedf"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/37c01b9b-d03d-4a73-92be-63b1a5004ffc"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "37273771-b280-4863-aa8d-a00b3aa48a5b", 
+            "title": "Kulaklar\u0131n \u00c7\u0131nlas\u0131n"
+        }
+    ], 
+    "title": "Senin G\u00fczel Y\u00fcz\u00fcn\u00fc Senin \u015eirin S\u00f6z\u00fcn\u00fc", 
+    "url": "http://musicbrainz.org/work/37c01b9b-d03d-4a73-92be-63b1a5004ffc", 
+    "artist_credits": [
+        {
+            "mbid": "000fa1d5-3e1d-4815-b64b-aa7e1c37973e", 
+            "name": "Nazl\u0131 Kanaat"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "37c01b9b-d03d-4a73-92be-63b1a5004ffc", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/23508b75-95db-4ce5-99f5-908e402aeedf"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/37c01b9b-d03d-4a73-92be-63b1a5004ffc"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "000fa1d5-3e1d-4815-b64b-aa7e1c37973e", 
+            "type": "vocal", 
+            "name": "Nazl\u0131 Kanaat"
+        }, 
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "25dbac1d-b2f3-473d-809e-5227c4b42405", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130smail Bergamal\u0131"
+        }, 
+        {
+            "mbid": "2adfff63-a20f-473a-9dbf-2d2a41f47ee5", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Dilek Y\u00fczl\u00fcer"
+        }, 
+        {
+            "mbid": "3477c9a3-47b0-4cc0-8acd-3691c2aa7ad6", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Tanju Kabac\u0131"
+        }, 
+        {
+            "mbid": "4ac98bae-cfbd-44fa-af02-07fe80a38fe9", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Ayg\u00fcn Alt\u0131nba\u015f"
+        }, 
+        {
+            "mbid": "6e23a81b-7333-475d-b9b7-3e5223005d20", 
+            "attribute-list": [
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Durak"
+        }, 
+        {
+            "mbid": "6ea8e903-5a2c-4f46-9276-92c44b510156", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Halil U\u011fur Kutlu"
+        }, 
+        {
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Bayram Co\u015fkuner"
+        }, 
+        {
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur Onuk"
+        }, 
+        {
+            "mbid": "93e4b711-9bce-451c-a129-635ae58d4dd5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Samanc\u0131"
+        }, 
+        {
+            "mbid": "97a14b3a-4efe-4969-bc9d-076138117bd5", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Serap Efil"
+        }, 
+        {
+            "mbid": "a0137b86-f239-4e63-ba22-fb06d5179c24", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u00c7a\u011flaro\u011flu"
+        }, 
+        {
+            "mbid": "c0818ec4-6ef2-4405-b3ca-fe2c40d54a4b", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Kadir G\u00f6k"
+        }, 
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Talat Er"
+        }
+    ], 
+    "duration": 184, 
+    "path": "../data/Karcigar/37c01b9b-d03d-4a73-92be-63b1a5004ffc.mp3", 
+    "works": [
+        {
+            "mbid": "23508b75-95db-4ce5-99f5-908e402aeedf", 
+            "title": "Senin G\u00fczel Y\u00fcz\u00fcn\u00fc Senin \u015eirin S\u00f6z\u00fcn\u00fc"
+        }
+    ]
+}

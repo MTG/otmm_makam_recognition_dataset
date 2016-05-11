@@ -1,0 +1,109 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/f716d17e-c086-4011-b95b-4c75ec998e18"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c07b2be7-366b-48e8-91ee-d52b850eb715", 
+            "title": "Klasik Osmanl\u0131 M\u00fczi\u011fi"
+        }
+    ], 
+    "title": "Nihavent Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/f716d17e-c086-4011-b95b-4c75ec998e18", 
+    "artist_credits": [
+        {
+            "mbid": "b9a11258-8957-4674-a0ce-56f10002a98f", 
+            "name": "Emirgan Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "f716d17e-c086-4011-b95b-4c75ec998e18", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/f716d17e-c086-4011-b95b-4c75ec998e18"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "7d28c915-55b3-486e-9b10-f402e45badfb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Arif Erdebil"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9cbe44c2-6bf9-4b5b-b377-6bf7718ba65b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zer"
+        }, 
+        {
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Yurdal Tokcan"
+        }
+    ], 
+    "duration": 228, 
+    "path": "../data/Nihavent/f716d17e-c086-4011-b95b-4c75ec998e18.mp3", 
+    "works": [
+        {
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "title": "Nihavend Saz Semai"
+        }
+    ]
+}

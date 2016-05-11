@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "agirsenginsemai", 
+            "mb_tag": "a\u011f\u0131rsenginsemai", 
+            "source": "http://musicbrainz.org/recording/7bc74401-43d7-4f61-b86f-89c352f95cf3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/7bc74401-43d7-4f61-b86f-89c352f95cf3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2e8e09e0-d85d-4699-9d73-551a6bebd289", 
+            "title": "Eski Devir Bah\u00e7eleri"
+        }
+    ], 
+    "title": "Ey Lebleri Gonca Y\u00fcz\u00fc G\u00fcl Serv-i B\u00fclendim", 
+    "url": "http://musicbrainz.org/work/7bc74401-43d7-4f61-b86f-89c352f95cf3", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "7bc74401-43d7-4f61-b86f-89c352f95cf3", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/7bc74401-43d7-4f61-b86f-89c352f95cf3"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 182, 
+    "path": "../data/Acemasiran/7bc74401-43d7-4f61-b86f-89c352f95cf3.mp3", 
+    "works": [
+        {
+            "mbid": "e534e173-68aa-4b90-a82c-4d247d8d4eed", 
+            "title": "Ey Lebleri Gonce Y\u00fcz\u00fc"
+        }
+    ]
+}

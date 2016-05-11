@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0e219a43-90e7-43d2-af3d-7f3bffb383e9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/0e219a43-90e7-43d2-af3d-7f3bffb383e9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8aadb37c-20c4-4757-b285-2c4147a6553f", 
+            "title": "Lale - Nerkis Han\u0131mlar"
+        }
+    ], 
+    "title": "Kerem K\u0131l Bu Dil-i Zare", 
+    "url": "http://musicbrainz.org/work/0e219a43-90e7-43d2-af3d-7f3bffb383e9", 
+    "artist_credits": [
+        {
+            "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
+            "name": "Lale Han\u0131m"
+        }, 
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "name": "Nerkis Han\u0131m"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "0e219a43-90e7-43d2-af3d-7f3bffb383e9", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/0e219a43-90e7-43d2-af3d-7f3bffb383e9"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Nevres Bey"
+        }, 
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "type": "vocal", 
+            "name": "Nerkis Han\u0131m"
+        }
+    ], 
+    "duration": 145, 
+    "path": "../data/Bestenigar/0e219a43-90e7-43d2-af3d-7f3bffb383e9.mp3", 
+    "works": [
+        {
+            "mbid": "f50d3f31-8c30-4918-8fa7-3e4c4fec8fe4", 
+            "title": "Kerem K\u0131l Bu Dil-i Zare"
+        }
+    ]
+}

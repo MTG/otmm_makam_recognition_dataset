@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/64dbad49-c3dd-41ae-bbf3-9fac10ccedad"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/64dbad49-c3dd-41ae-bbf3-9fac10ccedad"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e2d38a98-397f-43b9-8f71-7551d3f165d0", 
+            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+        }
+    ], 
+    "title": "Dertlinin Divan\u0131", 
+    "url": "http://musicbrainz.org/work/64dbad49-c3dd-41ae-bbf3-9fac10ccedad", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "64dbad49-c3dd-41ae-bbf3-9fac10ccedad", 
+    "form": [
+        {
+            "attribute_key": "divan", 
+            "mb_attribute": "Divan", 
+            "source": "http://musicbrainz.org/work/b650f97e-0658-466e-8a39-7d43ae85620e"
+        }, 
+        {
+            "attribute_key": "divan", 
+            "mb_tag": "divan", 
+            "source": "http://musicbrainz.org/recording/64dbad49-c3dd-41ae-bbf3-9fac10ccedad"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 265, 
+    "path": "../data/Muhayyer/64dbad49-c3dd-41ae-bbf3-9fac10ccedad.mp3", 
+    "works": [
+        {
+            "mbid": "b650f97e-0658-466e-8a39-7d43ae85620e", 
+            "title": "Ok Gibi Hublar Beni Yaydan Yabana Att\u0131lar"
+        }
+    ]
+}

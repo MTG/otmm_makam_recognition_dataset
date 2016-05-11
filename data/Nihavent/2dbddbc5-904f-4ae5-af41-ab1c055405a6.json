@@ -1,0 +1,215 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a64a4ec7-b4e6-4696-8235-32c0cc96a36e", 
+            "title": "Osmanl\u0131 \u0130mparatorlu\u011fu'nda M\u00fczik - Rum ve T\u00fcrk Bestekarlar"
+        }
+    ], 
+    "title": "Nihavent Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/2dbddbc5-904f-4ae5-af41-ab1c055405a6", 
+    "artist_credits": [
+        {
+            "mbid": "4988031f-ab5b-42d3-aeab-8d8abedfb887", 
+            "name": "Bosphorus"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "2dbddbc5-904f-4ae5-af41-ab1c055405a6", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0518ffd6-5b24-46a4-9045-773b741ee5f5", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Burak Deran"
+        }, 
+        {
+            "mbid": "1f82d08c-8312-4d94-8713-109776ff3881", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Lale Akay Umul"
+        }, 
+        {
+            "mbid": "1fc5a935-549c-4d71-b079-1c2c35bad321", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan Alvan"
+        }, 
+        {
+            "mbid": "2745307a-b03b-488a-bd80-5453dc95222b", 
+            "attribute-list": [
+                "zill"
+            ], 
+            "type": "instrument", 
+            "name": "Hamdi Demirci"
+        }, 
+        {
+            "mbid": "2745307a-b03b-488a-bd80-5453dc95222b", 
+            "attribute-list": [
+                "triangle"
+            ], 
+            "type": "instrument", 
+            "name": "Hamdi Demirci"
+        }, 
+        {
+            "mbid": "2745307a-b03b-488a-bd80-5453dc95222b", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Hamdi Demirci"
+        }, 
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "448df366-e3be-4927-aebf-a02aa9a3ebd2", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Dilek Zertun\u00e7"
+        }, 
+        {
+            "mbid": "4988031f-ab5b-42d3-aeab-8d8abedfb887", 
+            "type": "performing orchestra", 
+            "name": "Bosphorus"
+        }, 
+        {
+            "mbid": "502e0691-2984-4ff7-893b-a66b73b05891", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Fatih Z\u00fcl\u00fcfkar"
+        }, 
+        {
+            "mbid": "59fe856c-ec1b-44a9-92d3-ced039396feb", 
+            "attribute-list": [
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Hur\u015fit Ungay"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "8b04b97e-4b12-47bc-883a-69d912e12aa5", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcrsel Ko\u00e7ak"
+        }, 
+        {
+            "mbid": "8b04b97e-4b12-47bc-883a-69d912e12aa5", 
+            "attribute-list": [
+                "davul"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcrsel Ko\u00e7ak"
+        }, 
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }, 
+        {
+            "mbid": "a6b7528a-ee03-4e93-8e24-5499d80a6665", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Fuat T\u00fcrkelman"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }, 
+        {
+            "mbid": "f1c110ef-f34d-456d-839b-4142c05c8b41", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Firuz Han"
+        }, 
+        {
+            "mbid": "f4251bcb-34a6-4333-8129-0c0bc3b96335", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "\u00dcmit G\u00fcrelman"
+        }
+    ], 
+    "duration": 374, 
+    "path": "../data/Nihavent/2dbddbc5-904f-4ae5-af41-ab1c055405a6.mp3", 
+    "works": [
+        {
+            "mbid": "91c3e044-04c9-443d-a53c-c267b83860ef", 
+            "title": "Nihavent Pe\u015frev"
+        }
+    ]
+}

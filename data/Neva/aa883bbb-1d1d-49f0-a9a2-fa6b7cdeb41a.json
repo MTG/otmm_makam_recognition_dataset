@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fe49d6ee-a2b1-4d0d-8277-1f3fbb5df116", 
+            "title": "Teredd\u00fct"
+        }
+    ], 
+    "title": "Ben Y\u00fcr\u00fcr\u00fcm Yane Yane", 
+    "url": "http://musicbrainz.org/work/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0564a914-b1da-45d5-9e12-a01d95615860"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 178, 
+    "path": "../data/Neva/aa883bbb-1d1d-49f0-a9a2-fa6b7cdeb41a.mp3", 
+    "works": [
+        {
+            "mbid": "0564a914-b1da-45d5-9e12-a01d95615860", 
+            "title": "Ben Y\u00fcr\u00fcr\u00fcm Yane Yane"
+        }
+    ]
+}

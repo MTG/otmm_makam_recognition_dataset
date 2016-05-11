@@ -1,0 +1,98 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "60c842ae-6879-4e41-9fad-0b8a7b552fa6", 
+            "title": "The Early Recordings, Volume 1"
+        }
+    ], 
+    "title": "H\u00fcseyni Saz Semai", 
+    "url": "http://musicbrainz.org/work/d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4", 
+    "artist_credits": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ecbd1847-79bd-4083-b9e5-833c90e6d8cc"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Hrant Kenkulian"
+        }, 
+        {
+            "mbid": "df01d2b0-d8e4-447f-a5f1-034b9587ca83", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Yatman"
+        }, 
+        {
+            "mbid": "e26c9288-91f6-4ac7-9883-c570180e9fd1", 
+            "attribute-list": [
+                "darbuka"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Kocadin\u00e7"
+        }
+    ], 
+    "duration": 390, 
+    "path": "../data/Huseyni/d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4.mp3", 
+    "works": [
+        {
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ]
+}

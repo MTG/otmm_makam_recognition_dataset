@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9c2d020f-ad46-4909-8fb9-aad6fe985c13"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9a47f14d-2c82-4438-8647-01e44ea68983"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/9c2d020f-ad46-4909-8fb9-aad6fe985c13"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/9a47f14d-2c82-4438-8647-01e44ea68983"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "aa9ec1d7-5633-481b-abca-0866afbf8f6f", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Tambur"
+        }
+    ], 
+    "title": "Hicaz Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/9a47f14d-2c82-4438-8647-01e44ea68983", 
+    "artist_credits": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "9a47f14d-2c82-4438-8647-01e44ea68983", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/9c2d020f-ad46-4909-8fb9-aad6fe985c13"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9a47f14d-2c82-4438-8647-01e44ea68983"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Hulusi Babal\u0131k"
+        }
+    ], 
+    "duration": 318, 
+    "path": "../data/Hicaz/9a47f14d-2c82-4438-8647-01e44ea68983.mp3", 
+    "works": [
+        {
+            "mbid": "9c2d020f-ad46-4909-8fb9-aad6fe985c13", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

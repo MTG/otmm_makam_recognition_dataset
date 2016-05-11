@@ -1,0 +1,109 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/aebdad66-019e-49a8-8a4d-d1ba5dc19be8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c07b2be7-366b-48e8-91ee-d52b850eb715", 
+            "title": "Klasik Osmanl\u0131 M\u00fczi\u011fi"
+        }
+    ], 
+    "title": "Rast Semaisi ve Rast Sirto", 
+    "url": "http://musicbrainz.org/work/aebdad66-019e-49a8-8a4d-d1ba5dc19be8", 
+    "artist_credits": [
+        {
+            "mbid": "b9a11258-8957-4674-a0ce-56f10002a98f", 
+            "name": "Emirgan Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "aebdad66-019e-49a8-8a4d-d1ba5dc19be8", 
+    "form": [
+        {
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
+            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
+        }, 
+        {
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
+            "source": "http://musicbrainz.org/recording/aebdad66-019e-49a8-8a4d-d1ba5dc19be8"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "7d28c915-55b3-486e-9b10-f402e45badfb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Arif Erdebil"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9cbe44c2-6bf9-4b5b-b377-6bf7718ba65b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zer"
+        }, 
+        {
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Yurdal Tokcan"
+        }
+    ], 
+    "duration": 217, 
+    "path": "../data/Rast/aebdad66-019e-49a8-8a4d-d1ba5dc19be8.mp3", 
+    "works": [
+        {
+            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
+            "title": "Rast Sirto"
+        }
+    ]
+}

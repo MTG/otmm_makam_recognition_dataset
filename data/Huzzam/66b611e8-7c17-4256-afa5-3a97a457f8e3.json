@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/66b611e8-7c17-4256-afa5-3a97a457f8e3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Bade-i Zehr-i Gam-\u0131 Firkate Kand\u0131m Bu Gece", 
+    "url": "http://musicbrainz.org/work/66b611e8-7c17-4256-afa5-3a97a457f8e3", 
+    "artist_credits": [
+        {
+            "mbid": "65803e8c-3b03-48bd-b2fc-a1516f8dfc6d", 
+            "name": "Haf\u0131z Osman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "66b611e8-7c17-4256-afa5-3a97a457f8e3", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "65803e8c-3b03-48bd-b2fc-a1516f8dfc6d", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Osman"
+        }
+    ], 
+    "duration": 171, 
+    "path": "../data/Huzzam/66b611e8-7c17-4256-afa5-3a97a457f8e3.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/66b611e8-7c17-4256-afa5-3a97a457f8e3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/66b611e8-7c17-4256-afa5-3a97a457f8e3"
+        }
+    ]
+}

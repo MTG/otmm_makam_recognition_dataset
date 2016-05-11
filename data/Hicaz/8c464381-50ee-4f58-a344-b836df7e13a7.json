@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/8c464381-50ee-4f58-a344-b836df7e13a7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Asuman A\u011flar", 
+    "url": "http://musicbrainz.org/work/8c464381-50ee-4f58-a344-b836df7e13a7", 
+    "artist_credits": [
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "8c464381-50ee-4f58-a344-b836df7e13a7", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "12b365b8-7866-4d90-a0e2-0c2edbe6bb81", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Artaki Candan"
+        }, 
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "duration": 221, 
+    "path": "../data/Hicaz/8c464381-50ee-4f58-a344-b836df7e13a7.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8c464381-50ee-4f58-a344-b836df7e13a7"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/8c464381-50ee-4f58-a344-b836df7e13a7"
+        }
+    ]
+}

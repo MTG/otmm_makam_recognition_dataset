@@ -1,0 +1,85 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/b7d09514-5875-43a7-8d30-f5b9ca0900c5"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a81d1218-ddc5-4856-b106-08f72db8f39c", 
+            "title": "Refik Fersan"
+        }
+    ], 
+    "title": "Acema\u015firan Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/fab5722d-cef1-4cd5-be15-1fbe9012a07b", 
+    "artist_credits": [
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "name": "Ahmet Kadri Rizeli"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "fab5722d-cef1-4cd5-be15-1fbe9012a07b", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/b7d09514-5875-43a7-8d30-f5b9ca0900c5"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 271, 
+    "path": "../data/Acemasiran/fab5722d-cef1-4cd5-be15-1fbe9012a07b.mp3", 
+    "works": [
+        {
+            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ]
+}

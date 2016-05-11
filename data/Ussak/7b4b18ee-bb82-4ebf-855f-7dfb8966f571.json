@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/7b4b18ee-bb82-4ebf-855f-7dfb8966f571"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
+        }
+    ], 
+    "title": "Sar\u0131 Tellerde Taksim", 
+    "url": "http://musicbrainz.org/work/7b4b18ee-bb82-4ebf-855f-7dfb8966f571", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "7b4b18ee-bb82-4ebf-855f-7dfb8966f571", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 108, 
+    "path": "../data/Ussak/7b4b18ee-bb82-4ebf-855f-7dfb8966f571.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7b4b18ee-bb82-4ebf-855f-7dfb8966f571"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/7b4b18ee-bb82-4ebf-855f-7dfb8966f571"
+        }
+    ]
+}

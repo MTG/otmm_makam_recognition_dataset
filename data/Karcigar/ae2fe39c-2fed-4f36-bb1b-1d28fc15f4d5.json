@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f630b13a-d342-41b3-9289-8c5fc050b02d", 
+            "title": "Karc\u0131\u011far 5"
+        }
+    ], 
+    "title": "Ud Taksimi", 
+    "url": "http://musicbrainz.org/work/ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 183, 
+    "path": "../data/Karcigar/ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/ae2fe39c-2fed-4f36-bb1b-1d28fc15f4d5"
+        }
+    ]
+}

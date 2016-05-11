@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/0a706d17-6d97-40eb-9fd2-7289c18f3ad9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f19fa9e0-d7e6-40ef-8ea3-3610a13e44cd", 
+            "title": "Ar\u015fiv Serisi - Gazeller II"
+        }
+    ], 
+    "title": "Mest-i Naz\u0131m Kim B\u00fcy\u00fctt\u00fc B\u00f6yle", 
+    "url": "http://musicbrainz.org/work/0a706d17-6d97-40eb-9fd2-7289c18f3ad9", 
+    "artist_credits": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "name": "Sadettin Kaynak"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "0a706d17-6d97-40eb-9fd2-7289c18f3ad9", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "type": "vocal", 
+            "name": "Sadettin Kaynak"
+        }
+    ], 
+    "duration": 195, 
+    "path": "../data/Sultaniyegah/0a706d17-6d97-40eb-9fd2-7289c18f3ad9.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0a706d17-6d97-40eb-9fd2-7289c18f3ad9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/0a706d17-6d97-40eb-9fd2-7289c18f3ad9"
+        }
+    ]
+}

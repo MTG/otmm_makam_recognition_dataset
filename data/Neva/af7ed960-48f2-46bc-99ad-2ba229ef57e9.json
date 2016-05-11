@@ -1,0 +1,139 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c8923ac4-c873-497a-803f-45bf84fecf49", 
+            "title": "Lalezar - Music Of The Sultans, Sufis & Seraglio, Volume 1 - Sultan Composers"
+        }
+    ], 
+    "title": "Neva Pe\u015frev D\u00fcyek", 
+    "url": "http://musicbrainz.org/work/af7ed960-48f2-46bc-99ad-2ba229ef57e9", 
+    "artist_credits": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "name": "Selma Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }, 
+        {
+            "mbid": "2b359294-6708-4aae-b752-ca8d8a10da9e", 
+            "name": "Ahmet Erdo\u011fdular"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "af7ed960-48f2-46bc-99ad-2ba229ef57e9", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "type": "vocal", 
+            "name": "Selma Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "2b359294-6708-4aae-b752-ca8d8a10da9e", 
+            "type": "vocal", 
+            "name": "Ahmet Erdo\u011fdular"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "duration": 156, 
+    "path": "../data/Neva/af7ed960-48f2-46bc-99ad-2ba229ef57e9.mp3", 
+    "works": [
+        {
+            "mbid": "418a1421-39de-44c4-8f43-26df51202784", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

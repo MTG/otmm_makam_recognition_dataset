@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Neva Pe\u015frev (1. Hane - Teslim)", 
+    "url": "http://musicbrainz.org/work/89df4e91-0124-401a-996e-e88b3d7aac3b", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "89df4e91-0124-401a-996e-e88b3d7aac3b", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 89, 
+    "path": "../data/Neva/89df4e91-0124-401a-996e-e88b3d7aac3b.mp3", 
+    "works": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

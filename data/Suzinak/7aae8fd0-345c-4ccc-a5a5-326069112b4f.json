@@ -1,0 +1,57 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/7aae8fd0-345c-4ccc-a5a5-326069112b4f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7cbd09db-d4d7-4dbb-b5f9-870a8ae60194", 
+            "title": "Ahenk 1"
+        }
+    ], 
+    "title": "Kemen\u00e7e taksimi", 
+    "url": "http://musicbrainz.org/work/7aae8fd0-345c-4ccc-a5a5-326069112b4f", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "7aae8fd0-345c-4ccc-a5a5-326069112b4f", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 169, 
+    "path": "../data/Suzinak/7aae8fd0-345c-4ccc-a5a5-326069112b4f.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7aae8fd0-345c-4ccc-a5a5-326069112b4f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/7aae8fd0-345c-4ccc-a5a5-326069112b4f"
+        }
+    ]
+}

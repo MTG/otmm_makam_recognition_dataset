@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9805d026-3310-4fec-90dc-e49e868d12d3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "79cd3b04-b987-4b02-a5c2-ccb1abd825bc", 
+            "title": "Bestekarlar\u0131m\u0131z: 8 - Ahmet Rasim Bey"
+        }
+    ], 
+    "title": "Rast Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/9805d026-3310-4fec-90dc-e49e868d12d3", 
+    "artist_credits": [
+        {
+            "mbid": "4d70bdcb-1d9b-4137-ab88-ef96e26d0a69", 
+            "name": "Tevfik Soyata"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9805d026-3310-4fec-90dc-e49e868d12d3", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4d70bdcb-1d9b-4137-ab88-ef96e26d0a69", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Tevfik Soyata"
+        }
+    ], 
+    "duration": 142, 
+    "path": "../data/Rast/9805d026-3310-4fec-90dc-e49e868d12d3.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9805d026-3310-4fec-90dc-e49e868d12d3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/9805d026-3310-4fec-90dc-e49e868d12d3"
+        }
+    ]
+}

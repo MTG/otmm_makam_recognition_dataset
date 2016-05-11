@@ -1,0 +1,87 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "64f1a9db-c999-4564-951e-6bb181b7f75b", 
+            "title": "Mesut Cemil (1902-1963) Volume 1"
+        }
+    ], 
+    "title": "Segah Y\u00fcr\u00fck Semai", 
+    "url": "http://musicbrainz.org/work/89c34532-8fb6-4e61-a564-49749c8aaa6e", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "89c34532-8fb6-4e61-a564-49749c8aaa6e", 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "type": "conductor", 
+            "name": "Mesut Cemil Bey"
+        }, 
+        {
+            "mbid": "c40e59ef-f088-4f03-ac80-ae2d70bbff0e", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Klasik T\u00fcrk Musikisi Korosu"
+        }
+    ], 
+    "duration": 190, 
+    "path": "../data/Segah/89c34532-8fb6-4e61-a564-49749c8aaa6e.mp3", 
+    "works": [
+        {
+            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
+            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+        }
+    ]
+}

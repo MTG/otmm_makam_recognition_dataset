@@ -1,0 +1,96 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
+        }
+    ], 
+    "title": "Neva Pe\u015frev, M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/work/f088f793-d53f-490b-abc0-49890520d9ce", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "f088f793-d53f-490b-abc0-49890520d9ce", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
+        }, 
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 464, 
+    "path": "../data/Neva/f088f793-d53f-490b-abc0-49890520d9ce.mp3", 
+    "works": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

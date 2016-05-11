@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/81fba678-e057-4b67-a4a7-f9b057c303d1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/81fba678-e057-4b67-a4a7-f9b057c303d1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter", 
+    "url": "http://musicbrainz.org/work/81fba678-e057-4b67-a4a7-f9b057c303d1", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "81fba678-e057-4b67-a4a7-f9b057c303d1", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a6f1e216-df3b-46c8-b4a9-70268be5bef6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/81fba678-e057-4b67-a4a7-f9b057c303d1"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "duration": 219, 
+    "path": "../data/Hicaz/81fba678-e057-4b67-a4a7-f9b057c303d1.mp3", 
+    "works": [
+        {
+            "mbid": "a6f1e216-df3b-46c8-b4a9-70268be5bef6", 
+            "title": "Kimseyi B\u00f6yle Peri\u015fan Etme Allah\u0131m Yeter"
+        }
+    ]
+}

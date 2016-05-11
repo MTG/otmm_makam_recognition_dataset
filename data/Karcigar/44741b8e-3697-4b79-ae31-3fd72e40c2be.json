@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/ab3e540f-c8dd-4d22-9e74-b684927fbf5d"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/44741b8e-3697-4b79-ae31-3fd72e40c2be"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/ab3e540f-c8dd-4d22-9e74-b684927fbf5d"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/44741b8e-3697-4b79-ae31-3fd72e40c2be"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "Tanburam\u0131n \u0130nce K\u0131vrak Beli Var", 
+    "url": "http://musicbrainz.org/work/44741b8e-3697-4b79-ae31-3fd72e40c2be", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "44741b8e-3697-4b79-ae31-3fd72e40c2be", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/ab3e540f-c8dd-4d22-9e74-b684927fbf5d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/44741b8e-3697-4b79-ae31-3fd72e40c2be"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 164, 
+    "path": "../data/Karcigar/44741b8e-3697-4b79-ae31-3fd72e40c2be.mp3", 
+    "works": [
+        {
+            "mbid": "ab3e540f-c8dd-4d22-9e74-b684927fbf5d", 
+            "title": "Tanburam\u0131n \u0130nce K\u0131vrak Beli Var"
+        }
+    ]
+}

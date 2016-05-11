@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/aa5fe379-9d32-4ab3-a073-1bf44e771506"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "89c6eab0-efd6-469a-bee8-00c5684eb6e6", 
+            "title": "Bestekarlar\u0131m\u0131z: 7 - Tanburi Mustafa \u00c7avu\u015f"
+        }
+    ], 
+    "title": "Saba Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/aa5fe379-9d32-4ab3-a073-1bf44e771506", 
+    "artist_credits": [
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "aa5fe379-9d32-4ab3-a073-1bf44e771506", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2e06c7c2-c2fd-4484-8b28-b8d9efe0e9d1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Haluk Derin\u00f6z"
+        }, 
+        {
+            "mbid": "51dd67df-47be-454f-b6e0-9c947581e7d7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ali A\u015fk\u0131n"
+        }
+    ], 
+    "duration": 199, 
+    "path": "../data/Saba/aa5fe379-9d32-4ab3-a073-1bf44e771506.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/aa5fe379-9d32-4ab3-a073-1bf44e771506"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/aa5fe379-9d32-4ab3-a073-1bf44e771506"
+        }
+    ]
+}

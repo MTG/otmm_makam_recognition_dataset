@@ -1,0 +1,105 @@
+{
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/761774a8-acdd-46ba-ad00-430ce63acf0a"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/761774a8-acdd-46ba-ad00-430ce63acf0a"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23c64bc7-010c-459c-a427-317f9540debb", 
+            "title": "Lalezar - Music Of The Sultans, Sufis & Seraglio, Volume 2 - Music Of The Dancing Boys"
+        }
+    ], 
+    "title": "T\u00fcrkmen K\u0131z\u0131", 
+    "url": "http://musicbrainz.org/work/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6", 
+    "artist_credits": [
+        {
+            "mbid": "e71e29ab-8432-4d4b-ac10-324876534275", 
+            "name": "Lalezar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c3e5716e-7e66-430f-98f7-1c89bf7b3ab6", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/761774a8-acdd-46ba-ad00-430ce63acf0a"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "type": "vocal", 
+            "name": "Selma Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "duration": 148, 
+    "path": "../data/Huseyni/c3e5716e-7e66-430f-98f7-1c89bf7b3ab6.mp3", 
+    "works": [
+        {
+            "mbid": "761774a8-acdd-46ba-ad00-430ce63acf0a", 
+            "title": "T\u00fcrkmen K\u0131z\u0131"
+        }
+    ]
+}

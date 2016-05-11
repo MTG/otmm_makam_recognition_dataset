@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2e8e09e0-d85d-4699-9d73-551a6bebd289", 
+            "title": "Eski Devir Bah\u00e7eleri"
+        }
+    ], 
+    "title": "Hicr-i Lebinde Yarin Bir Dil ki Oldu Naho\u015f", 
+    "url": "http://musicbrainz.org/work/82a3a145-3780-4685-9233-3cdee453a8d5", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "82a3a145-3780-4685-9233-3cdee453a8d5", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "lenk fahte", 
+            "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 258, 
+    "path": "../data/Hicazkar/82a3a145-3780-4685-9233-3cdee453a8d5.mp3", 
+    "works": [
+        {
+            "mbid": "05fd4116-5692-4569-bc0b-1fcdafee5d6c", 
+            "title": "Hicr-i Lebinde Yarin Bir Dil ki Oldu Na-ho\u015f"
+        }
+    ]
+}

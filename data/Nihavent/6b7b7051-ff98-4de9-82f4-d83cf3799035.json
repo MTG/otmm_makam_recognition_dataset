@@ -1,0 +1,151 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "32554f87-da8a-47a6-866b-3558ef042892", 
+            "title": "TRT \u0130stanbul Radyosu - 13.01.1992"
+        }
+    ], 
+    "title": "Hasretin P\u0131nar\u0131 \u00c7a\u011flar \u0130\u00e7imde", 
+    "url": "http://musicbrainz.org/work/6b7b7051-ff98-4de9-82f4-d83cf3799035", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6b7b7051-ff98-4de9-82f4-d83cf3799035", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "1082c2d9-9896-4db8-a9ad-5ca8bd7b0005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Arma\u011fan Boran"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "a5e88a2e-f405-483d-8a3b-3e55c2113acd", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Erkahveci"
+        }, 
+        {
+            "mbid": "a6fe8566-a246-40b9-8a86-1ada5884ca81", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Selahattin Erk\u00f6se"
+        }, 
+        {
+            "mbid": "aac2ac47-c429-4656-b0b5-fbeae5ccdcb0", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Y\u0131ld\u0131zdo\u011fan"
+        }, 
+        {
+            "mbid": "acc06ecf-0641-490c-9da6-49f8a785c3ba", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayd\u0131n Varol"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "e8c0fddc-2ba0-494c-90a9-9ad51d01619d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Nuri G\u00fcn"
+        }
+    ], 
+    "duration": 234, 
+    "path": "../data/Nihavent/6b7b7051-ff98-4de9-82f4-d83cf3799035.mp3", 
+    "works": [
+        {
+            "mbid": "72828685-9240-4ee3-890b-666b4b9a5025", 
+            "title": "Hasretin P\u0131nar\u0131 \u00c7a\u011flar \u0130\u00e7imde"
+        }
+    ]
+}

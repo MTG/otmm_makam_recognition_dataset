@@ -1,0 +1,65 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/7d37b86f-2825-4d50-815d-fced2741d023"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "Karc\u0131\u011far Makam\u0131nda Birlikte Taksim", 
+    "url": "http://musicbrainz.org/work/7d37b86f-2825-4d50-815d-fced2741d023", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "7d37b86f-2825-4d50-815d-fced2741d023", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }
+    ], 
+    "duration": 230, 
+    "path": "../data/Karcigar/7d37b86f-2825-4d50-815d-fced2741d023.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7d37b86f-2825-4d50-815d-fced2741d023"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/7d37b86f-2825-4d50-815d-fced2741d023"
+        }
+    ]
+}

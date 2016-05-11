@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/a78f1da9-4a1b-440e-8476-ecdee5b27669"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "55b20427-c7a5-4e8b-a26f-c6096fb69eeb", 
+            "title": "Mevlana Beyati Mevlevi Ayini- Dervi\u015f K\u00fc\u00e7ek Mustafa Dede"
+        }
+    ], 
+    "title": "Bayati Taksim", 
+    "url": "http://musicbrainz.org/work/a78f1da9-4a1b-440e-8476-ecdee5b27669", 
+    "artist_credits": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "a78f1da9-4a1b-440e-8476-ecdee5b27669", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }, 
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "type": "conductor", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "duration": 168, 
+    "path": "../data/Beyati/a78f1da9-4a1b-440e-8476-ecdee5b27669.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a78f1da9-4a1b-440e-8476-ecdee5b27669"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/a78f1da9-4a1b-440e-8476-ecdee5b27669"
+        }
+    ]
+}

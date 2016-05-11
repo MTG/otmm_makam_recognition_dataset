@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
+            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "A\u00e7\u0131ld\u0131 Nev-bahar Bir Gonce-i G\u00fcl", 
+    "url": "http://musicbrainz.org/work/a4170fcb-1071-4055-b958-ead9744e0d3d", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "a4170fcb-1071-4055-b958-ead9744e0d3d", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "duration": 157, 
+    "path": "../data/Acemasiran/a4170fcb-1071-4055-b958-ead9744e0d3d.mp3", 
+    "works": [
+        {
+            "mbid": "fb8caeac-2e10-40cd-8c1a-935f1fca5587", 
+            "title": "A\u00e7\u0131ld\u0131 Nev-bahar Bir Gonce-i G\u00fcl"
+        }
+    ]
+}

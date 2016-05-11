@@ -1,0 +1,61 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f630b13a-d342-41b3-9289-8c5fc050b02d", 
+            "title": "Karc\u0131\u011far 5"
+        }
+    ], 
+    "title": "Bir Yareli Ku\u015f \u00c7\u0131rp\u0131n\u0131yor Sanki Telinde", 
+    "url": "http://musicbrainz.org/work/e98bba00-be71-4fb2-8fa4-2ebe991afda8", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e98bba00-be71-4fb2-8fa4-2ebe991afda8", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 174, 
+    "path": "../data/Karcigar/e98bba00-be71-4fb2-8fa4-2ebe991afda8.mp3", 
+    "works": [
+        {
+            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
+            "title": "Bir Yareli Ku\u015f"
+        }
+    ]
+}

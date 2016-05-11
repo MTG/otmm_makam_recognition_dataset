@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/f401b8ae-c786-4893-a5e2-657afb447af6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/f401b8ae-c786-4893-a5e2-657afb447af6"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ddd1a358-ce8a-4151-b888-fce9de078c97", 
+            "title": "Acemk\u00fcrdi 3"
+        }
+    ], 
+    "title": "Gel Bezme Bir \u015eeb Ey Nazeninim Olal\u0131m Hem-dem", 
+    "url": "http://musicbrainz.org/work/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced", 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/f401b8ae-c786-4893-a5e2-657afb447af6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 129, 
+    "path": "../data/Acemkurdi/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced.mp3", 
+    "works": [
+        {
+            "mbid": "f401b8ae-c786-4893-a5e2-657afb447af6", 
+            "title": "Gel Bezme Bir \u015eeb"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0fe07917-1432-42b5-b9be-d8d61046aba0", 
+            "title": "T\u00fcrk Bestekarlar Serisi - \u015eevki Bey"
+        }
+    ], 
+    "title": "Duyup Ahvalimizi Halk-\u0131 Cihan", 
+    "url": "http://musicbrainz.org/work/af16ae9d-d007-4a3b-9956-c817231e6643", 
+    "artist_credits": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "af16ae9d-d007-4a3b-9956-c817231e6643", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Serhat Sarpel"
+        }
+    ], 
+    "duration": 145, 
+    "path": "../data/Kurdilihicazkar/af16ae9d-d007-4a3b-9956-c817231e6643.mp3", 
+    "works": [
+        {
+            "mbid": "0272866b-d101-43f7-9e93-a1a7d72c5e5e", 
+            "title": "Duyup Ahvalimizi"
+        }
+    ]
+}

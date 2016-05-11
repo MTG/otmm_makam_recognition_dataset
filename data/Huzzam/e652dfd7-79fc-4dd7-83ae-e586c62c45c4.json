@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/99419e27-bf76-4e62-83a5-619296c4af62"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e652dfd7-79fc-4dd7-83ae-e586c62c45c4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/99419e27-bf76-4e62-83a5-619296c4af62"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/e652dfd7-79fc-4dd7-83ae-e586c62c45c4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Talat Eyler mi Diye Suy-i Ka\u011f\u0131thanede", 
+    "url": "http://musicbrainz.org/work/e652dfd7-79fc-4dd7-83ae-e586c62c45c4", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "e652dfd7-79fc-4dd7-83ae-e586c62c45c4", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/99419e27-bf76-4e62-83a5-619296c4af62"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/e652dfd7-79fc-4dd7-83ae-e586c62c45c4"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 187, 
+    "path": "../data/Huzzam/e652dfd7-79fc-4dd7-83ae-e586c62c45c4.mp3", 
+    "works": [
+        {
+            "mbid": "99419e27-bf76-4e62-83a5-619296c4af62", 
+            "title": "Talat Eyler mi Diye Suy-i Ka\u011f\u0131thanede"
+        }
+    ]
+}

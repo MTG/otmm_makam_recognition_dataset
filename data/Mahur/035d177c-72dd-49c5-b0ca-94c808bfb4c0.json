@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6f541b78-0f49-41fe-83fa-fc9df92c5623", 
+            "title": "Musique de la Cour Ottomane- Enderun"
+        }
+    ], 
+    "title": "Mahur Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/035d177c-72dd-49c5-b0ca-94c808bfb4c0", 
+    "artist_credits": [
+        {
+            "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
+            "name": "Ensemble Ulvi Erguner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "035d177c-72dd-49c5-b0ca-94c808bfb4c0", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
+        }
+    ], 
+    "bit_rate": 320, 
+    "artists": [
+        {
+            "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
+            "type": "performing orchestra", 
+            "name": "Ensemble Ulvi Erguner"
+        }
+    ], 
+    "duration": 322, 
+    "path": "../data/Mahur/035d177c-72dd-49c5-b0ca-94c808bfb4c0.mp3", 
+    "works": [
+        {
+            "mbid": "12f98c6c-7547-4661-9e79-8bc4264eb3e4", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

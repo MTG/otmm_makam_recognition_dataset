@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b36bcb1a-00a4-43c4-b2de-317929ce2215"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Kanun Taksimi", 
+    "url": "http://musicbrainz.org/work/b36bcb1a-00a4-43c4-b2de-317929ce2215", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "mbid": "b36bcb1a-00a4-43c4-b2de-317929ce2215", 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "duration": 91, 
+    "path": "../data/Suzinak/b36bcb1a-00a4-43c4-b2de-317929ce2215.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b36bcb1a-00a4-43c4-b2de-317929ce2215"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/b36bcb1a-00a4-43c4-b2de-317929ce2215"
+        }
+    ]
+}

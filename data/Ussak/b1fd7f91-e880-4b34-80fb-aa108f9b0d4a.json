@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/b1fd7f91-e880-4b34-80fb-aa108f9b0d4a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "U\u015f\u015fak Gazel", 
+    "url": "http://musicbrainz.org/work/b1fd7f91-e880-4b34-80fb-aa108f9b0d4a", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b1fd7f91-e880-4b34-80fb-aa108f9b0d4a", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }, 
+        {
+            "mbid": "86c5c438-de64-47f1-8493-55ea44503199", 
+            "type": "vocal", 
+            "name": "Ya\u015far Okur"
+        }
+    ], 
+    "duration": 245, 
+    "path": "../data/Ussak/b1fd7f91-e880-4b34-80fb-aa108f9b0d4a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b1fd7f91-e880-4b34-80fb-aa108f9b0d4a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/b1fd7f91-e880-4b34-80fb-aa108f9b0d4a"
+        }
+    ]
+}

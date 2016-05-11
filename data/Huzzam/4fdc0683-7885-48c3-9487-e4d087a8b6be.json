@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2cb88ad5-2cc5-439c-a3a2-dbcccd07a62a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/4fdc0683-7885-48c3-9487-e4d087a8b6be"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/2cb88ad5-2cc5-439c-a3a2-dbcccd07a62a"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/4fdc0683-7885-48c3-9487-e4d087a8b6be"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "H\u00fczzam Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/4fdc0683-7885-48c3-9487-e4d087a8b6be", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "4fdc0683-7885-48c3-9487-e4d087a8b6be", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/2cb88ad5-2cc5-439c-a3a2-dbcccd07a62a"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/4fdc0683-7885-48c3-9487-e4d087a8b6be"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "duration": 161, 
+    "path": "../data/Huzzam/4fdc0683-7885-48c3-9487-e4d087a8b6be.mp3", 
+    "works": [
+        {
+            "mbid": "2cb88ad5-2cc5-439c-a3a2-dbcccd07a62a", 
+            "title": "H\u00fczzam Sazsemaisi"
+        }
+    ]
+}

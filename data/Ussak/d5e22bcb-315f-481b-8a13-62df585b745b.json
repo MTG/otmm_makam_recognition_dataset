@@ -1,0 +1,57 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/d5e22bcb-315f-481b-8a13-62df585b745b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9f0ba6d9-8f93-426c-ba2d-739ef5677873", 
+            "title": "Bestekarlar\u0131m\u0131z: 7 - \u015eevki Bey"
+        }
+    ], 
+    "title": "Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/d5e22bcb-315f-481b-8a13-62df585b745b", 
+    "artist_credits": [
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "name": "Ahmet \u00d6zhan"
+        }, 
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "d5e22bcb-315f-481b-8a13-62df585b745b", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "899e9591-4ba1-431e-91d4-418e0a06cb1b", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Serta\u00e7 Tezeren"
+        }
+    ], 
+    "duration": 120, 
+    "path": "../data/Ussak/d5e22bcb-315f-481b-8a13-62df585b745b.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d5e22bcb-315f-481b-8a13-62df585b745b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/d5e22bcb-315f-481b-8a13-62df585b745b"
+        }
+    ]
+}

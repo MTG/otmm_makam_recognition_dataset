@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ebe9ab18-d9a9-43f9-8ad1-69f53a333b71"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/1701ceba-bd5a-477e-b883-5dacac67da43"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/ebe9ab18-d9a9-43f9-8ad1-69f53a333b71"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/1701ceba-bd5a-477e-b883-5dacac67da43"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e7b541bb-259f-4a9a-941c-f970375f23c3", 
+            "title": "Rast"
+        }
+    ], 
+    "title": "Nihans\u0131n Dideden Ey Mest-i Naz\u0131m", 
+    "url": "http://musicbrainz.org/work/1701ceba-bd5a-477e-b883-5dacac67da43", 
+    "artist_credits": [
+        {
+            "mbid": "fc5118ba-8c27-4cb0-b369-99f4eeef09f0", 
+            "name": "Nurten Demirkol"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "1701ceba-bd5a-477e-b883-5dacac67da43", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ebe9ab18-d9a9-43f9-8ad1-69f53a333b71"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/1701ceba-bd5a-477e-b883-5dacac67da43"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "fc5118ba-8c27-4cb0-b369-99f4eeef09f0", 
+            "type": "vocal", 
+            "name": "Nurten Demirkol"
+        }
+    ], 
+    "duration": 204, 
+    "path": "../data/Rast/1701ceba-bd5a-477e-b883-5dacac67da43.mp3", 
+    "works": [
+        {
+            "mbid": "ebe9ab18-d9a9-43f9-8ad1-69f53a333b71", 
+            "title": "Nihans\u0131n Dideden Ey Mest-i Naz\u0131m"
+        }
+    ]
+}

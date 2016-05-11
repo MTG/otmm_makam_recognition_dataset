@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3f67cd2e-4e7c-452e-94ad-6d2231f4d344", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 2 (Mahur ve Evcara)"
+        }
+    ], 
+    "title": "Sarsam Miyan\u0131n Ey G\u00fcl-i Ter Yasemen Gibi", 
+    "url": "http://musicbrainz.org/work/c86c9666-f48b-4388-a1b3-488fd6980499", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c86c9666-f48b-4388-a1b3-488fd6980499", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 187, 
+    "path": "../data/Mahur/c86c9666-f48b-4388-a1b3-488fd6980499.mp3", 
+    "works": [
+        {
+            "mbid": "f5f2b640-4529-4e5f-98c8-11629c406227", 
+            "title": "Sarsam Miyan\u0131n"
+        }
+    ]
+}

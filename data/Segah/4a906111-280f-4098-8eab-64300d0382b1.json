@@ -1,0 +1,109 @@
+{
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3add495e-148f-4172-bfa3-2d7077cf4324", 
+            "title": "Sesleni\u015fler, Bekleyi\u015fler"
+        }
+    ], 
+    "title": "Keman Taksimi", 
+    "url": "http://musicbrainz.org/work/4a906111-280f-4098-8eab-64300d0382b1", 
+    "artist_credits": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "4a906111-280f-4098-8eab-64300d0382b1", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Sermet Kutlu\u011f"
+        }, 
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8c4eb972-21df-4274-9349-0f68fe2de8cd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Gamze Ege K\u00f6prek Y\u0131ld\u0131z"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "9e320a33-64b4-4a67-ae99-98679cdf8718", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "L\u00fctfiye \u00d6zer"
+        }, 
+        {
+            "mbid": "d78b0d8d-d207-4ceb-993d-c270caa478f3", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Seyhun \u00c7elik"
+        }, 
+        {
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Nuri \u00d6zpekel"
+        }
+    ], 
+    "duration": 119, 
+    "path": "../data/Segah/4a906111-280f-4098-8eab-64300d0382b1.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
+        }
+    ]
+}

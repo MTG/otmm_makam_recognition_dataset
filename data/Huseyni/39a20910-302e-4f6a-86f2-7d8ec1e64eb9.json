@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/03c2c728-6cab-42d1-907c-6be29455ce38"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/39a20910-302e-4f6a-86f2-7d8ec1e64eb9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/03c2c728-6cab-42d1-907c-6be29455ce38"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/39a20910-302e-4f6a-86f2-7d8ec1e64eb9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d0d92446-5d0d-448a-bb84-516119fa2b8e", 
+            "title": "Unutulmayan Bestecilerin Unutulmaz Eserleri - Semahat \u00d6zdenses"
+        }
+    ], 
+    "title": "Hem Cemalin G\u00f6sterip", 
+    "url": "http://musicbrainz.org/work/39a20910-302e-4f6a-86f2-7d8ec1e64eb9", 
+    "artist_credits": [
+        {
+            "mbid": "2398b010-95e9-4bd8-98a8-f18d2e42c0fb", 
+            "name": "Semahat \u00d6zdenses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "39a20910-302e-4f6a-86f2-7d8ec1e64eb9", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/03c2c728-6cab-42d1-907c-6be29455ce38"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/39a20910-302e-4f6a-86f2-7d8ec1e64eb9"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2398b010-95e9-4bd8-98a8-f18d2e42c0fb", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Semahat \u00d6zdenses"
+        }
+    ], 
+    "duration": 165, 
+    "path": "../data/Huseyni/39a20910-302e-4f6a-86f2-7d8ec1e64eb9.mp3", 
+    "works": [
+        {
+            "mbid": "03c2c728-6cab-42d1-907c-6be29455ce38", 
+            "title": "Hem Cemalin G\u00f6sterip"
+        }
+    ]
+}

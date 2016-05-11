@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d8540471-0f36-4ad6-b086-8b94a82b0b86", 
+            "title": "Pe\u015frevler, Semailer, Sirtolar"
+        }
+    ], 
+    "title": "Sultaniyegah Sirto", 
+    "url": "http://musicbrainz.org/work/7c675189-6414-4b8a-bf94-07efd306a241", 
+    "artist_credits": [
+        {
+            "mbid": "328f3817-0681-482a-aaec-19898db7bc22", 
+            "name": "Klasik T\u00fcrk M\u00fczi\u011fi Saz Heyeti"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "7c675189-6414-4b8a-bf94-07efd306a241", 
+    "form": [
+        {
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
+            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
+        }, 
+        {
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
+            "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "328f3817-0681-482a-aaec-19898db7bc22", 
+            "type": "performing orchestra", 
+            "name": "Klasik T\u00fcrk M\u00fczi\u011fi Saz Heyeti"
+        }
+    ], 
+    "duration": 194, 
+    "path": "../data/Sultaniyegah/7c675189-6414-4b8a-bf94-07efd306a241.mp3", 
+    "works": [
+        {
+            "mbid": "93b81188-622b-4b0e-8489-b80ee49a22c3", 
+            "title": "Sultaniyegah Sirto"
+        }
+    ]
+}

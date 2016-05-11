@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "Geldin Geri Gider Misin", 
+    "url": "http://musicbrainz.org/work/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c3d49124-2f0c-482c-abfc-6a3bff1dbbcb", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 141, 
+    "path": "../data/Acemasiran/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb.mp3", 
+    "works": [
+        {
+            "mbid": "3bb19d54-1c13-4f52-bee0-a9f183037383", 
+            "title": "Geldin Geri Gider Misin"
+        }
+    ]
+}

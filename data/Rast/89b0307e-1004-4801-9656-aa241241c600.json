@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "68b016fe-03ac-430f-b969-7a53e485841f", 
+            "title": "A\u015fk ile"
+        }
+    ], 
+    "title": "Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/89b0307e-1004-4801-9656-aa241241c600", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "89b0307e-1004-4801-9656-aa241241c600", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 157, 
+    "path": "../data/Rast/89b0307e-1004-4801-9656-aa241241c600.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
+        }
+    ]
+}

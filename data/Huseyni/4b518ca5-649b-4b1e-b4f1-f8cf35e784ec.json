@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/40c3fae1-0a1a-45d9-a62b-cc6ff17df67f"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/40c3fae1-0a1a-45d9-a62b-cc6ff17df67f"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "Bing\u00f6l'den S\u00fcz\u00fcl\u00fcrs\u00fcn (F\u0131rat)", 
+    "url": "http://musicbrainz.org/work/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "4b518ca5-649b-4b1e-b4f1-f8cf35e784ec", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/40c3fae1-0a1a-45d9-a62b-cc6ff17df67f"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 250, 
+    "path": "../data/Huseyni/4b518ca5-649b-4b1e-b4f1-f8cf35e784ec.mp3", 
+    "works": [
+        {
+            "mbid": "40c3fae1-0a1a-45d9-a62b-cc6ff17df67f", 
+            "title": "Bing\u00f6l'den S\u00fcz\u00fcl\u00fcrs\u00fcn"
+        }
+    ]
+}

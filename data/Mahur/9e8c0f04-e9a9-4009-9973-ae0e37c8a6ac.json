@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Mahur Saz Semai (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 243, 
+    "path": "../data/Mahur/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac.mp3", 
+    "works": [
+        {
+            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

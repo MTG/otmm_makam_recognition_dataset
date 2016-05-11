@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/a540b3b2-5e3a-4086-866a-b69d6607ee69"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "Viyolonsel ile H\u00fcseyni Taksim", 
+    "url": "http://musicbrainz.org/work/a540b3b2-5e3a-4086-866a-b69d6607ee69", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "a540b3b2-5e3a-4086-866a-b69d6607ee69", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Huseyni/a540b3b2-5e3a-4086-866a-b69d6607ee69.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a540b3b2-5e3a-4086-866a-b69d6607ee69"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/a540b3b2-5e3a-4086-866a-b69d6607ee69"
+        }
+    ]
+}

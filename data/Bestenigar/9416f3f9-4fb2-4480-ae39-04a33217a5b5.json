@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/9416f3f9-4fb2-4480-ae39-04a33217a5b5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ac450f9d-f97e-4213-bca6-5130e45ef455", 
+            "title": "Anatolia: A. Meragi - M. Itri"
+        }
+    ], 
+    "title": "Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/9416f3f9-4fb2-4480-ae39-04a33217a5b5", 
+    "artist_credits": [
+        {
+            "mbid": "b1e00ce8-97e0-4173-8e93-cfa7f3d3ea56", 
+            "name": "Anatolia"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "9416f3f9-4fb2-4480-ae39-04a33217a5b5", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Neva \u00d6zgen"
+        }
+    ], 
+    "duration": 56, 
+    "path": "../data/Bestenigar/9416f3f9-4fb2-4480-ae39-04a33217a5b5.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9416f3f9-4fb2-4480-ae39-04a33217a5b5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/9416f3f9-4fb2-4480-ae39-04a33217a5b5"
+        }
+    ]
+}

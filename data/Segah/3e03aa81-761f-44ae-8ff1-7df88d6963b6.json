@@ -1,0 +1,59 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "f19fa9e0-d7e6-40ef-8ea3-3610a13e44cd", 
+            "title": "Ar\u015fiv Serisi - Gazeller II"
+        }
+    ], 
+    "title": "Kalbim Zemini A\u015fk", 
+    "url": "http://musicbrainz.org/work/3e03aa81-761f-44ae-8ff1-7df88d6963b6", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "3e03aa81-761f-44ae-8ff1-7df88d6963b6", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 209, 
+    "path": "../data/Segah/3e03aa81-761f-44ae-8ff1-7df88d6963b6.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
+        }
+    ]
+}

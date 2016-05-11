@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2f187fa9-a394-406a-bc84-8e7c9ac9a930"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/abd42697-231d-4c1a-8e9c-4cbae427cf7e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
+            "source": "http://musicbrainz.org/work/2f187fa9-a394-406a-bc84-8e7c9ac9a930"
+        }, 
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/abd42697-231d-4c1a-8e9c-4cbae427cf7e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "cbbfd68e-1247-4042-aae9-ce8112f8973a", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 13"
+        }
+    ], 
+    "title": "Nerdesin Sinemde Ate\u015f Ufku Sard\u0131 Mahitab", 
+    "url": "http://musicbrainz.org/work/abd42697-231d-4c1a-8e9c-4cbae427cf7e", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "abd42697-231d-4c1a-8e9c-4cbae427cf7e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/2f187fa9-a394-406a-bc84-8e7c9ac9a930"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/abd42697-231d-4c1a-8e9c-4cbae427cf7e"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 90, 
+    "path": "../data/Suzinak/abd42697-231d-4c1a-8e9c-4cbae427cf7e.mp3", 
+    "works": [
+        {
+            "mbid": "2f187fa9-a394-406a-bc84-8e7c9ac9a930", 
+            "title": "Nerdesin Sinemde Ate\u015f"
+        }
+    ]
+}

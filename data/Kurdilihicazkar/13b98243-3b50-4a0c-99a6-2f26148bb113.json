@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "G\u00fcl Y\u00fcz\u00fcnde G\u00fcller Solsa A\u011flar\u0131m", 
+    "url": "http://musicbrainz.org/work/13b98243-3b50-4a0c-99a6-2f26148bb113", 
+    "artist_credits": [
+        {
+            "mbid": "af9e2a73-7d4c-4b4b-8edd-4ddab4eee132", 
+            "name": "G\u00fcler Basu \u015een"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "13b98243-3b50-4a0c-99a6-2f26148bb113", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "af9e2a73-7d4c-4b4b-8edd-4ddab4eee132", 
+            "type": "vocal", 
+            "name": "G\u00fcler Basu \u015een"
+        }
+    ], 
+    "duration": 266, 
+    "path": "../data/Kurdilihicazkar/13b98243-3b50-4a0c-99a6-2f26148bb113.mp3", 
+    "works": [
+        {
+            "mbid": "6b134312-4128-41f3-9be1-5f286f950deb", 
+            "title": "G\u00fcl Y\u00fcz\u00fcnde G\u00fcller Solsa A\u011flar\u0131m"
+        }
+    ]
+}

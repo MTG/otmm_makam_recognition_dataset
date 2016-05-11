@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a814bb45-87af-4326-8560-877e38ca3f37", 
+            "title": "Sadettin Kaynak \u015eark\u0131lar\u0131"
+        }
+    ], 
+    "title": "Peri\u015fan \u00d6mr\u00fcm\u00fcn Ne\u015fesi S\u00f6nd\u00fc", 
+    "url": "http://musicbrainz.org/work/367fa893-1ae2-4aa1-8b1a-0774b424e628", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "367fa893-1ae2-4aa1-8b1a-0774b424e628", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 282, 
+    "path": "../data/Ussak/367fa893-1ae2-4aa1-8b1a-0774b424e628.mp3", 
+    "works": [
+        {
+            "mbid": "a75c0817-0d59-4823-ab35-13bc02e5554b", 
+            "title": "Peri\u015fan \u00d6mr\u00fcm\u00fcn Ne\u015fesi S\u00f6nd\u00fc"
+        }
+    ]
+}

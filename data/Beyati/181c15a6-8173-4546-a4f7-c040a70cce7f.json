@@ -1,0 +1,108 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/181c15a6-8173-4546-a4f7-c040a70cce7f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b1ca811c-863d-4c27-b9f1-e3d4bbf2bca3", 
+            "title": "Sazende Fasl\u0131 1"
+        }
+    ], 
+    "title": "Bayati Saat Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/181c15a6-8173-4546-a4f7-c040a70cce7f", 
+    "artist_credits": [
+        {
+            "mbid": "7a39ab7b-9240-43d2-9d6b-5b35b54d0e67", 
+            "name": "\u0130stanbul Sazendeleri"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "181c15a6-8173-4546-a4f7-c040a70cce7f", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/181c15a6-8173-4546-a4f7-c040a70cce7f"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "3bac5ae0-59ef-45e3-a352-11bf7ba6b53a", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6ksel Baktagir"
+        }, 
+        {
+            "mbid": "4105a8bf-11f0-47ce-b2e9-ee522bf0e915", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Emrullah \u015eeng\u00fcler"
+        }, 
+        {
+            "mbid": "53c8a89a-3f75-40cb-b701-03fe3eef5f23", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Selim G\u00fcler"
+        }, 
+        {
+            "mbid": "7a39ab7b-9240-43d2-9d6b-5b35b54d0e67", 
+            "type": "performing orchestra", 
+            "name": "\u0130stanbul Sazendeleri"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8a6ab24f-6849-40b7-92fa-03d23280e014", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "\u00dcmit Atalay"
+        }, 
+        {
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Yurdal Tokcan"
+        }
+    ], 
+    "duration": 322, 
+    "path": "../data/Beyati/181c15a6-8173-4546-a4f7-c040a70cce7f.mp3", 
+    "works": [
+        {
+            "mbid": "edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d", 
+            "title": "Bayati Saat Pe\u015frevi"
+        }
+    ]
+}

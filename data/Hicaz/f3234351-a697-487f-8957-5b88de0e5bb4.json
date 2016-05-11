@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz_uzzal", 
+            "mb_attribute": "Hicaz Uzzal", 
+            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbe5e02d-024c-465f-b438-cefba565f5c8", 
+            "title": "Enginde Yava\u015f Yava\u015f"
+        }
+    ], 
+    "title": "Kurdu Meclis A\u015f\u0131kan Meyhanede", 
+    "url": "http://musicbrainz.org/work/f3234351-a697-487f-8957-5b88de0e5bb4", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "f3234351-a697-487f-8957-5b88de0e5bb4", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
+        }
+    ], 
+    "bit_rate": 320, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 130, 
+    "path": "../data/Hicaz/f3234351-a697-487f-8957-5b88de0e5bb4.mp3", 
+    "works": [
+        {
+            "mbid": "d691b344-090e-4f4f-af79-84b5afc5e04a", 
+            "title": "Kurdu Meclis A\u015f\u0131kan Meyhanede"
+        }
+    ]
+}

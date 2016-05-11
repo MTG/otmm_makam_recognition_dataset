@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "Yok Ba\u015fka Yerin L\u00fctfu Ne Yazdan Ne de K\u0131\u015ftan", 
+    "url": "http://musicbrainz.org/work/27363779-acc7-43b4-9042-fc00ca7eb5fa", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "27363779-acc7-43b4-9042-fc00ca7eb5fa", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 205, 
+    "path": "../data/Nihavent/27363779-acc7-43b4-9042-fc00ca7eb5fa.mp3", 
+    "works": [
+        {
+            "mbid": "9314909a-0b7b-3b85-8f44-de00054cef87", 
+            "title": "Yok Ba\u015fka Yerin L\u00fctfu"
+        }
+    ]
+}

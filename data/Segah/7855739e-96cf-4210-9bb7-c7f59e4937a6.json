@@ -1,0 +1,90 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/7855739e-96cf-4210-9bb7-c7f59e4937a6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/7855739e-96cf-4210-9bb7-c7f59e4937a6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ff264134-5dc5-4922-8089-276bb3f00090", 
+            "title": "Segah \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "Segah Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/7855739e-96cf-4210-9bb7-c7f59e4937a6", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "7855739e-96cf-4210-9bb7-c7f59e4937a6", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/7855739e-96cf-4210-9bb7-c7f59e4937a6"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 299, 
+    "path": "../data/Segah/7855739e-96cf-4210-9bb7-c7f59e4937a6.mp3", 
+    "works": [
+        {
+            "mbid": "556f33eb-d503-4211-ac91-b8c6ec2bf78e", 
+            "title": "Bensiz Ey G\u00fcl G\u00fcl\u015fen-i Alemde Mey Nu\u015f Eyleme"
+        }, 
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ]
+}

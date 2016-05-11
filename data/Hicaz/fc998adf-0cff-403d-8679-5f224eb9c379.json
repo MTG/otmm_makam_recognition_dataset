@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "933a4ccf-ddda-4bd3-98e5-660634005054", 
+            "title": "Rum Bestek\u00e2rlar"
+        }
+    ], 
+    "title": "\u0130ltifat\u0131n \u00c7ok \u0130nayettir Bana", 
+    "url": "http://musicbrainz.org/work/fc998adf-0cff-403d-8679-5f224eb9c379", 
+    "artist_credits": [
+        {
+            "mbid": "848cfeeb-0d8f-4b8b-9cb8-c735ef08a4d2", 
+            "name": "G\u00fclnaz Ataman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "fc998adf-0cff-403d-8679-5f224eb9c379", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "848cfeeb-0d8f-4b8b-9cb8-c735ef08a4d2", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "G\u00fclnaz Ataman"
+        }
+    ], 
+    "duration": 152, 
+    "path": "../data/Hicaz/fc998adf-0cff-403d-8679-5f224eb9c379.mp3", 
+    "works": [
+        {
+            "mbid": "10f00516-e6be-47fa-8aba-28c2bd1bed6b", 
+            "title": "\u0130ltifat\u0131n \u00c7ok \u0130nayettir Bana"
+        }
+    ]
+}

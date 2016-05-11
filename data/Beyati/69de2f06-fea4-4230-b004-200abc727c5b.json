@@ -1,0 +1,109 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3310f52d-0eda-40d0-b937-e79589fe61c3", 
+            "title": "Bayati"
+        }, 
+        {
+            "mbid": "d2600940-16cc-43ba-a712-40952ff66573", 
+            "title": "Lalezar - Music Of The Sultans, Sufis & Seraglio, Volume 4 - Ottoman Suite"
+        }
+    ], 
+    "title": "Bir Katre \u0130\u00e7in", 
+    "url": "http://musicbrainz.org/work/69de2f06-fea4-4230-b004-200abc727c5b", 
+    "artist_credits": [
+        {
+            "mbid": "e71e29ab-8432-4d4b-ac10-324876534275", 
+            "name": "Lalezar"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "69de2f06-fea4-4230-b004-200abc727c5b", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
+            "type": "vocal", 
+            "name": "Selma Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "duration": 236, 
+    "path": "../data/Beyati/69de2f06-fea4-4230-b004-200abc727c5b.mp3", 
+    "works": [
+        {
+            "mbid": "76549e37-b93d-47b0-abb5-85b6a163a745", 
+            "title": "Bir Katre \u0130\u00e7en \u00c7e\u015fm-i P\u00fcrhun-i Fenadan"
+        }
+    ]
+}

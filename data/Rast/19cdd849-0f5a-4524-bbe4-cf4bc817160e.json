@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/19cdd849-0f5a-4524-bbe4-cf4bc817160e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "13d7ec34-3b52-4839-9145-f6b2a1ef9952", 
+            "title": "Sultan Bestekarlar"
+        }
+    ], 
+    "title": "Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/19cdd849-0f5a-4524-bbe4-cf4bc817160e", 
+    "artist_credits": [
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "19cdd849-0f5a-4524-bbe4-cf4bc817160e", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "duration": 74, 
+    "path": "../data/Rast/19cdd849-0f5a-4524-bbe4-cf4bc817160e.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/19cdd849-0f5a-4524-bbe4-cf4bc817160e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/19cdd849-0f5a-4524-bbe4-cf4bc817160e"
+        }
+    ]
+}

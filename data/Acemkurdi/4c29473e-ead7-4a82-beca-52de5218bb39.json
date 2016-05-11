@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimevsat", 
+            "mb_attribute": "Nimevsat", 
+            "source": "http://musicbrainz.org/work/b7ce64e9-261b-4f83-b9da-55c0c7c96eb9"
+        }, 
+        {
+            "attribute_key": "nimevsat", 
+            "mb_tag": "nimevsat", 
+            "source": "http://musicbrainz.org/recording/4c29473e-ead7-4a82-beca-52de5218bb39"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/b7ce64e9-261b-4f83-b9da-55c0c7c96eb9"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/4c29473e-ead7-4a82-beca-52de5218bb39"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "Nur \u0130le Doldu Yine Kevn u Mekan", 
+    "url": "http://musicbrainz.org/work/4c29473e-ead7-4a82-beca-52de5218bb39", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "4c29473e-ead7-4a82-beca-52de5218bb39", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/b7ce64e9-261b-4f83-b9da-55c0c7c96eb9"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/4c29473e-ead7-4a82-beca-52de5218bb39"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 96, 
+    "path": "../data/Acemkurdi/4c29473e-ead7-4a82-beca-52de5218bb39.mp3", 
+    "works": [
+        {
+            "mbid": "b7ce64e9-261b-4f83-b9da-55c0c7c96eb9", 
+            "title": "Nur \u0130le Doldu Yine"
+        }
+    ]
+}

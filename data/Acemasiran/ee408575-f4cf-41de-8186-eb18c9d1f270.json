@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ee408575-f4cf-41de-8186-eb18c9d1f270"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c918f46-420f-45e9-8ef4-3176a67a356a", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ney"
+        }
+    ], 
+    "title": "Acema\u015firan Taksim", 
+    "url": "http://musicbrainz.org/work/ee408575-f4cf-41de-8186-eb18c9d1f270", 
+    "artist_credits": [
+        {
+            "mbid": "a6b7528a-ee03-4e93-8e24-5499d80a6665", 
+            "name": "Fuat T\u00fcrkelman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ee408575-f4cf-41de-8186-eb18c9d1f270", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "a6b7528a-ee03-4e93-8e24-5499d80a6665", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Fuat T\u00fcrkelman"
+        }
+    ], 
+    "duration": 295, 
+    "path": "../data/Acemasiran/ee408575-f4cf-41de-8186-eb18c9d1f270.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ee408575-f4cf-41de-8186-eb18c9d1f270"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/ee408575-f4cf-41de-8186-eb18c9d1f270"
+        }
+    ]
+}

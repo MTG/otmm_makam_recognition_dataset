@@ -1,0 +1,223 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "19a78bb0-438c-407d-a7e0-a376f9e0fdd1", 
+            "title": "Dar\u00fc\u015f-\u015fifa Music of the Ottoman Empire"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi Saz Semai", 
+    "url": "http://musicbrainz.org/work/ff5fd45a-b211-4e22-948b-631367777e48", 
+    "artist_credits": [
+        {
+            "mbid": "c4727690-41bb-453b-947d-5ac82a477100", 
+            "name": "Erkan Dedeo\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "ff5fd45a-b211-4e22-948b-631367777e48", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1bbfb4be-4d64-4fa4-ad0f-71ad0787ba30", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "Re\u015fat \u015eenyaylar"
+        }, 
+        {
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131"
+        }, 
+        {
+            "mbid": "4d3ff01d-71c1-4c1c-9a44-4e4448cfb9f8", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer Arkun"
+        }, 
+        {
+            "mbid": "4d48dadb-641b-43d8-97e1-f11704aaad64", 
+            "type": "instrument", 
+            "name": "\u00d6zcan B\u00fcy\u00fck"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "6e8cf794-ad83-4015-8f50-3c4c75083fff", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Oktay Dedeo\u011flu"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "tef"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "zill"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "c4727690-41bb-453b-947d-5ac82a477100", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Erkan Dedeo\u011flu"
+        }, 
+        {
+            "mbid": "cbbeca92-343e-43e0-82cc-9193445e14ee", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eennur G\u00fczelel"
+        }, 
+        {
+            "mbid": "cdb989b5-6c10-4a9f-9788-fc47e3a4733c", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130brahim \u015eent\u00fcrker"
+        }, 
+        {
+            "mbid": "cdc69411-25f2-4fe3-88e5-41da2b8c474b", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u015eenyaylar"
+        }, 
+        {
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Yurdal Tokcan"
+        }, 
+        {
+            "mbid": "da15d351-a427-4183-9897-cf1026b4b9b6", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130lyas Tetik"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }, 
+        {
+            "mbid": "dff6b05e-8dcf-4d4f-9a72-e2c8c960e98f", 
+            "attribute-list": [
+                "darbuka"
+            ], 
+            "type": "instrument", 
+            "name": "Adnan Kisa\u00e7"
+        }, 
+        {
+            "mbid": "dff6b05e-8dcf-4d4f-9a72-e2c8c960e98f", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Adnan Kisa\u00e7"
+        }, 
+        {
+            "mbid": "ec6ed4c6-d7e4-4911-9234-30720f72abc8", 
+            "attribute-list": [
+                "strings"
+            ], 
+            "type": "instrument", 
+            "name": "Timur \u015eenyaylar"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "duration": 248, 
+    "path": "../data/Acemkurdi/ff5fd45a-b211-4e22-948b-631367777e48.mp3", 
+    "works": [
+        {
+            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ]
+}

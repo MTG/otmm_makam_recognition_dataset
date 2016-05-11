@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f8f2094c-dc34-4570-a31c-c4e85d2206e3", 
+            "title": "Radyo G\u00fcnleri 1: Zeki M\u00fcren ile Ba\u015fba\u015fa"
+        }
+    ], 
+    "title": "Ne Sevincin \u00d6mr\u00fc Varm\u0131\u015f", 
+    "url": "http://musicbrainz.org/work/c892812d-cc86-4d1c-a344-a4c6e775c039", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "c892812d-cc86-4d1c-a344-a4c6e775c039", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 154, 
+    "path": "../data/Rast/c892812d-cc86-4d1c-a344-a4c6e775c039.mp3", 
+    "works": [
+        {
+            "mbid": "9acc6774-439e-4e13-9c0a-7a74355f6cbc", 
+            "title": "Ne Sevincin \u00d6mr\u00fc Varm\u0131\u015f"
+        }
+    ]
+}

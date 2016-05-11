@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f51ef91d-4680-4652-8e8f-ce234e5c26e0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/f51ef91d-4680-4652-8e8f-ce234e5c26e0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "212450ff-da1e-4967-85de-5b841675da83", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Ud"
+        }
+    ], 
+    "title": "Muhayyer Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/f51ef91d-4680-4652-8e8f-ce234e5c26e0", 
+    "artist_credits": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "f51ef91d-4680-4652-8e8f-ce234e5c26e0", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/f51ef91d-4680-4652-8e8f-ce234e5c26e0"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Enver Mete Aslan"
+        }
+    ], 
+    "duration": 332, 
+    "path": "../data/Muhayyer/f51ef91d-4680-4652-8e8f-ce234e5c26e0.mp3", 
+    "works": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

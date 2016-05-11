@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/bda632cd-ddf5-4e3e-9175-d71ecd2abc15"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/1c1a1689-170b-498e-9f94-d2d806f1d939"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/bda632cd-ddf5-4e3e-9175-d71ecd2abc15"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/1c1a1689-170b-498e-9f94-d2d806f1d939"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "Ne Yapt\u0131m Kendimi Nas\u0131l Aldatt\u0131m", 
+    "url": "http://musicbrainz.org/work/1c1a1689-170b-498e-9f94-d2d806f1d939", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "1c1a1689-170b-498e-9f94-d2d806f1d939", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bda632cd-ddf5-4e3e-9175-d71ecd2abc15"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/1c1a1689-170b-498e-9f94-d2d806f1d939"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 208, 
+    "path": "../data/Ussak/1c1a1689-170b-498e-9f94-d2d806f1d939.mp3", 
+    "works": [
+        {
+            "mbid": "bda632cd-ddf5-4e3e-9175-d71ecd2abc15", 
+            "title": "Ne Yapt\u0131m Kendimi Nas\u0131l Aldatt\u0131m"
+        }
+    ]
+}

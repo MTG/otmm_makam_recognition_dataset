@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/5f2b7c4c-a4d7-4872-a17f-2727cd404efa"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Derdime Vak\u0131f De\u011fil Canan Beni Handan Bilir", 
+    "url": "http://musicbrainz.org/work/5f2b7c4c-a4d7-4872-a17f-2727cd404efa", 
+    "artist_credits": [
+        {
+            "mbid": "75839ef8-3a89-4d33-b618-c0f7ad213015", 
+            "name": "Haf\u0131z Sami"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5f2b7c4c-a4d7-4872-a17f-2727cd404efa", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "757a82e2-feca-4a94-bca7-335aff6d4474", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemani Memduh Efendi"
+        }, 
+        {
+            "mbid": "75839ef8-3a89-4d33-b618-c0f7ad213015", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Sami"
+        }
+    ], 
+    "duration": 152, 
+    "path": "../data/Hicazkar/5f2b7c4c-a4d7-4872-a17f-2727cd404efa.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5f2b7c4c-a4d7-4872-a17f-2727cd404efa"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/5f2b7c4c-a4d7-4872-a17f-2727cd404efa"
+        }
+    ]
+}

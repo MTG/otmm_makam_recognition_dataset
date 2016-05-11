@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/24e2d3b6-070d-418a-8dac-5cac66976eff"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "\u00c7ok Mudur Seyr-i Dil-a\u015fubuna Can Verse Cihan", 
+    "url": "http://musicbrainz.org/work/24e2d3b6-070d-418a-8dac-5cac66976eff", 
+    "artist_credits": [
+        {
+            "mbid": "3b57c5a0-51a6-4291-b93e-9086e56b9982", 
+            "name": "Vasfi R\u0131za Zobu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "24e2d3b6-070d-418a-8dac-5cac66976eff", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "3b57c5a0-51a6-4291-b93e-9086e56b9982", 
+            "type": "vocal", 
+            "name": "Vasfi R\u0131za Zobu"
+        }, 
+        {
+            "mbid": "e3aa2c81-476b-4bee-b835-94c0c208de09", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmed Fahri Kopuz"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Hicaz/24e2d3b6-070d-418a-8dac-5cac66976eff.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/24e2d3b6-070d-418a-8dac-5cac66976eff"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/24e2d3b6-070d-418a-8dac-5cac66976eff"
+        }
+    ]
+}

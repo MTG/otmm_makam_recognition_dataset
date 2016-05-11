@@ -1,0 +1,90 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c0af7cc9-af66-4115-94de-7255cf1a44b2"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/c0af7cc9-af66-4115-94de-7255cf1a44b2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "906fbc02-b66f-4fd7-858a-55774846d184", 
+            "title": "\u00dcstad'lardan Saz Eserleri ve Taksimler, Volume II"
+        }
+    ], 
+    "title": "Sultaniyegah Saz Semaisi", 
+    "url": "http://musicbrainz.org/work/c0af7cc9-af66-4115-94de-7255cf1a44b2", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "c0af7cc9-af66-4115-94de-7255cf1a44b2", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/c0af7cc9-af66-4115-94de-7255cf1a44b2"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 191, 
+    "path": "../data/Sultaniyegah/c0af7cc9-af66-4115-94de-7255cf1a44b2.mp3", 
+    "works": [
+        {
+            "mbid": "ecf1b766-6d29-4d13-9fc8-4c02c38d4263", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/61c4c9a4-351a-4169-ab14-133ec3452adf"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/61c4c9a4-351a-4169-ab14-133ec3452adf"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2e8e09e0-d85d-4699-9d73-551a6bebd289", 
+            "title": "Eski Devir Bah\u00e7eleri"
+        }
+    ], 
+    "title": "Nihan Ettim Seni Sinemde Ey Meh-pare", 
+    "url": "http://musicbrainz.org/work/61c4c9a4-351a-4169-ab14-133ec3452adf", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "61c4c9a4-351a-4169-ab14-133ec3452adf", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/61c4c9a4-351a-4169-ab14-133ec3452adf"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 255, 
+    "path": "../data/Sultaniyegah/61c4c9a4-351a-4169-ab14-133ec3452adf.mp3", 
+    "works": [
+        {
+            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
+            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+        }
+    ]
+}

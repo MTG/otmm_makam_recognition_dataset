@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4a89cd3c-08c7-472f-8c26-115e53c80bdf", 
+            "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r"
+        }
+    ], 
+    "title": "Izmir'in \u0130\u00e7inde", 
+    "url": "http://musicbrainz.org/work/c935dc34-524b-418d-8e3f-f92d33c6c3d6", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c935dc34-524b-418d-8e3f-f92d33c6c3d6", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 237, 
+    "path": "../data/Hicazkar/c935dc34-524b-418d-8e3f-f92d33c6c3d6.mp3", 
+    "works": [
+        {
+            "mbid": "c42b0d60-24bb-4148-ad57-676a09997fe6", 
+            "title": "\u0130zmir'in \u0130\u00e7inde"
+        }
+    ]
+}

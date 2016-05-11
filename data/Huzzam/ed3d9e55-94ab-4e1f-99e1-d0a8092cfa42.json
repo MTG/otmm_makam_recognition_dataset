@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9f8a4b9c-8617-4dba-a4e3-090ffbad5418"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/9f8a4b9c-8617-4dba-a4e3-090ffbad5418"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3a4e3bd0-ed13-4945-8cd3-201497263329", 
+            "title": "Yusuf Nalkesen"
+        }
+    ], 
+    "title": "Kendini Bulursun", 
+    "url": "http://musicbrainz.org/work/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42", 
+    "artist_credits": [
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9f8a4b9c-8617-4dba-a4e3-090ffbad5418"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "type": "vocal", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "duration": 226, 
+    "path": "../data/Huzzam/ed3d9e55-94ab-4e1f-99e1-d0a8092cfa42.mp3", 
+    "works": [
+        {
+            "mbid": "9f8a4b9c-8617-4dba-a4e3-090ffbad5418", 
+            "title": "Kendini Bulursun"
+        }
+    ]
+}

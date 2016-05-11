@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbe5e02d-024c-465f-b438-cefba565f5c8", 
+            "title": "Enginde Yava\u015f Yava\u015f"
+        }
+    ], 
+    "title": "Ne Do\u011fan Sabah G\u00fcne\u015fi Ne de G\u00fcl\u00fcn Penbe Rengi", 
+    "url": "http://musicbrainz.org/work/4ab05c37-d96e-479f-8aad-c36b138b852f", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "4ab05c37-d96e-479f-8aad-c36b138b852f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
+        }
+    ], 
+    "bit_rate": 320, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 240, 
+    "path": "../data/Nihavent/4ab05c37-d96e-479f-8aad-c36b138b852f.mp3", 
+    "works": [
+        {
+            "mbid": "7730b7e5-8c2a-4df7-934c-4f67a3e2e38d", 
+            "title": "Ne Do\u011fan Sabah G\u00fcne\u015fi"
+        }
+    ]
+}

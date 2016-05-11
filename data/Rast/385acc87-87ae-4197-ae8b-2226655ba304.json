@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/19180bc4-3665-4e53-9207-e0514234e1c3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/385acc87-87ae-4197-ae8b-2226655ba304"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
+            "source": "http://musicbrainz.org/work/19180bc4-3665-4e53-9207-e0514234e1c3"
+        }, 
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/385acc87-87ae-4197-ae8b-2226655ba304"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6add5018-3c05-46f0-a982-9ea57b8bce36", 
+            "title": "Sizden Biri"
+        }
+    ], 
+    "title": "A\u015fk Denilen Ate\u015fe Yanal\u0131m M\u0131", 
+    "url": "http://musicbrainz.org/work/385acc87-87ae-4197-ae8b-2226655ba304", 
+    "artist_credits": [
+        {
+            "mbid": "d6656042-538c-4a7d-be75-dd2f691493ae", 
+            "name": "Nazan S\u0131vac\u0131"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "385acc87-87ae-4197-ae8b-2226655ba304", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/19180bc4-3665-4e53-9207-e0514234e1c3"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/385acc87-87ae-4197-ae8b-2226655ba304"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "d6656042-538c-4a7d-be75-dd2f691493ae", 
+            "type": "vocal", 
+            "name": "Nazan S\u0131vac\u0131"
+        }
+    ], 
+    "duration": 159, 
+    "path": "../data/Rast/385acc87-87ae-4197-ae8b-2226655ba304.mp3", 
+    "works": [
+        {
+            "mbid": "19180bc4-3665-4e53-9207-e0514234e1c3", 
+            "title": "A\u015fk Denilen Ate\u015fe Yanal\u0131m M\u0131"
+        }
+    ]
+}

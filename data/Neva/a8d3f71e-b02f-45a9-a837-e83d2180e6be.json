@@ -1,0 +1,66 @@
+{
+    "usul": [
+        {
+            "attribute_key": "cengiharbi", 
+            "mb_attribute": "\u00c7eng-i Harbi", 
+            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+        }, 
+        {
+            "attribute_key": "cengiharbi", 
+            "mb_tag": "\u00e7eng-i harbi", 
+            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c71cc012-3fd1-426c-887b-1700dce077c6", 
+            "title": "Tarihi \u0130slam Eserleri"
+        }
+    ], 
+    "title": "Neva \u00c7eng-i Harbi (1. B\u00f6l\u00fcm)", 
+    "url": "http://musicbrainz.org/work/a8d3f71e-b02f-45a9-a837-e83d2180e6be", 
+    "artist_credits": [
+        {
+            "mbid": "6413aad7-5e51-4f46-86b2-861cead47c08", 
+            "name": "Sarband"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "a8d3f71e-b02f-45a9-a837-e83d2180e6be", 
+    "form": [
+        {
+            "attribute_key": "mehter", 
+            "mb_attribute": "Mehter", 
+            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "6413aad7-5e51-4f46-86b2-861cead47c08", 
+            "type": "performing orchestra", 
+            "name": "Sarband"
+        }
+    ], 
+    "duration": 144, 
+    "path": "../data/Neva/a8d3f71e-b02f-45a9-a837-e83d2180e6be.mp3", 
+    "works": [
+        {
+            "mbid": "68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1", 
+            "title": "Neva \u00c7eng-i Harbi"
+        }
+    ]
+}

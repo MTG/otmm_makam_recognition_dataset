@@ -1,0 +1,119 @@
+{
+    "usul": [
+        {
+            "attribute_key": "darbifetih", 
+            "mb_attribute": "Darb-\u0131 Fetih", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "darbifetih", 
+            "mb_tag": "darb-\u0131 fetih", 
+            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ac450f9d-f97e-4213-bca6-5130e45ef455", 
+            "title": "Anatolia: A. Meragi - M. Itri"
+        }
+    ], 
+    "title": "Bestenigar Beste", 
+    "url": "http://musicbrainz.org/work/10e4566b-b291-484b-b544-ebdc87621bcf", 
+    "artist_credits": [
+        {
+            "mbid": "b1e00ce8-97e0-4173-8e93-cfa7f3d3ea56", 
+            "name": "Anatolia"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "10e4566b-b291-484b-b544-ebdc87621bcf", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "187c8edf-7924-47c9-9503-ba1ff3e17aa1", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Yelda \u00d6zgen"
+        }, 
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "type": "vocal", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "3c555d1c-e392-4bd5-abf2-a638a9712f03", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kaya"
+        }, 
+        {
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Neva \u00d6zgen"
+        }, 
+        {
+            "mbid": "d1553ce6-8749-4b15-b598-f9d4684719e8", 
+            "attribute-list": [
+                "rebab"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Refik Kaya"
+        }, 
+        {
+            "mbid": "d1553ce6-8749-4b15-b598-f9d4684719e8", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Refik Kaya"
+        }
+    ], 
+    "duration": 274, 
+    "path": "../data/Bestenigar/10e4566b-b291-484b-b544-ebdc87621bcf.mp3", 
+    "works": [
+        {
+            "mbid": "98e04d11-0dee-4aab-a39a-50928158eb59", 
+            "title": "Gamzen Ki Ola Saki"
+        }
+    ]
+}

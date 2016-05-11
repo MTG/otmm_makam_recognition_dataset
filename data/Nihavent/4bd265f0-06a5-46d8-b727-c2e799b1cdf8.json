@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bdd3a02f-d1f4-40e4-a1ea-bbb2ad91e6e8", 
+            "title": "Nihavent \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "Uyur Daim Uyanmazd\u0131 Benim Baht-\u0131 Siyehkar\u0131m", 
+    "url": "http://musicbrainz.org/work/4bd265f0-06a5-46d8-b727-c2e799b1cdf8", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "4bd265f0-06a5-46d8-b727-c2e799b1cdf8", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 181, 
+    "path": "../data/Nihavent/4bd265f0-06a5-46d8-b727-c2e799b1cdf8.mp3", 
+    "works": [
+        {
+            "mbid": "415af4f8-1448-4750-9481-c67e8970c382", 
+            "title": "Uyur Daim Uyanmazd\u0131"
+        }
+    ]
+}

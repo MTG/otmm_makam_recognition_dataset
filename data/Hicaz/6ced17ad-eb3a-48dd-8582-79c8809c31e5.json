@@ -1,0 +1,83 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
+            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "eb008617-09d0-4f3c-8be3-b5f703f40e73", 
+            "title": "Birlikte 50 Y\u0131l"
+        }
+    ], 
+    "title": "Kap\u0131ld\u0131m Gidiyorum Baht\u0131m\u0131n", 
+    "url": "http://musicbrainz.org/work/6ced17ad-eb3a-48dd-8582-79c8809c31e5", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }, 
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6ced17ad-eb3a-48dd-8582-79c8809c31e5", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }, 
+        {
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "attribute-list": [
+                "yayl\u0131 tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Erc\u00fcmend Batanay"
+        }
+    ], 
+    "duration": 175, 
+    "path": "../data/Hicaz/6ced17ad-eb3a-48dd-8582-79c8809c31e5.mp3", 
+    "works": [
+        {
+            "mbid": "a97cdd34-fd97-417e-be5a-ca48cf803f78", 
+            "title": "Kap\u0131ld\u0131m Gidiyorum Baht\u0131m\u0131n R\u00fczgar\u0131na"
+        }
+    ]
+}

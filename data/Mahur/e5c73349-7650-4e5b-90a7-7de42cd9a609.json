@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/e5c73349-7650-4e5b-90a7-7de42cd9a609"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bbeecb49-f434-4558-a441-3d0c9a60af37", 
+            "title": "Mahur 01"
+        }
+    ], 
+    "title": "Mahur Tanbur Taksimi", 
+    "url": "http://musicbrainz.org/work/e5c73349-7650-4e5b-90a7-7de42cd9a609", 
+    "artist_credits": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "e5c73349-7650-4e5b-90a7-7de42cd9a609", 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }
+    ], 
+    "duration": 89, 
+    "path": "../data/Mahur/e5c73349-7650-4e5b-90a7-7de42cd9a609.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e5c73349-7650-4e5b-90a7-7de42cd9a609"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/e5c73349-7650-4e5b-90a7-7de42cd9a609"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c820c003-c498-4166-819c-79eae113e5d4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/c820c003-c498-4166-819c-79eae113e5d4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }
+    ], 
+    "title": "Hicazkar Sazsemaisi", 
+    "url": "http://musicbrainz.org/work/c820c003-c498-4166-819c-79eae113e5d4", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "c820c003-c498-4166-819c-79eae113e5d4", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/c820c003-c498-4166-819c-79eae113e5d4"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "duration": 189, 
+    "path": "../data/Hicazkar/c820c003-c498-4166-819c-79eae113e5d4.mp3", 
+    "works": [
+        {
+            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

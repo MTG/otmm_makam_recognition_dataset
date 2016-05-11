@@ -1,0 +1,56 @@
+{
+    "usul": [
+        {
+            "attribute_key": "raksan", 
+            "mb_attribute": "Raksan", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6f25b18e-7cb9-49b9-88b9-e784ea673a2a", 
+            "title": "\u015earap Gibi"
+        }
+    ], 
+    "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir (Zeynebim)", 
+    "url": "http://musicbrainz.org/work/dda92602-7405-4fda-917e-0120294d49f3", 
+    "artist_credits": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "dda92602-7405-4fda-917e-0120294d49f3", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
+            "type": "vocal", 
+            "name": "M\u00fczeyyen Senar"
+        }
+    ], 
+    "duration": 191, 
+    "path": "../data/Muhayyer/dda92602-7405-4fda-917e-0120294d49f3.mp3", 
+    "works": [
+        {
+            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
+            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+        }
+    ]
+}

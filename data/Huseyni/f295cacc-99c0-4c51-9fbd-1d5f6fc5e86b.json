@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ac0f5805-4a28-416d-8a09-b6f174e859fe", 
+            "title": "H\u00fcseyni 3"
+        }
+    ], 
+    "title": "Talat\u0131n Devr-i Kamerde Mihri Alem-tab Eder", 
+    "url": "http://musicbrainz.org/work/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
+        }, 
+        {
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/recording/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 187, 
+    "path": "../data/Huseyni/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b.mp3", 
+    "works": [
+        {
+            "mbid": "c08e42db-5153-459a-b928-0717303a39ed", 
+            "title": "Tal'at\u0131n Devri Kamerde Mihr-i Alem Tab Eder"
+        }
+    ]
+}

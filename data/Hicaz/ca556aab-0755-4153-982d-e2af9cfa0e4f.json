@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ca556aab-0755-4153-982d-e2af9cfa0e4f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6c918f46-420f-45e9-8ef4-3176a67a356a", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ney"
+        }
+    ], 
+    "title": "Hicaz Taksim", 
+    "url": "http://musicbrainz.org/work/ca556aab-0755-4153-982d-e2af9cfa0e4f", 
+    "artist_credits": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ca556aab-0755-4153-982d-e2af9cfa0e4f", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "duration": 211, 
+    "path": "../data/Hicaz/ca556aab-0755-4153-982d-e2af9cfa0e4f.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ca556aab-0755-4153-982d-e2af9cfa0e4f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/ca556aab-0755-4153-982d-e2af9cfa0e4f"
+        }
+    ]
+}

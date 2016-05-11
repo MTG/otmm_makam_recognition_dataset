@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/5c9fa4ae-5d04-4ccb-a092-8308557c7587"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "046f767d-5965-474a-8097-6f5beac12453", 
+            "title": "\u0130zak Algazi Efendi"
+        }
+    ], 
+    "title": "Sana Dil Verdimse (Bayati Gazel [Improvisation])", 
+    "url": "http://musicbrainz.org/work/5c9fa4ae-5d04-4ccb-a092-8308557c7587", 
+    "artist_credits": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5c9fa4ae-5d04-4ccb-a092-8308557c7587", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
+            "type": "vocal", 
+            "name": "Isaac Algazi"
+        }
+    ], 
+    "duration": 233, 
+    "path": "../data/Beyati/5c9fa4ae-5d04-4ccb-a092-8308557c7587.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5c9fa4ae-5d04-4ccb-a092-8308557c7587"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/5c9fa4ae-5d04-4ccb-a092-8308557c7587"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/4f7a2ecb-a3ab-49ba-87d7-7e9393b86224"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/4f7a2ecb-a3ab-49ba-87d7-7e9393b86224"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "7cbd09db-d4d7-4dbb-b5f9-870a8ae60194", 
+            "title": "Ahenk 1"
+        }
+    ], 
+    "title": "Muhayyer pe\u015frev", 
+    "url": "http://musicbrainz.org/work/4f7a2ecb-a3ab-49ba-87d7-7e9393b86224", 
+    "artist_credits": [
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "4f7a2ecb-a3ab-49ba-87d7-7e9393b86224", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/608def1b-d955-46e0-acde-1e3190d4f49b"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/4f7a2ecb-a3ab-49ba-87d7-7e9393b86224"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }
+    ], 
+    "duration": 357, 
+    "path": "../data/Muhayyer/4f7a2ecb-a3ab-49ba-87d7-7e9393b86224.mp3", 
+    "works": [
+        {
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ]
+}

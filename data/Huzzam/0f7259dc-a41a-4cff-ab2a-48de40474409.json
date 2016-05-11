@@ -1,0 +1,159 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "73c6aae0-50f5-496c-a756-6456a2ec6b4c", 
+            "title": "TRT \u0130stanbul Radyosu- 04.11.1991"
+        }
+    ], 
+    "title": "Yan\u0131yor mu Ye\u015fil K\u00f6\u015fk\u00fcn Lambas\u0131", 
+    "url": "http://musicbrainz.org/work/0f7259dc-a41a-4cff-ab2a-48de40474409", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "0f7259dc-a41a-4cff-ab2a-48de40474409", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "1082c2d9-9896-4db8-a9ad-5ca8bd7b0005", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Arma\u011fan Boran"
+        }, 
+        {
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u00c7ak\u0131r"
+        }, 
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "a5e88a2e-f405-483d-8a3b-3e55c2113acd", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Erkahveci"
+        }, 
+        {
+            "mbid": "a6fe8566-a246-40b9-8a86-1ada5884ca81", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Selahattin Erk\u00f6se"
+        }, 
+        {
+            "mbid": "aac2ac47-c429-4656-b0b5-fbeae5ccdcb0", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Y\u0131ld\u0131zdo\u011fan"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "d154a130-cc1f-4344-9854-63085bf60a79", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Atilla G\u00fcnd\u00fcz"
+        }, 
+        {
+            "mbid": "e8c0fddc-2ba0-494c-90a9-9ad51d01619d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Nuri G\u00fcn"
+        }
+    ], 
+    "duration": 222, 
+    "path": "../data/Huzzam/0f7259dc-a41a-4cff-ab2a-48de40474409.mp3", 
+    "works": [
+        {
+            "mbid": "b12ecddc-6156-43ab-847d-8f1f82a3ca6c", 
+            "title": "Yan\u0131yor Mu Ye\u015fil K\u00f6\u015fk\u00fcn"
+        }
+    ]
+}

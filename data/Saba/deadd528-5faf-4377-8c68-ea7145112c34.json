@@ -1,0 +1,78 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b2846496-340b-4602-82a1-c5a55d4ffb04", 
+            "title": "M\u00fczi\u011fimizden \u00c7e\u015fitlemeler / Klasik Ney Taksimleri Ve \u0130lahiler"
+        }, 
+        {
+            "mbid": "c001f400-7a8c-4a6f-824d-86cfbf25c35a", 
+            "title": "M\u00fczi\u011fimizden \u00c7e\u015fitlemeler / Klasik Ney Taksimleri Ve \u0130lahiler"
+        }
+    ], 
+    "title": "Gelin Ey A\u015f\u0131klar", 
+    "url": "http://musicbrainz.org/work/deadd528-5faf-4377-8c68-ea7145112c34", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "deadd528-5faf-4377-8c68-ea7145112c34", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 343, 
+    "path": "../data/Saba/deadd528-5faf-4377-8c68-ea7145112c34.mp3", 
+    "works": [
+        {
+            "mbid": "787629e4-ab70-4223-a599-d14a8a8e89ed", 
+            "title": "Gelin Ey A\u015f\u0131klar"
+        }
+    ]
+}

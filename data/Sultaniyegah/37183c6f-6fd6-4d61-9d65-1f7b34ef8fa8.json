@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/37183c6f-6fd6-4d61-9d65-1f7b34ef8fa8"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/37183c6f-6fd6-4d61-9d65-1f7b34ef8fa8"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fbabb943-c962-48f8-bf11-899e096f57c0", 
+            "title": "Kendi Sesinden Haf\u0131z Sadettin Kaynak"
+        }
+    ], 
+    "title": "Yar Misalini Ne Zemin \u00dc Zaman G\u00f6rm\u00fc\u015ft\u00fcr", 
+    "url": "http://musicbrainz.org/work/37183c6f-6fd6-4d61-9d65-1f7b34ef8fa8", 
+    "artist_credits": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "name": "Sadettin Kaynak"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "37183c6f-6fd6-4d61-9d65-1f7b34ef8fa8", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/37183c6f-6fd6-4d61-9d65-1f7b34ef8fa8"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
+            "type": "vocal", 
+            "name": "Sadettin Kaynak"
+        }
+    ], 
+    "duration": 180, 
+    "path": "../data/Sultaniyegah/37183c6f-6fd6-4d61-9d65-1f7b34ef8fa8.mp3", 
+    "works": [
+        {
+            "mbid": "3122c992-e159-46a3-b0b2-57005dd76a80", 
+            "title": "Misalini Ne Zemin \u00fc Zaman G\u00f6rm\u00fc\u015ft\u00fcr"
+        }
+    ]
+}

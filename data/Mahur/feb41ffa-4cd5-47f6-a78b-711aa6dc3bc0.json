@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "30712b81-762d-43ca-9465-0e84a0e1ab04", 
+            "title": "Radyo G\u00fcnleri 3: Zeki M\u00fcren ile Ba\u015fba\u015fa"
+        }
+    ], 
+    "title": "Bayram Gecesi", 
+    "url": "http://musicbrainz.org/work/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Mahur/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0.mp3", 
+    "works": [
+        {
+            "mbid": "7e6c80f2-6757-48c7-973a-061a9e29a599", 
+            "title": "Bayram Gecesi"
+        }
+    ]
+}

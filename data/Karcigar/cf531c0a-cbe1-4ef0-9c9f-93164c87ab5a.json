@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3a4e3bd0-ed13-4945-8cd3-201497263329", 
+            "title": "Yusuf Nalkesen"
+        }
+    ], 
+    "title": "O A\u011fac\u0131n Alt\u0131n\u0131 Anmaz Olur muyum", 
+    "url": "http://musicbrainz.org/work/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a", 
+    "artist_credits": [
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "f7cde484-31d6-415d-a5ae-82ab5a1191da", 
+            "type": "vocal", 
+            "name": "Mediha \u015een Sancako\u011flu"
+        }
+    ], 
+    "duration": 264, 
+    "path": "../data/Karcigar/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a.mp3", 
+    "works": [
+        {
+            "mbid": "56d661d7-8c83-49f8-bcf0-0e00b60ef291", 
+            "title": "O A\u011fac\u0131n Alt\u0131n\u0131 Anmaz Olur Muyum"
+        }
+    ]
+}

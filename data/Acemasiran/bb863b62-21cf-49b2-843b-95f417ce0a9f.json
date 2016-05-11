@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/0284de77-2356-438f-9936-99b7961b1387"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/bb863b62-21cf-49b2-843b-95f417ce0a9f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/0284de77-2356-438f-9936-99b7961b1387"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/bb863b62-21cf-49b2-843b-95f417ce0a9f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "G\u00f6n\u00fcl Sana Tapal\u0131", 
+    "url": "http://musicbrainz.org/work/bb863b62-21cf-49b2-843b-95f417ce0a9f", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "bb863b62-21cf-49b2-843b-95f417ce0a9f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0284de77-2356-438f-9936-99b7961b1387"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/bb863b62-21cf-49b2-843b-95f417ce0a9f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 210, 
+    "path": "../data/Acemasiran/bb863b62-21cf-49b2-843b-95f417ce0a9f.mp3", 
+    "works": [
+        {
+            "mbid": "0284de77-2356-438f-9936-99b7961b1387", 
+            "title": "G\u00f6n\u00fcl Sana Tapal\u0131"
+        }
+    ]
+}

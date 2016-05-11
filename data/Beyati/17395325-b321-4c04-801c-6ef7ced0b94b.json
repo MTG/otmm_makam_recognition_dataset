@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Beyati Pe\u015frev (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/17395325-b321-4c04-801c-6ef7ced0b94b", 
+    "artist_credits": [
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "17395325-b321-4c04-801c-6ef7ced0b94b", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }
+    ], 
+    "duration": 481, 
+    "path": "../data/Beyati/17395325-b321-4c04-801c-6ef7ced0b94b.mp3", 
+    "works": [
+        {
+            "mbid": "c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3", 
+            "title": "Beyati Pe\u015frevi"
+        }
+    ]
+}

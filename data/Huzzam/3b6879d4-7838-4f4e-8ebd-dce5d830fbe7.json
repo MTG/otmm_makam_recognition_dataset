@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f371b65d-8ec2-4516-ae77-563fe10776c5", 
+            "title": "Alaeddin Yava\u015f\u00e7a"
+        }
+    ], 
+    "title": "G\u00fcne\u015fin Kavurdu\u011fu R\u00fczg\u00e2r\u0131n Savurdu\u011fu", 
+    "url": "http://musicbrainz.org/work/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7", 
+    "artist_credits": [
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "3b6879d4-7838-4f4e-8ebd-dce5d830fbe7", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "331bf018-55b5-47ad-9a5c-4717ce5f88c3", 
+            "type": "vocal", 
+            "name": "\u00c7i\u011fdem Yark\u0131n"
+        }
+    ], 
+    "duration": 223, 
+    "path": "../data/Huzzam/3b6879d4-7838-4f4e-8ebd-dce5d830fbe7.mp3", 
+    "works": [
+        {
+            "mbid": "9145af8e-e6f2-45d7-aaf7-8bfb35e55ef1", 
+            "title": "G\u00fcne\u015fin Kavurdu\u011fu R\u00fczgar\u0131n Savurdu\u011fu"
+        }
+    ]
+}

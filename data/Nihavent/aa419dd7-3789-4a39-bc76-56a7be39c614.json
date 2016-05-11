@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a8c6952a-d8b8-4014-90f2-46650bac4ff6", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 Ud"
+        }
+    ], 
+    "title": "Kanatlar\u0131m Olsayd\u0131", 
+    "url": "http://musicbrainz.org/work/aa419dd7-3789-4a39-bc76-56a7be39c614", 
+    "artist_credits": [
+        {
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "name": "\u015eerif Muhittin Targan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "aa419dd7-3789-4a39-bc76-56a7be39c614", 
+    "form": [
+        {
+            "attribute_key": "sazeseri", 
+            "mb_attribute": "Sazeseri", 
+            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
+        }, 
+        {
+            "attribute_key": "etud", 
+            "mb_tag": "et\u00fcd", 
+            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eerif Muhittin Targan"
+        }
+    ], 
+    "duration": 112, 
+    "path": "../data/Nihavent/aa419dd7-3789-4a39-bc76-56a7be39c614.mp3", 
+    "works": [
+        {
+            "mbid": "040a9362-abd5-4135-be2c-cb889e083706", 
+            "title": "Kanatlar\u0131m Olsayd\u0131"
+        }
+    ]
+}

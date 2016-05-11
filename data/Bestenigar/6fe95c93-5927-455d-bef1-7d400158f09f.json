@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6fe95c93-5927-455d-bef1-7d400158f09f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/6fe95c93-5927-455d-bef1-7d400158f09f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "\u00c7ok S\u00fcrmedi Ge\u00e7ti Tarab-\u0131 \u015eevk-i Bahar\u0131m", 
+    "url": "http://musicbrainz.org/work/6fe95c93-5927-455d-bef1-7d400158f09f", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6fe95c93-5927-455d-bef1-7d400158f09f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6fe95c93-5927-455d-bef1-7d400158f09f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Bestenigar/6fe95c93-5927-455d-bef1-7d400158f09f.mp3", 
+    "works": [
+        {
+            "mbid": "e0571832-f8df-4192-b1cc-a655c5c782d7", 
+            "title": "\u00c7ok S\u00fcrmedi Ge\u00e7ti"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "Bekledim Fecre Kadar Gelmedin", 
+    "url": "http://musicbrainz.org/work/20a1ddac-39a4-4bbb-81f5-bee504540f02", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "20a1ddac-39a4-4bbb-81f5-bee504540f02", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 189, 
+    "path": "../data/Hicazkar/20a1ddac-39a4-4bbb-81f5-bee504540f02.mp3", 
+    "works": [
+        {
+            "mbid": "a7cc3380-a654-4426-b2aa-d3fb07dc51a0", 
+            "title": "Bekledim Fecre Kadar"
+        }
+    ]
+}

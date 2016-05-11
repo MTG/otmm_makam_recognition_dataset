@@ -1,0 +1,60 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/ac5848ad-e5a3-4729-99db-d8b32f9da255"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/2aff84f1-0aec-48e1-b6e5-b39dc59e5570"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Tazelendi Tab-i Alem", 
+    "url": "http://musicbrainz.org/work/2aff84f1-0aec-48e1-b6e5-b39dc59e5570", 
+    "artist_credits": [
+        {
+            "mbid": "bb5f5e0c-6c26-4d03-82d4-4d95a2464cbd", 
+            "name": "Bahriyeli \u015eehab"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "2aff84f1-0aec-48e1-b6e5-b39dc59e5570", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ac5848ad-e5a3-4729-99db-d8b32f9da255"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2aff84f1-0aec-48e1-b6e5-b39dc59e5570"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "bb5f5e0c-6c26-4d03-82d4-4d95a2464cbd", 
+            "type": "vocal", 
+            "name": "Bahriyeli \u015eehab"
+        }
+    ], 
+    "duration": 203, 
+    "path": "../data/Segah/2aff84f1-0aec-48e1-b6e5-b39dc59e5570.mp3", 
+    "works": [
+        {
+            "mbid": "ac5848ad-e5a3-4729-99db-d8b32f9da255", 
+            "title": "Tazelendi Tab-i Alem"
+        }
+    ]
+}

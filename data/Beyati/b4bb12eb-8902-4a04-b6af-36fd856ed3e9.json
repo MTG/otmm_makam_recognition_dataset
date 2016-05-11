@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b4bb12eb-8902-4a04-b6af-36fd856ed3e9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c70ada1d-1d60-4173-aaca-324066efac82", 
+            "title": "T\u00fcrk Tasavvuf M\u00fczi\u011fi"
+        }
+    ], 
+    "title": "Tanbur Taksim", 
+    "url": "http://musicbrainz.org/work/b4bb12eb-8902-4a04-b6af-36fd856ed3e9", 
+    "artist_credits": [
+        {
+            "mbid": "766e2368-7308-4df0-b0e6-b5383f7647bd", 
+            "name": "Ahmet \u00d6zhan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b4bb12eb-8902-4a04-b6af-36fd856ed3e9", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 89, 
+    "path": "../data/Beyati/b4bb12eb-8902-4a04-b6af-36fd856ed3e9.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b4bb12eb-8902-4a04-b6af-36fd856ed3e9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/b4bb12eb-8902-4a04-b6af-36fd856ed3e9"
+        }
+    ]
+}

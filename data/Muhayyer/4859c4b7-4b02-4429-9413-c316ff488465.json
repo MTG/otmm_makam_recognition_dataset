@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/4859c4b7-4b02-4429-9413-c316ff488465"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/4859c4b7-4b02-4429-9413-c316ff488465"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "024c4647-b201-4dc2-92ac-6221c3767a44", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 5 (D\u00fcgah ve Muhayyers\u00fcnb\u00fcle)"
+        }
+    ], 
+    "title": "Sevdice\u011fim A\u015f\u0131k\u0131n\u0131 A\u011flat\u0131r", 
+    "url": "http://musicbrainz.org/work/4859c4b7-4b02-4429-9413-c316ff488465", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "4859c4b7-4b02-4429-9413-c316ff488465", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4859c4b7-4b02-4429-9413-c316ff488465"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 144, 
+    "path": "../data/Muhayyer/4859c4b7-4b02-4429-9413-c316ff488465.mp3", 
+    "works": [
+        {
+            "mbid": "db89f129-32c8-4063-bb58-f90a4defc36a", 
+            "title": "Sevdice\u011fim A\u015f\u0131k\u0131n\u0131 A\u011flat\u0131r"
+        }
+    ]
+}

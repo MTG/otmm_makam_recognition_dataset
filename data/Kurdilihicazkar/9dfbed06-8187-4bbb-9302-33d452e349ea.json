@@ -1,0 +1,95 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aydin", 
+            "mb_attribute": "Ayd\u0131n", 
+            "source": "http://musicbrainz.org/work/22429758-01be-4700-8d1a-0db6dfbfc667"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9dfbed06-8187-4bbb-9302-33d452e349ea"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/22429758-01be-4700-8d1a-0db6dfbfc667"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/9dfbed06-8187-4bbb-9302-33d452e349ea"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a81d1218-ddc5-4856-b106-08f72db8f39c", 
+            "title": "Refik Fersan"
+        }
+    ], 
+    "title": "G\u00f6zlerinde Mavi Mine", 
+    "url": "http://musicbrainz.org/work/9dfbed06-8187-4bbb-9302-33d452e349ea", 
+    "artist_credits": [
+        {
+            "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
+            "name": "G\u00fcl G\u00f6re"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "9dfbed06-8187-4bbb-9302-33d452e349ea", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/22429758-01be-4700-8d1a-0db6dfbfc667"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/9dfbed06-8187-4bbb-9302-33d452e349ea"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
+            "type": "vocal", 
+            "name": "G\u00fcl G\u00f6re"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 204, 
+    "path": "../data/Kurdilihicazkar/9dfbed06-8187-4bbb-9302-33d452e349ea.mp3", 
+    "works": [
+        {
+            "mbid": "22429758-01be-4700-8d1a-0db6dfbfc667", 
+            "title": "G\u00f6zlerin Mavi Mine"
+        }
+    ]
+}

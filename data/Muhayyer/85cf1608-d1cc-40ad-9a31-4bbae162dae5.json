@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d17f1b36-8dd1-428a-bc5b-2982a109f83b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/85cf1608-d1cc-40ad-9a31-4bbae162dae5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/d17f1b36-8dd1-428a-bc5b-2982a109f83b"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/85cf1608-d1cc-40ad-9a31-4bbae162dae5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "B\u00fclb\u00fcl\u00fcm Geldi Dile", 
+    "url": "http://musicbrainz.org/work/85cf1608-d1cc-40ad-9a31-4bbae162dae5", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "85cf1608-d1cc-40ad-9a31-4bbae162dae5", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d17f1b36-8dd1-428a-bc5b-2982a109f83b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/85cf1608-d1cc-40ad-9a31-4bbae162dae5"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 201, 
+    "path": "../data/Muhayyer/85cf1608-d1cc-40ad-9a31-4bbae162dae5.mp3", 
+    "works": [
+        {
+            "mbid": "d17f1b36-8dd1-428a-bc5b-2982a109f83b", 
+            "title": "B\u00fclb\u00fcl\u00fcm Gel de Dile"
+        }
+    ]
+}

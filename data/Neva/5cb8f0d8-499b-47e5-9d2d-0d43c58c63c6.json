@@ -1,0 +1,67 @@
+{
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b7d6873c-63aa-48e7-8773-16ab79abf8bb", 
+            "title": "CANTEMIR : Music In Istanbul And Ottoman Europe Around 1700"
+        }
+    ], 
+    "title": "Tanbur Taksimi- Improvisation", 
+    "url": "http://musicbrainz.org/work/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "9238bbf6-b7c2-41c7-889e-299983dbca79", 
+            "name": "Linda Burman-Hall"
+        }, 
+        {
+            "mbid": "397678a7-8d0e-432d-8d8a-3f34502578fa", 
+            "name": "Lux Musica"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }, 
+        {
+            "mbid": "397678a7-8d0e-432d-8d8a-3f34502578fa", 
+            "type": "performing orchestra", 
+            "name": "Lux Musica"
+        }
+    ], 
+    "duration": 81, 
+    "path": "../data/Neva/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6"
+        }
+    ]
+}

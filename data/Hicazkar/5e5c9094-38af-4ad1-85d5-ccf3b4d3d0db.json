@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/fc8e50e8-7697-4a2e-b53c-04ec826c5029"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/fc8e50e8-7697-4a2e-b53c-04ec826c5029"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c3a29b5e-e881-45bc-8775-3b2fb0467243", 
+            "title": "\u015eark\u0131lar"
+        }
+    ], 
+    "title": "Sar\u0131 Mimozams\u0131n Sen Benim", 
+    "url": "http://musicbrainz.org/work/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fc8e50e8-7697-4a2e-b53c-04ec826c5029"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 139, 
+    "path": "../data/Hicazkar/5e5c9094-38af-4ad1-85d5-ccf3b4d3d0db.mp3", 
+    "works": [
+        {
+            "mbid": "fc8e50e8-7697-4a2e-b53c-04ec826c5029", 
+            "title": "Sar\u0131 Mimozams\u0131n"
+        }
+    ]
+}

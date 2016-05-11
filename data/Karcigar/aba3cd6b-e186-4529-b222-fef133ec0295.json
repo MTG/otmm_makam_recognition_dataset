@@ -1,0 +1,95 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "84e8f4b5-026a-487a-b547-f35a8247b8fc", 
+            "title": "\u00d6zdal Orhon (1941-1986) - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Gitti\u011fin Yerde Unutma, Bir G\u00fcn Olsun Beni An", 
+    "url": "http://musicbrainz.org/work/aba3cd6b-e186-4529-b222-fef133ec0295", 
+    "artist_credits": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "name": "\u00d6zdal Orhon"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "aba3cd6b-e186-4529-b222-fef133ec0295", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
+            "type": "vocal", 
+            "name": "\u00d6zdal Orhon"
+        }, 
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "afe4b055-2d1f-401b-8a7f-56b8457e8e9d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Giray"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "duration": 139, 
+    "path": "../data/Karcigar/aba3cd6b-e186-4529-b222-fef133ec0295.mp3", 
+    "works": [
+        {
+            "mbid": "efce5948-8179-49f9-8a61-c7dea8c2ed3b", 
+            "title": "Gitti\u011fin Yerde Unutma"
+        }
+    ]
+}

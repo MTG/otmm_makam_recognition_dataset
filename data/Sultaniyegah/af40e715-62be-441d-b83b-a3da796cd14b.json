@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/af40e715-62be-441d-b83b-a3da796cd14b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/af40e715-62be-441d-b83b-a3da796cd14b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2e8e09e0-d85d-4699-9d73-551a6bebd289", 
+            "title": "Eski Devir Bah\u00e7eleri"
+        }
+    ], 
+    "title": "\u015eadeyledi Can \u00fc Dilimi \u015eah-\u0131 Cihan\u0131m", 
+    "url": "http://musicbrainz.org/work/af40e715-62be-441d-b83b-a3da796cd14b", 
+    "artist_credits": [
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "af40e715-62be-441d-b83b-a3da796cd14b", 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/af40e715-62be-441d-b83b-a3da796cd14b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
+            "type": "vocal", 
+            "name": "Alaeddin Yava\u015fca"
+        }
+    ], 
+    "duration": 143, 
+    "path": "../data/Sultaniyegah/af40e715-62be-441d-b83b-a3da796cd14b.mp3", 
+    "works": [
+        {
+            "mbid": "e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a", 
+            "title": "\u015ead Eyledi Can \u00fc Dilimi Ruh-i Revan\u0131m"
+        }
+    ]
+}

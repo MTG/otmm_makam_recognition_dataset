@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "024c4647-b201-4dc2-92ac-6221c3767a44", 
+            "title": "Kubbealt\u0131 T\u00fcrk Musikisi Klasik Eserler Serisi \u2013 5 (D\u00fcgah ve Muhayyers\u00fcnb\u00fcle)"
+        }
+    ], 
+    "title": "Ol Gonca-dehen Bir G\u00fcl-i Handan Olacakt\u0131r", 
+    "url": "http://musicbrainz.org/work/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "2dcb32e3-b34b-4719-b6fa-2dccf12dd62d", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d"
+        }
+    ], 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 126, 
+    "path": "../data/Muhayyer/2dcb32e3-b34b-4719-b6fa-2dccf12dd62d.mp3", 
+    "works": [
+        {
+            "mbid": "fad224f8-0973-49ad-9c14-7626b1556411", 
+            "title": "Ol Gonca Dehen"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/fe458e09-280c-47a9-8efc-710d74c9e7e1"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f844472b-55b3-4b57-aaf4-08ec5b7ed118"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/fe458e09-280c-47a9-8efc-710d74c9e7e1"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/f844472b-55b3-4b57-aaf4-08ec5b7ed118"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90e51b00-e349-421a-a73a-68b90a29c4f0", 
+            "title": "U\u015f\u015fak \u015eark\u0131lar - 1"
+        }
+    ], 
+    "title": "Bir Bekledi\u011fim Var Bitmez Gecenin Bitti\u011fi Yerde", 
+    "url": "http://musicbrainz.org/work/f844472b-55b3-4b57-aaf4-08ec5b7ed118", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "f844472b-55b3-4b57-aaf4-08ec5b7ed118", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/fe458e09-280c-47a9-8efc-710d74c9e7e1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f844472b-55b3-4b57-aaf4-08ec5b7ed118"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "duration": 201, 
+    "path": "../data/Ussak/f844472b-55b3-4b57-aaf4-08ec5b7ed118.mp3", 
+    "works": [
+        {
+            "mbid": "fe458e09-280c-47a9-8efc-710d74c9e7e1", 
+            "title": "Bir Bekledi\u011fim Var"
+        }
+    ]
+}

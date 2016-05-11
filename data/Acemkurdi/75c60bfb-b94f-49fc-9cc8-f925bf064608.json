@@ -1,0 +1,61 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/75c60bfb-b94f-49fc-9cc8-f925bf064608"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b8733477-2702-43f5-a094-9b34ba51ffa6", 
+            "title": "Mevlithan"
+        }
+    ], 
+    "title": "Acemk\u00fcrdi Taksim", 
+    "url": "http://musicbrainz.org/work/75c60bfb-b94f-49fc-9cc8-f925bf064608", 
+    "artist_credits": [
+        {
+            "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
+            "name": "Kani Karaca"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "75c60bfb-b94f-49fc-9cc8-f925bf064608", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 173, 
+    "path": "../data/Acemkurdi/75c60bfb-b94f-49fc-9cc8-f925bf064608.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/75c60bfb-b94f-49fc-9cc8-f925bf064608"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/75c60bfb-b94f-49fc-9cc8-f925bf064608"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/c35b82c6-f328-422b-a65e-a4f4fc88e4f2"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/3886ae81-8863-483a-bbef-69af1e3d098e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d53718c9-6497-44ab-82b8-1d6e8b91dde3", 
+            "title": "T\u00fcrk Musikisinin Ustalar\u0131 III"
+        }
+    ], 
+    "title": "At\u0131m Ka\u00e7t\u0131", 
+    "url": "http://musicbrainz.org/work/3886ae81-8863-483a-bbef-69af1e3d098e", 
+    "artist_credits": [
+        {
+            "mbid": "eeece319-1266-487d-b011-8290eb5cf76e", 
+            "name": "Mustafa Zeki \u00c7a\u011flarman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "3886ae81-8863-483a-bbef-69af1e3d098e", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/c35b82c6-f328-422b-a65e-a4f4fc88e4f2"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/3886ae81-8863-483a-bbef-69af1e3d098e"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cevdet \u00c7a\u011fla"
+        }, 
+        {
+            "mbid": "37ea753c-ae08-45be-a580-516f76ba4cbe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Neyzen \u0130hsan Aziz Bey"
+        }, 
+        {
+            "mbid": "b2415292-1cf4-4dc9-beea-3c350aba930b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Ferit Alnar"
+        }, 
+        {
+            "mbid": "e3aa2c81-476b-4bee-b835-94c0c208de09", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmed Fahri Kopuz"
+        }, 
+        {
+            "mbid": "eeece319-1266-487d-b011-8290eb5cf76e", 
+            "type": "vocal", 
+            "name": "Mustafa Zeki \u00c7a\u011flarman"
+        }
+    ], 
+    "duration": 189, 
+    "path": "../data/Huseyni/3886ae81-8863-483a-bbef-69af1e3d098e.mp3", 
+    "works": [
+        {
+            "mbid": "c35b82c6-f328-422b-a65e-a4f4fc88e4f2", 
+            "title": "At\u0131m Ka\u00e7t\u0131"
+        }
+    ]
+}

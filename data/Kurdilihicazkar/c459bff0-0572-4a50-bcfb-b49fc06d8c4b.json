@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "30712b81-762d-43ca-9465-0e84a0e1ab04", 
+            "title": "Radyo G\u00fcnleri 3: Zeki M\u00fcren ile Ba\u015fba\u015fa"
+        }
+    ], 
+    "title": "Manolyam", 
+    "url": "http://musicbrainz.org/work/c459bff0-0572-4a50-bcfb-b49fc06d8c4b", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "c459bff0-0572-4a50-bcfb-b49fc06d8c4b", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 182, 
+    "path": "../data/Kurdilihicazkar/c459bff0-0572-4a50-bcfb-b49fc06d8c4b.mp3", 
+    "works": [
+        {
+            "mbid": "54bc8afa-0cb2-4790-9a65-8c7213aa3db4", 
+            "title": "Uzun Y\u0131llar Bekledim"
+        }
+    ]
+}

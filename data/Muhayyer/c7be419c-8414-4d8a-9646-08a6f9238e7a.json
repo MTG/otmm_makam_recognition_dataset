@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b27b0bc-ee6e-4838-85ee-cce0cdaf4537", 
+            "title": "T\u00fcrk Bestekarlar\u0131 Serisi - Hac\u0131 Arif Bey"
+        }
+    ], 
+    "title": "Ni\u00e7in Mahzun Bakars\u0131n Sen Bana S\u00f6yle", 
+    "url": "http://musicbrainz.org/work/c7be419c-8414-4d8a-9646-08a6f9238e7a", 
+    "artist_credits": [
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "name": "\u015eehnaz U\u011furel"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c7be419c-8414-4d8a-9646-08a6f9238e7a", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 166, 
+    "path": "../data/Muhayyer/c7be419c-8414-4d8a-9646-08a6f9238e7a.mp3", 
+    "works": [
+        {
+            "mbid": "6924cefb-9fad-483c-b50b-0f074a441e9d", 
+            "title": "Ni\u00e7in Mahzun Bakars\u0131n Sen Bana S\u00f6yle"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/7a49795e-7a15-4b4b-ace2-5a203acb11cd"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0c0dfd84-430c-4907-aa27-fc6ac9c40f6b"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/7a49795e-7a15-4b4b-ace2-5a203acb11cd"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/0c0dfd84-430c-4907-aa27-fc6ac9c40f6b"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ddd1a358-ce8a-4151-b888-fce9de078c97", 
+            "title": "Acemk\u00fcrdi 3"
+        }
+    ], 
+    "title": "G\u00f6nl\u00fcm Yine Ol \u015euh-i Sitemkare mi Kald\u0131", 
+    "url": "http://musicbrainz.org/work/0c0dfd84-430c-4907-aa27-fc6ac9c40f6b", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "0c0dfd84-430c-4907-aa27-fc6ac9c40f6b", 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/7a49795e-7a15-4b4b-ace2-5a203acb11cd"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0c0dfd84-430c-4907-aa27-fc6ac9c40f6b"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 255, 
+    "path": "../data/Acemkurdi/0c0dfd84-430c-4907-aa27-fc6ac9c40f6b.mp3", 
+    "works": [
+        {
+            "mbid": "7a49795e-7a15-4b4b-ace2-5a203acb11cd", 
+            "title": "G\u00f6nl\u00fcm Yine Ol \u015euh-i Sitemkare mi Kald\u0131"
+        }
+    ]
+}

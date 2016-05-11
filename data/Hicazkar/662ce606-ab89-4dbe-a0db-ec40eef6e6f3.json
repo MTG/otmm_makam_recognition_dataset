@@ -1,0 +1,82 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/662ce606-ab89-4dbe-a0db-ec40eef6e6f3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/662ce606-ab89-4dbe-a0db-ec40eef6e6f3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c351559c-4931-4f8f-a6b1-3652d383f6cb", 
+            "title": "Tanburi Cemil Bey Vols. IV & V"
+        }
+    ], 
+    "title": "Hicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/662ce606-ab89-4dbe-a0db-ec40eef6e6f3", 
+    "artist_credits": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "662ce606-ab89-4dbe-a0db-ec40eef6e6f3", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/a2359815-ad37-4b87-b1c3-f58f738ab73a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/662ce606-ab89-4dbe-a0db-ec40eef6e6f3"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Tanburi Cemil Bey"
+        }, 
+        {
+            "mbid": "7586560f-2457-485e-a099-41b45e9af5ab", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u015eevki Bey"
+        }
+    ], 
+    "duration": 392, 
+    "path": "../data/Hicazkar/662ce606-ab89-4dbe-a0db-ec40eef6e6f3.mp3", 
+    "works": [
+        {
+            "mbid": "a2359815-ad37-4b87-b1c3-f58f738ab73a", 
+            "title": "Hicazkar Pe\u015frev"
+        }
+    ]
+}

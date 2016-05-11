@@ -1,0 +1,50 @@
+{
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/b850602d-c802-4a0c-af7f-3d872b16d3a5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Pek Mustaribim", 
+    "url": "http://musicbrainz.org/work/b850602d-c802-4a0c-af7f-3d872b16d3a5", 
+    "artist_credits": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b850602d-c802-4a0c-af7f-3d872b16d3a5", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "type": "vocal", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "duration": 201, 
+    "path": "../data/Huzzam/b850602d-c802-4a0c-af7f-3d872b16d3a5.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b850602d-c802-4a0c-af7f-3d872b16d3a5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/b850602d-c802-4a0c-af7f-3d872b16d3a5"
+        }
+    ]
+}

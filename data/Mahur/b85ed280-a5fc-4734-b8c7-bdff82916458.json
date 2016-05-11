@@ -1,0 +1,70 @@
+{
+    "usul": [
+        {
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/b85ed280-a5fc-4734-b8c7-bdff82916458"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Mahur Pe\u015frev (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/work/b85ed280-a5fc-4734-b8c7-bdff82916458", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "b85ed280-a5fc-4734-b8c7-bdff82916458", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/b85ed280-a5fc-4734-b8c7-bdff82916458"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 273, 
+    "path": "../data/Mahur/b85ed280-a5fc-4734-b8c7-bdff82916458.mp3", 
+    "works": [
+        {
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

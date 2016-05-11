@@ -1,0 +1,65 @@
+{
+    "instrumentation_voicing": "Duo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/86ea3034-2212-49d8-abe4-60b88c88a5ec"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90bcecd9-6213-430a-8cda-fecf6062d19c", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 1"
+        }
+    ], 
+    "title": "M\u00fc\u015fterek Taksim", 
+    "url": "http://musicbrainz.org/work/86ea3034-2212-49d8-abe4-60b88c88a5ec", 
+    "artist_credits": [
+        {
+            "mbid": "79192ae7-7953-474b-bcd5-fd61bd337bb5", 
+            "name": "Pelin De\u011firmenci"
+        }, 
+        {
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "name": "Burcu Karada\u011f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "86ea3034-2212-49d8-abe4-60b88c88a5ec", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "79192ae7-7953-474b-bcd5-fd61bd337bb5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Pelin De\u011firmenci"
+        }, 
+        {
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Burcu Karada\u011f"
+        }
+    ], 
+    "duration": 169, 
+    "path": "../data/Hicaz/86ea3034-2212-49d8-abe4-60b88c88a5ec.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/86ea3034-2212-49d8-abe4-60b88c88a5ec"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/86ea3034-2212-49d8-abe4-60b88c88a5ec"
+        }
+    ]
+}

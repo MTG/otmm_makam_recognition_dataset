@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/090e2a93-aeac-4e75-abe3-04dd6d838367"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/090e2a93-aeac-4e75-abe3-04dd6d838367"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b3d24274-4756-4862-8dde-27b56a117525", 
+            "title": "1955 - 63 Kay\u0131tlar\u0131 - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Neva Y\u00fcr\u00fck Semai", 
+    "url": "http://musicbrainz.org/work/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/090e2a93-aeac-4e75-abe3-04dd6d838367"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 173, 
+    "path": "../data/Neva/411a69c1-c016-45cd-bdbf-5bbe3dfa6d3c.mp3", 
+    "works": [
+        {
+            "mbid": "090e2a93-aeac-4e75-abe3-04dd6d838367", 
+            "title": "Birlikte Bu Ak\u015fam \u00c7\u0131kal\u0131m Seyre"
+        }
+    ]
+}

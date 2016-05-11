@@ -1,0 +1,175 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1e012abb-6236-493b-a102-a6b0e37afe21"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/1e012abb-6236-493b-a102-a6b0e37afe21"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b8ebf10c-4b68-4388-9ba5-3e02f6b8fcb6", 
+            "title": "Osmanl\u0131 \u0130mparatorlu\u011fu'nda M\u00fczik - Rum ve T\u00fcrk Bestekarlar & Anadolu A\u015f\u0131klar\u0131"
+        }
+    ], 
+    "title": "Neva Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/c9d88107-4c8f-45f0-823b-22205d5ed8ac", 
+    "artist_credits": [
+        {
+            "mbid": "4988031f-ab5b-42d3-aeab-8d8abedfb887", 
+            "name": "Bosphorus"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "c9d88107-4c8f-45f0-823b-22205d5ed8ac", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/1e012abb-6236-493b-a102-a6b0e37afe21"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4988031f-ab5b-42d3-aeab-8d8abedfb887", 
+            "type": "performing orchestra", 
+            "name": "Bosphorus"
+        }, 
+        {
+            "mbid": "59fe856c-ec1b-44a9-92d3-ced039396feb", 
+            "attribute-list": [
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Hur\u015fit Ungay"
+        }, 
+        {
+            "mbid": "66f06c81-daec-4530-bd12-5f3b450c1857", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Do\u011fan Ergin"
+        }, 
+        {
+            "mbid": "93351c21-d420-419b-b80e-180bc6b0a2dc", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Abdi Co\u015fkun"
+        }, 
+        {
+            "mbid": "a5e88a2e-f405-483d-8a3b-3e55c2113acd", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Erkahveci"
+        }, 
+        {
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mutlu Torun"
+        }, 
+        {
+            "mbid": "cd7459af-b0c3-4623-bd27-03a0164add36", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mekin \u00c7etin\u00f6z"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "davul"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "timpani"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }, 
+        {
+            "mbid": "f1c110ef-f34d-456d-839b-4142c05c8b41", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Firuz Han"
+        }, 
+        {
+            "mbid": "f31cbcc0-ca37-4a1c-851f-09366e94b484", 
+            "attribute-list": [
+                "pan flute"
+            ], 
+            "type": "instrument", 
+            "name": "Iannis Kaimakis"
+        }, 
+        {
+            "mbid": "f4251bcb-34a6-4333-8129-0c0bc3b96335", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "\u00dcmit G\u00fcrelman"
+        }
+    ], 
+    "duration": 246, 
+    "path": "../data/Neva/c9d88107-4c8f-45f0-823b-22205d5ed8ac.mp3", 
+    "works": [
+        {
+            "mbid": "1e012abb-6236-493b-a102-a6b0e37afe21", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

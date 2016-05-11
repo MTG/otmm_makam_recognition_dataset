@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/5fd1548a-b09d-408c-a85f-2092dea8fa86"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/7361725c-d30b-4a48-8bfa-0c73985d0687"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/5fd1548a-b09d-408c-a85f-2092dea8fa86"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/7361725c-d30b-4a48-8bfa-0c73985d0687"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "50d11824-b02a-406d-9ba7-8471f9dbbebb", 
+            "title": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "title": "Nice Bir A\u015fk\u0131nla Feryad Edeyim", 
+    "url": "http://musicbrainz.org/work/7361725c-d30b-4a48-8bfa-0c73985d0687", 
+    "artist_credits": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "7361725c-d30b-4a48-8bfa-0c73985d0687", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/5fd1548a-b09d-408c-a85f-2092dea8fa86"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/7361725c-d30b-4a48-8bfa-0c73985d0687"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
+            "type": "vocal", 
+            "name": "Sabite Tur G\u00fclerman"
+        }
+    ], 
+    "duration": 319, 
+    "path": "../data/Beyati/7361725c-d30b-4a48-8bfa-0c73985d0687.mp3", 
+    "works": [
+        {
+            "mbid": "5fd1548a-b09d-408c-a85f-2092dea8fa86", 
+            "title": "Nice Bir A\u015fk\u0131nla Feryad Edeyim"
+        }
+    ]
+}

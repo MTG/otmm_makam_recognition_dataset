@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/7db6f26c-bc68-4466-b98b-b702b72362da"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "6ea7f7e0-2f53-48e9-8b3c-2d7f7281a334", 
+            "title": "Trt Ar\u015fiv Serisi 26 - Meral U\u011furlu'dan Se\u00e7meler"
+        }
+    ], 
+    "title": "Kanun Taksim", 
+    "url": "http://musicbrainz.org/work/7db6f26c-bc68-4466-b98b-b702b72362da", 
+    "artist_credits": [
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "name": "Meral U\u011furlu"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "mbid": "7db6f26c-bc68-4466-b98b-b702b72362da", 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Erol Deran"
+        }
+    ], 
+    "duration": 109, 
+    "path": "../data/Acemasiran/7db6f26c-bc68-4466-b98b-b702b72362da.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7db6f26c-bc68-4466-b98b-b702b72362da"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/7db6f26c-bc68-4466-b98b-b702b72362da"
+        }
+    ]
+}

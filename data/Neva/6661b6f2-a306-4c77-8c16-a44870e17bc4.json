@@ -1,0 +1,86 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/6661b6f2-a306-4c77-8c16-a44870e17bc4"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/6661b6f2-a306-4c77-8c16-a44870e17bc4"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0660643a-07b3-45cf-ba94-e2ca58e029bd", 
+            "title": "Neva"
+        }
+    ], 
+    "title": "Neva Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/6661b6f2-a306-4c77-8c16-a44870e17bc4", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duo instrumental", 
+    "mbid": "6661b6f2-a306-4c77-8c16-a44870e17bc4", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/6661b6f2-a306-4c77-8c16-a44870e17bc4"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }
+    ], 
+    "duration": 230, 
+    "path": "../data/Neva/6661b6f2-a306-4c77-8c16-a44870e17bc4.mp3", 
+    "works": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

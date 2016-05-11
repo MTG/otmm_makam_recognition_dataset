@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/bd293a02-37a5-4c6e-a04d-c1f411211392"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/bd293a02-37a5-4c6e-a04d-c1f411211392"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2d29999b-732d-4a8e-bcc0-8ef7ecf1308b", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk - \u00dcstad"
+        }
+    ], 
+    "title": "Sen \u015eark\u0131 S\u00f6yledi\u011fin Zaman", 
+    "url": "http://musicbrainz.org/work/bd293a02-37a5-4c6e-a04d-c1f411211392", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "bd293a02-37a5-4c6e-a04d-c1f411211392", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/bd293a02-37a5-4c6e-a04d-c1f411211392"
+        }
+    ], 
+    "bit_rate": 256, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 345, 
+    "path": "../data/Sultaniyegah/bd293a02-37a5-4c6e-a04d-c1f411211392.mp3", 
+    "works": [
+        {
+            "mbid": "56fee550-2348-4275-a969-5ddc9ff112c8", 
+            "title": "Sen \u015eark\u0131 S\u00f6yledi\u011fin Zaman"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4b27b0bc-ee6e-4838-85ee-cce0cdaf4537", 
+            "title": "T\u00fcrk Bestekarlar\u0131 Serisi - Hac\u0131 Arif Bey"
+        }
+    ], 
+    "title": "Varken G\u00f6n\u00fclde Bin T\u00fcrl\u00fc Yare", 
+    "url": "http://musicbrainz.org/work/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71", 
+    "artist_credits": [
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "c786ba8e-9147-4e3d-b8c1-58d78e3dfd71", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Filiz \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }, 
+        {
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Kadri Rizeli"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Safinaz Rizeli"
+        }
+    ], 
+    "duration": 253, 
+    "path": "../data/Karcigar/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71.mp3", 
+    "works": [
+        {
+            "mbid": "f9bda789-3355-4b02-946e-70a8e59f24d4", 
+            "title": "Varken G\u00f6n\u00fclde Bin T\u00fcrl\u00fc Yare"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/e5c99cac-14f0-4986-91cc-455e04103bf6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/fc154485-c59d-4756-b997-73c7d05492ab"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/e5c99cac-14f0-4986-91cc-455e04103bf6"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/fc154485-c59d-4756-b997-73c7d05492ab"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "ac0f5805-4a28-416d-8a09-b6f174e859fe", 
+            "title": "H\u00fcseyni 3"
+        }
+    ], 
+    "title": "D\u00f6k Dideden E\u015fk-i Teri Sermayesiz Olmaz", 
+    "url": "http://musicbrainz.org/work/fc154485-c59d-4756-b997-73c7d05492ab", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "fc154485-c59d-4756-b997-73c7d05492ab", 
+    "form": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/e5c99cac-14f0-4986-91cc-455e04103bf6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/fc154485-c59d-4756-b997-73c7d05492ab"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 268, 
+    "path": "../data/Huseyni/fc154485-c59d-4756-b997-73c7d05492ab.mp3", 
+    "works": [
+        {
+            "mbid": "e5c99cac-14f0-4986-91cc-455e04103bf6", 
+            "title": "D\u00f6k Dideden"
+        }
+    ]
+}

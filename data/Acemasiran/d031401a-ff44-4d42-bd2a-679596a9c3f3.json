@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/80ff9303-e75f-4a9b-86a1-1ba503c2ec04"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d031401a-ff44-4d42-bd2a-679596a9c3f3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/80ff9303-e75f-4a9b-86a1-1ba503c2ec04"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/d031401a-ff44-4d42-bd2a-679596a9c3f3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "Ey \u015eehr-i Nuz\u00fcl-i Sure", 
+    "url": "http://musicbrainz.org/work/d031401a-ff44-4d42-bd2a-679596a9c3f3", 
+    "artist_credits": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "d031401a-ff44-4d42-bd2a-679596a9c3f3", 
+    "form": [
+        {
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
+            "source": "http://musicbrainz.org/work/80ff9303-e75f-4a9b-86a1-1ba503c2ec04"
+        }, 
+        {
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
+            "source": "http://musicbrainz.org/recording/d031401a-ff44-4d42-bd2a-679596a9c3f3"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 378, 
+    "path": "../data/Acemasiran/d031401a-ff44-4d42-bd2a-679596a9c3f3.mp3", 
+    "works": [
+        {
+            "mbid": "80ff9303-e75f-4a9b-86a1-1ba503c2ec04", 
+            "title": "Ey \u015eehri N\u00fcz\u00fcli Sure"
+        }
+    ]
+}

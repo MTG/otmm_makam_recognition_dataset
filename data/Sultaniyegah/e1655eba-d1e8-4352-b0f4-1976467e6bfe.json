@@ -1,0 +1,74 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e1655eba-d1e8-4352-b0f4-1976467e6bfe"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/e1655eba-d1e8-4352-b0f4-1976467e6bfe"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Sultani-Yegah Saz Semai (Mansur-\u015eah Mabeyni Ney)", 
+    "url": "http://musicbrainz.org/work/e1655eba-d1e8-4352-b0f4-1976467e6bfe", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "e1655eba-d1e8-4352-b0f4-1976467e6bfe", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/ecf1b766-6d29-4d13-9fc8-4c02c38d4263"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/e1655eba-d1e8-4352-b0f4-1976467e6bfe"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "duration": 303, 
+    "path": "../data/Sultaniyegah/e1655eba-d1e8-4352-b0f4-1976467e6bfe.mp3", 
+    "works": [
+        {
+            "mbid": "ecf1b766-6d29-4d13-9fc8-4c02c38d4263", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

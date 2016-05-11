@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "5bd7a46e-c6bd-490e-96b2-847305c9bfaa", 
+            "title": "Tatyos Efendi K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Mani Oluyor", 
+    "url": "http://musicbrainz.org/work/5bcc3b05-e744-410d-b1c9-554d60bc04af", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5bcc3b05-e744-410d-b1c9-554d60bc04af", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "type": "performing orchestra", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }, 
+        {
+            "mbid": "c3f57620-e89e-4b63-bc00-4a100c3e91a8", 
+            "type": "vocal", 
+            "name": "Melihat G\u00fclses"
+        }
+    ], 
+    "duration": 161, 
+    "path": "../data/Hicazkar/5bcc3b05-e744-410d-b1c9-554d60bc04af.mp3", 
+    "works": [
+        {
+            "mbid": "0a5e760b-f710-40ef-8c7d-93cccc68e5a0", 
+            "title": "Mani Oluyor"
+        }
+    ]
+}

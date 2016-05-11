@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/8f516849-4abe-4740-9cf1-f610ef007726"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "55b20427-c7a5-4e8b-a26f-c6096fb69eeb", 
+            "title": "Mevlana Beyati Mevlevi Ayini- Dervi\u015f K\u00fc\u00e7ek Mustafa Dede"
+        }
+    ], 
+    "title": "Tambur Taksimi", 
+    "url": "http://musicbrainz.org/work/8f516849-4abe-4740-9cf1-f610ef007726", 
+    "artist_credits": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "name": "Ulvi Erg\u00fcner"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "8f516849-4abe-4740-9cf1-f610ef007726", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "5a1ada74-61ee-4401-8851-463d011e2900", 
+            "type": "conductor", 
+            "name": "Ulvi Erg\u00fcner"
+        }, 
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 124, 
+    "path": "../data/Segah/8f516849-4abe-4740-9cf1-f610ef007726.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8f516849-4abe-4740-9cf1-f610ef007726"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/8f516849-4abe-4740-9cf1-f610ef007726"
+        }
+    ]
+}

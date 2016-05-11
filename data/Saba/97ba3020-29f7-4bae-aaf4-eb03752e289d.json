@@ -1,0 +1,272 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c23cee1b-9535-4371-81cf-5d2608a6b4a4", 
+            "title": "Bestekarlar\u0131m\u0131z: 5 - Zekai Dede/ \u0130lahiler"
+        }
+    ], 
+    "title": "Saba Tesbih", 
+    "url": "http://musicbrainz.org/work/97ba3020-29f7-4bae-aaf4-eb03752e289d", 
+    "artist_credits": [
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "97ba3020-29f7-4bae-aaf4-eb03752e289d", 
+    "form": [
+        {
+            "attribute_key": "tesbih", 
+            "mb_attribute": "Tesbih", 
+            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
+        }, 
+        {
+            "attribute_key": "tesbih", 
+            "mb_tag": "tesbih", 
+            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "039679c2-d725-4105-90f4-91b568fec6e9", 
+            "type": "vocal", 
+            "name": "Bahri G\u00fcng\u00f6rd\u00fc"
+        }, 
+        {
+            "mbid": "12c11605-0634-4446-9553-0c21c3df50f2", 
+            "type": "vocal", 
+            "name": "U\u011fur Alt\u0131nok"
+        }, 
+        {
+            "mbid": "1fc5a935-549c-4d71-b079-1c2c35bad321", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan Alvan"
+        }, 
+        {
+            "mbid": "26d31b66-ec11-4575-b599-6675285e0906", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zata Ayan"
+        }, 
+        {
+            "mbid": "2759b848-0bb3-4bb7-888d-af3b98973a6e", 
+            "type": "vocal", 
+            "name": "Suat Uluta\u015f"
+        }, 
+        {
+            "mbid": "2b5496ee-c8cd-4fd6-8a62-f2c0be115d26", 
+            "type": "vocal", 
+            "name": "Faruk Erdemsel"
+        }, 
+        {
+            "mbid": "3cd629ce-a687-43b4-b070-707b85afbd4e", 
+            "type": "vocal", 
+            "name": "\u0130smet Olga\u00e7"
+        }, 
+        {
+            "mbid": "3f47b9a2-6cda-4451-afdd-35c1b48b62ee", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "B\u00fclent Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "4f7b3d61-1269-4e08-b72a-dbb16d69674b", 
+            "type": "vocal", 
+            "name": "Mert Ataman"
+        }, 
+        {
+            "mbid": "557d44d5-32ad-4145-8068-8aab9d999b3d", 
+            "type": "vocal", 
+            "name": "G\u00fcrhan Yaman"
+        }, 
+        {
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Serdar Bi\u015firen"
+        }, 
+        {
+            "mbid": "630dcf58-148d-491f-a3e6-2325477bc229", 
+            "attribute-list": [
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Nizamettin Y\u0131ld\u0131r\u0131m"
+        }, 
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "type": "performing orchestra", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }, 
+        {
+            "mbid": "770614da-a074-450e-9c70-62cb90a1cd35", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
+        }, 
+        {
+            "mbid": "774058f0-0cd4-471c-8e78-7434258bf87f", 
+            "type": "vocal", 
+            "name": "Cihat H\u0131r\u00e7\u0131n"
+        }, 
+        {
+            "mbid": "77a23106-e738-44b1-9b47-624c3f54b4bb", 
+            "type": "vocal", 
+            "name": "Erhan Engin"
+        }, 
+        {
+            "mbid": "77ae21a0-c742-43e5-8af6-1cdccbab7dc4", 
+            "type": "vocal", 
+            "name": "Yahya Soyyi\u011fit"
+        }, 
+        {
+            "mbid": "7852b88e-e5e6-4971-b0a1-a9af541565f5", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcnay Uysal"
+        }, 
+        {
+            "mbid": "79e18914-03c7-49bb-9c83-ad43bd0c4648", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "B\u00fclent \u00d6zbek"
+        }, 
+        {
+            "mbid": "7e980139-3e03-4ff8-b470-0547e91d6550", 
+            "attribute-list": [
+                "zill"
+            ], 
+            "type": "instrument", 
+            "name": "Oktay \u00d6zerden"
+        }, 
+        {
+            "mbid": "899e9591-4ba1-431e-91d4-418e0a06cb1b", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Serta\u00e7 Tezeren"
+        }, 
+        {
+            "mbid": "8ce63a7f-e8a2-4661-b833-d5d2a0085b49", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00f6khan \u00c7a\u011fl\u0131"
+        }, 
+        {
+            "mbid": "8e970a6c-9604-4d19-b37a-9a555b1c2132", 
+            "type": "vocal", 
+            "name": "Ayhan \u00c7a\u011fl\u0131"
+        }, 
+        {
+            "mbid": "9cbe44c2-6bf9-4b5b-b377-6bf7718ba65b", 
+            "type": "conductor", 
+            "name": "\u0130hsan \u00d6zer"
+        }, 
+        {
+            "mbid": "9d3a6597-d988-40be-82c8-7f888ef9526f", 
+            "type": "vocal", 
+            "name": "Kenan Verdemir"
+        }, 
+        {
+            "mbid": "9db210e7-3a4c-4e00-b693-8cfe59bc8e09", 
+            "type": "vocal", 
+            "name": "Veysel Dalsald\u0131"
+        }, 
+        {
+            "mbid": "a779761d-7b23-4bd9-bdfb-3508cf479a6b", 
+            "type": "vocal", 
+            "name": "Sedat Y\u0131ld\u0131r\u0131m"
+        }, 
+        {
+            "mbid": "b96e5799-e349-45af-be73-e63b836aa4ea", 
+            "type": "vocal", 
+            "name": "Enes Erg\u00fcr"
+        }, 
+        {
+            "mbid": "c901378f-115c-4ce9-85ab-73156e3e177a", 
+            "type": "vocal", 
+            "name": "Mustafa \u00d6zoru\u00e7"
+        }, 
+        {
+            "mbid": "d1553ce6-8749-4b15-b598-f9d4684719e8", 
+            "attribute-list": [
+                "rebab"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Refik Kaya"
+        }, 
+        {
+            "mbid": "e843f22a-adbf-4c00-aaf6-bc9ce2208378", 
+            "type": "vocal", 
+            "name": "Ahmet Sedat Ba\u015far"
+        }, 
+        {
+            "mbid": "f0111fd3-aab9-496c-8eda-50c034131549", 
+            "type": "vocal", 
+            "name": "Korkut Samanc\u0131"
+        }, 
+        {
+            "mbid": "face77f7-1610-4a76-bab1-ebedb4fb5c6a", 
+            "type": "vocal", 
+            "name": "H\u00fcseyin Sert"
+        }, 
+        {
+            "mbid": "ffe17e1f-324e-4856-9d78-d8b5b119b402", 
+            "type": "vocal", 
+            "name": "Eray Mescio\u011flu"
+        }
+    ], 
+    "duration": 318, 
+    "path": "../data/Saba/97ba3020-29f7-4bae-aaf4-eb03752e289d.mp3", 
+    "works": [
+        {
+            "mbid": "2858830d-3333-4d43-8ae7-ce282d31a1c3", 
+            "title": "Ya Allah Ya Rahman"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/6660aaa1-95ec-44f7-a3dd-1dbfa0c01107"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/6660aaa1-95ec-44f7-a3dd-1dbfa0c01107"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/fa17872a-bb57-4201-bfce-eae96d2c2b08"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Saba Saz Semai (Mansur Ney)", 
+    "url": "http://musicbrainz.org/work/fa17872a-bb57-4201-bfce-eae96d2c2b08", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "fa17872a-bb57-4201-bfce-eae96d2c2b08", 
+    "form": [
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
+            "source": "http://musicbrainz.org/work/6660aaa1-95ec-44f7-a3dd-1dbfa0c01107"
+        }, 
+        {
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
+            "source": "http://musicbrainz.org/recording/fa17872a-bb57-4201-bfce-eae96d2c2b08"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 248, 
+    "path": "../data/Saba/fa17872a-bb57-4201-bfce-eae96d2c2b08.mp3", 
+    "works": [
+        {
+            "mbid": "6660aaa1-95ec-44f7-a3dd-1dbfa0c01107", 
+            "title": "Saba Sazsemaisi"
+        }
+    ]
+}

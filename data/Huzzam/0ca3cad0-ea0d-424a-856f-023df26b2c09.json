@@ -1,0 +1,89 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/974879f0-62a1-4c1d-88b9-477127aab2e8"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/0ca3cad0-ea0d-424a-856f-023df26b2c09"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d0f952fe-7896-4489-958e-ed2f724f93ec", 
+            "title": "Vasf\u0131n\u0131 Bu Resme Tertip Ettiler\u2026"
+        }
+    ], 
+    "title": "Aht\u0131m Olsun Giymeyeyim Karalar", 
+    "url": "http://musicbrainz.org/work/0ca3cad0-ea0d-424a-856f-023df26b2c09", 
+    "artist_credits": [
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "0ca3cad0-ea0d-424a-856f-023df26b2c09", 
+    "form": [
+        {
+            "attribute_key": "rumeliturkusu", 
+            "mb_attribute": "Rumeli T\u00fcrk\u00fcs\u00fc", 
+            "source": "http://musicbrainz.org/work/974879f0-62a1-4c1d-88b9-477127aab2e8"
+        }, 
+        {
+            "attribute_key": "rumeliturkusu", 
+            "mb_tag": "rumelit\u00fcrk\u00fcs\u00fc", 
+            "source": "http://musicbrainz.org/recording/0ca3cad0-ea0d-424a-856f-023df26b2c09"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/0ca3cad0-ea0d-424a-856f-023df26b2c09"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }, 
+        {
+            "mbid": "4a062748-b2b4-4b60-b5e5-46b68f29dc1b", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Aleko Bacanos Efendi"
+        }, 
+        {
+            "mbid": "5f7c5fc5-0958-49e3-8e17-d638ddd30938", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sadi I\u015f\u0131lay"
+        }, 
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "duration": 166, 
+    "path": "../data/Huzzam/0ca3cad0-ea0d-424a-856f-023df26b2c09.mp3", 
+    "works": [
+        {
+            "mbid": "974879f0-62a1-4c1d-88b9-477127aab2e8", 
+            "title": "Aht\u0131m Olsun Giymeyeyim Karalar"
+        }
+    ]
+}

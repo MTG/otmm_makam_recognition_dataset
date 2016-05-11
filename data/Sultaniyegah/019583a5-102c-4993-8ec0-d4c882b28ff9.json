@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/019583a5-102c-4993-8ec0-d4c882b28ff9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d6894b04-7022-4c6e-83bc-8c0bf5adbdf6", 
+            "title": "Yenikap\u0131 Mevlevihanesi - The Yenikap\u0131 Mevlevi Lodge"
+        }
+    ], 
+    "title": "Sultaniyegah Makam\u0131nda Kanun Taksimi", 
+    "url": "http://musicbrainz.org/work/019583a5-102c-4993-8ec0-d4c882b28ff9", 
+    "artist_credits": [
+        {
+            "mbid": "4e145d13-83e5-4635-90f2-2c64a55d4ed3", 
+            "name": "S\u00f6z Saz \u0130stanbul"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "019583a5-102c-4993-8ec0-d4c882b28ff9", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serkan Mesut Halili"
+        }
+    ], 
+    "duration": 119, 
+    "path": "../data/Sultaniyegah/019583a5-102c-4993-8ec0-d4c882b28ff9.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/019583a5-102c-4993-8ec0-d4c882b28ff9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/019583a5-102c-4993-8ec0-d4c882b28ff9"
+        }
+    ]
+}

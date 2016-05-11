@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agirsenginsemai", 
+            "mb_attribute": "A\u011f\u0131rsenginsemai", 
+            "source": "http://musicbrainz.org/work/b69f0bd6-32ee-4793-a16d-f863992c0631"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/82f47e2b-24b9-408c-a7e0-84eb02ef6e30"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/b69f0bd6-32ee-4793-a16d-f863992c0631"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/82f47e2b-24b9-408c-a7e0-84eb02ef6e30"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d0f952fe-7896-4489-958e-ed2f724f93ec", 
+            "title": "Vasf\u0131n\u0131 Bu Resme Tertip Ettiler\u2026"
+        }
+    ], 
+    "title": "Der-Mevc-i Peri\u015fan-\u0131 Ma Fas\u0131la-i Nist", 
+    "url": "http://musicbrainz.org/work/82f47e2b-24b9-408c-a7e0-84eb02ef6e30", 
+    "artist_credits": [
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "82f47e2b-24b9-408c-a7e0-84eb02ef6e30", 
+    "form": [
+        {
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
+            "source": "http://musicbrainz.org/work/b69f0bd6-32ee-4793-a16d-f863992c0631"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/82f47e2b-24b9-408c-a7e0-84eb02ef6e30"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Kemal Bey"
+        }
+    ], 
+    "duration": 155, 
+    "path": "../data/Segah/82f47e2b-24b9-408c-a7e0-84eb02ef6e30.mp3", 
+    "works": [
+        {
+            "mbid": "b69f0bd6-32ee-4793-a16d-f863992c0631", 
+            "title": "Der-Mevc-i Peri\u015f\u00e2n m\u00e2 F\u00e2s\u0131la-i N\u00eest"
+        }
+    ]
+}

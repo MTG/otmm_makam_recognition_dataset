@@ -1,0 +1,148 @@
+{
+    "usul": [
+        {
+            "attribute_key": "raksan", 
+            "mb_attribute": "Raksan", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }, 
+        {
+            "attribute_key": "raksan", 
+            "mb_tag": "raksan", 
+            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "172af7d8-9817-49ab-8f1d-e7593984b8ad", 
+            "title": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "41576df9-369c-43de-831f-c1996e3b57ef", 
+            "title": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir Narin", 
+    "url": "http://musicbrainz.org/work/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "vocal", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan G\u00fcndiyer"
+        }, 
+        {
+            "mbid": "2843dde9-4f34-415f-abce-df3c142d406e", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Dolguny\u00fcrek"
+        }, 
+        {
+            "mbid": "2e06c7c2-c2fd-4484-8b28-b8d9efe0e9d1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Haluk Derin\u00f6z"
+        }, 
+        {
+            "mbid": "43f14d88-8f74-4254-9837-6c9350b03f27", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer Yaman"
+        }, 
+        {
+            "mbid": "51dd67df-47be-454f-b6e0-9c947581e7d7", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ali A\u015fk\u0131n"
+        }, 
+        {
+            "mbid": "5a68da84-b56f-4780-8f47-3b07e1b4d5a3", 
+            "attribute-list": [
+                "cello", 
+                "double bass"
+            ], 
+            "type": "instrument", 
+            "name": "Emin Safa Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "618e982e-4df7-41e5-bec3-674f9fe33e95", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "A. Y\u0131ldan Dirik"
+        }, 
+        {
+            "mbid": "85015e35-c8d5-42f2-bd68-60483874bf6d", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "H\u00fcseyin Turna"
+        }, 
+        {
+            "mbid": "d9a58619-ec31-4bcc-a0b6-54b6c1e6a96a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Sedat G\u00fcndiyer"
+        }
+    ], 
+    "duration": 132, 
+    "path": "../data/Muhayyer/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5.mp3", 
+    "works": [
+        {
+            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
+            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+        }
+    ]
+}

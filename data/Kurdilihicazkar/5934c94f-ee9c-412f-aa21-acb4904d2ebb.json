@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6eee275a-e0ef-4d88-830d-900429f9325a"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5934c94f-ee9c-412f-aa21-acb4904d2ebb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/6eee275a-e0ef-4d88-830d-900429f9325a"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/5934c94f-ee9c-412f-aa21-acb4904d2ebb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "495f6cda-3abd-4144-900f-3a526eecd2b9", 
+            "title": "Haf\u0131z Burhan - A\u015fk\u0131n G\u00f6zya\u015flar\u0131"
+        }
+    ], 
+    "title": "Y\u00fcz\u00fcm \u015een Hat\u0131ram \u015een", 
+    "url": "http://musicbrainz.org/work/5934c94f-ee9c-412f-aa21-acb4904d2ebb", 
+    "artist_credits": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "5934c94f-ee9c-412f-aa21-acb4904d2ebb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/6eee275a-e0ef-4d88-830d-900429f9325a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/5934c94f-ee9c-412f-aa21-acb4904d2ebb"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "15862dfc-8fa4-4ad4-b11c-caae2ec80b40", 
+            "type": "vocal", 
+            "name": "Haf\u0131z Burhan Sesy\u0131lmaz"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Kurdilihicazkar/5934c94f-ee9c-412f-aa21-acb4904d2ebb.mp3", 
+    "works": [
+        {
+            "mbid": "6eee275a-e0ef-4d88-830d-900429f9325a", 
+            "title": "Y\u00fcz\u00fcm \u015een Hat\u0131ram \u015een"
+        }
+    ]
+}

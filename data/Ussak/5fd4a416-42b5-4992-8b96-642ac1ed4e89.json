@@ -1,0 +1,103 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "60c842ae-6879-4e41-9fad-0b8a7b552fa6", 
+            "title": "The Early Recordings, Volume 1"
+        }
+    ], 
+    "title": "Urfa Havas\u0131", 
+    "url": "http://musicbrainz.org/work/5fd4a416-42b5-4992-8b96-642ac1ed4e89", 
+    "artist_credits": [
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "name": "Udi Hrant Kenkulian"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5fd4a416-42b5-4992-8b96-642ac1ed4e89", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "\u015e\u00fckr\u00fc Tunar"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Hrant Kenkulian"
+        }, 
+        {
+            "mbid": "90b1ad62-d0e1-4cb9-bd18-d8f69e5029b1", 
+            "type": "vocal", 
+            "name": "Udi Hrant Kenkulian"
+        }, 
+        {
+            "mbid": "df01d2b0-d8e4-447f-a5f1-034b9587ca83", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Yatman"
+        }, 
+        {
+            "mbid": "e26c9288-91f6-4ac7-9883-c570180e9fd1", 
+            "attribute-list": [
+                "darbuka"
+            ], 
+            "type": "instrument", 
+            "name": "Ali Kocadin\u00e7"
+        }
+    ], 
+    "duration": 188, 
+    "path": "../data/Ussak/5fd4a416-42b5-4992-8b96-642ac1ed4e89.mp3", 
+    "works": [
+        {
+            "mbid": "46497022-66e6-4cf9-8901-18b1ab3fcce3", 
+            "title": "Pencereden Kar Geliyor"
+        }
+    ]
+}

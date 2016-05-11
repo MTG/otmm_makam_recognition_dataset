@@ -1,0 +1,69 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/61e0a79f-f946-4258-909c-b169b396f6a5"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Hic\u00e2zk\u00e2r Saz Eseri (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/work/61e0a79f-f946-4258-909c-b169b396f6a5", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "61e0a79f-f946-4258-909c-b169b396f6a5", 
+    "form": [
+        {
+            "attribute_key": "sazeseri", 
+            "mb_attribute": "Sazeseri", 
+            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
+        }, 
+        {
+            "attribute_key": "sazeseri", 
+            "mb_tag": "sazeseri", 
+            "source": "http://musicbrainz.org/recording/61e0a79f-f946-4258-909c-b169b396f6a5"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 387, 
+    "path": "../data/Hicazkar/61e0a79f-f946-4258-909c-b169b396f6a5.mp3", 
+    "works": [
+        {
+            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
+            "title": "Hicazkar Saz Eseri"
+        }
+    ]
+}

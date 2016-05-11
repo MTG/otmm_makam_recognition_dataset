@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/e8e81fbb-134f-4850-8b77-1a487f233a74"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/b2118d97-1c15-4811-8c98-0fbb92b2c996"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/e8e81fbb-134f-4850-8b77-1a487f233a74"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/b2118d97-1c15-4811-8c98-0fbb92b2c996"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Bir Harbiyeli \u00c7aml\u0131ca'da G\u00f6nl\u00fcm\u00fc \u00c7ald\u0131", 
+    "url": "http://musicbrainz.org/work/b2118d97-1c15-4811-8c98-0fbb92b2c996", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "b2118d97-1c15-4811-8c98-0fbb92b2c996", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e8e81fbb-134f-4850-8b77-1a487f233a74"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/b2118d97-1c15-4811-8c98-0fbb92b2c996"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 167, 
+    "path": "../data/Kurdilihicazkar/b2118d97-1c15-4811-8c98-0fbb92b2c996.mp3", 
+    "works": [
+        {
+            "mbid": "e8e81fbb-134f-4850-8b77-1a487f233a74", 
+            "title": "Bir Harbiyeli \u00c7aml\u0131ca'da"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fa2ea7d4-5206-4463-b6e9-95cf4b0921fd", 
+            "title": "A\u015fk-\u0131 Neyzen"
+        }
+    ], 
+    "title": "Seg\u00e2h Taksim", 
+    "url": "http://musicbrainz.org/work/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca", 
+    "artist_credits": [
+        {
+            "mbid": "e4a32522-bec3-418b-a881-cb26a3147ed1", 
+            "name": "\u0130lhan Barut\u00e7u"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "06b6ee3b-34a0-4b9b-a2ba-469ad8240bca", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "e4a32522-bec3-418b-a881-cb26a3147ed1", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130lhan Barut\u00e7u"
+        }
+    ], 
+    "duration": 201, 
+    "path": "../data/Segah/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "usul": [
+        {
+            "attribute_key": "darbeyn", 
+            "mb_tag": "darbeyn", 
+            "source": "http://musicbrainz.org/recording/3577ef76-fe42-41f0-9ce5-205071a0523a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/7f607dde-81f8-4d91-bad8-249532510105"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/3577ef76-fe42-41f0-9ce5-205071a0523a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "dc723cab-aea4-448d-99ec-8a9e3aa96206", 
+            "title": "Necdet Ya\u015far - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Hicaz Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/3577ef76-fe42-41f0-9ce5-205071a0523a", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "3577ef76-fe42-41f0-9ce5-205071a0523a", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/7f607dde-81f8-4d91-bad8-249532510105"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/3577ef76-fe42-41f0-9ce5-205071a0523a"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 131, 
+    "path": "../data/Hicaz/3577ef76-fe42-41f0-9ce5-205071a0523a.mp3", 
+    "works": [
+        {
+            "mbid": "7f607dde-81f8-4d91-bad8-249532510105", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/652c3919-a1f3-41ea-9a2f-b1e0fbb0f6c6"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/652c3919-a1f3-41ea-9a2f-b1e0fbb0f6c6"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93eb4d4b-b3f7-4650-913a-93d8c8ecd9a4", 
+            "title": "Ottoman Turkish Court Music / Osmanl\u0131 T\u00fcrk Enderun Musikisi"
+        }
+    ], 
+    "title": "Neva Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/652c3919-a1f3-41ea-9a2f-b1e0fbb0f6c6", 
+    "artist_credits": [
+        {
+            "mbid": "9ed62346-228f-48e9-9a1d-f6052c982edd", 
+            "name": "Meral U\u011furlu Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "652c3919-a1f3-41ea-9a2f-b1e0fbb0f6c6", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/652c3919-a1f3-41ea-9a2f-b1e0fbb0f6c6"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }, 
+        {
+            "mbid": "3373f074-198b-4cb1-b4bb-17b433108c8a", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Re\u015fat Uca"
+        }, 
+        {
+            "mbid": "3b574ce5-00f2-4fe5-9b7b-201d168372e1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Samim Karaca"
+        }, 
+        {
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Birol Yayla"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }
+    ], 
+    "duration": 264, 
+    "path": "../data/Neva/652c3919-a1f3-41ea-9a2f-b1e0fbb0f6c6.mp3", 
+    "works": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ]
+}

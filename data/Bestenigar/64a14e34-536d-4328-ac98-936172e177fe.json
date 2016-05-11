@@ -1,0 +1,69 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/64a14e34-536d-4328-ac98-936172e177fe"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "93d37c26-9732-4558-afc9-b2e5d3f58cb0", 
+            "title": "Ney ile \u0130cra Edilmi\u015f Saz Eserleri"
+        }
+    ], 
+    "title": "Bestenigar Pe\u015frev (K\u0131z Ney)", 
+    "url": "http://musicbrainz.org/work/64a14e34-536d-4328-ac98-936172e177fe", 
+    "artist_credits": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo instrumental", 
+    "mbid": "64a14e34-536d-4328-ac98-936172e177fe", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/64a14e34-536d-4328-ac98-936172e177fe"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }
+    ], 
+    "duration": 415, 
+    "path": "../data/Bestenigar/64a14e34-536d-4328-ac98-936172e177fe.mp3", 
+    "works": [
+        {
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "title": "Bestenig\u00e2r Pe\u015frevi"
+        }
+    ]
+}

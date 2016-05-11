@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "def8324c-f183-437e-b51e-76e3b2129707", 
+            "title": "Trt Ar\u015fiv Serisi 28 - Bekir S\u0131tk\u0131 Sezgin'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "mbid": "7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a", 
+    "bit_rate": 80, 
+    "artists": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "duration": 119, 
+    "path": "../data/Muhayyer/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a"
+        }
+    ]
+}

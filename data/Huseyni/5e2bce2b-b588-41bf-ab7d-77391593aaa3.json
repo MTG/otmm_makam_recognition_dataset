@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5e2bce2b-b588-41bf-ab7d-77391593aaa3"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "dc723cab-aea4-448d-99ec-8a9e3aa96206", 
+            "title": "Necdet Ya\u015far - Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "H\u00fcseyn\u00ee Taksim", 
+    "url": "http://musicbrainz.org/work/5e2bce2b-b588-41bf-ab7d-77391593aaa3", 
+    "artist_credits": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5e2bce2b-b588-41bf-ab7d-77391593aaa3", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necdet Ya\u015far"
+        }
+    ], 
+    "duration": 172, 
+    "path": "../data/Huseyni/5e2bce2b-b588-41bf-ab7d-77391593aaa3.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5e2bce2b-b588-41bf-ab7d-77391593aaa3"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/5e2bce2b-b588-41bf-ab7d-77391593aaa3"
+        }
+    ]
+}

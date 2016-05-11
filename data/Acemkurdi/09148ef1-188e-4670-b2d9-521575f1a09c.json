@@ -1,0 +1,547 @@
+{
+    "usul": [
+        {
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "3ce4103f-48aa-4330-925a-68f69271ca47", 
+            "title": "Itri'den Suphi Ziya \u00d6zbekkan'a - T\u00fcrk Musikisinden Se\u00e7meler"
+        }
+    ], 
+    "title": "Bir Vefas\u0131z Yare D\u00fc\u015ft\u00fcm Hi\u00e7 Beni Yad Etmiyor", 
+    "url": "http://musicbrainz.org/work/09148ef1-188e-4670-b2d9-521575f1a09c", 
+    "artist_credits": [
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "09148ef1-188e-4670-b2d9-521575f1a09c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Sermet Kutlu\u011f"
+        }, 
+        {
+            "mbid": "006f76d9-ddc1-4d98-83ed-12f4138a01e6", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Yasemin \u015eehnaz Ayan"
+        }, 
+        {
+            "mbid": "00feadc7-2996-404b-9a88-2a80851ad571", 
+            "type": "vocal", 
+            "name": "Y\u0131ld\u0131r\u0131m \u00d6\u011f\u00fct"
+        }, 
+        {
+            "mbid": "033e5751-ca5c-4575-b624-8ab6ae79138a", 
+            "type": "vocal", 
+            "name": "G\u00fcrmen T\u00fcrkan"
+        }, 
+        {
+            "mbid": "03abe488-4951-4285-a8fa-9b1cc42bf0e9", 
+            "type": "vocal", 
+            "name": "Mithat \u00d6zy\u0131lmazel"
+        }, 
+        {
+            "mbid": "08e2029d-4b70-4edf-afa6-b17e88f5c145", 
+            "type": "vocal", 
+            "name": "Ufuk Caba"
+        }, 
+        {
+            "mbid": "0f2a5658-4429-4951-aa01-4c372226ee3d", 
+            "type": "conductor", 
+            "name": "Nevzad Atl\u0131\u011f"
+        }, 
+        {
+            "mbid": "1068697a-2dac-47db-a179-2c312a9247fd", 
+            "type": "vocal", 
+            "name": "Sema Kanar"
+        }, 
+        {
+            "mbid": "1567c21f-f95c-47ac-8180-6fbe65d8e170", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "F\u0131rat K\u0131z\u0131ltu\u011f"
+        }, 
+        {
+            "mbid": "18f0afc0-beec-4111-b076-09b1230b66f3", 
+            "type": "vocal", 
+            "name": "Fettah Cankurtaran"
+        }, 
+        {
+            "mbid": "1ad8ecce-8716-4b91-908b-f29578e8745f", 
+            "type": "vocal", 
+            "name": "Arif \u00d6zg\u00fcl\u00fc\u015f"
+        }, 
+        {
+            "mbid": "1c0eb0e8-3cab-444d-b66f-193595e55056", 
+            "type": "vocal", 
+            "name": "Ferda Sa\u011flam"
+        }, 
+        {
+            "mbid": "21bb6085-9aad-4734-8cc4-2ec24edbc0e5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Serap Aybar"
+        }, 
+        {
+            "mbid": "23082065-b1b8-4e97-9298-35dc165a4a36", 
+            "type": "vocal", 
+            "name": "H\u00fclya Kocabalkan"
+        }, 
+        {
+            "mbid": "27f68133-9f1a-4695-b29b-3bcd243ddea7", 
+            "type": "vocal", 
+            "name": "Vedat Ko\u015far"
+        }, 
+        {
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Aziz \u015eenol Filiz"
+        }, 
+        {
+            "mbid": "2d6f4550-73ae-413d-81f8-b1f9805f18c0", 
+            "type": "vocal", 
+            "name": "Muzaffer Yavuz"
+        }, 
+        {
+            "mbid": "2e57a655-f119-4e0e-933a-240fc01b7974", 
+            "type": "vocal", 
+            "name": "Nazire Ya\u011f\u0131z"
+        }, 
+        {
+            "mbid": "321fa912-6c30-4b7b-9ba9-9c98d7304d34", 
+            "type": "vocal", 
+            "name": "Adnan Mungan"
+        }, 
+        {
+            "mbid": "3373f074-198b-4cb1-b4bb-17b433108c8a", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Re\u015fat Uca"
+        }, 
+        {
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Salih Bilgin"
+        }, 
+        {
+            "mbid": "3b574ce5-00f2-4fe5-9b7b-201d168372e1", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Samim Karaca"
+        }, 
+        {
+            "mbid": "3dcf581c-ad17-4e66-aab6-0dd9efd8c7f8", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Serhan Aytan"
+        }, 
+        {
+            "mbid": "3f4ce873-0e1c-45ea-9de5-e398f7a123de", 
+            "type": "vocal", 
+            "name": "\u00c7etin K\u00f6r\u00fck\u00e7\u00fco\u011flu"
+        }, 
+        {
+            "mbid": "402ad352-b89e-4c3b-954d-b0f6b346bbed", 
+            "type": "vocal", 
+            "name": "Ayfer \u00c7a\u011flayan"
+        }, 
+        {
+            "mbid": "417eb0d5-48ce-497a-bf22-de88eed98e46", 
+            "type": "vocal", 
+            "name": "Asuman S\u00fcmer"
+        }, 
+        {
+            "mbid": "4651bcff-7cad-404d-a962-37d6737b1d3d", 
+            "type": "vocal", 
+            "name": "Sakine Ayd\u0131n"
+        }, 
+        {
+            "mbid": "5741a128-a5f9-445a-a65f-7ccaa67a125a", 
+            "type": "vocal", 
+            "name": "Belma Yamaner"
+        }, 
+        {
+            "mbid": "59f23c43-f770-499a-9144-51003a37c106", 
+            "type": "vocal", 
+            "name": "Aylin Vatanko\u015f"
+        }, 
+        {
+            "mbid": "616071df-506c-4802-925a-26205aa8d0dd", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hacer T\u0131so\u011flu"
+        }, 
+        {
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin \u00c7imenli"
+        }, 
+        {
+            "mbid": "64820f07-bbb6-4d4b-b30f-759f48c1bbb5", 
+            "type": "vocal", 
+            "name": "Bahri Y\u00fczl\u00fcer"
+        }, 
+        {
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Birol Yayla"
+        }, 
+        {
+            "mbid": "6d05f5f7-4a90-40ac-a4fc-4fbcd1420e6a", 
+            "type": "vocal", 
+            "name": "\u0130ncila Denizalp Bertu\u011f"
+        }, 
+        {
+            "mbid": "71c37b8c-d91d-475a-90a2-d34062df0de6", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Mustafa G\u00fcvenkaya"
+        }, 
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "type": "performing orchestra", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "727dc3f2-dc40-470b-9b0a-f6a8f89f6b4f", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "7368594f-f59f-4593-a2e7-4ee66363b692", 
+            "type": "vocal", 
+            "name": "Nejdet \u015eenol"
+        }, 
+        {
+            "mbid": "7559efa4-95a2-4282-bc26-3c245264513f", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cahit Peksayar"
+        }, 
+        {
+            "mbid": "768418e6-8608-43bd-b66a-726ddf42b9db", 
+            "type": "vocal", 
+            "name": "Hande \u00c7etinkaya"
+        }, 
+        {
+            "mbid": "7c8c0a3f-34f9-41e1-a973-10859cbe9877", 
+            "type": "vocal", 
+            "name": "Kaya Karata\u015f"
+        }, 
+        {
+            "mbid": "811fcf96-4035-4213-ba71-a3dda9e56671", 
+            "type": "vocal", 
+            "name": "Aykan \u00d6zg\u00fcn"
+        }, 
+        {
+            "mbid": "8180af03-5b7b-49a2-a5c1-edc659732540", 
+            "type": "vocal", 
+            "name": "Hasan G\u00fclsever"
+        }, 
+        {
+            "mbid": "84f82c3d-9e5d-4b68-8581-57ba457eef9e", 
+            "type": "vocal", 
+            "name": "Berna Salgar"
+        }, 
+        {
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Taner Sayac\u0131o\u011flu"
+        }, 
+        {
+            "mbid": "8eb6911b-bd19-499d-98d0-c00591f97265", 
+            "type": "vocal", 
+            "name": "\u0130smail Hakk\u0131 Fencio\u011flu"
+        }, 
+        {
+            "mbid": "8eec8de6-4bd5-40dd-b5e8-8fcb0fe4f501", 
+            "type": "vocal", 
+            "name": "Recep \u00c7evir"
+        }, 
+        {
+            "mbid": "92ff8217-a369-4257-8d2f-003827b8f5fe", 
+            "type": "vocal", 
+            "name": "Nurullah \u015eahin\u00f6z"
+        }, 
+        {
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Aydemir"
+        }, 
+        {
+            "mbid": "9da0113d-6246-466c-b89f-3d977854f227", 
+            "type": "vocal", 
+            "name": "Hulusi Y\u00fcceb\u0131y\u0131k"
+        }, 
+        {
+            "mbid": "9e320a33-64b4-4a67-ae99-98679cdf8718", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "L\u00fctfiye \u00d6zer"
+        }, 
+        {
+            "mbid": "9e632c92-2214-4888-81a4-9cc7e86888cf", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Nalan \u00d6zyasan"
+        }, 
+        {
+            "mbid": "b0bbd0fe-42f7-421c-82de-f4df6323984b", 
+            "type": "vocal", 
+            "name": "Meral U\u011furlu"
+        }, 
+        {
+            "mbid": "b3c9ed60-289f-4635-976b-ce8a7ded20fd", 
+            "type": "vocal", 
+            "name": "Erol \u00dcnal"
+        }, 
+        {
+            "mbid": "b8373093-c41f-4eee-b7ea-ffaae4398cf9", 
+            "type": "vocal", 
+            "name": "Sabri T\u00fcfek\u00e7i"
+        }, 
+        {
+            "mbid": "c13037ef-9f64-49d4-b023-9c98930aae17", 
+            "type": "vocal", 
+            "name": "Nurg\u00fcl G\u00f6kt\u00fcrk"
+        }, 
+        {
+            "mbid": "c8a816d3-63f3-479a-aea2-b6d0f9870a12", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Fikret Kamil Bertu\u011f"
+        }, 
+        {
+            "mbid": "ca7400eb-67eb-4ab5-b65e-dbe9d9e0c0ed", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Mahinur \u00d6z\u00fcst\u00fcn"
+        }, 
+        {
+            "mbid": "cd7459af-b0c3-4623-bd27-03a0164add36", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Mekin \u00c7etin\u00f6z"
+        }, 
+        {
+            "mbid": "d1d73917-2f22-448e-a795-993b3c6891f3", 
+            "type": "vocal", 
+            "name": "Fatih Salgar"
+        }, 
+        {
+            "mbid": "d3900d72-850a-4ef7-bad0-28cb85767c4a", 
+            "type": "vocal", 
+            "name": "Asuman Ercan"
+        }, 
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "type": "vocal", 
+            "name": "M\u00fcnip Utand\u0131"
+        }, 
+        {
+            "mbid": "d6f1ed19-4aa3-4062-a5f6-df6f7cd179d6", 
+            "type": "vocal", 
+            "name": "Ender Erg\u00fcn"
+        }, 
+        {
+            "mbid": "d858ad1f-4ecd-41c8-9a20-26946097763e", 
+            "type": "vocal", 
+            "name": "\u0130lhan Taylan"
+        }, 
+        {
+            "mbid": "e1cf066b-243e-40fd-8bf9-22196859fea3", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Y\u0131lmaz \u00d6zer"
+        }, 
+        {
+            "mbid": "e4f3d278-527f-4ecd-9c4a-2f661d784370", 
+            "type": "vocal", 
+            "name": "Galib \u00c7olako\u011flu"
+        }, 
+        {
+            "mbid": "e56195ea-142f-4003-887b-88722c2d00b3", 
+            "type": "vocal", 
+            "name": "Ceyda Utand\u0131"
+        }, 
+        {
+            "mbid": "e5bc0dcf-415c-4931-b4c0-0f3c68645dff", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Haldun Ersin"
+        }, 
+        {
+            "mbid": "e97f134a-30cc-437a-809d-57b297829529", 
+            "type": "vocal", 
+            "name": "Nursel Erg\u00fcn"
+        }, 
+        {
+            "mbid": "ea72cc73-500e-45f4-a5f3-8c15ebf9eec8", 
+            "type": "vocal", 
+            "name": "Ferahnaz G\u00fcndo\u011fdu"
+        }, 
+        {
+            "mbid": "ebb16b0b-1ef2-41d8-b4b9-fe54e76122fe", 
+            "type": "vocal", 
+            "name": "\u015eehnaz U\u011furel"
+        }, 
+        {
+            "mbid": "ebb751be-4730-4a4b-b5a2-5b509b85e598", 
+            "type": "vocal", 
+            "name": "Nihat Ergin"
+        }, 
+        {
+            "mbid": "f13ddb7f-f8e6-4d7d-a444-85452e66b3b9", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Mithat Ar\u0131soy"
+        }, 
+        {
+            "mbid": "f6e2225e-7250-41bf-8a80-66530b5b040c", 
+            "type": "vocal", 
+            "name": "Aysel S\u00f6nmez"
+        }, 
+        {
+            "mbid": "f8d00b3b-319a-457a-99bd-275c24434168", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "\u0130hsan Arslan"
+        }, 
+        {
+            "mbid": "f900658f-e6ab-49fe-ab8c-20ea7aca7e7b", 
+            "type": "vocal", 
+            "name": "Ne\u015fe Ak\u00e7a"
+        }, 
+        {
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Osman Nuri \u00d6zpekel"
+        }, 
+        {
+            "mbid": "fb467895-d49d-4089-9a97-5b3f672d8ab1", 
+            "type": "vocal", 
+            "name": "Fatma Apayd\u0131n"
+        }, 
+        {
+            "mbid": "fbee574a-f28d-44a2-8089-bd5fe948912f", 
+            "type": "vocal", 
+            "name": "Yurdag\u00fcl Ero\u011flu"
+        }, 
+        {
+            "mbid": "fc628f54-6321-4d67-aa60-515ba3068a2a", 
+            "type": "vocal", 
+            "name": "Arzu \u00d6zg\u00fcn"
+        }
+    ], 
+    "duration": 133, 
+    "path": "../data/Acemkurdi/09148ef1-188e-4670-b2d9-521575f1a09c.mp3", 
+    "works": [
+        {
+            "mbid": "44c37b1b-5751-45a5-a3d8-f040cffe6770", 
+            "title": "Bir Vefas\u0131z Yare D\u00fc\u015ft\u00fcm Hi\u00e7 Beni Yad Etmiyor"
+        }
+    ]
+}

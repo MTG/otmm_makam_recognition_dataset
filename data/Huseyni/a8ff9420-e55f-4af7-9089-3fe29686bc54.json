@@ -1,0 +1,79 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/a8ff9420-e55f-4af7-9089-3fe29686bc54"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/a8ff9420-e55f-4af7-9089-3fe29686bc54"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "43c7c19d-66d7-482a-80ff-2b061af78e8a", 
+            "title": "Sar\u0131 Kurdela- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Sar\u0131 Gelin", 
+    "url": "http://musicbrainz.org/work/a8ff9420-e55f-4af7-9089-3fe29686bc54", 
+    "artist_credits": [
+        {
+            "mbid": "6efe9ce6-9074-4c2b-b7c2-96a1590c3fa4", 
+            "name": "Malatyal\u0131 Fahri Kayahan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "a8ff9420-e55f-4af7-9089-3fe29686bc54", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/5fe97db5-f8c0-4e3a-bab8-c578173cae3c"
+        }, 
+        {
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/recording/a8ff9420-e55f-4af7-9089-3fe29686bc54"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "6efe9ce6-9074-4c2b-b7c2-96a1590c3fa4", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Malatyal\u0131 Fahri Kayahan"
+        }, 
+        {
+            "mbid": "6efe9ce6-9074-4c2b-b7c2-96a1590c3fa4", 
+            "type": "vocal", 
+            "name": "Malatyal\u0131 Fahri Kayahan"
+        }
+    ], 
+    "duration": 181, 
+    "path": "../data/Huseyni/a8ff9420-e55f-4af7-9089-3fe29686bc54.mp3", 
+    "works": [
+        {
+            "mbid": "5fe97db5-f8c0-4e3a-bab8-c578173cae3c", 
+            "title": "Sar\u0131 Gelin"
+        }
+    ]
+}

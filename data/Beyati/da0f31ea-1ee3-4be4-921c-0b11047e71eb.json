@@ -1,0 +1,289 @@
+{
+    "usul": [
+        {
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/da0f31ea-1ee3-4be4-921c-0b11047e71eb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/da0f31ea-1ee3-4be4-921c-0b11047e71eb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4f204b33-0630-4f8c-8e00-7cba6bbd1595", 
+            "title": "Bestekarlar\u0131m\u0131z: 2 - Rahmi Bey"
+        }
+    ], 
+    "title": "G\u00fcl Hazin S\u00fcnb\u00fcl Peri\u015fan Ba\u011f-\u0131 Zar\u0131n \u015eevk-i Yok", 
+    "url": "http://musicbrainz.org/work/da0f31ea-1ee3-4be4-921c-0b11047e71eb", 
+    "artist_credits": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Choir", 
+    "mbid": "da0f31ea-1ee3-4be4-921c-0b11047e71eb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/da0f31ea-1ee3-4be4-921c-0b11047e71eb"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "type": "performing orchestra", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
+            "attribute-list": [
+                "choir vocals"
+            ], 
+            "type": "vocal", 
+            "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
+        }, 
+        {
+            "mbid": "029ce56d-4532-475f-985c-bd558a90accb", 
+            "type": "vocal", 
+            "name": "Nuray Kurtulu\u015f"
+        }, 
+        {
+            "mbid": "09bf955b-4109-4d23-8b98-0f16be18f8da", 
+            "type": "vocal", 
+            "name": "Selver Taner"
+        }, 
+        {
+            "mbid": "1a495765-049c-44f7-af45-9b0f6685cbf4", 
+            "type": "vocal", 
+            "name": "Necdet Erkol"
+        }, 
+        {
+            "mbid": "276afb29-206f-47e6-b417-c45544fb9853", 
+            "type": "vocal", 
+            "name": "Zerrin Nayc\u0131"
+        }, 
+        {
+            "mbid": "33f9dca7-4353-474e-b675-1ef58d15f77d", 
+            "type": "vocal", 
+            "name": "Harika Oktay"
+        }, 
+        {
+            "mbid": "3d00eb62-8890-4d08-9c2d-13895dc00811", 
+            "type": "vocal", 
+            "name": "Handan Karakaya"
+        }, 
+        {
+            "mbid": "52e512e5-ea02-4d12-963d-24b34b3ebc0b", 
+            "type": "vocal", 
+            "name": "Zarife \u00d6zen"
+        }, 
+        {
+            "mbid": "57195f2e-4e54-4d79-8aed-13ff990159f8", 
+            "type": "vocal", 
+            "name": "M\u00fccella Payasl\u0131"
+        }, 
+        {
+            "mbid": "57810d39-de39-4fe2-8e87-2ecb022cd4d6", 
+            "type": "vocal", 
+            "name": "Saadettin \u015eenoymak"
+        }, 
+        {
+            "mbid": "57d2d2f3-91d7-4db4-9e59-088bf4a19d5b", 
+            "type": "vocal", 
+            "name": "Tamer Conker"
+        }, 
+        {
+            "mbid": "5b542766-cd1b-4b70-ae75-935aee1232d1", 
+            "type": "vocal", 
+            "name": "H\u00fclya Aydo\u011fdu"
+        }, 
+        {
+            "mbid": "5e93f8a4-496f-4c60-ab93-1a5c402bdb35", 
+            "type": "vocal", 
+            "name": "\u00dclker Karaman"
+        }, 
+        {
+            "mbid": "6255c7d8-ff6e-49bb-b707-0cf2967b6067", 
+            "type": "vocal", 
+            "name": "Leyal Kalecik"
+        }, 
+        {
+            "mbid": "65d9ac2a-4142-49d3-b042-42bfee18fac1", 
+            "type": "vocal", 
+            "name": "Volkan G\u00f6z\u00fcb\u00fcy\u00fck"
+        }, 
+        {
+            "mbid": "69383479-c20b-4a75-85aa-7f7f1f43a411", 
+            "type": "vocal", 
+            "name": "G\u00fclderen K\u00fcp\u00e7\u00fc"
+        }, 
+        {
+            "mbid": "69f50ac4-f907-4935-9f6b-842eeb551144", 
+            "type": "vocal", 
+            "name": "Figen Ak\u0131\u015f\u0131k"
+        }, 
+        {
+            "mbid": "6a2ec216-ce93-43ac-af9d-5746c78590dc", 
+            "type": "vocal", 
+            "name": "Fatma Sevran"
+        }, 
+        {
+            "mbid": "72503615-e234-43cb-9784-b411cd95dc09", 
+            "type": "vocal", 
+            "name": "M. Ferdi \u0130pek\u00e7io\u011flu"
+        }, 
+        {
+            "mbid": "7807a2f2-5673-45d8-afd9-4c5291ab8f5d", 
+            "type": "vocal", 
+            "name": "Ay\u015fin \u00d6kmen"
+        }, 
+        {
+            "mbid": "811bd547-033f-40ff-95d0-301094b36b8b", 
+            "type": "vocal", 
+            "name": "Z\u00fcht\u00fc Gencer"
+        }, 
+        {
+            "mbid": "820c10c4-45a9-4463-b7c3-c243847e3d69", 
+            "type": "vocal", 
+            "name": "Cumhur Kemal Koca"
+        }, 
+        {
+            "mbid": "a258e9fd-73ba-42ea-9d66-907588e65113", 
+            "type": "vocal", 
+            "name": "Aysel G\u00fcven"
+        }, 
+        {
+            "mbid": "a5a5ffbb-f655-4b8c-8dca-6986b0433eec", 
+            "type": "conductor", 
+            "name": "U\u011fur Bayrak"
+        }, 
+        {
+            "mbid": "a6d30618-1bb0-43c0-8946-c7e298cd7da7", 
+            "type": "vocal", 
+            "name": "Esin Din\u00e7er"
+        }, 
+        {
+            "mbid": "b239e9f3-b951-4496-8f42-6ebe25e8a2d7", 
+            "type": "vocal", 
+            "name": "\u00dclk\u00fc A\u015fkan"
+        }, 
+        {
+            "mbid": "b62232b1-e43b-4fef-baff-7495d22a00a6", 
+            "type": "vocal", 
+            "name": "Ertu\u011frul Sevindik"
+        }, 
+        {
+            "mbid": "b9f68cb6-0fb4-438a-8abc-0a4dce718050", 
+            "type": "vocal", 
+            "name": "Ayhan Bal"
+        }, 
+        {
+            "mbid": "c1284db5-5a8c-4292-8dbd-30d1fa56a0c2", 
+            "type": "vocal", 
+            "name": "Kevser S\u00f6zmen"
+        }, 
+        {
+            "mbid": "cbff360d-517b-4fa3-8614-c86a094fa6a8", 
+            "type": "vocal", 
+            "name": "Naciye Hazar"
+        }, 
+        {
+            "mbid": "cf715fa2-960b-4681-98b6-d7093dbfc7fe", 
+            "type": "vocal", 
+            "name": "Ye\u015fim Ye\u015fil Karaibrahimo\u011flu"
+        }, 
+        {
+            "mbid": "d1233271-3e35-480a-8e34-cc96044d4c5d", 
+            "type": "vocal", 
+            "name": "Yavuz S. Ba\u015ftu\u011f"
+        }, 
+        {
+            "mbid": "d2a94d1f-02d9-44d0-8f68-fee38aedb8aa", 
+            "type": "vocal", 
+            "name": "Cana \u00c7ap"
+        }, 
+        {
+            "mbid": "d7f55bae-0550-453c-86e8-cf130a83e6a1", 
+            "type": "vocal", 
+            "name": "Zehra \u00d6n\u00fcg\u00f6ren"
+        }, 
+        {
+            "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+            "type": "conductor", 
+            "name": "\u015eent\u00fcrk Deveci"
+        }, 
+        {
+            "mbid": "dd64c46b-a44a-4470-833f-36fbfb1f4257", 
+            "type": "vocal", 
+            "name": "M. \u015eerafettin Bereketlio\u011flu"
+        }, 
+        {
+            "mbid": "e73e4476-e144-4605-96d0-035b1dade76b", 
+            "type": "vocal", 
+            "name": "Tuncay Yal\u0131n"
+        }, 
+        {
+            "mbid": "e92a1226-c0a8-490f-b09b-eedfdfc5fedb", 
+            "type": "vocal", 
+            "name": "Turgut Karadeniz"
+        }, 
+        {
+            "mbid": "e977a8f9-5553-42c2-9673-b5c654191e48", 
+            "type": "vocal", 
+            "name": "H\u00fclya Erkol"
+        }, 
+        {
+            "mbid": "e996a8b2-88a1-4273-a200-7a8d9c0d43e9", 
+            "type": "vocal", 
+            "name": "Banu Akseli"
+        }, 
+        {
+            "mbid": "efbd6cc5-90c8-4922-96b4-d529773dc3d5", 
+            "type": "vocal", 
+            "name": "E. S\u00fcha G\u00f6ksel"
+        }, 
+        {
+            "mbid": "f15aab05-743f-4545-8007-0eb20450d654", 
+            "type": "vocal", 
+            "name": "Nevin Aymeri\u00e7"
+        }, 
+        {
+            "mbid": "f4eb49f8-a7b0-40e6-89ea-d8ee6d0b7f3d", 
+            "type": "vocal", 
+            "name": "Nebahat Konu"
+        }
+    ], 
+    "duration": 238, 
+    "path": "../data/Beyati/da0f31ea-1ee3-4be4-921c-0b11047e71eb.mp3", 
+    "works": [
+        {
+            "mbid": "bee6ac55-19d8-4bdf-891e-ea2c8cc91837", 
+            "title": "G\u00fcl Hazin S\u00fcnb\u00fcl Peri\u015fan"
+        }
+    ]
+}

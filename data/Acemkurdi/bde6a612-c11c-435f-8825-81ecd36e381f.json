@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/41910ffb-ff1a-45fe-881a-4cbfef1c7efc"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/bde6a612-c11c-435f-8825-81ecd36e381f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/41910ffb-ff1a-45fe-881a-4cbfef1c7efc"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/bde6a612-c11c-435f-8825-81ecd36e381f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "c053c125-88e1-43a9-8764-09a786fcb86e", 
+            "title": "Acem K\u00fcrdi"
+        }
+    ], 
+    "title": "Bak Bahta da \u0130kbale de Nur \u0130ndi Hatay'da", 
+    "url": "http://musicbrainz.org/work/bde6a612-c11c-435f-8825-81ecd36e381f", 
+    "artist_credits": [
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "bde6a612-c11c-435f-8825-81ecd36e381f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/41910ffb-ff1a-45fe-881a-4cbfef1c7efc"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/bde6a612-c11c-435f-8825-81ecd36e381f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "2ed65e8e-74fa-4f57-ba19-81b7ee39582e", 
+            "type": "vocal", 
+            "name": "Esma Ba\u015fbu\u011f"
+        }
+    ], 
+    "duration": 209, 
+    "path": "../data/Acemkurdi/bde6a612-c11c-435f-8825-81ecd36e381f.mp3", 
+    "works": [
+        {
+            "mbid": "41910ffb-ff1a-45fe-881a-4cbfef1c7efc", 
+            "title": "Bak Bahta da \u0130kbale de Nur \u0130ndi"
+        }
+    ]
+}

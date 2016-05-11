@@ -1,0 +1,143 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
+            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
+        }, 
+        {
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
+            "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2922e15c-3f88-45d8-b62e-ba6fb08957d4", 
+            "title": "TRT \u0130stanbul Radyosu - 02.08.1996"
+        }
+    ], 
+    "title": "Kalbim Kan\u0131yor Durmadan En Tatl\u0131 \u00c7a\u011f\u0131nda", 
+    "url": "http://musicbrainz.org/work/29d20bf1-678f-4bd0-9e65-81c651d1dab7", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 48000, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "29d20bf1-678f-4bd0-9e65-81c651d1dab7", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "9a56c302-69e0-449e-88e6-54f45aff8594", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Ali Hevenk"
+        }, 
+        {
+            "mbid": "aac2ac47-c429-4656-b0b5-fbeae5ccdcb0", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Y\u0131ld\u0131zdo\u011fan"
+        }, 
+        {
+            "mbid": "ceddc90f-3517-4b3d-a5bf-b6bbef47e2af", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Naci G\u00f6\u00e7men"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }, 
+        {
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ergin K\u0131z\u0131lay"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }
+    ], 
+    "duration": 236, 
+    "path": "../data/Huzzam/29d20bf1-678f-4bd0-9e65-81c651d1dab7.mp3", 
+    "works": [
+        {
+            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
+            "title": "Kalbim Kan\u0131yor"
+        }
+    ]
+}

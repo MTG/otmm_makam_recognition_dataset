@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/4e37b256-aaa6-4174-be6a-122521d2c7ca"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6e977105-4a85-4ca2-8d45-f950ef70ccd2"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
+            "source": "http://musicbrainz.org/work/4e37b256-aaa6-4174-be6a-122521d2c7ca"
+        }, 
+        {
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
+            "source": "http://musicbrainz.org/recording/6e977105-4a85-4ca2-8d45-f950ef70ccd2"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e71c3818-8ced-489c-a4f2-bb89b09d141e", 
+            "title": "Sadeddin Kaynak - 2CD"
+        }
+    ], 
+    "title": "\u0130ncecikten Bir Kar Ya\u011far", 
+    "url": "http://musicbrainz.org/work/6e977105-4a85-4ca2-8d45-f950ef70ccd2", 
+    "artist_credits": [
+        {
+            "mbid": "c5d7aa23-f016-46d2-af85-a2997799da15", 
+            "name": "Perihan Alt\u0131nda\u011f S\u00f6zeri"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "6e977105-4a85-4ca2-8d45-f950ef70ccd2", 
+    "form": [
+        {
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
+            "source": "http://musicbrainz.org/work/4e37b256-aaa6-4174-be6a-122521d2c7ca"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6e977105-4a85-4ca2-8d45-f950ef70ccd2"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "c5d7aa23-f016-46d2-af85-a2997799da15", 
+            "type": "vocal", 
+            "name": "Perihan Alt\u0131nda\u011f S\u00f6zeri"
+        }
+    ], 
+    "duration": 278, 
+    "path": "../data/Segah/6e977105-4a85-4ca2-8d45-f950ef70ccd2.mp3", 
+    "works": [
+        {
+            "mbid": "4e37b256-aaa6-4174-be6a-122521d2c7ca", 
+            "title": "\u0130ncecikten Bir Kar Ya\u011far"
+        }
+    ]
+}

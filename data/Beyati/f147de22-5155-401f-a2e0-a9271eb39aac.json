@@ -1,0 +1,144 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "f574161e-78fe-4348-9d71-6e14fec5ed79", 
+            "title": "T\u00fcrk - \u0130slam Musikisi K\u00fclliyat\u0131ndan Tev\u015fihler 4"
+        }
+    ], 
+    "title": "Hadden A\u015ft\u0131 \u0130\u015ftiyak\u0131n", 
+    "url": "http://musicbrainz.org/work/f147de22-5155-401f-a2e0-a9271eb39aac", 
+    "artist_credits": [
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
+            "name": "Mehmet Kemiksiz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Duet", 
+    "mbid": "f147de22-5155-401f-a2e0-a9271eb39aac", 
+    "form": [
+        {
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
+            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
+        }, 
+        {
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
+            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
+            "type": "vocal", 
+            "name": "Mehmet Kemiksiz"
+        }, 
+        {
+            "mbid": "19290a9a-c68a-4a48-b3b0-2652e9adfa41", 
+            "attribute-list": [
+                "bendir"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Fatih Z\u00fclfikar"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "type": "vocal", 
+            "name": "Ahmet \u015eahin"
+        }, 
+        {
+            "mbid": "7b760a7e-0233-41d4-9741-1ac37cba5d37", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Sadrettin \u00d6z\u00e7imi"
+        }, 
+        {
+            "mbid": "b0eb3f51-ad13-46ed-9206-f490f7c619eb", 
+            "attribute-list": [
+                "daire"
+            ], 
+            "type": "instrument", 
+            "name": "Ferruh Yark\u0131n"
+        }, 
+        {
+            "mbid": "b0eb3f51-ad13-46ed-9206-f490f7c619eb", 
+            "attribute-list": [
+                "kud\u00fcm"
+            ], 
+            "type": "instrument", 
+            "name": "Ferruh Yark\u0131n"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6zer \u00d6zel"
+        }
+    ], 
+    "duration": 233, 
+    "path": "../data/Beyati/f147de22-5155-401f-a2e0-a9271eb39aac.mp3", 
+    "works": [
+        {
+            "mbid": "b0c1412f-c3e5-4403-a25f-839c3db9b8cf", 
+            "title": "Hadden A\u015ft\u0131 \u0130\u015ftiyak\u0131n"
+        }
+    ]
+}

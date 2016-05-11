@@ -1,0 +1,143 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/03faad43-689e-4814-93ad-b7f678531e5f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/03faad43-689e-4814-93ad-b7f678531e5f"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "2115eba6-c085-4bd0-923f-bb99550d64ac", 
+            "title": "TRT \u0130stanbul Radyosu - 27.05.1992"
+        }
+    ], 
+    "title": "Esir-i Z\u00fclf\u00fcn\u00fcm Ey Y\u00fcz\u00fc Mah\u0131m", 
+    "url": "http://musicbrainz.org/work/03faad43-689e-4814-93ad-b7f678531e5f", 
+    "artist_credits": [
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "name": "Koray Safkan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "03faad43-689e-4814-93ad-b7f678531e5f", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/03faad43-689e-4814-93ad-b7f678531e5f"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Ayhan \u00c7ak\u0131r"
+        }, 
+        {
+            "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
+            "type": "vocal", 
+            "name": "Koray Safkan"
+        }, 
+        {
+            "mbid": "2dd7b59a-9069-4eec-b69a-b8bc38d60ed4", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Cenneto\u011flu"
+        }, 
+        {
+            "mbid": "4e499251-0fbc-4668-84d7-25a61230b19f", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Cavit Dering\u00f6l"
+        }, 
+        {
+            "mbid": "4f0848c6-0867-458c-a02d-7d4352643f7d", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Baki Duyarlar"
+        }, 
+        {
+            "mbid": "51c0b22d-3a05-4c21-98b8-0a4aebaf9aa7", 
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "type": "instrument", 
+            "name": "Barbaros Erk\u00f6se"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b611c81e-2ff9-408c-bfb3-4ad94affbd79", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Nevbahar \u00d6zel"
+        }, 
+        {
+            "mbid": "bd3818de-5df2-48c3-86e5-59ce1dab8f57", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Demir"
+        }, 
+        {
+            "mbid": "c55af00c-b37a-4bf9-b135-f3344b4bd713", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "S\u00fcleyman Erg\u00fcner"
+        }
+    ], 
+    "duration": 172, 
+    "path": "../data/Ussak/03faad43-689e-4814-93ad-b7f678531e5f.mp3", 
+    "works": [
+        {
+            "mbid": "87e40b7f-89a1-42b6-9cb4-6f7c0dff8eac", 
+            "title": "Esir-i Z\u00fclf\u00fcn\u00fcm Ey Y\u00fcz\u00fc Mah\u0131m"
+        }
+    ]
+}

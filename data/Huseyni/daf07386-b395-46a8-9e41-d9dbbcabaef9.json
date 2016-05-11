@@ -1,0 +1,93 @@
+{
+    "usul": [
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/daf07386-b395-46a8-9e41-d9dbbcabaef9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/daf07386-b395-46a8-9e41-d9dbbcabaef9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "23a69389-518b-4b31-b7d7-7175db138665", 
+            "title": "C\u00fcneyd Orhon"
+        }
+    ], 
+    "title": "H\u00fcseyni Taksim, \u00c7e\u00e7en K\u0131z\u0131", 
+    "url": "http://musicbrainz.org/work/daf07386-b395-46a8-9e41-d9dbbcabaef9", 
+    "artist_credits": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer"
+        }, 
+        {
+            "mbid": "afe4b055-2d1f-401b-8a7f-56b8457e8e9d", 
+            "name": "Necati Giray"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Trio instrumental", 
+    "mbid": "daf07386-b395-46a8-9e41-d9dbbcabaef9", 
+    "form": [
+        {
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "C\u00fcneyd Orhon"
+        }, 
+        {
+            "mbid": "afe4b055-2d1f-401b-8a7f-56b8457e8e9d", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "Necati Giray"
+        }, 
+        {
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Nevzat S\u00fcmer"
+        }
+    ], 
+    "duration": 137, 
+    "path": "../data/Huseyni/daf07386-b395-46a8-9e41-d9dbbcabaef9.mp3", 
+    "works": [
+        {
+            "mbid": "93f31506-25aa-49da-96cd-660c6a2e44bf", 
+            "title": "\u00c7e\u00e7en K\u0131z\u0131"
+        }
+    ]
+}

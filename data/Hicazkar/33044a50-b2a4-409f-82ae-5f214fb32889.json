@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/a34c64cc-12f8-4e85-a62d-d5b083ba6a4a"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/33044a50-b2a4-409f-82ae-5f214fb32889"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
+            "source": "http://musicbrainz.org/work/a34c64cc-12f8-4e85-a62d-d5b083ba6a4a"
+        }, 
+        {
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
+            "source": "http://musicbrainz.org/recording/33044a50-b2a4-409f-82ae-5f214fb32889"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "8aadb37c-20c4-4757-b285-2c4147a6553f", 
+            "title": "Lale - Nerkis Han\u0131mlar"
+        }
+    ], 
+    "title": "G\u00f6rmezsem E\u011fer", 
+    "url": "http://musicbrainz.org/work/33044a50-b2a4-409f-82ae-5f214fb32889", 
+    "artist_credits": [
+        {
+            "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
+            "name": "Lale Han\u0131m"
+        }, 
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "name": "Nerkis Han\u0131m"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "33044a50-b2a4-409f-82ae-5f214fb32889", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a34c64cc-12f8-4e85-a62d-d5b083ba6a4a"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/33044a50-b2a4-409f-82ae-5f214fb32889"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
+            "type": "vocal", 
+            "name": "Nerkis Han\u0131m"
+        }
+    ], 
+    "duration": 159, 
+    "path": "../data/Hicazkar/33044a50-b2a4-409f-82ae-5f214fb32889.mp3", 
+    "works": [
+        {
+            "mbid": "a34c64cc-12f8-4e85-a62d-d5b083ba6a4a", 
+            "title": "G\u00f6rmezsem E\u011fer Sevdice\u011fim H\u00fcsn-i Mir'at\u0131n"
+        }
+    ]
+}

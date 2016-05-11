@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/58ae7868-e35d-4790-91eb-41096a62c9f0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
+        }, 
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
+            "source": "http://musicbrainz.org/recording/58ae7868-e35d-4790-91eb-41096a62c9f0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "be02e7df-dc17-45e4-b29f-26e12baad682", 
+            "title": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor Her Taraf Iss\u0131z", 
+    "url": "http://musicbrainz.org/work/58ae7868-e35d-4790-91eb-41096a62c9f0", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "58ae7868-e35d-4790-91eb-41096a62c9f0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/58ae7868-e35d-4790-91eb-41096a62c9f0"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }
+    ], 
+    "duration": 144, 
+    "path": "../data/Acemkurdi/58ae7868-e35d-4790-91eb-41096a62c9f0.mp3", 
+    "works": [
+        {
+            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
+            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+        }
+    ]
+}

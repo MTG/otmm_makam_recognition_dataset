@@ -1,0 +1,101 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/a4d99d5b-e4a2-4b0b-8b92-2706710e3b53"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/a4d99d5b-e4a2-4b0b-8b92-2706710e3b53"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/a07494f2-0d4b-4f2a-a00d-f88d1e60e68d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "933a4ccf-ddda-4bd3-98e5-660634005054", 
+            "title": "Rum Bestek\u00e2rlar"
+        }
+    ], 
+    "title": "El Eldirmek Vis\u00e2li Y\u00e2re Pek G\u00fc\u00e7", 
+    "url": "http://musicbrainz.org/work/a07494f2-0d4b-4f2a-a00d-f88d1e60e68d", 
+    "artist_credits": [
+        {
+            "mbid": "e3c7ff4d-27fe-4225-9e04-91c84a9a303c", 
+            "name": "Ayta\u00e7 Ergen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "a07494f2-0d4b-4f2a-a00d-f88d1e60e68d", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/a4d99d5b-e4a2-4b0b-8b92-2706710e3b53"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a07494f2-0d4b-4f2a-a00d-f88d1e60e68d"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "e3c7ff4d-27fe-4225-9e04-91c84a9a303c", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Ayta\u00e7 Ergen"
+        }
+    ], 
+    "duration": 137, 
+    "path": "../data/Kurdilihicazkar/a07494f2-0d4b-4f2a-a00d-f88d1e60e68d.mp3", 
+    "works": [
+        {
+            "mbid": "a4d99d5b-e4a2-4b0b-8b92-2706710e3b53", 
+            "title": "El Eldirmek Vis\u00e2li Y\u00e2re Pek G\u00fc\u00e7"
+        }
+    ]
+}

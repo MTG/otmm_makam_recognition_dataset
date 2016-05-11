@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/aad9e1bf-9366-4d65-b6a3-d8a093e69635"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ec5f5174-2eaa-4be9-ad4e-1a4cf9d0764c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/aad9e1bf-9366-4d65-b6a3-d8a093e69635"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/ec5f5174-2eaa-4be9-ad4e-1a4cf9d0764c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Ben G\u00fczele G\u00fczel Demem G\u00fczel Benim Olmay\u0131nca", 
+    "url": "http://musicbrainz.org/work/ec5f5174-2eaa-4be9-ad4e-1a4cf9d0764c", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "ec5f5174-2eaa-4be9-ad4e-1a4cf9d0764c", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/aad9e1bf-9366-4d65-b6a3-d8a093e69635"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ec5f5174-2eaa-4be9-ad4e-1a4cf9d0764c"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 163, 
+    "path": "../data/Mahur/ec5f5174-2eaa-4be9-ad4e-1a4cf9d0764c.mp3", 
+    "works": [
+        {
+            "mbid": "aad9e1bf-9366-4d65-b6a3-d8a093e69635", 
+            "title": "Ben G\u00fczele G\u00fczel Demem"
+        }
+    ]
+}

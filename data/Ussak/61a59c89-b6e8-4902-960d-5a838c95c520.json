@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/61a59c89-b6e8-4902-960d-5a838c95c520"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "1d2a3abd-68b1-4a0a-b03d-b6aaf8656140", 
+            "title": "Sultan Of Eleven Music From Sufi Way"
+        }
+    ], 
+    "title": "U\u015f\u015fak Kemen\u00e7e Taksim", 
+    "url": "http://musicbrainz.org/work/61a59c89-b6e8-4902-960d-5a838c95c520", 
+    "artist_credits": [
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "61a59c89-b6e8-4902-960d-5a838c95c520", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "attribute-list": [
+                "classical kemen\u00e7e", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Hasan Esen"
+        }
+    ], 
+    "duration": 174, 
+    "path": "../data/Ussak/61a59c89-b6e8-4902-960d-5a838c95c520.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/61a59c89-b6e8-4902-960d-5a838c95c520"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/61a59c89-b6e8-4902-960d-5a838c95c520"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/555d573d-ef65-4aab-92cc-ef3732cdf3a6"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/4ec0d8ed-c913-4318-9237-9743ab58ecfb"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "288217fd-84f8-4603-992c-74282195d20c", 
+            "title": "Gazeller 3"
+        }
+    ], 
+    "title": "Kalbimde Ne A\u015fk\u0131n Elemi Matemi Kald\u0131", 
+    "url": "http://musicbrainz.org/work/4ec0d8ed-c913-4318-9237-9743ab58ecfb", 
+    "artist_credits": [
+        {
+            "mbid": "133eaa3d-7d54-4ea1-a83f-e9d98379c5e0", 
+            "name": "Haf\u0131z H\u00fcseyin H\u00fcsn\u00fc"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "4ec0d8ed-c913-4318-9237-9743ab58ecfb", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/555d573d-ef65-4aab-92cc-ef3732cdf3a6"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/4ec0d8ed-c913-4318-9237-9743ab58ecfb"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "133eaa3d-7d54-4ea1-a83f-e9d98379c5e0", 
+            "type": "vocal", 
+            "name": "Haf\u0131z H\u00fcseyin H\u00fcsn\u00fc"
+        }
+    ], 
+    "duration": 177, 
+    "path": "../data/Hicaz/4ec0d8ed-c913-4318-9237-9743ab58ecfb.mp3", 
+    "works": [
+        {
+            "mbid": "555d573d-ef65-4aab-92cc-ef3732cdf3a6", 
+            "title": "Kalbimde Ne A\u015fk\u0131n Elemi Matemi Kald\u0131"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
+            "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
+        }, 
+        {
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
+            "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "933a4ccf-ddda-4bd3-98e5-660634005054", 
+            "title": "Rum Bestek\u00e2rlar"
+        }, 
+        {
+            "mbid": "cc8282ea-d0d2-473e-ba98-9d2acdf9df02", 
+            "title": "Saba"
+        }
+    ], 
+    "title": "Alemde Zafer Bulay\u0131m Hem \u015e\u00e2d Olay\u0131m", 
+    "url": "http://musicbrainz.org/work/207d13f8-7576-48e5-9953-3579b86accf0", 
+    "artist_credits": [
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "name": "Nusret Y\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 22050, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "207d13f8-7576-48e5-9953-3579b86accf0", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
+        }
+    ], 
+    "bit_rate": 56, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Nusret Y\u0131lmaz"
+        }
+    ], 
+    "duration": 210, 
+    "path": "../data/Saba/207d13f8-7576-48e5-9953-3579b86accf0.mp3", 
+    "works": [
+        {
+            "mbid": "b820a37b-cccb-491c-8726-907fa5c8c004", 
+            "title": "Alemde Zafer Bulay\u0131m Hem \u015e\u00e2d Olay\u0131m"
+        }
+    ]
+}

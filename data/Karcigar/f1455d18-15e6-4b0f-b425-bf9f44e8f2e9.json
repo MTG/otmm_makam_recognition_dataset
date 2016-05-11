@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/4677e4a0-bed5-41a8-ad41-bd1b30ea48c7"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f1455d18-15e6-4b0f-b425-bf9f44e8f2e9"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/4677e4a0-bed5-41a8-ad41-bd1b30ea48c7"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/f1455d18-15e6-4b0f-b425-bf9f44e8f2e9"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "d1864e9d-9ffa-4156-90fe-0a992685ab1f", 
+            "title": "Trt Ar\u015fiv Serisi 1 - Zeki M\u00fcren'den Se\u00e7meler"
+        }
+    ], 
+    "title": "Bir G\u00fcn Gelecek Sen de Beni Anlayacaks\u0131n", 
+    "url": "http://musicbrainz.org/work/f1455d18-15e6-4b0f-b425-bf9f44e8f2e9", 
+    "artist_credits": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "f1455d18-15e6-4b0f-b425-bf9f44e8f2e9", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/4677e4a0-bed5-41a8-ad41-bd1b30ea48c7"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/f1455d18-15e6-4b0f-b425-bf9f44e8f2e9"
+        }
+    ], 
+    "bit_rate": 192, 
+    "artists": [
+        {
+            "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
+            "type": "vocal", 
+            "name": "Zeki M\u00fcren"
+        }
+    ], 
+    "duration": 251, 
+    "path": "../data/Karcigar/f1455d18-15e6-4b0f-b425-bf9f44e8f2e9.mp3", 
+    "works": [
+        {
+            "mbid": "4677e4a0-bed5-41a8-ad41-bd1b30ea48c7", 
+            "title": "Bir G\u00fcn Gelecek Sen de Beni Anlayacaks\u0131n"
+        }
+    ]
+}

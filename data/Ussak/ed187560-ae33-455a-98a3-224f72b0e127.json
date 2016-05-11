@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
+        }, 
+        {
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
+            "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "41350c3f-869b-4a33-9751-0d847ac84e33", 
+            "title": "Safiye Ayla- Ar\u015fiv Serisi"
+        }
+    ], 
+    "title": "Gemim Gidiyor Ba\u015ftan", 
+    "url": "http://musicbrainz.org/work/ed187560-ae33-455a-98a3-224f72b0e127", 
+    "artist_credits": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "ed187560-ae33-455a-98a3-224f72b0e127", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+            "type": "vocal", 
+            "name": "Safiye Ayla"
+        }
+    ], 
+    "duration": 179, 
+    "path": "../data/Ussak/ed187560-ae33-455a-98a3-224f72b0e127.mp3", 
+    "works": [
+        {
+            "mbid": "67519c81-f573-4580-8256-a764bf396576", 
+            "title": "Gemim Gidiyor Ba\u015ftan"
+        }
+    ]
+}

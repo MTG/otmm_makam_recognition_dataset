@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/caeb8b05-e0b8-461f-9244-442d5899240c"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "32cc0631-2bcc-40b0-ab6e-bc558b0ed907", 
+            "title": "Osmanl\u0131'dan Bug\u00fcne T\u00fcrk Musikisi- Ney"
+        }
+    ], 
+    "title": "Sultaniyegah Taksim", 
+    "url": "http://musicbrainz.org/work/caeb8b05-e0b8-461f-9244-442d5899240c", 
+    "artist_credits": [
+        {
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "caeb8b05-e0b8-461f-9244-442d5899240c", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Can G\u00fclbol"
+        }
+    ], 
+    "duration": 235, 
+    "path": "../data/Sultaniyegah/caeb8b05-e0b8-461f-9244-442d5899240c.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/caeb8b05-e0b8-461f-9244-442d5899240c"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/caeb8b05-e0b8-461f-9244-442d5899240c"
+        }
+    ]
+}

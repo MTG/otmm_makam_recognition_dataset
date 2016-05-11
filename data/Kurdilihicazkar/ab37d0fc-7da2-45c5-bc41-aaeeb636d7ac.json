@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/ab37d0fc-7da2-45c5-bc41-aaeeb636d7ac"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0faed82b-3d66-45c2-b449-76c47e892d1a", 
+            "title": "Yorgo Bacanos'tan Ud Taksimleri"
+        }
+    ], 
+    "title": "K\u00fcrdilihicazk\u00e2r Taksim", 
+    "url": "http://musicbrainz.org/work/ab37d0fc-7da2-45c5-bc41-aaeeb636d7ac", 
+    "artist_credits": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "ab37d0fc-7da2-45c5-bc41-aaeeb636d7ac", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Udi Yorgo Bacanos"
+        }
+    ], 
+    "duration": 164, 
+    "path": "../data/Kurdilihicazkar/ab37d0fc-7da2-45c5-bc41-aaeeb636d7ac.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ab37d0fc-7da2-45c5-bc41-aaeeb636d7ac"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/ab37d0fc-7da2-45c5-bc41-aaeeb636d7ac"
+        }
+    ]
+}

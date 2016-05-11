@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "darbifetih", 
+            "mb_attribute": "Darb-\u0131 Fetih", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "darbifetih", 
+            "mb_tag": "darb-\u0131 fetih", 
+            "source": "http://musicbrainz.org/recording/5a423404-1a08-426f-9299-f47a3fca8980"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/5a423404-1a08-426f-9299-f47a3fca8980"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
+            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Gamzen Ki Ola Saki-i \u00c7e\u015fm-i Siyeh Mest", 
+    "url": "http://musicbrainz.org/work/5a423404-1a08-426f-9299-f47a3fca8980", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "5a423404-1a08-426f-9299-f47a3fca8980", 
+    "form": [
+        {
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "beste_murabba", 
+            "mb_tag": "beste-murabba", 
+            "source": "http://musicbrainz.org/recording/5a423404-1a08-426f-9299-f47a3fca8980"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu"
+        }, 
+        {
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Bekir Reha Sa\u011fba\u015f"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "attribute-list": [
+                "solo"
+            ], 
+            "type": "vocal", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "duration": 530, 
+    "path": "../data/Bestenigar/5a423404-1a08-426f-9299-f47a3fca8980.mp3", 
+    "works": [
+        {
+            "mbid": "98e04d11-0dee-4aab-a39a-50928158eb59", 
+            "title": "Gamzen Ki Ola Saki"
+        }
+    ]
+}

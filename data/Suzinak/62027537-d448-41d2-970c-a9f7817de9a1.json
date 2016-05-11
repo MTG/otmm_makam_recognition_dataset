@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/62027537-d448-41d2-970c-a9f7817de9a1"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "e56de126-2284-4d5b-9deb-3a0d908115f7", 
+            "title": "Lalezar - Music Of The Sultans, Sufis & Seraglio, Volume 3 - Minority Composers"
+        }
+    ], 
+    "title": "Ney Taksim", 
+    "url": "http://musicbrainz.org/work/62027537-d448-41d2-970c-a9f7817de9a1", 
+    "artist_credits": [
+        {
+            "mbid": "e71e29ab-8432-4d4b-ac10-324876534275", 
+            "name": "Lalezar"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "62027537-d448-41d2-970c-a9f7817de9a1", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Murat Salim Toka\u00e7"
+        }
+    ], 
+    "duration": 75, 
+    "path": "../data/Suzinak/62027537-d448-41d2-970c-a9f7817de9a1.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/62027537-d448-41d2-970c-a9f7817de9a1"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
+            "source": "http://musicbrainz.org/recording/62027537-d448-41d2-970c-a9f7817de9a1"
+        }
+    ]
+}

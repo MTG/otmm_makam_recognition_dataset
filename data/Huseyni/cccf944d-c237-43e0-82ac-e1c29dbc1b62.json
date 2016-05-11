@@ -1,0 +1,106 @@
+{
+    "usul": [
+        {
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
+            "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "514b5fcb-e33e-4680-ae08-e41dfb196860", 
+            "title": "L'H\u00e9ritage Ottoman: The Ottoman Heritage"
+        }
+    ], 
+    "title": "H\u00fcseyni Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/cccf944d-c237-43e0-82ac-e1c29dbc1b62", 
+    "artist_credits": [
+        {
+            "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
+            "name": "Kudsi Erg\u00fcner Ensemble"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "cccf944d-c237-43e0-82ac-e1c29dbc1b62", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmet Bitmez"
+        }, 
+        {
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Necip G\u00fclses"
+        }, 
+        {
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Kudsi Erguner"
+        }, 
+        {
+            "mbid": "9300ce7f-ba52-4dd9-84cd-5314c0077170", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Hakan G\u00fcng\u00f6r"
+        }, 
+        {
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Vahit Anadolu"
+        }
+    ], 
+    "duration": 316, 
+    "path": "../data/Huseyni/cccf944d-c237-43e0-82ac-e1c29dbc1b62.mp3", 
+    "works": [
+        {
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ]
+}

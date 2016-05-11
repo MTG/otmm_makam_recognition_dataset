@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e6c77985-8670-445a-b742-747649414946"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d5f5c3a5-e90d-4063-817c-ad614d69ce5d"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/work/e6c77985-8670-445a-b742-747649414946"
+        }, 
+        {
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
+            "source": "http://musicbrainz.org/recording/d5f5c3a5-e90d-4063-817c-ad614d69ce5d"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "0b054319-53f5-44ba-8278-733f5ddd3cb7", 
+            "title": "Karc\u0131\u011far"
+        }
+    ], 
+    "title": "O Ahu Bak\u0131\u015flara Bir Anda Kand\u0131n G\u00f6n\u00fcl", 
+    "url": "http://musicbrainz.org/work/d5f5c3a5-e90d-4063-817c-ad614d69ce5d", 
+    "artist_credits": [
+        {
+            "mbid": "321fa912-6c30-4b7b-9ba9-9c98d7304d34", 
+            "name": "Adnan Mungan"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "d5f5c3a5-e90d-4063-817c-ad614d69ce5d", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/e6c77985-8670-445a-b742-747649414946"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/d5f5c3a5-e90d-4063-817c-ad614d69ce5d"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "321fa912-6c30-4b7b-9ba9-9c98d7304d34", 
+            "type": "vocal", 
+            "name": "Adnan Mungan"
+        }
+    ], 
+    "duration": 230, 
+    "path": "../data/Karcigar/d5f5c3a5-e90d-4063-817c-ad614d69ce5d.mp3", 
+    "works": [
+        {
+            "mbid": "e6c77985-8670-445a-b742-747649414946", 
+            "title": "O Ahu Bak\u0131\u015flara"
+        }
+    ]
+}

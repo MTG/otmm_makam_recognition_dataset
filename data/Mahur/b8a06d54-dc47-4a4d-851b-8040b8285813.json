@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/b8a06d54-dc47-4a4d-851b-8040b8285813"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "b0c7f663-2f4c-468f-b5cd-977416042366", 
+            "title": "T\u00fcrk Musikisinde Tambur Taksimleri"
+        }
+    ], 
+    "title": "Mahur Rast Taksimi", 
+    "url": "http://musicbrainz.org/work/b8a06d54-dc47-4a4d-851b-8040b8285813", 
+    "artist_credits": [
+        {
+            "mbid": "4d6f30f1-a3f1-4ab2-b986-a40bdda9de5f", 
+            "name": "Ahmet \u015eeny\u00fcz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "b8a06d54-dc47-4a4d-851b-8040b8285813", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "4d6f30f1-a3f1-4ab2-b986-a40bdda9de5f", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet \u015eeny\u00fcz"
+        }
+    ], 
+    "duration": 486, 
+    "path": "../data/Mahur/b8a06d54-dc47-4a4d-851b-8040b8285813.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b8a06d54-dc47-4a4d-851b-8040b8285813"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/b8a06d54-dc47-4a4d-851b-8040b8285813"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/b8a06d54-dc47-4a4d-851b-8040b8285813"
+        }
+    ]
+}

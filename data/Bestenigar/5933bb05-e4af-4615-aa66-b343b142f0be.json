@@ -1,0 +1,54 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/5933bb05-e4af-4615-aa66-b343b142f0be"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "9dd433ea-0cb8-4328-a8a8-8032ddc66c46", 
+            "title": "Sada"
+        }
+    ], 
+    "title": "Bestenigar Taksim", 
+    "url": "http://musicbrainz.org/work/5933bb05-e4af-4615-aa66-b343b142f0be", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "5933bb05-e4af-4615-aa66-b343b142f0be", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "attribute-list": [
+                "ney", 
+                "solo"
+            ], 
+            "type": "instrument", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "duration": 458, 
+    "path": "../data/Bestenigar/5933bb05-e4af-4615-aa66-b343b142f0be.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5933bb05-e4af-4615-aa66-b343b142f0be"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/5933bb05-e4af-4615-aa66-b343b142f0be"
+        }
+    ]
+}

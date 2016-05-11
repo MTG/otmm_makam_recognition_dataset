@@ -1,0 +1,53 @@
+{
+    "instrumentation_voicing": "Solo instrumental", 
+    "form": [
+        {
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
+            "source": "http://musicbrainz.org/recording/0bc4be21-73b1-4f6b-80fb-5344f893d361"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "94b94ad6-f792-4c7a-bdca-02650616b195", 
+            "title": "Kad\u0131n Bestekarlar - 2"
+        }
+    ], 
+    "title": "Ney Taksimi", 
+    "url": "http://musicbrainz.org/work/0bc4be21-73b1-4f6b-80fb-5344f893d361", 
+    "artist_credits": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "0bc4be21-73b1-4f6b-80fb-5344f893d361", 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Volkan Y\u0131lmaz"
+        }
+    ], 
+    "duration": 134, 
+    "path": "../data/Rast/0bc4be21-73b1-4f6b-80fb-5344f893d361.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0bc4be21-73b1-4f6b-80fb-5344f893d361"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
+            "source": "http://musicbrainz.org/recording/0bc4be21-73b1-4f6b-80fb-5344f893d361"
+        }
+    ]
+}

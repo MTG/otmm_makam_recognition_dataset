@@ -1,0 +1,183 @@
+{
+    "usul": [], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/3ae218a6-3119-4dea-a079-5b8e727d028c"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/24a649b3-1e0d-40da-b0dc-9c26bb185544"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "90bcecd9-6213-430a-8cda-fecf6062d19c", 
+            "title": "Saz Musikimiz'den Se\u00e7meler 1"
+        }
+    ], 
+    "title": "Mahur Pe\u015frevi", 
+    "url": "http://musicbrainz.org/work/24a649b3-1e0d-40da-b0dc-9c26bb185544", 
+    "artist_credits": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "name": "G\u00fcrcan Yaman"
+        }, 
+        {
+            "mbid": "79192ae7-7953-474b-bcd5-fd61bd337bb5", 
+            "name": "Pelin De\u011firmenci"
+        }, 
+        {
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "name": "Burcu Karada\u011f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "4cf7b5e6-3dc6-422a-b1a6-1342340ec041", 
+            "name": "Seyfettin Ura\u015f"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Ensemble instrumental", 
+    "mbid": "24a649b3-1e0d-40da-b0dc-9c26bb185544", 
+    "form": [
+        {
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
+            "source": "http://musicbrainz.org/work/3ae218a6-3119-4dea-a079-5b8e727d028c"
+        }, 
+        {
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
+            "source": "http://musicbrainz.org/recording/24a649b3-1e0d-40da-b0dc-9c26bb185544"
+        }
+    ], 
+    "bit_rate": 64, 
+    "artists": [
+        {
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Kemal Caba"
+        }, 
+        {
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "attribute-list": [
+                "kanun"
+            ], 
+            "type": "instrument", 
+            "name": "Ahmet Meter"
+        }, 
+        {
+            "mbid": "4cf7b5e6-3dc6-422a-b1a6-1342340ec041", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Seyfettin Ura\u015f"
+        }, 
+        {
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "G\u00fcrcan Yaman"
+        }, 
+        {
+            "mbid": "79192ae7-7953-474b-bcd5-fd61bd337bb5", 
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "type": "instrument", 
+            "name": "Pelin De\u011firmenci"
+        }, 
+        {
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "attribute-list": [
+                "viola"
+            ], 
+            "type": "instrument", 
+            "name": "Turay Dinleyen"
+        }, 
+        {
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "attribute-list": [
+                "ney"
+            ], 
+            "type": "instrument", 
+            "name": "Burcu Karada\u011f"
+        }, 
+        {
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "attribute-list": [
+                "percussion"
+            ], 
+            "type": "instrument", 
+            "name": "Fahrettin Yark\u0131n"
+        }, 
+        {
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "attribute-list": [
+                "classical kemen\u00e7e"
+            ], 
+            "type": "instrument", 
+            "name": "Derya T\u00fcrkan"
+        }, 
+        {
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "attribute-list": [
+                "violin"
+            ], 
+            "type": "instrument", 
+            "name": "Talat Er"
+        }, 
+        {
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "attribute-list": [
+                "cello"
+            ], 
+            "type": "instrument", 
+            "name": "U\u011fur I\u015f\u0131k"
+        }
+    ], 
+    "duration": 282, 
+    "path": "../data/Mahur/24a649b3-1e0d-40da-b0dc-9c26bb185544.mp3", 
+    "works": [
+        {
+            "mbid": "3ae218a6-3119-4dea-a079-5b8e727d028c", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ]
+}

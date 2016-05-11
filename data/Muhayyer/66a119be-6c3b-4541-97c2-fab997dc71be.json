@@ -1,0 +1,71 @@
+{
+    "usul": [
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/d82a2c92-13ed-4d12-af90-d3a36be24033"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/66a119be-6c3b-4541-97c2-fab997dc71be"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
+            "source": "http://musicbrainz.org/work/d82a2c92-13ed-4d12-af90-d3a36be24033"
+        }, 
+        {
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
+            "source": "http://musicbrainz.org/recording/66a119be-6c3b-4541-97c2-fab997dc71be"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "fd025ba9-daad-4fff-b196-836163418a61", 
+            "title": "Bir \u00d6zlemdir (Kendi Sesinden)"
+        }
+    ], 
+    "title": "\u00c7ep\u00e7evre Bahar \u0130\u00e7inde", 
+    "url": "http://musicbrainz.org/work/66a119be-6c3b-4541-97c2-fab997dc71be", 
+    "artist_credits": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "66a119be-6c3b-4541-97c2-fab997dc71be", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d82a2c92-13ed-4d12-af90-d3a36be24033"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/66a119be-6c3b-4541-97c2-fab997dc71be"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
+            "type": "vocal", 
+            "name": "M\u00fcnir Nurettin Sel\u00e7uk"
+        }
+    ], 
+    "duration": 200, 
+    "path": "../data/Muhayyer/66a119be-6c3b-4541-97c2-fab997dc71be.mp3", 
+    "works": [
+        {
+            "mbid": "d82a2c92-13ed-4d12-af90-d3a36be24033", 
+            "title": "\u00c7ep\u00e7evre Bahar \u0130\u00e7inde"
+        }
+    ]
+}

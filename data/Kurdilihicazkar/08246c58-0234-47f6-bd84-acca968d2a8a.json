@@ -1,0 +1,58 @@
+{
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "form": [
+        {
+            "attribute_key": "gazel", 
+            "mb_tag": "gazel", 
+            "source": "http://musicbrainz.org/recording/08246c58-0234-47f6-bd84-acca968d2a8a"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "a59bec8b-8d42-4203-9e90-78b1d56419fd", 
+            "title": "Ge\u00e7mi\u015ften G\u00fcn\u00fcm\u00fcze T\u00fcrk M\u00fczi\u011fi Dersaadet'te Ak\u015fam"
+        }
+    ], 
+    "title": "Kan A\u011flar \u0130ken Celb-i Terahhum Emeliyle", 
+    "url": "http://musicbrainz.org/work/08246c58-0234-47f6-bd84-acca968d2a8a", 
+    "artist_credits": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "name": "Ahmet Celal Tokses"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "mbid": "08246c58-0234-47f6-bd84-acca968d2a8a", 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
+            "type": "vocal", 
+            "name": "Ahmet Celal Tokses"
+        }, 
+        {
+            "mbid": "e3aa2c81-476b-4bee-b835-94c0c208de09", 
+            "attribute-list": [
+                "oud"
+            ], 
+            "type": "instrument", 
+            "name": "Mehmed Fahri Kopuz"
+        }
+    ], 
+    "duration": 185, 
+    "path": "../data/Kurdilihicazkar/08246c58-0234-47f6-bd84-acca968d2a8a.mp3", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/08246c58-0234-47f6-bd84-acca968d2a8a"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/08246c58-0234-47f6-bd84-acca968d2a8a"
+        }
+    ]
+}

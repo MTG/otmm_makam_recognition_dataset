@@ -1,0 +1,75 @@
+{
+    "usul": [
+        {
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/a737d4ea-3dfc-43ed-9415-cb11fdc777ff"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/a737d4ea-3dfc-43ed-9415-cb11fdc777ff"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "805a3604-92e6-482f-a0e3-6620c4523d7a", 
+            "title": "Tanburi Cemil Bey - Volumes II & III"
+        }, 
+        {
+            "mbid": "bf5225f4-a905-482c-8acf-6062ca13857e", 
+            "title": "Ar\u015fiv Serisi - Gazeller I"
+        }
+    ], 
+    "title": "Her Dem S\u00f6z\u00fcm", 
+    "url": "http://musicbrainz.org/work/a737d4ea-3dfc-43ed-9415-cb11fdc777ff", 
+    "artist_credits": [
+        {
+            "mbid": "a562cea9-3fe4-4007-b426-56cfbadaa280", 
+            "name": "Haf\u0131z A\u015fir Efendi"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "mbid": "a737d4ea-3dfc-43ed-9415-cb11fdc777ff", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/a737d4ea-3dfc-43ed-9415-cb11fdc777ff"
+        }
+    ], 
+    "bit_rate": 160, 
+    "artists": [
+        {
+            "mbid": "a562cea9-3fe4-4007-b426-56cfbadaa280", 
+            "type": "vocal", 
+            "name": "Haf\u0131z A\u015fir Efendi"
+        }
+    ], 
+    "duration": 205, 
+    "path": "../data/Bestenigar/a737d4ea-3dfc-43ed-9415-cb11fdc777ff.mp3", 
+    "works": [
+        {
+            "mbid": "d2a8ac3e-5668-40d0-a16c-86a92cb6b8f1", 
+            "title": "Her Dem S\u00f6z\u00fcm"
+        }
+    ]
+}
