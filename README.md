@@ -4,7 +4,7 @@ This repository hosts the dataset designed to test makam recognition methodologi
 
 Please cite the publication below, if you use this dataset in your work:
 
-> Karakurt, A., Şentürk S., & Serra X. (2016).  [MORTY: A Toolbox for Mode Recognition and Tonic Identification](http://mtg.upf.edu/node/3538). 3rd International Digital Libraries for Musicology Workshop. New York, NY
+> Karakurt, A., Şentürk S., & Serra X. (2016).  [MORTY: A Toolbox for Mode Recognition and Tonic Identification](http://mtg.upf.edu/node/3538). 3rd International Digital Libraries for Musicology Workshop. New York, USA
 
 The recordings are selected from commercial recordings carefully such that they cover diverse musical forms, vocal/instrumentation settings and recording qualities (e.g. historical recordings vs. contemporary recordings). Each recording in the dataset is identified by an 16-character long unique identifier called MBID, hosted in [MusicBrainz](http://musicbrainz.org). The makam and the tonic of each recording is annotated in the file [annotations.json](https://github.com/MTG/otmm_makam_recognition_dataset/blob/master/annotations.json).
 
