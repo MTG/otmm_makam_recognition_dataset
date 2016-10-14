@@ -1,5 +1,7 @@
 # OTMM Makam Recognition Dataset 
 
+**Erratum:** We have recently discovered errors in tonic annotations (2 recordings so far). The annotations currently being revised.
+
 This repository hosts the dataset designed to test makam recognition methodologies on Ottoman-Turkish makam music. It is composed of 50 recording from each of the 20 most common makams in [CompMusic Project](http://compmusic.upf.edu/)'s [Dunya](http://dunya.compmusic.upf.edu/) Ottoman-Turkish Makam Music collection. Currently the dataset is the largest makam recognition dataset.
 
 Please cite the publication below, if you use this dataset in your work:
@@ -17,7 +19,5 @@ For reproducability purposes we note the version of all tools we have used to ge
 A complementary toolbox for this dataset is [MORTY](https://github.com/altugkarakurt/morty), which is a mode recogition and tonic identification toolbox. It can be used and optimized for any modal music culture. Further details are explained in the publication above. 
 
 For more information, please contact the authors.
-
-**Erratum:** We have recently discovered errors in tonic annotations (2 recordings so far). We are currently revising the annotations.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
