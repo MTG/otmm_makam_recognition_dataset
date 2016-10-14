@@ -5566,10 +5566,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34", 
-        "verified": false, 
-        "tonic": 471.6, 
+        "verified": true, 
+        "tonic": 400.0, 
         "makam": "Saba", 
-        "observations": ""
+        "observations": "The recording ends on the çargah note instead of the karar (dügah) note."
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142", 
