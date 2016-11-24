@@ -1,3 +1,5 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # OTMM Makam Recognition Dataset 
 
 **Erratum:** We have recently discovered errors in the tonic annotations (2 recordings so far). The annotations are currently being revised.
