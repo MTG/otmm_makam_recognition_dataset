@@ -4530,10 +4530,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/9c9d3440-011b-4357-9eb7-303a8aeb5e8f", 
-        "verified": false, 
-        "tonic": 198.0, 
+        "verified": true, 
+        "tonic": 294.0, 
         "makam": "Neva", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac", 
