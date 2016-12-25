@@ -162,8 +162,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/428a80a9-d545-4ad3-9324-237368bcf027", 
-        "verified": false, 
-        "tonic": 196.6, 
+        "verified": true, 
+        "tonic": 132.6, 
         "makam": "Acemasiran", 
         "observations": ""
     }, 
