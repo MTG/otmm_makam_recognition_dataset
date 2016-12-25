@@ -1205,10 +1205,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab", 
-        "verified": false, 
-        "tonic": 197.5, 
+        "verified": true, 
+        "tonic": 147.0, 
         "makam": "Beyati", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e", 
