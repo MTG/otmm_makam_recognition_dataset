@@ -2087,8 +2087,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/c6f29931-6281-4c55-98fe-159e9873f496", 
-        "verified": false, 
-        "tonic": 207.0, 
+        "verified": true, 
+        "tonic": 210.0, 
         "makam": "Hicazkar", 
         "observations": ""
     }, 
