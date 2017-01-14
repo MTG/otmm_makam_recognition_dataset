@@ -2814,9 +2814,9 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/1e716ab1-3501-43c8-807b-4fc6180a91f1", 
-        "verified": false, 
-        "tonic": 452.7, 
+        "mbid": "http://musicbrainz.org/recording/04346177-2a72-4148-a799-c67c545b43e0", 
+        "verified": true, 
+        "tonic": 139.5, 
         "makam": "Karcigar", 
         "observations": ""
     }, 
