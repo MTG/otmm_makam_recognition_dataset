@@ -1715,9 +1715,9 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a", 
-        "verified": false, 
-        "tonic": 338.0, 
+        "mbid": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e", 
+        "verified": true, 
+        "tonic": 145.4, 
         "makam": "Hicaz", 
         "observations": ""
     }, 
