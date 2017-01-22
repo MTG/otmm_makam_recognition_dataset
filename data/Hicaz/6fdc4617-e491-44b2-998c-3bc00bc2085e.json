@@ -1,0 +1,76 @@
+{
+    "usul": [
+        {
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "67514072-161f-49e9-b188-b869f71c6a47", 
+            "title": "Bekir S\u0131dk\u0131 Sezgin 26"
+        }
+    ], 
+    "title": "R\u00fcya Gibi U\u00e7an Y\u0131llar Biraz Durun Durun Biraz", 
+    "url": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "sampling_frequency": 44100, 
+    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "mbid": "6fdc4617-e491-44b2-998c-3bc00bc2085e", 
+    "form": [
+        {
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
+            "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
+        }, 
+        {
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
+            "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
+        }
+    ], 
+    "bit_rate": 128, 
+    "artists": [
+        {
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "type": "performing orchestra", 
+            "name": "[unknown]"
+        }, 
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "type": "vocal", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "duration": 323, 
+    "path": "../tmp/6fdc4617-e491-44b2-998c-3bc00bc2085e.mp3", 
+    "works": [
+        {
+            "mbid": "168fb0cf-6ba2-4fbc-8c5d-79784f534872", 
+            "title": "R\u00fcya Gibi U\u00e7an Y\u0131llar"
+        }
+    ]
+}
