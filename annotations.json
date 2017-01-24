@@ -162,8 +162,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/428a80a9-d545-4ad3-9324-237368bcf027", 
-        "verified": false, 
-        "tonic": 196.6, 
+        "verified": true, 
+        "tonic": 132.6, 
         "makam": "Acemasiran", 
         "observations": ""
     }, 
@@ -1205,10 +1205,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab", 
-        "verified": false, 
-        "tonic": 197.5, 
+        "verified": true, 
+        "tonic": 147.0, 
         "makam": "Beyati", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e", 
@@ -1715,9 +1715,9 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a", 
-        "verified": false, 
-        "tonic": 338.0, 
+        "mbid": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e", 
+        "verified": true, 
+        "tonic": 145.4, 
         "makam": "Hicaz", 
         "observations": ""
     }, 
@@ -1983,7 +1983,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/3a2da49a-bf3e-4d90-8033-a9b221cbb292", 
         "verified": false, 
-        "tonic": 304.0, 
+        "tonic": 311.0, 
         "makam": "Hicazkar", 
         "observations": ""
     }, 
@@ -2087,8 +2087,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/c6f29931-6281-4c55-98fe-159e9873f496", 
-        "verified": false, 
-        "tonic": 207.0, 
+        "verified": true, 
+        "tonic": 210.0, 
         "makam": "Hicazkar", 
         "observations": ""
     }, 
@@ -2814,9 +2814,9 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/1e716ab1-3501-43c8-807b-4fc6180a91f1", 
-        "verified": false, 
-        "tonic": 452.7, 
+        "mbid": "http://musicbrainz.org/recording/04346177-2a72-4148-a799-c67c545b43e0", 
+        "verified": true, 
+        "tonic": 139.5, 
         "makam": "Karcigar", 
         "observations": ""
     }, 
@@ -3502,7 +3502,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0", 
         "verified": false, 
-        "tonic": 218.6, 
+        "tonic": 215.6, 
         "makam": "Mahur", 
         "observations": ""
     }, 
@@ -4062,7 +4062,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7", 
         "verified": false, 
-        "tonic": 122.6, 
+        "tonic": 124.3, 
         "makam": "Muhayyer", 
         "observations": ""
     }, 
@@ -4188,7 +4188,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/e54a1762-9464-45c6-b399-0fb3ec6aff67", 
         "verified": false, 
-        "tonic": 126.4, 
+        "tonic": 124.6, 
         "makam": "Muhayyer", 
         "observations": ""
     }, 
@@ -4419,9 +4419,9 @@
     {
         "mbid": "http://musicbrainz.org/recording/c3716445-ad74-459c-8fda-16d47d24f85a", 
         "verified": false, 
-        "tonic": 196.6, 
+        "tonic": 148.0, 
         "makam": "Neva", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59", 
@@ -4432,10 +4432,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef", 
-        "verified": false, 
-        "tonic": 196.6, 
+        "verified": true, 
+        "tonic": 293.0, 
         "makam": "Neva", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/f5250a11-2db7-4eeb-b926-1a6fcb9e71b8", 
@@ -4495,10 +4495,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/132cb194-c083-4002-9cc9-720b8cbfc61c", 
-        "verified": false, 
-        "tonic": 198.0, 
+        "verified": true, 
+        "tonic": 146.0, 
         "makam": "Neva", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/2e87a363-838e-4565-bf2a-ae45ffb691ff", 
@@ -4530,10 +4530,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/9c9d3440-011b-4357-9eb7-303a8aeb5e8f", 
-        "verified": false, 
-        "tonic": 198.0, 
+        "verified": true, 
+        "tonic": 294.0, 
         "makam": "Neva", 
-        "observations": ""
+        "observations": "The performance finishes on neva (initial note) instead of dügah (tonic)"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/c9d88107-4c8f-45f0-823b-22205d5ed8ac", 
@@ -5545,7 +5545,7 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad", 
-        "verified": false, 
+        "verified": true, 
         "tonic": 239.0, 
         "makam": "Saba", 
         "observations": ""
@@ -5566,10 +5566,10 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34", 
-        "verified": false, 
-        "tonic": 471.6, 
+        "verified": true, 
+        "tonic": 400.0, 
         "makam": "Saba", 
-        "observations": ""
+        "observations": "The recording ends on the çargah note instead of the karar (dügah) note."
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142", 
