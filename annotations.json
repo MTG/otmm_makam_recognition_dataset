@@ -953,8 +953,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307", 
-        "verified": false, 
-        "tonic": 161.0, 
+        "verified": true, 
+        "tonic": 163.0, 
         "makam": "Bestenigar", 
         "observations": ""
     }, 
