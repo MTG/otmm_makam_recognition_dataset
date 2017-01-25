@@ -953,8 +953,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307", 
-        "verified": false, 
-        "tonic": 161.0, 
+        "verified": true, 
+        "tonic": 163.0, 
         "makam": "Bestenigar", 
         "observations": ""
     }, 
@@ -1715,9 +1715,9 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/5a44e069-3b0e-4a28-b515-b7b257b6373a", 
-        "verified": false, 
-        "tonic": 338.0, 
+        "mbid": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e", 
+        "verified": true, 
+        "tonic": 145.4, 
         "makam": "Hicaz", 
         "observations": ""
     }, 
@@ -4188,7 +4188,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/e54a1762-9464-45c6-b399-0fb3ec6aff67", 
         "verified": false, 
-        "tonic": 126.4, 
+        "tonic": 124.6, 
         "makam": "Muhayyer", 
         "observations": ""
     }, 
