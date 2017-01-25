@@ -4663,8 +4663,8 @@
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/b147af26-6524-4d4b-8d52-6e411fb2532f", 
-        "verified": false, 
-        "tonic": 317.4, 
+        "verified": true, 
+        "tonic": 322.1, 
         "makam": "Nihavent", 
         "observations": ""
     }, 
