@@ -4125,7 +4125,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/c165a8d4-bc48-46ff-9951-fb396366c5c9", 
         "verified": false, 
-        "tonic": 388.0, 
+        "tonic": 192.0, 
         "makam": "Muhayyer", 
         "observations": ""
     }, 
@@ -4601,7 +4601,7 @@
     {
         "mbid": "http://musicbrainz.org/recording/43220d3a-3ca5-429d-a217-6ef996abdd72", 
         "verified": false, 
-        "tonic": 216.4, 
+        "tonic": 217.0, 
         "makam": "Nihavent", 
         "observations": ""
     }, 
