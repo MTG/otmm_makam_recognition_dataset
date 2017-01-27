@@ -42,7 +42,7 @@ def test_metadata():
             assert False, "Mismatch between the MBIDs in annotations.json " \
                           "and the metadata files in ./data folder"
 
-    missing_pitch = anno_mbids - meta_mbids
+    missing_pitch = anno_mbids - pitch_mbids
     if missing_pitch:
         print "Missing MBIDS in the pitch files in ./data folder. " \
               "Please add them!"
@@ -52,7 +52,7 @@ def test_metadata():
             assert False, "Mismatch between the MBIDs in annotations.json " \
                           "and the pitch files in ./data folder"
 
-    missing_anno = missing_pitch - anno_mbids
+    missing_anno = pitch_mbids - anno_mbids
     if missing_anno:
         print "Extra MBIDS in the pitch files in ./data folder. " \
               "Please remove them!"
