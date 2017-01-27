@@ -1,8 +1,6 @@
-[![DOI](https://zenodo.org/badge/39132186.svg)](https://zenodo.org/badge/latestdoi/39132186) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![DOI](https://zenodo.org/badge/39132186.svg)](https://zenodo.org/badge/latestdoi/39132186) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/) [![Build Status](https://travis-ci.org/MTG/otmm_makam_recognition_dataset.svg?branch=master)](https://travis-ci.org/MTG/otmm_makam_recognition_dataset)
 
 # OTMM Makam Recognition Dataset 
-
-**Erratum:** We have recently discovered errors in the tonic annotations (2 recordings so far). The annotations are currently being revised.
 
 This repository hosts the dataset designed to test makam recognition methodologies on Ottoman-Turkish makam music. It is composed of 50 recording from each of the 20 most common makams in [CompMusic Project](http://compmusic.upf.edu/)'s [Dunya](http://dunya.compmusic.upf.edu/) Ottoman-Turkish Makam Music collection. Currently the dataset is the largest makam recognition dataset.
 
@@ -21,6 +19,10 @@ For reproducability purposes we note the version of all tools we have used to ge
 A complementary toolbox for this dataset is [MORTY](https://github.com/altugkarakurt/morty), which is a mode recogition and tonic identification toolbox. It can be used and optimized for any modal music culture. Further details are explained in the publication above. 
 
 For more information, please contact the authors.
+
+Erratum
+------------
+In November 2016, we discovered several errors in the tonic annotations. We are currently verifying the annotations. See the description in [otmm_tonic_dataset](https://github.com/MTG/otmm_tonic_dataset#erratum) for more details and up-to-date progress.
 
 <a name="License"></a>License
 --------------------
