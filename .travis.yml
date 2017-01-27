@@ -1,0 +1,29 @@
+# we only need to point to python for the tests to run
+language: python
+python:
+  - "2.7"
+
+# packages to install
+addons:
+  code_climate:
+      repo_token: dfd68db43e7bae300060ccb08b2df0c1f7c535ad62c031cf04ab673b3c4f55e6
+
+# command to install dependencies
+install:
+  - pip install -U pip pip-tools
+  - pip install -r extras/unittests/requirements
+  - pip install flake8
+  - pip install codeclimate-test-reporter
+  - pip install codecov
+
+# command to run before the tests
+before_script:
+  - "flake8 extras/unittests"
+
+# command to run tests
+script: 
+  - nosetests extras/unittests/validate_annotations.py --with-coverage
+
+after_success:
+  - codecov
+  - codeclimate-test-reporter

@@ -1,0 +1,2 @@
+# file manipulations
+git+https://github.com/sertansenturk/fileoperations_python.git@v1.1.1#egg=fileoperations_python

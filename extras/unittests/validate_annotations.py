@@ -24,40 +24,40 @@ def test_metadata():
 
     missing_meta = anno_mbids - meta_mbids
     if missing_meta:
-        print "Missing MBIDS in the metadata files in ./data folder. " \
-              "Please add them!"
+        print("Missing MBIDS in the metadata files in ./data folder. "
+              "Please add them!")
         for mm in missing_meta:
-            print '   {}'.format(mm)
+            print('   {}'.format(mm))
 
             assert False, "Mismatch between the MBIDs in annotations.json " \
                           "and the metadata files in ./data folder"
 
     missing_anno = meta_mbids - anno_mbids
     if missing_anno:
-        print "Extra MBIDS in the metadata files in ./data folder. " \
-              "Please remove them!"
+        print("Extra MBIDS in the metadata files in ./data folder. "
+              "Please remove them!")
         for ma in missing_anno:
-            print '   {}'.format(ma)
+            print('   {}'.format(ma))
 
             assert False, "Mismatch between the MBIDs in annotations.json " \
                           "and the metadata files in ./data folder"
 
     missing_pitch = anno_mbids - pitch_mbids
     if missing_pitch:
-        print "Missing MBIDS in the pitch files in ./data folder. " \
-              "Please add them!"
+        print("Missing MBIDS in the pitch files in ./data folder. "
+              "Please add them!")
         for mp in missing_pitch:
-            print '   {}'.format(mp)
+            print('   {}'.format(mp))
 
             assert False, "Mismatch between the MBIDs in annotations.json " \
                           "and the pitch files in ./data folder"
 
     missing_anno = pitch_mbids - anno_mbids
     if missing_anno:
-        print "Extra MBIDS in the pitch files in ./data folder. " \
-              "Please remove them!"
+        print("Extra MBIDS in the pitch files in ./data folder. "
+              "Please remove them!")
         for ma in missing_anno:
-            print '   {}'.format(ma)
+            print('   {}'.format(ma))
 
             assert False, "Mismatch between the MBIDs in annotations.json " \
                           "and the pitch files in ./data folder"
