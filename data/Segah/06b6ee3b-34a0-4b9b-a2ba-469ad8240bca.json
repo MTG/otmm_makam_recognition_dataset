@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130lhan Barut\u00e7u"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "06b6ee3b-34a0-4b9b-a2ba-469ad8240bca", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 201, 
     "path": "../data/Segah/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/06b6ee3b-34a0-4b9b-a2ba-469ad8240bca"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

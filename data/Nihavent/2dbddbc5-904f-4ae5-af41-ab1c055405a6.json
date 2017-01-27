@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
         }, 
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bosphorus"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "2dbddbc5-904f-4ae5-af41-ab1c055405a6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "91c3e044-04c9-443d-a53c-c267b83860ef", 
+            "title": "Nihavent Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0518ffd6-5b24-46a4-9045-773b741ee5f5", 
@@ -206,10 +199,17 @@
     ], 
     "duration": 374, 
     "path": "../data/Nihavent/2dbddbc5-904f-4ae5-af41-ab1c055405a6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "91c3e044-04c9-443d-a53c-c267b83860ef", 
-            "title": "Nihavent Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/91c3e044-04c9-443d-a53c-c267b83860ef"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/2dbddbc5-904f-4ae5-af41-ab1c055405a6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

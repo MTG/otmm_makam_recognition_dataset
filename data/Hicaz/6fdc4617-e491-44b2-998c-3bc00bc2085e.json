@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6fdc4617-e491-44b2-998c-3bc00bc2085e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "168fb0cf-6ba2-4fbc-8c5d-79784f534872", 
+            "title": "R\u00fcya Gibi U\u00e7an Y\u0131llar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 323, 
     "path": "../tmp/6fdc4617-e491-44b2-998c-3bc00bc2085e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "168fb0cf-6ba2-4fbc-8c5d-79784f534872", 
-            "title": "R\u00fcya Gibi U\u00e7an Y\u0131llar"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/168fb0cf-6ba2-4fbc-8c5d-79784f534872"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6fdc4617-e491-44b2-998c-3bc00bc2085e"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

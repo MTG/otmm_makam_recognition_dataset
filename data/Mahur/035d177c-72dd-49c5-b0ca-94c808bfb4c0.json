@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ensemble Ulvi Erguner"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "035d177c-72dd-49c5-b0ca-94c808bfb4c0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "12f98c6c-7547-4661-9e79-8bc4264eb3e4", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 322, 
     "path": "../data/Mahur/035d177c-72dd-49c5-b0ca-94c808bfb4c0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "12f98c6c-7547-4661-9e79-8bc4264eb3e4", 
-            "title": "Mahur Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/12f98c6c-7547-4661-9e79-8bc4264eb3e4"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/035d177c-72dd-49c5-b0ca-94c808bfb4c0"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

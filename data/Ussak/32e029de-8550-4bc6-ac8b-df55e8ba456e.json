@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b4b245c4-fa12-46ed-a121-b3e3155276d5"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/32e029de-8550-4bc6-ac8b-df55e8ba456e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/b4b245c4-fa12-46ed-a121-b3e3155276d5"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/32e029de-8550-4bc6-ac8b-df55e8ba456e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "32e029de-8550-4bc6-ac8b-df55e8ba456e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b4b245c4-fa12-46ed-a121-b3e3155276d5", 
+            "title": "Cana Rakibi Handan Edersin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/b4b245c4-fa12-46ed-a121-b3e3155276d5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/32e029de-8550-4bc6-ac8b-df55e8ba456e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 170, 
     "path": "../data/Ussak/32e029de-8550-4bc6-ac8b-df55e8ba456e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b4b245c4-fa12-46ed-a121-b3e3155276d5", 
-            "title": "Cana Rakibi Handan Edersin"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/b4b245c4-fa12-46ed-a121-b3e3155276d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/32e029de-8550-4bc6-ac8b-df55e8ba456e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

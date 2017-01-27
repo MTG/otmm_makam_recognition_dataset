@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/197af7e5-9ee8-4c47-9b6e-6dc6532e1d78"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/da4d7b0b-af8f-42ea-bce0-0bda85fa6801"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/197af7e5-9ee8-4c47-9b6e-6dc6532e1d78"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/da4d7b0b-af8f-42ea-bce0-0bda85fa6801"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Oya \u0130\u015fbo\u011fa"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "da4d7b0b-af8f-42ea-bce0-0bda85fa6801", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "197af7e5-9ee8-4c47-9b6e-6dc6532e1d78", 
+            "title": "Seni Sesini G\u00f6zlerinin Rengini Unutabilsem"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/197af7e5-9ee8-4c47-9b6e-6dc6532e1d78"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/da4d7b0b-af8f-42ea-bce0-0bda85fa6801"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
@@ -113,10 +106,17 @@
     ], 
     "duration": 246, 
     "path": "../data/Huzzam/da4d7b0b-af8f-42ea-bce0-0bda85fa6801.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "197af7e5-9ee8-4c47-9b6e-6dc6532e1d78", 
-            "title": "Seni Sesini G\u00f6zlerinin Rengini Unutabilsem"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/197af7e5-9ee8-4c47-9b6e-6dc6532e1d78"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/da4d7b0b-af8f-42ea-bce0-0bda85fa6801"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

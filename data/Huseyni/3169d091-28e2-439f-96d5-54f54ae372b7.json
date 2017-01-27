@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/b1ca68f2-ef46-4765-9e9b-74062607fe5b"
         }, 
         {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/3169d091-28e2-439f-96d5-54f54ae372b7"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Aaron Kohen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3169d091-28e2-439f-96d5-54f54ae372b7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "b1ca68f2-ef46-4765-9e9b-74062607fe5b", 
+            "title": "Anenu"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/b1ca68f2-ef46-4765-9e9b-74062607fe5b"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/3169d091-28e2-439f-96d5-54f54ae372b7"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
@@ -91,10 +95,6 @@
     ], 
     "duration": 244, 
     "path": "../data/Huseyni/3169d091-28e2-439f-96d5-54f54ae372b7.mp3", 
-    "works": [
-        {
-            "mbid": "b1ca68f2-ef46-4765-9e9b-74062607fe5b", 
-            "title": "Anenu"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

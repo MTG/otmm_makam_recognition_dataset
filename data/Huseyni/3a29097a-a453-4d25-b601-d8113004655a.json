@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "devrituran", 
-            "mb_attribute": "Devr-i Turan", 
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
             "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
         }, 
         {
-            "attribute_key": "devrituran_ii", 
-            "mb_tag": "devr-i turan", 
-            "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
             "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "3a29097a-a453-4d25-b601-d8113004655a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_attribute": "Oyunhavas\u0131", 
+            "mbid": "fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7", 
+            "title": "D\u00fc\u011f\u00fcn Evinde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
         }, 
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_tag": "oyunhavas\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 133, 
     "path": "../data/Huseyni/3a29097a-a453-4d25-b601-d8113004655a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7", 
-            "title": "D\u00fc\u011f\u00fcn Evinde"
+            "attribute_key": "devrituran", 
+            "mb_attribute": "Devr-i Turan", 
+            "source": "http://musicbrainz.org/work/fb344fe2-4b19-4b18-ae60-6ca7e8dcc4e7"
+        }, 
+        {
+            "attribute_key": "devrituran_ii", 
+            "mb_tag": "devr-i turan", 
+            "source": "http://musicbrainz.org/recording/3a29097a-a453-4d25-b601-d8113004655a"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

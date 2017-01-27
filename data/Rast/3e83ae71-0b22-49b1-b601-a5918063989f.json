@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3e83ae71-0b22-49b1-b601-a5918063989f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3e83ae71-0b22-49b1-b601-a5918063989f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "3e83ae71-0b22-49b1-b601-a5918063989f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
+            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/3e83ae71-0b22-49b1-b601-a5918063989f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 234, 
     "path": "../data/Rast/3e83ae71-0b22-49b1-b601-a5918063989f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f37432d4-cce4-411f-847e-87f8b98ba57d", 
-            "title": "Senden Uzak G\u00fcnlerim Zindan Oluyor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f37432d4-cce4-411f-847e-87f8b98ba57d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3e83ae71-0b22-49b1-b601-a5918063989f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

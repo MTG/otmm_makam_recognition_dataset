@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 48000, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "29d20bf1-678f-4bd0-9e65-81c651d1dab7", 
-    "form": [
+    "sampling_frequency": 48000, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
+            "title": "Kalbim Kan\u0131yor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -134,10 +127,17 @@
     ], 
     "duration": 236, 
     "path": "../data/Huzzam/29d20bf1-678f-4bd0-9e65-81c651d1dab7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a34f8d6-6a9e-4768-b611-00478fdf3ace", 
-            "title": "Kalbim Kan\u0131yor"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/0a34f8d6-6a9e-4768-b611-00478fdf3ace"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/29d20bf1-678f-4bd0-9e65-81c651d1dab7"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

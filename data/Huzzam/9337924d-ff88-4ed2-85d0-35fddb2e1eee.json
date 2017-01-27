@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9337924d-ff88-4ed2-85d0-35fddb2e1eee"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 48000, 
     "mbid": "9337924d-ff88-4ed2-85d0-35fddb2e1eee", 
+    "sampling_frequency": 48000, 
     "bit_rate": 192, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 201, 
     "path": "../data/Huzzam/9337924d-ff88-4ed2-85d0-35fddb2e1eee.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9337924d-ff88-4ed2-85d0-35fddb2e1eee"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "huzzam", 

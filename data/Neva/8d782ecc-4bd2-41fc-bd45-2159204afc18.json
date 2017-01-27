@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/73d696bf-5fe2-4d6f-a459-90bf54533a2d"
         }, 
         {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/8d782ecc-4bd2-41fc-bd45-2159204afc18"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/73d696bf-5fe2-4d6f-a459-90bf54533a2d"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/8d782ecc-4bd2-41fc-bd45-2159204afc18"
         }
     ], 
@@ -61,22 +50,26 @@
             "name": "Ahmet Erdo\u011fdular"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "8d782ecc-4bd2-41fc-bd45-2159204afc18", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "73d696bf-5fe2-4d6f-a459-90bf54533a2d", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/73d696bf-5fe2-4d6f-a459-90bf54533a2d"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/8d782ecc-4bd2-41fc-bd45-2159204afc18"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -130,10 +123,17 @@
     ], 
     "duration": 224, 
     "path": "../data/Neva/8d782ecc-4bd2-41fc-bd45-2159204afc18.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "73d696bf-5fe2-4d6f-a459-90bf54533a2d", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/73d696bf-5fe2-4d6f-a459-90bf54533a2d"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/8d782ecc-4bd2-41fc-bd45-2159204afc18"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

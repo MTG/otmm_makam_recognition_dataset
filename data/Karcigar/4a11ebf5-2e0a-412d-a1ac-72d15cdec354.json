@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/445f5b82-6c79-4703-81c7-cb7e016cc1b3"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/4a11ebf5-2e0a-412d-a1ac-72d15cdec354"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/445f5b82-6c79-4703-81c7-cb7e016cc1b3"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/4a11ebf5-2e0a-412d-a1ac-72d15cdec354"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Lalezar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "4a11ebf5-2e0a-412d-a1ac-72d15cdec354", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "445f5b82-6c79-4703-81c7-cb7e016cc1b3", 
+            "title": "Hotinan\u0131n Ufak Ta\u015f\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/445f5b82-6c79-4703-81c7-cb7e016cc1b3"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/4a11ebf5-2e0a-412d-a1ac-72d15cdec354"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -106,10 +99,17 @@
     ], 
     "duration": 192, 
     "path": "../data/Karcigar/4a11ebf5-2e0a-412d-a1ac-72d15cdec354.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "445f5b82-6c79-4703-81c7-cb7e016cc1b3", 
-            "title": "Hotinan\u0131n Ufak Ta\u015f\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/445f5b82-6c79-4703-81c7-cb7e016cc1b3"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4a11ebf5-2e0a-412d-a1ac-72d15cdec354"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

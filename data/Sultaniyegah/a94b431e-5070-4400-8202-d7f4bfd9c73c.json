@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/cb36532b-f740-4e41-84bb-58fb8db3bac5"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/a94b431e-5070-4400-8202-d7f4bfd9c73c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/cb36532b-f740-4e41-84bb-58fb8db3bac5"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/a94b431e-5070-4400-8202-d7f4bfd9c73c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "a94b431e-5070-4400-8202-d7f4bfd9c73c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "cb36532b-f740-4e41-84bb-58fb8db3bac5", 
+            "title": "Sultaniyegah Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/cb36532b-f740-4e41-84bb-58fb8db3bac5"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/a94b431e-5070-4400-8202-d7f4bfd9c73c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
@@ -179,10 +172,17 @@
     ], 
     "duration": 363, 
     "path": "../data/Sultaniyegah/a94b431e-5070-4400-8202-d7f4bfd9c73c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cb36532b-f740-4e41-84bb-58fb8db3bac5", 
-            "title": "Sultaniyegah Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/cb36532b-f740-4e41-84bb-58fb8db3bac5"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/a94b431e-5070-4400-8202-d7f4bfd9c73c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

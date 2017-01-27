@@ -1,26 +1,10 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "lenkfahte", 
-            "mb_attribute": "Lenk Fahte", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
-        }, 
-        {
-            "attribute_key": "lenkfahte", 
-            "mb_tag": "lenk fahte", 
-            "source": "http://musicbrainz.org/recording/15b80eba-dd7a-4523-9d75-3f12a2f44365"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
-            "source": "http://musicbrainz.org/recording/15b80eba-dd7a-4523-9d75-3f12a2f44365"
         }
     ], 
     "releases": [
@@ -37,17 +21,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "15b80eba-dd7a-4523-9d75-3f12a2f44365", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
-            "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
+            "mbid": "01631a50-fde4-42e2-82f8-52a62d0ff557", 
+            "title": "Merhem Koyup Onarma"
         }
     ], 
-    "bit_rate": 128, 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
+            "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
+        }, 
+        {
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
+            "source": "http://musicbrainz.org/recording/15b80eba-dd7a-4523-9d75-3f12a2f44365"
+        }
+    ], 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 323, 
     "path": "../data/Acemasiran/15b80eba-dd7a-4523-9d75-3f12a2f44365.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01631a50-fde4-42e2-82f8-52a62d0ff557", 
-            "title": "Merhem Koyup Onarma"
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/01631a50-fde4-42e2-82f8-52a62d0ff557"
+        }, 
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_tag": "lenk fahte", 
+            "source": "http://musicbrainz.org/recording/15b80eba-dd7a-4523-9d75-3f12a2f44365"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Esma Ba\u015fbu\u011f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "dc8fd3be-acaa-4a2a-91f9-7e37c4588189", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f90770a6-4687-4d88-8d3d-0ccbd5119f3f", 
+            "title": "Sevgilim Desen Bana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 198, 
     "path": "../data/Nihavent/dc8fd3be-acaa-4a2a-91f9-7e37c4588189.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f90770a6-4687-4d88-8d3d-0ccbd5119f3f", 
-            "title": "Sevgilim Desen Bana"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f90770a6-4687-4d88-8d3d-0ccbd5119f3f"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/dc8fd3be-acaa-4a2a-91f9-7e37c4588189"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

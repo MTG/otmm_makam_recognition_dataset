@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
+            "attribute_key": "murabba", 
+            "mb_attribute": "Murabba", 
             "source": "http://musicbrainz.org/work/22edf197-f194-4100-a3f3-a9d0f0b2156f"
         }, 
         {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/f363f343-725f-4314-8311-6dada86d1780"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/22edf197-f194-4100-a3f3-a9d0f0b2156f"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/f363f343-725f-4314-8311-6dada86d1780"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f363f343-725f-4314-8311-6dada86d1780", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "murabba", 
-            "mb_attribute": "Murabba", 
+            "mbid": "22edf197-f194-4100-a3f3-a9d0f0b2156f", 
+            "title": "Piyaleler Ki O Ruhsar-\u0131 Ale Ter Getirir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/22edf197-f194-4100-a3f3-a9d0f0b2156f"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/f363f343-725f-4314-8311-6dada86d1780"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -102,10 +95,17 @@
     ], 
     "duration": 366, 
     "path": "../data/Neva/f363f343-725f-4314-8311-6dada86d1780.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22edf197-f194-4100-a3f3-a9d0f0b2156f", 
-            "title": "Piyaleler Ki O Ruhsar-\u0131 Ale Ter Getirir"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/22edf197-f194-4100-a3f3-a9d0f0b2156f"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/f363f343-725f-4314-8311-6dada86d1780"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

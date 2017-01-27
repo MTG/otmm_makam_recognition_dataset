@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/eef50f66-f4f3-48a9-a07c-bb67c4ef876e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "fantezi", 
+            "mb_tag": "fantezi", 
             "source": "http://musicbrainz.org/recording/eef50f66-f4f3-48a9-a07c-bb67c4ef876e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "eef50f66-f4f3-48a9-a07c-bb67c4ef876e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2ee036db-45a5-4932-a238-2adc498e674d", 
+            "title": "Bir R\u00fczgard\u0131r Gelir Ge\u00e7er Sanm\u0131\u015ft\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
         }, 
         {
-            "attribute_key": "fantezi", 
-            "mb_tag": "fantezi", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/eef50f66-f4f3-48a9-a07c-bb67c4ef876e"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 203, 
     "path": "../data/Segah/eef50f66-f4f3-48a9-a07c-bb67c4ef876e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2ee036db-45a5-4932-a238-2adc498e674d", 
-            "title": "Bir R\u00fczgard\u0131r Gelir Ge\u00e7er Sanm\u0131\u015ft\u0131m"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2ee036db-45a5-4932-a238-2adc498e674d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/eef50f66-f4f3-48a9-a07c-bb67c4ef876e"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a453af7e-5d5b-4bf2-9842-40de83113634"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e5814cf9-ccec-4725-be37-fe2596861299"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/a453af7e-5d5b-4bf2-9842-40de83113634"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e5814cf9-ccec-4725-be37-fe2596861299"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e5814cf9-ccec-4725-be37-fe2596861299", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a453af7e-5d5b-4bf2-9842-40de83113634", 
+            "title": "Sa\u00e7\u0131n\u0131n Telleri G\u00f6\u011fs\u00fcnde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/a453af7e-5d5b-4bf2-9842-40de83113634"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/e5814cf9-ccec-4725-be37-fe2596861299"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 147, 
     "path": "../data/Sultaniyegah/e5814cf9-ccec-4725-be37-fe2596861299.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a453af7e-5d5b-4bf2-9842-40de83113634", 
-            "title": "Sa\u00e7\u0131n\u0131n Telleri G\u00f6\u011fs\u00fcnde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a453af7e-5d5b-4bf2-9842-40de83113634"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e5814cf9-ccec-4725-be37-fe2596861299"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

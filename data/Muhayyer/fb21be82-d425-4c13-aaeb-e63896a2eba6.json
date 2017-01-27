@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "fb21be82-d425-4c13-aaeb-e63896a2eba6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -94,10 +87,17 @@
     ], 
     "duration": 304, 
     "path": "../data/Muhayyer/fb21be82-d425-4c13-aaeb-e63896a2eba6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
-            "title": "Muhayyer Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fb21be82-d425-4c13-aaeb-e63896a2eba6"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0153f458-46eb-49d0-860d-60d5a6688a87"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0153f458-46eb-49d0-860d-60d5a6688a87"
         }
     ], 
@@ -39,17 +33,21 @@
             "name": "Esma Ba\u015fbu\u011f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "cf4ac26b-2875-407d-9075-e1a66fe79d36", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0153f458-46eb-49d0-860d-60d5a6688a87", 
+            "title": "Muntaz\u0131r Te\u015frifine Haz\u0131r Kay\u0131k"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/0153f458-46eb-49d0-860d-60d5a6688a87"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -138,10 +136,12 @@
     ], 
     "duration": 285, 
     "path": "../data/Kurdilihicazkar/cf4ac26b-2875-407d-9075-e1a66fe79d36.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0153f458-46eb-49d0-860d-60d5a6688a87", 
-            "title": "Muntaz\u0131r Te\u015frifine Haz\u0131r Kay\u0131k"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0153f458-46eb-49d0-860d-60d5a6688a87"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/cec429b0-9e04-4b2d-b190-7b056727177f"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/c6728dc0-5fdf-439a-9d32-56be19a5fa44"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/cec429b0-9e04-4b2d-b190-7b056727177f"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c6728dc0-5fdf-439a-9d32-56be19a5fa44"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Oya \u0130\u015fbo\u011fa"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c6728dc0-5fdf-439a-9d32-56be19a5fa44", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "cec429b0-9e04-4b2d-b190-7b056727177f", 
+            "title": "Nedir A Sevdi\u011fim S\u00f6yle Bu Halin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/cec429b0-9e04-4b2d-b190-7b056727177f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/c6728dc0-5fdf-439a-9d32-56be19a5fa44"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
@@ -113,10 +106,17 @@
     ], 
     "duration": 157, 
     "path": "../data/Nihavent/c6728dc0-5fdf-439a-9d32-56be19a5fa44.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cec429b0-9e04-4b2d-b190-7b056727177f", 
-            "title": "Nedir A Sevdi\u011fim S\u00f6yle Bu Halin"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/cec429b0-9e04-4b2d-b190-7b056727177f"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/c6728dc0-5fdf-439a-9d32-56be19a5fa44"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

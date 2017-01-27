@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "kanto", 
+            "mb_attribute": "Kanto", 
             "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "5be58089-8726-4cbc-854d-f3d6a3e34a2b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kanto", 
-            "mb_attribute": "Kanto", 
+            "mbid": "a2e9116f-55a2-3427-a140-09bd7a5b1bed", 
+            "title": "Ada Sahilleri"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 254, 
     "path": "../data/Hicaz/5be58089-8726-4cbc-854d-f3d6a3e34a2b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2e9116f-55a2-3427-a140-09bd7a5b1bed", 
-            "title": "Ada Sahilleri"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a2e9116f-55a2-3427-a140-09bd7a5b1bed"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/5be58089-8726-4cbc-854d-f3d6a3e34a2b"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

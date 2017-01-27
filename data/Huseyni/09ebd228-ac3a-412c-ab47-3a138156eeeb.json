@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b058c8db-b456-4178-a9f9-a426dfd2302b"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/09ebd228-ac3a-412c-ab47-3a138156eeeb"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/b058c8db-b456-4178-a9f9-a426dfd2302b"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/09ebd228-ac3a-412c-ab47-3a138156eeeb"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alp Arslan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "09ebd228-ac3a-412c-ab47-3a138156eeeb", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b058c8db-b456-4178-a9f9-a426dfd2302b", 
+            "title": "M\u00fc\u015fkil Haldir Benim Halim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/b058c8db-b456-4178-a9f9-a426dfd2302b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/09ebd228-ac3a-412c-ab47-3a138156eeeb"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -161,10 +154,17 @@
     ], 
     "duration": 128, 
     "path": "../data/Huseyni/09ebd228-ac3a-412c-ab47-3a138156eeeb.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b058c8db-b456-4178-a9f9-a426dfd2302b", 
-            "title": "M\u00fc\u015fkil Haldir Benim Halim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b058c8db-b456-4178-a9f9-a426dfd2302b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/09ebd228-ac3a-412c-ab47-3a138156eeeb"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

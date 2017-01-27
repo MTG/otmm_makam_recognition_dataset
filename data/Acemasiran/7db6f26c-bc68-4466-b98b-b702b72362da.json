@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7db6f26c-bc68-4466-b98b-b702b72362da"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 22050, 
     "mbid": "7db6f26c-bc68-4466-b98b-b702b72362da", 
+    "sampling_frequency": 22050, 
     "bit_rate": 80, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 109, 
     "path": "../data/Acemasiran/7db6f26c-bc68-4466-b98b-b702b72362da.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/7db6f26c-bc68-4466-b98b-b702b72362da"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "acemasiran", 

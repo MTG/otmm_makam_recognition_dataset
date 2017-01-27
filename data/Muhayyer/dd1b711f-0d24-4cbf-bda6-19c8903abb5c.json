@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/dd1b711f-0d24-4cbf-bda6-19c8903abb5c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/dd1b711f-0d24-4cbf-bda6-19c8903abb5c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "dd1b711f-0d24-4cbf-bda6-19c8903abb5c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "fad224f8-0973-49ad-9c14-7626b1556411", 
+            "title": "Ol Gonca Dehen"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/dd1b711f-0d24-4cbf-bda6-19c8903abb5c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 113, 
     "path": "../data/Muhayyer/dd1b711f-0d24-4cbf-bda6-19c8903abb5c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fad224f8-0973-49ad-9c14-7626b1556411", 
-            "title": "Ol Gonca Dehen"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/fad224f8-0973-49ad-9c14-7626b1556411"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/dd1b711f-0d24-4cbf-bda6-19c8903abb5c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f5a89c06-d9bc-4425-a8e6-0f44f7c108ef"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f5a89c06-d9bc-4425-a8e6-0f44f7c108ef"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "f5a89c06-d9bc-4425-a8e6-0f44f7c108ef", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/f5a89c06-d9bc-4425-a8e6-0f44f7c108ef"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 206, 
     "path": "../data/Nihavent/f5a89c06-d9bc-4425-a8e6-0f44f7c108ef.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
-            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f8219131-cf9c-4a09-9ae5-14dfba2542c0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f5a89c06-d9bc-4425-a8e6-0f44f7c108ef"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

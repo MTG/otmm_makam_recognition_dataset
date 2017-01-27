@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b8a06d54-dc47-4a4d-851b-8040b8285813"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Ahmet \u015eeny\u00fcz"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "b8a06d54-dc47-4a4d-851b-8040b8285813", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 486, 
     "path": "../data/Mahur/b8a06d54-dc47-4a4d-851b-8040b8285813.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b8a06d54-dc47-4a4d-851b-8040b8285813"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

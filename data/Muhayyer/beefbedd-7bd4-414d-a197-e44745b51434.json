@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/beefbedd-7bd4-414d-a197-e44745b51434"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "beefbedd-7bd4-414d-a197-e44745b51434", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 168, 
     "path": "../data/Muhayyer/beefbedd-7bd4-414d-a197-e44745b51434.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/beefbedd-7bd4-414d-a197-e44745b51434"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "muhayyer", 

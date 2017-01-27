@@ -1,30 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
-        }, 
-        {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
         }
     ], 
@@ -42,22 +26,26 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "b8a3e651-a8dc-48c0-bb4a-a270f3205809", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
+            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -214,10 +202,22 @@
     ], 
     "duration": 315, 
     "path": "../data/Acemkurdi/b8a3e651-a8dc-48c0-bb4a-a270f3205809.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
-            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/b8a3e651-a8dc-48c0-bb4a-a270f3205809"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/fee97313-d2ac-40dc-8675-46751b32b7f6"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/cd016ca6-3336-4952-ae18-dfbf192f8888"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak_zirgule", 
-            "mb_attribute": "Suzinak Zirg\u00fcle", 
-            "source": "http://musicbrainz.org/work/fee97313-d2ac-40dc-8675-46751b32b7f6"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/cd016ca6-3336-4952-ae18-dfbf192f8888"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "cd016ca6-3336-4952-ae18-dfbf192f8888", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "fee97313-d2ac-40dc-8675-46751b32b7f6", 
+            "title": "Hal-i Dilimi \u015eerh Edemem"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
             "source": "http://musicbrainz.org/work/fee97313-d2ac-40dc-8675-46751b32b7f6"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/cd016ca6-3336-4952-ae18-dfbf192f8888"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 221, 
     "path": "../data/Suzinak/cd016ca6-3336-4952-ae18-dfbf192f8888.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fee97313-d2ac-40dc-8675-46751b32b7f6", 
-            "title": "Hal-i Dilimi \u015eerh Edemem"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/fee97313-d2ac-40dc-8675-46751b32b7f6"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/cd016ca6-3336-4952-ae18-dfbf192f8888"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

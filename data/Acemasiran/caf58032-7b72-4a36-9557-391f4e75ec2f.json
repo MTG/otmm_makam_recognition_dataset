@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "nakis", 
+            "mb_attribute": "Nak\u0131\u015f", 
             "source": "http://musicbrainz.org/work/c677348d-ad7b-4094-a2c1-8c00d3e4c3ee"
         }, 
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/caf58032-7b72-4a36-9557-391f4e75ec2f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/c677348d-ad7b-4094-a2c1-8c00d3e4c3ee"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/caf58032-7b72-4a36-9557-391f4e75ec2f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "caf58032-7b72-4a36-9557-391f4e75ec2f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "nakis", 
-            "mb_attribute": "Nak\u0131\u015f", 
+            "mbid": "c677348d-ad7b-4094-a2c1-8c00d3e4c3ee", 
+            "title": "Ne Heva-y\u0131 Ba\u011f-\u0131 Sazed"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/c677348d-ad7b-4094-a2c1-8c00d3e4c3ee"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/caf58032-7b72-4a36-9557-391f4e75ec2f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 390, 
     "path": "../data/Acemasiran/caf58032-7b72-4a36-9557-391f4e75ec2f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c677348d-ad7b-4094-a2c1-8c00d3e4c3ee", 
-            "title": "Ne Heva-y\u0131 Ba\u011f-\u0131 Sazed"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/c677348d-ad7b-4094-a2c1-8c00d3e4c3ee"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/caf58032-7b72-4a36-9557-391f4e75ec2f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

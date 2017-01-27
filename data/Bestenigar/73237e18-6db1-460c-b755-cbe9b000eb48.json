@@ -1,17 +1,6 @@
 {
-    "usul": [], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/8ff551e0-507d-418e-a62f-57d3126bc671"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
-            "source": "http://musicbrainz.org/recording/73237e18-6db1-460c-b755-cbe9b000eb48"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [], 
     "releases": [
         {
             "mbid": "1669d3fc-418d-41f0-be1e-c757d360c21a", 
@@ -26,11 +15,26 @@
             "name": "Aaron Kohen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "73237e18-6db1-460c-b755-cbe9b000eb48", 
-    "form": [], 
-    "bit_rate": 64, 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "8ff551e0-507d-418e-a62f-57d3126bc671", 
+            "title": "Karev-l\u0131 \u015eenat"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/8ff551e0-507d-418e-a62f-57d3126bc671"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/73237e18-6db1-460c-b755-cbe9b000eb48"
+        }
+    ], 
     "artists": [
         {
             "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
@@ -64,10 +68,6 @@
     ], 
     "duration": 174, 
     "path": "../data/Bestenigar/73237e18-6db1-460c-b755-cbe9b000eb48.mp3", 
-    "works": [
-        {
-            "mbid": "8ff551e0-507d-418e-a62f-57d3126bc671", 
-            "title": "Karev-l\u0131 \u015eenat"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

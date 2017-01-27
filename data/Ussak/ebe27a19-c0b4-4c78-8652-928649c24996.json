@@ -1,21 +1,15 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
+            "attribute_key": "mevlidiserif", 
+            "mb_attribute": "Mevlidi\u015ferif", 
             "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
         }, 
         {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
+            "attribute_key": "mevlidiserif", 
+            "mb_tag": "mevlidi\u015ferif", 
             "source": "http://musicbrainz.org/recording/ebe27a19-c0b4-4c78-8652-928649c24996"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
         }
     ], 
     "releases": [
@@ -32,22 +26,21 @@
             "name": "Kani Karaca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "ebe27a19-c0b4-4c78-8652-928649c24996", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "mevlidiserif", 
-            "mb_attribute": "Mevlidi\u015ferif", 
-            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
-        }, 
-        {
-            "attribute_key": "mevlidiserif", 
-            "mb_tag": "mevlidi\u015ferif", 
-            "source": "http://musicbrainz.org/recording/ebe27a19-c0b4-4c78-8652-928649c24996"
+            "mbid": "904d3ee5-f5ea-4d5a-a73d-1c8fe231da68", 
+            "title": "Yarad\u0131lm\u0131\u015f C\u00fcmle Olsun"
         }
     ], 
-    "bit_rate": 64, 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
+            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
+        }
+    ], 
     "artists": [
         {
             "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
@@ -57,10 +50,17 @@
     ], 
     "duration": 255, 
     "path": "../data/Ussak/ebe27a19-c0b4-4c78-8652-928649c24996.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "904d3ee5-f5ea-4d5a-a73d-1c8fe231da68", 
-            "title": "Yarad\u0131lm\u0131\u015f C\u00fcmle Olsun"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/904d3ee5-f5ea-4d5a-a73d-1c8fe231da68"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ebe27a19-c0b4-4c78-8652-928649c24996"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/1f6af8f0-9c70-4afe-99ab-40720fb2f26f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/1f6af8f0-9c70-4afe-99ab-40720fb2f26f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Tahir Engin \u0130\u00e7\u00f6z"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "1f6af8f0-9c70-4afe-99ab-40720fb2f26f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b", 
+            "title": "Bu Ak\u015fam Yine Sensiz"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/1f6af8f0-9c70-4afe-99ab-40720fb2f26f"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "d1246e00-d12f-4617-837d-3f434bdd5c07", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 202, 
     "path": "../data/Saba/1f6af8f0-9c70-4afe-99ab-40720fb2f26f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b", 
-            "title": "Bu Ak\u015fam Yine Sensiz"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1d8f1c81-f4b6-4a75-8bd7-fb264760ba5b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1f6af8f0-9c70-4afe-99ab-40720fb2f26f"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

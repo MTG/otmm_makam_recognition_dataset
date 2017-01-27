@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d"
         }, 
         {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/181c15a6-8173-4546-a4f7-c040a70cce7f"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "\u0130stanbul Sazendeleri"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "181c15a6-8173-4546-a4f7-c040a70cce7f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d", 
+            "title": "Bayati Saat Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/181c15a6-8173-4546-a4f7-c040a70cce7f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "3bac5ae0-59ef-45e3-a352-11bf7ba6b53a", 
@@ -99,10 +103,6 @@
     ], 
     "duration": 322, 
     "path": "../data/Beyati/181c15a6-8173-4546-a4f7-c040a70cce7f.mp3", 
-    "works": [
-        {
-            "mbid": "edcf4b1a-3a60-4cc3-b2a7-a95a5c339f0d", 
-            "title": "Bayati Saat Pe\u015frevi"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

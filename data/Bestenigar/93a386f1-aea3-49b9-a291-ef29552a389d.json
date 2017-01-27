@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/b066861c-fa8f-4f0a-9980-443089f0b610"
         }, 
         {
-            "attribute_key": "cenber", 
-            "mb_tag": "\u00e7enber", 
-            "source": "http://musicbrainz.org/recording/93a386f1-aea3-49b9-a291-ef29552a389d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/b066861c-fa8f-4f0a-9980-443089f0b610"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/93a386f1-aea3-49b9-a291-ef29552a389d"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "93a386f1-aea3-49b9-a291-ef29552a389d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "b066861c-fa8f-4f0a-9980-443089f0b610", 
+            "title": "Ya \u0130lahi C\u00fcmle Sensin C\u00fcmle Sen"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/b066861c-fa8f-4f0a-9980-443089f0b610"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/93a386f1-aea3-49b9-a291-ef29552a389d"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 392, 
     "path": "../data/Bestenigar/93a386f1-aea3-49b9-a291-ef29552a389d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b066861c-fa8f-4f0a-9980-443089f0b610", 
-            "title": "Ya \u0130lahi C\u00fcmle Sensin C\u00fcmle Sen"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/b066861c-fa8f-4f0a-9980-443089f0b610"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/93a386f1-aea3-49b9-a291-ef29552a389d"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

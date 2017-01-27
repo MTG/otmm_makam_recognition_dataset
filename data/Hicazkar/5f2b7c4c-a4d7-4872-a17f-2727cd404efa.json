@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5f2b7c4c-a4d7-4872-a17f-2727cd404efa"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z Sami"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "5f2b7c4c-a4d7-4872-a17f-2727cd404efa", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 152, 
     "path": "../data/Hicazkar/5f2b7c4c-a4d7-4872-a17f-2727cd404efa.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5f2b7c4c-a4d7-4872-a17f-2727cd404efa"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "makam": [
         {
             "attribute_key": "hicazkar", 

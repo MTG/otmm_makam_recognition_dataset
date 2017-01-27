@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/14376d0b-ab49-40a1-9dbe-3a1e59ea45b6"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3f214267-bd88-4bf7-8f03-c824131bda57"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/14376d0b-ab49-40a1-9dbe-3a1e59ea45b6"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3f214267-bd88-4bf7-8f03-c824131bda57"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3f214267-bd88-4bf7-8f03-c824131bda57", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "14376d0b-ab49-40a1-9dbe-3a1e59ea45b6", 
+            "title": "\u0130ltimas Etmeye Yare Var\u0131n\u0131z"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/14376d0b-ab49-40a1-9dbe-3a1e59ea45b6"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/3f214267-bd88-4bf7-8f03-c824131bda57"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -142,10 +135,17 @@
     ], 
     "duration": 106, 
     "path": "../data/Muhayyer/3f214267-bd88-4bf7-8f03-c824131bda57.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "14376d0b-ab49-40a1-9dbe-3a1e59ea45b6", 
-            "title": "\u0130ltimas Etmeye Yare Var\u0131n\u0131z"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/14376d0b-ab49-40a1-9dbe-3a1e59ea45b6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3f214267-bd88-4bf7-8f03-c824131bda57"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

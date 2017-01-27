@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
+            "attribute_key": "kupe", 
+            "mb_attribute": "K\u00fcpe", 
             "source": "http://musicbrainz.org/work/f3f9c442-1c60-48ab-a299-54cba719887b"
         }, 
         {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "kupe", 
+            "mb_tag": "k\u00fcpe", 
             "source": "http://musicbrainz.org/recording/f18dea69-8780-432b-967e-e6e03046dd83"
         }
     ], 
@@ -42,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f18dea69-8780-432b-967e-e6e03046dd83", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kupe", 
-            "mb_attribute": "K\u00fcpe", 
+            "mbid": "f3f9c442-1c60-48ab-a299-54cba719887b", 
+            "title": "Rahmet Eyle Bana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/f3f9c442-1c60-48ab-a299-54cba719887b"
         }, 
         {
-            "attribute_key": "kupe", 
-            "mb_tag": "k\u00fcpe", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/f18dea69-8780-432b-967e-e6e03046dd83"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -100,10 +104,6 @@
     ], 
     "duration": 171, 
     "path": "../data/Ussak/f18dea69-8780-432b-967e-e6e03046dd83.mp3", 
-    "works": [
-        {
-            "mbid": "f3f9c442-1c60-48ab-a299-54cba719887b", 
-            "title": "Rahmet Eyle Bana"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

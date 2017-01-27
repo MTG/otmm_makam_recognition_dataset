@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/c9da80df-3019-411a-868f-e5bb618d9d96"
         }, 
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/4ab32b2f-3a50-463d-b22f-2b56a684eaa7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/c9da80df-3019-411a-868f-e5bb618d9d96"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/4ab32b2f-3a50-463d-b22f-2b56a684eaa7"
         }
     ], 
@@ -93,22 +82,26 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "4ab32b2f-3a50-463d-b22f-2b56a684eaa7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "c9da80df-3019-411a-868f-e5bb618d9d96", 
+            "title": "Yek Be Yek Ger\u00e7i Meram-\u0131 Dili Takrir Ettim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/c9da80df-3019-411a-868f-e5bb618d9d96"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/4ab32b2f-3a50-463d-b22f-2b56a684eaa7"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
@@ -209,10 +202,17 @@
     ], 
     "duration": 453, 
     "path": "../data/Saba/4ab32b2f-3a50-463d-b22f-2b56a684eaa7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c9da80df-3019-411a-868f-e5bb618d9d96", 
-            "title": "Yek Be Yek Ger\u00e7i Meram-\u0131 Dili Takrir Ettim"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/c9da80df-3019-411a-868f-e5bb618d9d96"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/4ab32b2f-3a50-463d-b22f-2b56a684eaa7"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9b7da4f3-bdbc-4404-b316-779e5243151d"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "9b7da4f3-bdbc-4404-b316-779e5243151d", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -44,13 +50,7 @@
     ], 
     "duration": 112, 
     "path": "../data/Ussak/9b7da4f3-bdbc-4404-b316-779e5243151d.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9b7da4f3-bdbc-4404-b316-779e5243151d"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "makam": [
         {
             "attribute_key": "ussak", 

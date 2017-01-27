@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/9f91b935-4cff-4505-9d17-f5fc930a9729"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/9f91b935-4cff-4505-9d17-f5fc930a9729"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Udi Yorgo Bacanos"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "9f91b935-4cff-4505-9d17-f5fc930a9729", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/9f91b935-4cff-4505-9d17-f5fc930a9729"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 202, 
     "path": "../data/Muhayyer/9f91b935-4cff-4505-9d17-f5fc930a9729.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
-            "title": "Muhayyer Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ac003195-9ea0-4d8e-8420-2d6c269e98f6"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9f91b935-4cff-4505-9d17-f5fc930a9729"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u00d6zdal Orhon"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "aba3cd6b-e186-4529-b222-fef133ec0295", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "efce5948-8179-49f9-8a61-c7dea8c2ed3b", 
+            "title": "Gitti\u011fin Yerde Unutma"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
@@ -86,10 +79,17 @@
     ], 
     "duration": 139, 
     "path": "../data/Karcigar/aba3cd6b-e186-4529-b222-fef133ec0295.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "efce5948-8179-49f9-8a61-c7dea8c2ed3b", 
-            "title": "Gitti\u011fin Yerde Unutma"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/efce5948-8179-49f9-8a61-c7dea8c2ed3b"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/aba3cd6b-e186-4529-b222-fef133ec0295"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

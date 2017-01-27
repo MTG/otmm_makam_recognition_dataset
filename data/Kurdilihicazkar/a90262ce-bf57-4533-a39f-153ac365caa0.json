@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/5beb76e5-1fa5-4aea-bd26-8c73fe299549"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/a90262ce-bf57-4533-a39f-153ac365caa0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/5beb76e5-1fa5-4aea-bd26-8c73fe299549"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/a90262ce-bf57-4533-a39f-153ac365caa0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "a90262ce-bf57-4533-a39f-153ac365caa0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "5beb76e5-1fa5-4aea-bd26-8c73fe299549", 
+            "title": "Gittin B\u0131rakt\u0131n Beni Gurbet Ellerde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/5beb76e5-1fa5-4aea-bd26-8c73fe299549"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/a90262ce-bf57-4533-a39f-153ac365caa0"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -230,10 +223,17 @@
     ], 
     "duration": 265, 
     "path": "../data/Kurdilihicazkar/a90262ce-bf57-4533-a39f-153ac365caa0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5beb76e5-1fa5-4aea-bd26-8c73fe299549", 
-            "title": "Gittin B\u0131rakt\u0131n Beni Gurbet Ellerde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5beb76e5-1fa5-4aea-bd26-8c73fe299549"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/a90262ce-bf57-4533-a39f-153ac365caa0"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

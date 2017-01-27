@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz_humayun", 
-            "mb_attribute": "Hicaz H\u00fcmayun", 
-            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Erc\u00fcmend Batanay"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6ced17ad-eb3a-48dd-8582-79c8809c31e5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a97cdd34-fd97-417e-be5a-ca48cf803f78", 
+            "title": "Kap\u0131ld\u0131m Gidiyorum Baht\u0131m\u0131n R\u00fczgar\u0131na"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz_humayun", 
+            "mb_attribute": "Hicaz H\u00fcmayun", 
             "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -74,10 +67,17 @@
     ], 
     "duration": 175, 
     "path": "../data/Hicaz/6ced17ad-eb3a-48dd-8582-79c8809c31e5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a97cdd34-fd97-417e-be5a-ca48cf803f78", 
-            "title": "Kap\u0131ld\u0131m Gidiyorum Baht\u0131m\u0131n R\u00fczgar\u0131na"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/a97cdd34-fd97-417e-be5a-ca48cf803f78"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/6ced17ad-eb3a-48dd-8582-79c8809c31e5"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

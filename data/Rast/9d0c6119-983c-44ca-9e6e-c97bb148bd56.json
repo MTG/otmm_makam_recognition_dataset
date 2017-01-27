@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "attribute_key": "kar_i_nev", 
+            "mb_attribute": "Kar-\u0131 Nev", 
             "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
         }, 
         {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "kar_i_nev", 
+            "mb_tag": "kar-\u0131 nev", 
             "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sadettin Kaynak"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "9d0c6119-983c-44ca-9e6e-c97bb148bd56", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kar_i_nev", 
-            "mb_attribute": "Kar-\u0131 Nev", 
+            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
+            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
         }, 
         {
-            "attribute_key": "kar_i_nev", 
-            "mb_tag": "kar-\u0131 nev", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
@@ -75,10 +68,17 @@
     ], 
     "duration": 367, 
     "path": "../data/Rast/9d0c6119-983c-44ca-9e6e-c97bb148bd56.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c478ff5f-c3d6-4c44-8e66-3d8a90c7833e", 
-            "title": "G\u00f6z\u00fcmde Daim Hayal-i Cana"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c478ff5f-c3d6-4c44-8e66-3d8a90c7833e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9d0c6119-983c-44ca-9e6e-c97bb148bd56"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

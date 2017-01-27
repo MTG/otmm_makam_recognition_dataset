@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d214f1fe-19ed-4982-910e-b286df64d85d"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/d214f1fe-19ed-4982-910e-b286df64d85d"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Nusret Ers\u00f6z"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d214f1fe-19ed-4982-910e-b286df64d85d", 
+            "title": "Bir Goncaya Bir Hare"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/d214f1fe-19ed-4982-910e-b286df64d85d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "d719e17a-0446-4860-9009-5f5211c1107a", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 185, 
     "path": "../data/Karcigar/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d214f1fe-19ed-4982-910e-b286df64d85d", 
-            "title": "Bir Goncaya Bir Hare"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/d214f1fe-19ed-4982-910e-b286df64d85d"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/2e0289aa-ec4f-41ab-bec8-73a2b50fc1b1"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

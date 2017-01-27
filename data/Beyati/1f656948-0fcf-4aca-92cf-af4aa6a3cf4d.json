@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
             "source": "http://musicbrainz.org/work/05402315-0063-4cfe-b894-1ec8922357b2"
         }, 
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/05402315-0063-4cfe-b894-1ec8922357b2"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d"
         }
     ], 
@@ -61,22 +50,26 @@
             "name": "Hasan Esen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "1f656948-0fcf-4aca-92cf-af4aa6a3cf4d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "05402315-0063-4cfe-b894-1ec8922357b2", 
+            "title": "Gelse Nesim-i Subh"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/05402315-0063-4cfe-b894-1ec8922357b2"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -130,10 +123,17 @@
     ], 
     "duration": 123, 
     "path": "../data/Beyati/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05402315-0063-4cfe-b894-1ec8922357b2", 
-            "title": "Gelse Nesim-i Subh"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/05402315-0063-4cfe-b894-1ec8922357b2"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/1f656948-0fcf-4aca-92cf-af4aa6a3cf4d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

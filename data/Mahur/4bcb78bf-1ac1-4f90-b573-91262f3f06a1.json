@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
-            "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "19a78bb0-438c-407d-a7e0-a376f9e0fdd1", 
-            "title": "Dar\u00fc\u015f-\u015fifa Music of the Ottoman Empire"
-        }
-    ], 
-    "title": "Ud Taksim, Mahur Saz Semai", 
-    "url": "http://musicbrainz.org/work/4bcb78bf-1ac1-4f90-b573-91262f3f06a1", 
-    "artist_credits": [
-        {
-            "mbid": "c4727690-41bb-453b-947d-5ac82a477100", 
-            "name": "Erkan Dedeo\u011flu"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "mbid": "4bcb78bf-1ac1-4f90-b573-91262f3f06a1", 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "19a78bb0-438c-407d-a7e0-a376f9e0fdd1", 
+            "title": "Dar\u00fc\u015f-\u015fifa Music of the Ottoman Empire"
+        }
+    ], 
+    "title": "Ud Taksim, Mahur Saz Semai", 
+    "url": "http://musicbrainz.org/work/4bcb78bf-1ac1-4f90-b573-91262f3f06a1", 
+    "artist_credits": [
+        {
+            "mbid": "c4727690-41bb-453b-947d-5ac82a477100", 
+            "name": "Erkan Dedeo\u011flu"
+        }
+    ], 
+    "mbid": "4bcb78bf-1ac1-4f90-b573-91262f3f06a1", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
+            "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
+        }
+    ], 
     "artists": [
         {
             "mbid": "1bbfb4be-4d64-4fa4-ad0f-71ad0787ba30", 
@@ -233,10 +221,22 @@
     ], 
     "duration": 420, 
     "path": "../data/Mahur/4bcb78bf-1ac1-4f90-b573-91262f3f06a1.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43", 
-            "title": "Mahur Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4bcb78bf-1ac1-4f90-b573-91262f3f06a1"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

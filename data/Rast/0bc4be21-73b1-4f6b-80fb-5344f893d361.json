@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0bc4be21-73b1-4f6b-80fb-5344f893d361"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Volkan Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "0bc4be21-73b1-4f6b-80fb-5344f893d361", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 134, 
     "path": "../data/Rast/0bc4be21-73b1-4f6b-80fb-5344f893d361.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0bc4be21-73b1-4f6b-80fb-5344f893d361"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

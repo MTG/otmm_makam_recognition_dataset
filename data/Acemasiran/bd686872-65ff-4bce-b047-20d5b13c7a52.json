@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/aff4262e-2553-4a98-8d04-a83e22513a56"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/bd686872-65ff-4bce-b047-20d5b13c7a52"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/aff4262e-2553-4a98-8d04-a83e22513a56"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/bd686872-65ff-4bce-b047-20d5b13c7a52"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "bd686872-65ff-4bce-b047-20d5b13c7a52", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "aff4262e-2553-4a98-8d04-a83e22513a56", 
+            "title": "Ravzana \u00c7\u00fcn Y\u00fcz S\u00fcren Bulur Eman"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/aff4262e-2553-4a98-8d04-a83e22513a56"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/bd686872-65ff-4bce-b047-20d5b13c7a52"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 337, 
     "path": "../data/Acemasiran/bd686872-65ff-4bce-b047-20d5b13c7a52.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aff4262e-2553-4a98-8d04-a83e22513a56", 
-            "title": "Ravzana \u00c7\u00fcn Y\u00fcz S\u00fcren Bulur Eman"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/aff4262e-2553-4a98-8d04-a83e22513a56"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/bd686872-65ff-4bce-b047-20d5b13c7a52"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/af08dbf5-4d3d-4567-b224-79b01a26b17d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/af08dbf5-4d3d-4567-b224-79b01a26b17d"
         }, 
         {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/4af2dcea-69c6-412e-9a60-d86ba74d366f"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "4af2dcea-69c6-412e-9a60-d86ba74d366f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "af08dbf5-4d3d-4567-b224-79b01a26b17d", 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/af08dbf5-4d3d-4567-b224-79b01a26b17d"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/4af2dcea-69c6-412e-9a60-d86ba74d366f"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 332, 
     "path": "../data/Hicazkar/4af2dcea-69c6-412e-9a60-d86ba74d366f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "af08dbf5-4d3d-4567-b224-79b01a26b17d", 
-            "title": "Hicazkar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/af08dbf5-4d3d-4567-b224-79b01a26b17d"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

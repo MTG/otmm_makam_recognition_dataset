@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/05893ab9-4fbe-4d70-8df0-9cb99cab297a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/05893ab9-4fbe-4d70-8df0-9cb99cab297a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "05893ab9-4fbe-4d70-8df0-9cb99cab297a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "title": "Bestenig\u00e2r Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/05893ab9-4fbe-4d70-8df0-9cb99cab297a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 87, 
     "path": "../data/Bestenigar/05893ab9-4fbe-4d70-8df0-9cb99cab297a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
-            "title": "Bestenig\u00e2r Pe\u015frevi"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/05893ab9-4fbe-4d70-8df0-9cb99cab297a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "403fc6d6-899b-41eb-90bd-8fd948e3bfd9", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 210, 
     "path": "../data/Kurdilihicazkar/403fc6d6-899b-41eb-90bd-8fd948e3bfd9.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/403fc6d6-899b-41eb-90bd-8fd948e3bfd9"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 

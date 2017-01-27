@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/3930f5b8-1e13-45ce-957a-95a0023e89ae"
         }, 
         {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/62d9fd59-d4fa-4e44-bf37-7187f3e75ecd"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Aaron Kohen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "62d9fd59-d4fa-4e44-bf37-7187f3e75ecd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "3930f5b8-1e13-45ce-957a-95a0023e89ae", 
+            "title": "Neva Yigdal"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/3930f5b8-1e13-45ce-957a-95a0023e89ae"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/62d9fd59-d4fa-4e44-bf37-7187f3e75ecd"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2a0c7b2e-173c-49a5-ab8b-18fc84dbf5f6", 
@@ -83,10 +87,6 @@
     ], 
     "duration": 210, 
     "path": "../data/Neva/62d9fd59-d4fa-4e44-bf37-7187f3e75ecd.mp3", 
-    "works": [
-        {
-            "mbid": "3930f5b8-1e13-45ce-957a-95a0023e89ae", 
-            "title": "Neva Yigdal"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

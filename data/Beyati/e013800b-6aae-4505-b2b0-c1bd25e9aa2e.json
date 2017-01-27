@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/e013800b-6aae-4505-b2b0-c1bd25e9aa2e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "beste", 
@@ -26,8 +32,8 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "e013800b-6aae-4505-b2b0-c1bd25e9aa2e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 75, 
     "path": "../data/Beyati/e013800b-6aae-4505-b2b0-c1bd25e9aa2e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/e013800b-6aae-4505-b2b0-c1bd25e9aa2e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "beyati", 

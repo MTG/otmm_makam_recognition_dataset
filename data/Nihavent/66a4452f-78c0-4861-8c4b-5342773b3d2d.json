@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/66a4452f-78c0-4861-8c4b-5342773b3d2d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/66a4452f-78c0-4861-8c4b-5342773b3d2d"
         }
     ], 
@@ -45,22 +34,26 @@
             "name": "Necati \u00c7elik"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "66a4452f-78c0-4861-8c4b-5342773b3d2d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "9bc17784-0c14-456d-8a59-f15e2c95b2d0", 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/66a4452f-78c0-4861-8c4b-5342773b3d2d"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
@@ -73,10 +66,17 @@
     ], 
     "duration": 250, 
     "path": "../data/Nihavent/66a4452f-78c0-4861-8c4b-5342773b3d2d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9bc17784-0c14-456d-8a59-f15e2c95b2d0", 
-            "title": "Nihavent Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9bc17784-0c14-456d-8a59-f15e2c95b2d0"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/66a4452f-78c0-4861-8c4b-5342773b3d2d"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

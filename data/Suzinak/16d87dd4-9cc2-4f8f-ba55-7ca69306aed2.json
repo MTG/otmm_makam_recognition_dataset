@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak_zirgule", 
-            "mb_attribute": "Suzinak Zirg\u00fcle", 
-            "source": "http://musicbrainz.org/work/5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "S\u00fcheyla Eren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "16d87dd4-9cc2-4f8f-ba55-7ca69306aed2", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a", 
+            "title": "Aylard\u0131r G\u00fcl Y\u00fcz\u00fcn\u00fc G\u00f6remez Oldum Senin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
             "source": "http://musicbrainz.org/work/5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 182, 
     "path": "../data/Suzinak/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a", 
-            "title": "Aylard\u0131r G\u00fcl Y\u00fcz\u00fcn\u00fc G\u00f6remez Oldum Senin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5d53b1e5-dfee-40ff-a45d-32e77fbd7e0a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/16d87dd4-9cc2-4f8f-ba55-7ca69306aed2"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

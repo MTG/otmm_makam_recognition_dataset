@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
-            "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
-            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
-        }
-    ], 
-    "title": "Neva Pe\u015frev, Kemen\u00e7e Taksimi", 
-    "url": "http://musicbrainz.org/work/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048", 
-    "artist_credits": [
-        {
-            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
-            "name": "\u0130hsan \u00d6zgen"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
-    "mbid": "0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048", 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
+            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
+        }
+    ], 
+    "title": "Neva Pe\u015frev, Kemen\u00e7e Taksimi", 
+    "url": "http://musicbrainz.org/work/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "mbid": "0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
+        }
+    ], 
     "artists": [
         {
             "mbid": "279d2704-2462-4ebe-8230-2fc7af3dcd9c", 
@@ -83,10 +71,22 @@
     ], 
     "duration": 363, 
     "path": "../data/Neva/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/0a4e0d9e-d11f-4e33-bf8b-1fa6a42db048"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

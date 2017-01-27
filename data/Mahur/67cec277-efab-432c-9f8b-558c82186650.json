@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/b4a212ef-f1bc-420b-81b2-1288e1347de2"
         }, 
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/67cec277-efab-432c-9f8b-558c82186650"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/b4a212ef-f1bc-420b-81b2-1288e1347de2"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/67cec277-efab-432c-9f8b-558c82186650"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "67cec277-efab-432c-9f8b-558c82186650", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "b4a212ef-f1bc-420b-81b2-1288e1347de2", 
+            "title": "Ey Gonce Dehen Har\u0131 Elem"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/b4a212ef-f1bc-420b-81b2-1288e1347de2"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/67cec277-efab-432c-9f8b-558c82186650"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 442, 
     "path": "../data/Mahur/67cec277-efab-432c-9f8b-558c82186650.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b4a212ef-f1bc-420b-81b2-1288e1347de2", 
-            "title": "Ey Gonce Dehen Har\u0131 Elem"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/b4a212ef-f1bc-420b-81b2-1288e1347de2"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/67cec277-efab-432c-9f8b-558c82186650"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

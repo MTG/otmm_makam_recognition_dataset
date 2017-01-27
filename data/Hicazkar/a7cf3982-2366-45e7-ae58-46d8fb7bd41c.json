@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/3bafe209-40b3-4d04-ba1d-8bd07b34f7d3"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/a7cf3982-2366-45e7-ae58-46d8fb7bd41c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/3bafe209-40b3-4d04-ba1d-8bd07b34f7d3"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/a7cf3982-2366-45e7-ae58-46d8fb7bd41c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "G\u00fcl G\u00f6re"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "a7cf3982-2366-45e7-ae58-46d8fb7bd41c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "3bafe209-40b3-4d04-ba1d-8bd07b34f7d3", 
+            "title": "Y\u00fcce Da\u011flar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/3bafe209-40b3-4d04-ba1d-8bd07b34f7d3"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/a7cf3982-2366-45e7-ae58-46d8fb7bd41c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 168, 
     "path": "../data/Hicazkar/a7cf3982-2366-45e7-ae58-46d8fb7bd41c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3bafe209-40b3-4d04-ba1d-8bd07b34f7d3", 
-            "title": "Y\u00fcce Da\u011flar"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3bafe209-40b3-4d04-ba1d-8bd07b34f7d3"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/a7cf3982-2366-45e7-ae58-46d8fb7bd41c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

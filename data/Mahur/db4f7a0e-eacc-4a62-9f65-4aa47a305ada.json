@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/db4f7a0e-eacc-4a62-9f65-4aa47a305ada"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/db4f7a0e-eacc-4a62-9f65-4aa47a305ada"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "db4f7a0e-eacc-4a62-9f65-4aa47a305ada", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
+            "title": "Ver Saki"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/db4f7a0e-eacc-4a62-9f65-4aa47a305ada"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 218, 
     "path": "../data/Mahur/db4f7a0e-eacc-4a62-9f65-4aa47a305ada.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
-            "title": "Ver Saki"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/db4f7a0e-eacc-4a62-9f65-4aa47a305ada"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

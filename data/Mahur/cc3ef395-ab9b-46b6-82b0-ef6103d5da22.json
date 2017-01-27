@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/cc3ef395-ab9b-46b6-82b0-ef6103d5da22"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Ayangil T\u00fcrk M\u00fczi\u011fi Orkestra Ve Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "cc3ef395-ab9b-46b6-82b0-ef6103d5da22", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 103, 
     "path": "../data/Mahur/cc3ef395-ab9b-46b6-82b0-ef6103d5da22.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/cc3ef395-ab9b-46b6-82b0-ef6103d5da22"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "mahur", 

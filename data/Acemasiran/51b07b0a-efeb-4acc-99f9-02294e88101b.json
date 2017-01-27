@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/51b07b0a-efeb-4acc-99f9-02294e88101b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/51b07b0a-efeb-4acc-99f9-02294e88101b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "51b07b0a-efeb-4acc-99f9-02294e88101b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "197e8937-cb96-463c-bbac-223b1a9f9e73", 
+            "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/51b07b0a-efeb-4acc-99f9-02294e88101b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "8919be74-e039-451a-b5db-aae414b06d65", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 176, 
     "path": "../data/Acemasiran/51b07b0a-efeb-4acc-99f9-02294e88101b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "197e8937-cb96-463c-bbac-223b1a9f9e73", 
-            "title": "Bin Cefa G\u00f6rsem Ey Sanem Senden"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/197e8937-cb96-463c-bbac-223b1a9f9e73"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/51b07b0a-efeb-4acc-99f9-02294e88101b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

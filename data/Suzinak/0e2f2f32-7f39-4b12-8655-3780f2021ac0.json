@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak_zirgule", 
-            "mb_attribute": "Suzinak Zirg\u00fcle", 
-            "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0e2f2f32-7f39-4b12-8655-3780f2021ac0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "348e059d-a7b3-46a8-aa53-c42fe107bedf", 
+            "title": "G\u00f6zlerin Bir \u0130\u00e7im Su"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
             "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 208, 
     "path": "../data/Suzinak/0e2f2f32-7f39-4b12-8655-3780f2021ac0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "348e059d-a7b3-46a8-aa53-c42fe107bedf", 
-            "title": "G\u00f6zlerin Bir \u0130\u00e7im Su"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/348e059d-a7b3-46a8-aa53-c42fe107bedf"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0e2f2f32-7f39-4b12-8655-3780f2021ac0"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

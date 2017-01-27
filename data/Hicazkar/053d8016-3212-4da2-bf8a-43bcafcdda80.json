@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/75f7802f-3e81-42a1-87f1-2a857072e4e2"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/053d8016-3212-4da2-bf8a-43bcafcdda80"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/75f7802f-3e81-42a1-87f1-2a857072e4e2"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/053d8016-3212-4da2-bf8a-43bcafcdda80"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "053d8016-3212-4da2-bf8a-43bcafcdda80", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "75f7802f-3e81-42a1-87f1-2a857072e4e2", 
+            "title": "Ak\u015fam Olur G\u00fcne\u015f Gider"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/75f7802f-3e81-42a1-87f1-2a857072e4e2"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/053d8016-3212-4da2-bf8a-43bcafcdda80"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 229, 
     "path": "../data/Hicazkar/053d8016-3212-4da2-bf8a-43bcafcdda80.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "75f7802f-3e81-42a1-87f1-2a857072e4e2", 
-            "title": "Ak\u015fam Olur G\u00fcne\u015f Gider"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/75f7802f-3e81-42a1-87f1-2a857072e4e2"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/053d8016-3212-4da2-bf8a-43bcafcdda80"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

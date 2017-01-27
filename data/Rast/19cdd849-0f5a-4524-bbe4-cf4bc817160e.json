@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/19cdd849-0f5a-4524-bbe4-cf4bc817160e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u00d6zer \u00d6zel"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "19cdd849-0f5a-4524-bbe4-cf4bc817160e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 74, 
     "path": "../data/Rast/19cdd849-0f5a-4524-bbe4-cf4bc817160e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/19cdd849-0f5a-4524-bbe4-cf4bc817160e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

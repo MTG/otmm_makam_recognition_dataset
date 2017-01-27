@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "9e70f528-05d8-4be0-84d4-fecbb927c3bd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ecadfcac-8580-4070-8ddb-e2359c6cf741", 
+            "title": "D\u00fcn Yine G\u00fcn\u00fcm\u00fcz Ge\u00e7ti Beraber"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -105,10 +98,17 @@
     ], 
     "duration": 109, 
     "path": "../data/Mahur/9e70f528-05d8-4be0-84d4-fecbb927c3bd.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ecadfcac-8580-4070-8ddb-e2359c6cf741", 
-            "title": "D\u00fcn Yine G\u00fcn\u00fcm\u00fcz Ge\u00e7ti Beraber"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ecadfcac-8580-4070-8ddb-e2359c6cf741"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9e70f528-05d8-4be0-84d4-fecbb927c3bd"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e9982f96-ea37-49a9-80ff-af5a205f9f19"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/05520697-4e9e-417b-9859-8345d4aad7ce"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/e9982f96-ea37-49a9-80ff-af5a205f9f19"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/05520697-4e9e-417b-9859-8345d4aad7ce"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "05520697-4e9e-417b-9859-8345d4aad7ce", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e9982f96-ea37-49a9-80ff-af5a205f9f19", 
+            "title": "Nerdesin Nerde Acep"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/e9982f96-ea37-49a9-80ff-af5a205f9f19"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/05520697-4e9e-417b-9859-8345d4aad7ce"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -230,10 +223,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Hicazkar/05520697-4e9e-417b-9859-8345d4aad7ce.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e9982f96-ea37-49a9-80ff-af5a205f9f19", 
-            "title": "Nerdesin Nerde Acep"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/e9982f96-ea37-49a9-80ff-af5a205f9f19"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/05520697-4e9e-417b-9859-8345d4aad7ce"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

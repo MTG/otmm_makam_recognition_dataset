@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/4025c156-3e4b-4d36-bd81-89f2d513a631"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/4025c156-3e4b-4d36-bd81-89f2d513a631"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bosphorus"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "2ff5b6e0-7616-4b49-8fb6-c423d676d9a6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "4025c156-3e4b-4d36-bd81-89f2d513a631", 
+            "title": "Saba Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/4025c156-3e4b-4d36-bd81-89f2d513a631"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "4988031f-ab5b-42d3-aeab-8d8abedfb887", 
@@ -166,10 +159,17 @@
     ], 
     "duration": 322, 
     "path": "../data/Saba/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4025c156-3e4b-4d36-bd81-89f2d513a631", 
-            "title": "Saba Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/4025c156-3e4b-4d36-bd81-89f2d513a631"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/2ff5b6e0-7616-4b49-8fb6-c423d676d9a6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

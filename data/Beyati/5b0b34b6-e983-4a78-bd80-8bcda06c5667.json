@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/5b0b34b6-e983-4a78-bd80-8bcda06c5667"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/35ba0c44-c0f3-4850-b195-b7e15dc6ae1f"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/5b0b34b6-e983-4a78-bd80-8bcda06c5667"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "5b0b34b6-e983-4a78-bd80-8bcda06c5667", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "35ba0c44-c0f3-4850-b195-b7e15dc6ae1f", 
+            "title": "G\u00fcl Y\u00fczl\u00fclerin \u015eevkine Gel"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/35ba0c44-c0f3-4850-b195-b7e15dc6ae1f"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/5b0b34b6-e983-4a78-bd80-8bcda06c5667"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -109,10 +102,17 @@
     ], 
     "duration": 192, 
     "path": "../data/Beyati/5b0b34b6-e983-4a78-bd80-8bcda06c5667.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35ba0c44-c0f3-4850-b195-b7e15dc6ae1f", 
-            "title": "G\u00fcl Y\u00fczl\u00fclerin \u015eevkine Gel"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/35ba0c44-c0f3-4850-b195-b7e15dc6ae1f"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/5b0b34b6-e983-4a78-bd80-8bcda06c5667"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

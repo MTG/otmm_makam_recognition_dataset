@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f59a69ea-8900-4886-a285-5774a19f4081"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3bf62832-d655-458c-af3e-11594f487162"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/f59a69ea-8900-4886-a285-5774a19f4081"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3bf62832-d655-458c-af3e-11594f487162"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3bf62832-d655-458c-af3e-11594f487162", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f59a69ea-8900-4886-a285-5774a19f4081", 
+            "title": "Neyle Konu\u015ftum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/f59a69ea-8900-4886-a285-5774a19f4081"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/3bf62832-d655-458c-af3e-11594f487162"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 276, 
     "path": "../data/Ussak/3bf62832-d655-458c-af3e-11594f487162.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f59a69ea-8900-4886-a285-5774a19f4081", 
-            "title": "Neyle Konu\u015ftum"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/f59a69ea-8900-4886-a285-5774a19f4081"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3bf62832-d655-458c-af3e-11594f487162"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

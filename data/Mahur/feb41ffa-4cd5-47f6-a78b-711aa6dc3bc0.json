@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "7e6c80f2-6757-48c7-973a-061a9e29a599", 
+            "title": "Bayram Gecesi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 185, 
     "path": "../data/Mahur/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7e6c80f2-6757-48c7-973a-061a9e29a599", 
-            "title": "Bayram Gecesi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7e6c80f2-6757-48c7-973a-061a9e29a599"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/feb41ffa-4cd5-47f6-a78b-711aa6dc3bc0"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "evsat", 
-            "mb_attribute": "Evsat", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/d271a01c-a717-49a1-a045-813b38c0d587"
         }, 
         {
-            "attribute_key": "evsat", 
-            "mb_tag": "evsat", 
-            "source": "http://musicbrainz.org/recording/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/d271a01c-a717-49a1-a045-813b38c0d587"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "d271a01c-a717-49a1-a045-813b38c0d587", 
+            "title": "Candan A\u015f\u0131k Oldum Vechin G\u00fcl\u00fcne"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/d271a01c-a717-49a1-a045-813b38c0d587"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 138, 
     "path": "../data/Bestenigar/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d271a01c-a717-49a1-a045-813b38c0d587", 
-            "title": "Candan A\u015f\u0131k Oldum Vechin G\u00fcl\u00fcne"
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/d271a01c-a717-49a1-a045-813b38c0d587"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/d2cbc08b-fbbe-43d9-90a7-ca82a258b4eb"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

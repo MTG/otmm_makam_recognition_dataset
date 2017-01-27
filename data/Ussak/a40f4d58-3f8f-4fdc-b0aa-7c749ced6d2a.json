@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Udi Marko \u00c7olako\u011flu Efendi"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 192, 
     "path": "../data/Ussak/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a40f4d58-3f8f-4fdc-b0aa-7c749ced6d2a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "ussak", 

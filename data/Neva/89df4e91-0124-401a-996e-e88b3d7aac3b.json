@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "89df4e91-0124-401a-996e-e88b3d7aac3b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 89, 
     "path": "../data/Neva/89df4e91-0124-401a-996e-e88b3d7aac3b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/89df4e91-0124-401a-996e-e88b3d7aac3b"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

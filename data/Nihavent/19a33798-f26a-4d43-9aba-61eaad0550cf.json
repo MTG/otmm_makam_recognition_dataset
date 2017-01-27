@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/4e3241e0-cf4e-44b8-ab0e-eb342df832f1"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/4e3241e0-cf4e-44b8-ab0e-eb342df832f1"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
-            "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "aa4ec600-4b32-451c-9c51-226001dd51ef", 
-            "title": "T\u00fcrk M\u00fczi\u011finde 75 B\u00fcy\u00fck Bestekar/ 75 Great Composers In Turkish Classical Music"
-        }
-    ], 
-    "title": "G\u00f6zlerin Bir A\u015fk Bilmecesi", 
-    "url": "http://musicbrainz.org/work/19a33798-f26a-4d43-9aba-61eaad0550cf", 
-    "artist_credits": [
-        {
-            "mbid": "fd8bceee-b3a4-4870-851a-0374f5542751", 
-            "name": "Bekir \u00dcnl\u00fcataer"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "mbid": "19a33798-f26a-4d43-9aba-61eaad0550cf", 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
         }
     ], 
-    "bit_rate": 160, 
+    "releases": [
+        {
+            "mbid": "aa4ec600-4b32-451c-9c51-226001dd51ef", 
+            "title": "T\u00fcrk M\u00fczi\u011finde 75 B\u00fcy\u00fck Bestekar/ 75 Great Composers In Turkish Classical Music"
+        }
+    ], 
+    "title": "G\u00f6zlerin Bir A\u015fk Bilmecesi", 
+    "url": "http://musicbrainz.org/work/19a33798-f26a-4d43-9aba-61eaad0550cf", 
+    "artist_credits": [
+        {
+            "mbid": "fd8bceee-b3a4-4870-851a-0374f5542751", 
+            "name": "Bekir \u00dcnl\u00fcataer"
+        }
+    ], 
+    "mbid": "19a33798-f26a-4d43-9aba-61eaad0550cf", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "4e3241e0-cf4e-44b8-ab0e-eb342df832f1", 
+            "title": "G\u00f6zlerin bir a\u015fk bilmecesi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
+            "source": "http://musicbrainz.org/work/4e3241e0-cf4e-44b8-ab0e-eb342df832f1"
+        }, 
+        {
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
+            "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
+        }
+    ], 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -240,10 +228,22 @@
     ], 
     "duration": 318, 
     "path": "../data/Nihavent/19a33798-f26a-4d43-9aba-61eaad0550cf.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4e3241e0-cf4e-44b8-ab0e-eb342df832f1", 
-            "title": "G\u00f6zlerin bir a\u015fk bilmecesi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4e3241e0-cf4e-44b8-ab0e-eb342df832f1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/19a33798-f26a-4d43-9aba-61eaad0550cf"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

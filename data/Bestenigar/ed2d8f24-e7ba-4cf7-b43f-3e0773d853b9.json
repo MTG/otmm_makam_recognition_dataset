@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/2b669eab-9326-4737-a947-19148c9877ff"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/2b669eab-9326-4737-a947-19148c9877ff"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "2b669eab-9326-4737-a947-19148c9877ff", 
+            "title": "Bestenigar Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/2b669eab-9326-4737-a947-19148c9877ff"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -89,10 +82,17 @@
     ], 
     "duration": 544, 
     "path": "../data/Bestenigar/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2b669eab-9326-4737-a947-19148c9877ff", 
-            "title": "Bestenigar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2b669eab-9326-4737-a947-19148c9877ff"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ed2d8f24-e7ba-4cf7-b43f-3e0773d853b9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

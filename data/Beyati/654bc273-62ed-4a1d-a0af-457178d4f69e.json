@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/6c9e93a8-b022-4f12-805a-737fa827de1f"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/654bc273-62ed-4a1d-a0af-457178d4f69e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/6c9e93a8-b022-4f12-805a-737fa827de1f"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/654bc273-62ed-4a1d-a0af-457178d4f69e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "654bc273-62ed-4a1d-a0af-457178d4f69e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "6c9e93a8-b022-4f12-805a-737fa827de1f", 
+            "title": "Dil-i A\u015f\u0131klar\u0131 Bend Etmede Bir Pehlivans\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/6c9e93a8-b022-4f12-805a-737fa827de1f"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/654bc273-62ed-4a1d-a0af-457178d4f69e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 314, 
     "path": "../data/Beyati/654bc273-62ed-4a1d-a0af-457178d4f69e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6c9e93a8-b022-4f12-805a-737fa827de1f", 
-            "title": "Dil-i A\u015f\u0131klar\u0131 Bend Etmede Bir Pehlivans\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/6c9e93a8-b022-4f12-805a-737fa827de1f"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/654bc273-62ed-4a1d-a0af-457178d4f69e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

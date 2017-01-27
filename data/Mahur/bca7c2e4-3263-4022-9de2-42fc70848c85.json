@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
             "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/bca7c2e4-3263-4022-9de2-42fc70848c85"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "yuruksemai_nakis", 
+            "mb_tag": "y\u00fcr\u00fcksemai nak\u0131\u015f", 
             "source": "http://musicbrainz.org/recording/bca7c2e4-3263-4022-9de2-42fc70848c85"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "bca7c2e4-3263-4022-9de2-42fc70848c85", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "1df2736e-50be-42ff-98e0-5f0960f3ce7b", 
+            "title": "Yine Zevrak-\u0131 Derunum K\u0131r\u0131l\u0131p Kenare D\u00fc\u015ft\u00fc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
         }, 
         {
-            "attribute_key": "yuruksemai_nakis", 
-            "mb_tag": "y\u00fcr\u00fcksemai nak\u0131\u015f", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/bca7c2e4-3263-4022-9de2-42fc70848c85"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 272, 
     "path": "../data/Mahur/bca7c2e4-3263-4022-9de2-42fc70848c85.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1df2736e-50be-42ff-98e0-5f0960f3ce7b", 
-            "title": "Yine Zevrak-\u0131 Derunum K\u0131r\u0131l\u0131p Kenare D\u00fc\u015ft\u00fc"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/1df2736e-50be-42ff-98e0-5f0960f3ce7b"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/bca7c2e4-3263-4022-9de2-42fc70848c85"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

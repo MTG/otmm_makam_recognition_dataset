@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/998d3462-1b73-4b32-b50d-b792ed49f4fe"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/998d3462-1b73-4b32-b50d-b792ed49f4fe"
         }
     ], 
@@ -39,17 +33,21 @@
             "name": "Esma Ba\u015fbu\u011f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "d64dbe8f-e3af-47e5-81d3-f1ae7e834500", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "998d3462-1b73-4b32-b50d-b792ed49f4fe", 
+            "title": "Kar\u015f\u0131dan Yar G\u00fcle G\u00fcle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/998d3462-1b73-4b32-b50d-b792ed49f4fe"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -138,10 +136,12 @@
     ], 
     "duration": 185, 
     "path": "../data/Beyati/d64dbe8f-e3af-47e5-81d3-f1ae7e834500.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "998d3462-1b73-4b32-b50d-b792ed49f4fe", 
-            "title": "Kar\u015f\u0131dan Yar G\u00fcle G\u00fcle"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/998d3462-1b73-4b32-b50d-b792ed49f4fe"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

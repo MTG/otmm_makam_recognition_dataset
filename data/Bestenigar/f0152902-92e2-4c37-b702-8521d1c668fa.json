@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b13e1edf-ca11-425e-a900-d2b02cfbd6e4"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/f0152902-92e2-4c37-b702-8521d1c668fa"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/b13e1edf-ca11-425e-a900-d2b02cfbd6e4"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f0152902-92e2-4c37-b702-8521d1c668fa"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "f0152902-92e2-4c37-b702-8521d1c668fa", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b13e1edf-ca11-425e-a900-d2b02cfbd6e4", 
+            "title": "Gayr\u0131dan Bulmaz Teselli"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/b13e1edf-ca11-425e-a900-d2b02cfbd6e4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/f0152902-92e2-4c37-b702-8521d1c668fa"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 251, 
     "path": "../data/Bestenigar/f0152902-92e2-4c37-b702-8521d1c668fa.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b13e1edf-ca11-425e-a900-d2b02cfbd6e4", 
-            "title": "Gayr\u0131dan Bulmaz Teselli"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/b13e1edf-ca11-425e-a900-d2b02cfbd6e4"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/f0152902-92e2-4c37-b702-8521d1c668fa"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

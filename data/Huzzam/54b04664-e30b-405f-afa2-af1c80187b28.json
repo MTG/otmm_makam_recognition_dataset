@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/852232f7-e223-4561-9a22-313eb858c469"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/54b04664-e30b-405f-afa2-af1c80187b28"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/852232f7-e223-4561-9a22-313eb858c469"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/54b04664-e30b-405f-afa2-af1c80187b28"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Neva \u00d6zgen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "54b04664-e30b-405f-afa2-af1c80187b28", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "title": "H\u00fczzam Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/852232f7-e223-4561-9a22-313eb858c469"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/54b04664-e30b-405f-afa2-af1c80187b28"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
@@ -73,10 +66,17 @@
     ], 
     "duration": 279, 
     "path": "../data/Huzzam/54b04664-e30b-405f-afa2-af1c80187b28.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
-            "title": "H\u00fczzam Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/852232f7-e223-4561-9a22-313eb858c469"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/54b04664-e30b-405f-afa2-af1c80187b28"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

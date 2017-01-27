@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Oya \u0130\u015fbo\u011fa"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "351c2fd1-16af-4c05-8b65-091c7bddfc2e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ffefc26e-4854-4af1-83b9-ac4e773dfc75", 
+            "title": "Ka\u00e7\u0131nc\u0131 Fasl-\u0131 Bahar Bu Solar Gider Emelim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
@@ -113,10 +106,17 @@
     ], 
     "duration": 281, 
     "path": "../data/Sultaniyegah/351c2fd1-16af-4c05-8b65-091c7bddfc2e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ffefc26e-4854-4af1-83b9-ac4e773dfc75", 
-            "title": "Ka\u00e7\u0131nc\u0131 Fasl-\u0131 Bahar Bu Solar Gider Emelim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ffefc26e-4854-4af1-83b9-ac4e773dfc75"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/351c2fd1-16af-4c05-8b65-091c7bddfc2e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

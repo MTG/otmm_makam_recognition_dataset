@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/4997c154-2dfe-4d4d-83b6-78daab2675d5"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/39dcac16-dd57-4f3a-a931-e641bba6d206"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/4997c154-2dfe-4d4d-83b6-78daab2675d5"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/39dcac16-dd57-4f3a-a931-e641bba6d206"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "39dcac16-dd57-4f3a-a931-e641bba6d206", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "4997c154-2dfe-4d4d-83b6-78daab2675d5", 
+            "title": "Esmerim K\u0131yma Bana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/4997c154-2dfe-4d4d-83b6-78daab2675d5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/39dcac16-dd57-4f3a-a931-e641bba6d206"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 181, 
     "path": "../data/Muhayyer/39dcac16-dd57-4f3a-a931-e641bba6d206.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4997c154-2dfe-4d4d-83b6-78daab2675d5", 
-            "title": "Esmerim K\u0131yma Bana"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/4997c154-2dfe-4d4d-83b6-78daab2675d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/39dcac16-dd57-4f3a-a931-e641bba6d206"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

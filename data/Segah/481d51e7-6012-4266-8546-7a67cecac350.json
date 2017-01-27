@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/481d51e7-6012-4266-8546-7a67cecac350"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/481d51e7-6012-4266-8546-7a67cecac350"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Talip \u00d6zkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "481d51e7-6012-4266-8546-7a67cecac350", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
+            "title": "Segah Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/481d51e7-6012-4266-8546-7a67cecac350"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "6475a154-c871-46db-bc20-2fcb4a75fb99", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 269, 
     "path": "../data/Segah/481d51e7-6012-4266-8546-7a67cecac350.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
-            "title": "Segah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/611c119a-62a0-4238-bb18-9ffe50d84d8b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/481d51e7-6012-4266-8546-7a67cecac350"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

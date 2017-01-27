@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a95ac57f-2d1d-4525-9e7b-a21a38d7a6da"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/653f8154-b374-4713-99ee-f649f9582b99"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/a95ac57f-2d1d-4525-9e7b-a21a38d7a6da"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/653f8154-b374-4713-99ee-f649f9582b99"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "653f8154-b374-4713-99ee-f649f9582b99", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a95ac57f-2d1d-4525-9e7b-a21a38d7a6da", 
+            "title": "Nedir Bu Haletin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/a95ac57f-2d1d-4525-9e7b-a21a38d7a6da"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/653f8154-b374-4713-99ee-f649f9582b99"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "26d31b66-ec11-4575-b599-6675285e0906", 
@@ -117,10 +110,17 @@
     ], 
     "duration": 196, 
     "path": "../data/Huseyni/653f8154-b374-4713-99ee-f649f9582b99.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a95ac57f-2d1d-4525-9e7b-a21a38d7a6da", 
-            "title": "Nedir Bu Haletin"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/a95ac57f-2d1d-4525-9e7b-a21a38d7a6da"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/653f8154-b374-4713-99ee-f649f9582b99"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

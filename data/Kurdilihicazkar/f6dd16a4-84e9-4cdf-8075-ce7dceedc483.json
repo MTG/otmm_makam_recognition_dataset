@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "f6dd16a4-84e9-4cdf-8075-ce7dceedc483", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
+            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "029d95e2-615e-4a0a-a162-94e1ef18806f", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 215, 
     "path": "../data/Kurdilihicazkar/f6dd16a4-84e9-4cdf-8075-ce7dceedc483.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a8a0d02b-b0cf-40e5-b0f1-1289188b148f", 
-            "title": "Bu Ak\u015fam B\u00fct\u00fcn Meyhanelerini"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/a8a0d02b-b0cf-40e5-b0f1-1289188b148f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f6dd16a4-84e9-4cdf-8075-ce7dceedc483"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/48fbedf2-5717-4beb-a97e-3b4a50d291ba"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/9405b70a-20b0-42a5-b2f6-91baad740c02"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/48fbedf2-5717-4beb-a97e-3b4a50d291ba"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/9405b70a-20b0-42a5-b2f6-91baad740c02"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "9405b70a-20b0-42a5-b2f6-91baad740c02", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "48fbedf2-5717-4beb-a97e-3b4a50d291ba", 
+            "title": "Rumda Acemde A\u015f\u0131k Oldu\u011fum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/48fbedf2-5717-4beb-a97e-3b4a50d291ba"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/9405b70a-20b0-42a5-b2f6-91baad740c02"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 112, 
     "path": "../data/Suzinak/9405b70a-20b0-42a5-b2f6-91baad740c02.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "48fbedf2-5717-4beb-a97e-3b4a50d291ba", 
-            "title": "Rumda Acemde A\u015f\u0131k Oldu\u011fum"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/48fbedf2-5717-4beb-a97e-3b4a50d291ba"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/9405b70a-20b0-42a5-b2f6-91baad740c02"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/849c23d0-ead7-42f5-b7e3-fa65dfbda2fc"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/849c23d0-ead7-42f5-b7e3-fa65dfbda2fc"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "5b6c8e25-d3cc-43a7-8e75-0082c4479b8e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "849c23d0-ead7-42f5-b7e3-fa65dfbda2fc", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/849c23d0-ead7-42f5-b7e3-fa65dfbda2fc"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -89,10 +82,17 @@
     ], 
     "duration": 239, 
     "path": "../data/Muhayyer/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "849c23d0-ead7-42f5-b7e3-fa65dfbda2fc", 
-            "title": "Muhayyer Sazsemaisi"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/849c23d0-ead7-42f5-b7e3-fa65dfbda2fc"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/5b6c8e25-d3cc-43a7-8e75-0082c4479b8e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

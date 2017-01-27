@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "medhal", 
+            "mb_attribute": "Medhal", 
             "source": "http://musicbrainz.org/work/3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/b341d1b7-8d00-433c-8539-b28ea2b13a82"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "medhal", 
+            "mb_tag": "medhal", 
             "source": "http://musicbrainz.org/recording/b341d1b7-8d00-433c-8539-b28ea2b13a82"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Radyosu Saz Sanat\u00e7\u0131lar\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "b341d1b7-8d00-433c-8539-b28ea2b13a82", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "medhal", 
-            "mb_attribute": "Medhal", 
+            "mbid": "3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d", 
+            "title": "Sultaniyegah Medhal"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d"
         }, 
         {
-            "attribute_key": "medhal", 
-            "mb_tag": "medhal", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/b341d1b7-8d00-433c-8539-b28ea2b13a82"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0c8ece8e-8f9f-465c-86d2-33dccbe24b81", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 491, 
     "path": "../data/Sultaniyegah/b341d1b7-8d00-433c-8539-b28ea2b13a82.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d", 
-            "title": "Sultaniyegah Medhal"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/3d653251-fc0b-4d3b-bb9c-3d40ddfbf97d"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/b341d1b7-8d00-433c-8539-b28ea2b13a82"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/85ab24c7-b37f-494d-85e4-547b09cdfdcc"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/85ab24c7-b37f-494d-85e4-547b09cdfdcc"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "85ab24c7-b37f-494d-85e4-547b09cdfdcc", 
+            "title": "Gubar-\u0131 Payine Almam Cihan\u0131 Ya Rasulallah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/85ab24c7-b37f-494d-85e4-547b09cdfdcc"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 146, 
     "path": "../data/Beyati/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "85ab24c7-b37f-494d-85e4-547b09cdfdcc", 
-            "title": "Gubar-\u0131 Payine Almam Cihan\u0131 Ya Rasulallah"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/85ab24c7-b37f-494d-85e4-547b09cdfdcc"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5a03158d-a6a5-4dca-8d1c-09fb25cfcd8f"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

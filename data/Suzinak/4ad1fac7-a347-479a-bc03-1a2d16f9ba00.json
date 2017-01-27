@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/78f668a0-adee-44f7-b1d7-99a12915fc88"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/4ad1fac7-a347-479a-bc03-1a2d16f9ba00"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/78f668a0-adee-44f7-b1d7-99a12915fc88"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4ad1fac7-a347-479a-bc03-1a2d16f9ba00"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "4ad1fac7-a347-479a-bc03-1a2d16f9ba00", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "78f668a0-adee-44f7-b1d7-99a12915fc88", 
+            "title": "Gel De G\u00fczelim Beni Sevindir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/78f668a0-adee-44f7-b1d7-99a12915fc88"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/4ad1fac7-a347-479a-bc03-1a2d16f9ba00"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 207, 
     "path": "../data/Suzinak/4ad1fac7-a347-479a-bc03-1a2d16f9ba00.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "78f668a0-adee-44f7-b1d7-99a12915fc88", 
-            "title": "Gel De G\u00fczelim Beni Sevindir"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/78f668a0-adee-44f7-b1d7-99a12915fc88"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4ad1fac7-a347-479a-bc03-1a2d16f9ba00"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

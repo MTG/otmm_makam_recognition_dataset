@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/252165ad-22d6-4932-a71e-e402195ff2c6"
         }, 
         {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/eb0f6fd9-d53b-49fe-af2e-26cfffea6409"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/252165ad-22d6-4932-a71e-e402195ff2c6"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/eb0f6fd9-d53b-49fe-af2e-26cfffea6409"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Kudsi Erg\u00fcner Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "eb0f6fd9-d53b-49fe-af2e-26cfffea6409", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "252165ad-22d6-4932-a71e-e402195ff2c6", 
+            "title": "Bestenigar Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/252165ad-22d6-4932-a71e-e402195ff2c6"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/eb0f6fd9-d53b-49fe-af2e-26cfffea6409"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 255, 
     "path": "../data/Bestenigar/eb0f6fd9-d53b-49fe-af2e-26cfffea6409.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "252165ad-22d6-4932-a71e-e402195ff2c6", 
-            "title": "Bestenigar Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/252165ad-22d6-4932-a71e-e402195ff2c6"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/eb0f6fd9-d53b-49fe-af2e-26cfffea6409"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/cce713aa-f30d-4c27-9af7-feabde1d5179"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/cce713aa-f30d-4c27-9af7-feabde1d5179"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Udi Yorgo Bacanos"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "cce713aa-f30d-4c27-9af7-feabde1d5179", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "237394f7-e02e-4ee8-8a9e-f2ee35ed9786", 
+            "title": "G\u00fcl\u015fen-i Ezhar A\u00e7t\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/cce713aa-f30d-4c27-9af7-feabde1d5179"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 218, 
     "path": "../data/Mahur/cce713aa-f30d-4c27-9af7-feabde1d5179.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "237394f7-e02e-4ee8-8a9e-f2ee35ed9786", 
-            "title": "G\u00fcl\u015fen-i Ezhar A\u00e7t\u0131"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/237394f7-e02e-4ee8-8a9e-f2ee35ed9786"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/cce713aa-f30d-4c27-9af7-feabde1d5179"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

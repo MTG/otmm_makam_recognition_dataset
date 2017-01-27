@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Lalezar"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "69de2f06-fea4-4230-b004-200abc727c5b", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "76549e37-b93d-47b0-abb5-85b6a163a745", 
+            "title": "Bir Katre \u0130\u00e7en \u00c7e\u015fm-i P\u00fcrhun-i Fenadan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -100,10 +93,17 @@
     ], 
     "duration": 236, 
     "path": "../data/Beyati/69de2f06-fea4-4230-b004-200abc727c5b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "76549e37-b93d-47b0-abb5-85b6a163a745", 
-            "title": "Bir Katre \u0130\u00e7en \u00c7e\u015fm-i P\u00fcrhun-i Fenadan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/76549e37-b93d-47b0-abb5-85b6a163a745"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/69de2f06-fea4-4230-b004-200abc727c5b"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

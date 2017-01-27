@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/243b29c3-77ff-4420-be8e-b28e57166bcf"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/16911069-c95c-4f50-b477-6d14a2ae8ff1"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/243b29c3-77ff-4420-be8e-b28e57166bcf"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/16911069-c95c-4f50-b477-6d14a2ae8ff1"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "16911069-c95c-4f50-b477-6d14a2ae8ff1", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "243b29c3-77ff-4420-be8e-b28e57166bcf", 
+            "title": "Ne Sor Bana Ne S\u00f6ylerim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/243b29c3-77ff-4420-be8e-b28e57166bcf"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/16911069-c95c-4f50-b477-6d14a2ae8ff1"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
@@ -118,10 +111,17 @@
     ], 
     "duration": 231, 
     "path": "../data/Kurdilihicazkar/16911069-c95c-4f50-b477-6d14a2ae8ff1.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "243b29c3-77ff-4420-be8e-b28e57166bcf", 
-            "title": "Ne Sor Bana Ne S\u00f6ylerim"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/243b29c3-77ff-4420-be8e-b28e57166bcf"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/16911069-c95c-4f50-b477-6d14a2ae8ff1"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

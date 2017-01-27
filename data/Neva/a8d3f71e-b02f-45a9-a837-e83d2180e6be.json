@@ -1,26 +1,10 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "cengiharbi", 
-            "mb_attribute": "\u00c7eng-i Harbi", 
+            "attribute_key": "mehter", 
+            "mb_attribute": "Mehter", 
             "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
-        }, 
-        {
-            "attribute_key": "cengiharbi", 
-            "mb_tag": "\u00e7eng-i harbi", 
-            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
-            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
         }
     ], 
     "releases": [
@@ -37,17 +21,26 @@
             "name": "Sarband"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "a8d3f71e-b02f-45a9-a837-e83d2180e6be", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "mehter", 
-            "mb_attribute": "Mehter", 
-            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+            "mbid": "68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1", 
+            "title": "Neva \u00c7eng-i Harbi"
         }
     ], 
-    "bit_rate": 64, 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
+            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+        }, 
+        {
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
+            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
+        }
+    ], 
     "artists": [
         {
             "mbid": "6413aad7-5e51-4f46-86b2-861cead47c08", 
@@ -57,10 +50,17 @@
     ], 
     "duration": 144, 
     "path": "../data/Neva/a8d3f71e-b02f-45a9-a837-e83d2180e6be.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1", 
-            "title": "Neva \u00c7eng-i Harbi"
+            "attribute_key": "cengiharbi", 
+            "mb_attribute": "\u00c7eng-i Harbi", 
+            "source": "http://musicbrainz.org/work/68bb4bc3-f03e-4604-81e2-cb04dc2e5ed1"
+        }, 
+        {
+            "attribute_key": "cengiharbi", 
+            "mb_tag": "\u00e7eng-i harbi", 
+            "source": "http://musicbrainz.org/recording/a8d3f71e-b02f-45a9-a837-e83d2180e6be"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

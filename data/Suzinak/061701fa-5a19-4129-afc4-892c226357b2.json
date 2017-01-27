@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2b953516-5ed0-4afc-b9d0-cf6b59448bed"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/061701fa-5a19-4129-afc4-892c226357b2"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak_zirgule", 
-            "mb_attribute": "Suzinak Zirg\u00fcle", 
-            "source": "http://musicbrainz.org/work/2b953516-5ed0-4afc-b9d0-cf6b59448bed"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/061701fa-5a19-4129-afc4-892c226357b2"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "061701fa-5a19-4129-afc4-892c226357b2", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2b953516-5ed0-4afc-b9d0-cf6b59448bed", 
+            "title": "Nihal-i G\u00fcl\u015fen-i H\u00fcsn-i Ezelsin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
             "source": "http://musicbrainz.org/work/2b953516-5ed0-4afc-b9d0-cf6b59448bed"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/061701fa-5a19-4129-afc4-892c226357b2"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 213, 
     "path": "../data/Suzinak/061701fa-5a19-4129-afc4-892c226357b2.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2b953516-5ed0-4afc-b9d0-cf6b59448bed", 
-            "title": "Nihal-i G\u00fcl\u015fen-i H\u00fcsn-i Ezelsin"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/2b953516-5ed0-4afc-b9d0-cf6b59448bed"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/061701fa-5a19-4129-afc4-892c226357b2"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

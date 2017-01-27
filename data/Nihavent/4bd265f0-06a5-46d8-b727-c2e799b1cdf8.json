@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "4bd265f0-06a5-46d8-b727-c2e799b1cdf8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "415af4f8-1448-4750-9481-c67e8970c382", 
+            "title": "Uyur Daim Uyanmazd\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 181, 
     "path": "../data/Nihavent/4bd265f0-06a5-46d8-b727-c2e799b1cdf8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "415af4f8-1448-4750-9481-c67e8970c382", 
-            "title": "Uyur Daim Uyanmazd\u0131"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/415af4f8-1448-4750-9481-c67e8970c382"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/4bd265f0-06a5-46d8-b727-c2e799b1cdf8"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/bb6090de-d03a-4f94-a4ec-a51b8ea194af"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Neyzen Tevfik"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "bb6090de-d03a-4f94-a4ec-a51b8ea194af", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 175, 
     "path": "../data/Bestenigar/bb6090de-d03a-4f94-a4ec-a51b8ea194af.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/bb6090de-d03a-4f94-a4ec-a51b8ea194af"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "bestenigar", 

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/122d24eb-2248-43fb-8d6e-d044e7d26b17"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Udi Yorgo Bacanos"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "122d24eb-2248-43fb-8d6e-d044e7d26b17", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 200, 
     "path": "../data/Segah/122d24eb-2248-43fb-8d6e-d044e7d26b17.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/122d24eb-2248-43fb-8d6e-d044e7d26b17"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

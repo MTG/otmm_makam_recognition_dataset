@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "medhal", 
+            "mb_attribute": "Medhal", 
             "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/cd9276a7-aaec-482e-af95-af4f5ae57286"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "medhal", 
+            "mb_tag": "medhal", 
             "source": "http://musicbrainz.org/recording/cd9276a7-aaec-482e-af95-af4f5ae57286"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "cd9276a7-aaec-482e-af95-af4f5ae57286", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "medhal", 
-            "mb_attribute": "Medhal", 
+            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
+            "title": "Sultaniyegah Medhal"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
         }, 
         {
-            "attribute_key": "medhal", 
-            "mb_tag": "medhal", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/cd9276a7-aaec-482e-af95-af4f5ae57286"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 260, 
     "path": "../data/Sultaniyegah/cd9276a7-aaec-482e-af95-af4f5ae57286.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
-            "title": "Sultaniyegah Medhal"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/cd9276a7-aaec-482e-af95-af4f5ae57286"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

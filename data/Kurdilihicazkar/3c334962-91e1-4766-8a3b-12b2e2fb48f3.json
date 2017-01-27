@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
-            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
-        }, 
-        {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
-            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
-        }
-    ], 
-    "title": "Tanbur Taksimi, K\u00fcrdilihicazkar Pe\u015frev", 
-    "url": "http://musicbrainz.org/work/3c334962-91e1-4766-8a3b-12b2e2fb48f3", 
-    "artist_credits": [
-        {
-            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
-            "name": "\u0130hsan \u00d6zgen"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
-    "mbid": "3c334962-91e1-4766-8a3b-12b2e2fb48f3", 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "afcb0af0-df10-4184-a4e5-6c71a1fa18b5", 
+            "title": "Tanburi Cemil Bey - Pe\u015frev ve Sazsemaileri"
+        }
+    ], 
+    "title": "Tanbur Taksimi, K\u00fcrdilihicazkar Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/3c334962-91e1-4766-8a3b-12b2e2fb48f3", 
+    "artist_credits": [
+        {
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen"
+        }
+    ], 
+    "mbid": "3c334962-91e1-4766-8a3b-12b2e2fb48f3", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
+        }
+    ], 
     "artists": [
         {
             "mbid": "279d2704-2462-4ebe-8230-2fc7af3dcd9c", 
@@ -83,10 +71,22 @@
     ], 
     "duration": 512, 
     "path": "../data/Kurdilihicazkar/3c334962-91e1-4766-8a3b-12b2e2fb48f3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
-            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/d689c032-ab60-4162-b872-b56cf3b24db6"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3c334962-91e1-4766-8a3b-12b2e2fb48f3"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

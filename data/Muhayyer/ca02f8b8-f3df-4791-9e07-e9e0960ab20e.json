@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ca02f8b8-f3df-4791-9e07-e9e0960ab20e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Meral U\u011furlu Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "ca02f8b8-f3df-4791-9e07-e9e0960ab20e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 116, 
     "path": "../data/Muhayyer/ca02f8b8-f3df-4791-9e07-e9e0960ab20e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ca02f8b8-f3df-4791-9e07-e9e0960ab20e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "muhayyer", 

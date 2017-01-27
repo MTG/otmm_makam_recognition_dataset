@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c577d533-5665-4764-83f1-80fe8e86a79a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Bursal\u0131 Hamit Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "c577d533-5665-4764-83f1-80fe8e86a79a", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 186, 
     "path": "../data/Neva/c577d533-5665-4764-83f1-80fe8e86a79a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/c577d533-5665-4764-83f1-80fe8e86a79a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "neva", 

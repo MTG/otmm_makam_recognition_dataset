@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimdevir", 
-            "mb_attribute": "Nimdevir", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/7a149d15-3a2f-4a20-83e0-389eba851daa"
         }, 
         {
-            "attribute_key": "nimdevir", 
-            "mb_tag": "nimdevir", 
-            "source": "http://musicbrainz.org/recording/6ea058af-4888-415a-8933-edb99238a095"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/7a149d15-3a2f-4a20-83e0-389eba851daa"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/6ea058af-4888-415a-8933-edb99238a095"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Aka G\u00fcnd\u00fcz Kutbay"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6ea058af-4888-415a-8933-edb99238a095", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "7a149d15-3a2f-4a20-83e0-389eba851daa", 
+            "title": "Beyati Beste"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/7a149d15-3a2f-4a20-83e0-389eba851daa"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/6ea058af-4888-415a-8933-edb99238a095"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
@@ -74,10 +67,17 @@
     ], 
     "duration": 257, 
     "path": "../data/Beyati/6ea058af-4888-415a-8933-edb99238a095.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7a149d15-3a2f-4a20-83e0-389eba851daa", 
-            "title": "Beyati Beste"
+            "attribute_key": "nimdevir", 
+            "mb_attribute": "Nimdevir", 
+            "source": "http://musicbrainz.org/work/7a149d15-3a2f-4a20-83e0-389eba851daa"
+        }, 
+        {
+            "attribute_key": "nimdevir", 
+            "mb_tag": "nimdevir", 
+            "source": "http://musicbrainz.org/recording/6ea058af-4888-415a-8933-edb99238a095"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

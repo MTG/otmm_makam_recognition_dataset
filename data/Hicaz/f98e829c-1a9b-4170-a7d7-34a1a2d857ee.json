@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e29005e2-745b-4ca7-8340-97966fc3881e"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/f98e829c-1a9b-4170-a7d7-34a1a2d857ee"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/e29005e2-745b-4ca7-8340-97966fc3881e"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f98e829c-1a9b-4170-a7d7-34a1a2d857ee"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Perihan Alt\u0131nda\u011f S\u00f6zeri"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "f98e829c-1a9b-4170-a7d7-34a1a2d857ee", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e29005e2-745b-4ca7-8340-97966fc3881e", 
+            "title": "Hazan ile Ge\u00e7ti G\u00fcl\u015fen-i Butsan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/e29005e2-745b-4ca7-8340-97966fc3881e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/f98e829c-1a9b-4170-a7d7-34a1a2d857ee"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "c5d7aa23-f016-46d2-af85-a2997799da15", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 132, 
     "path": "../data/Hicaz/f98e829c-1a9b-4170-a7d7-34a1a2d857ee.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e29005e2-745b-4ca7-8340-97966fc3881e", 
-            "title": "Hazan ile Ge\u00e7ti G\u00fcl\u015fen-i Butsan"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e29005e2-745b-4ca7-8340-97966fc3881e"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/f98e829c-1a9b-4170-a7d7-34a1a2d857ee"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

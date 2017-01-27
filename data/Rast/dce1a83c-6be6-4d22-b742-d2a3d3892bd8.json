@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/dce1a83c-6be6-4d22-b742-d2a3d3892bd8"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -25,8 +31,8 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "dce1a83c-6be6-4d22-b742-d2a3d3892bd8", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -48,13 +54,7 @@
     ], 
     "duration": 158, 
     "path": "../data/Rast/dce1a83c-6be6-4d22-b742-d2a3d3892bd8.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/dce1a83c-6be6-4d22-b742-d2a3d3892bd8"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

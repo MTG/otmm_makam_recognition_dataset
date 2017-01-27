@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e5dab1af-791a-4dd8-a150-bbf5bf3285c1"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/925dcd71-2d28-4f63-9e16-bb612c8786ce"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/e5dab1af-791a-4dd8-a150-bbf5bf3285c1"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/925dcd71-2d28-4f63-9e16-bb612c8786ce"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "925dcd71-2d28-4f63-9e16-bb612c8786ce", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e5dab1af-791a-4dd8-a150-bbf5bf3285c1", 
+            "title": "Y\u0131llarca Yaz\u0131k Bo\u015f Yere"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/e5dab1af-791a-4dd8-a150-bbf5bf3285c1"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/925dcd71-2d28-4f63-9e16-bb612c8786ce"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -158,10 +151,17 @@
     ], 
     "duration": 242, 
     "path": "../data/Hicaz/925dcd71-2d28-4f63-9e16-bb612c8786ce.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5dab1af-791a-4dd8-a150-bbf5bf3285c1", 
-            "title": "Y\u0131llarca Yaz\u0131k Bo\u015f Yere"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e5dab1af-791a-4dd8-a150-bbf5bf3285c1"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/925dcd71-2d28-4f63-9e16-bb612c8786ce"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

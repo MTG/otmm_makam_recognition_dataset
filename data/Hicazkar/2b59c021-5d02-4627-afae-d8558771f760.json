@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/4bd35bf6-043b-43e5-89fb-e92153dc50b1"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/2b59c021-5d02-4627-afae-d8558771f760"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/4bd35bf6-043b-43e5-89fb-e92153dc50b1"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2b59c021-5d02-4627-afae-d8558771f760"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Radife Erten"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "2b59c021-5d02-4627-afae-d8558771f760", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "4bd35bf6-043b-43e5-89fb-e92153dc50b1", 
+            "title": "Beni Sana Ba\u011flayan G\u00f6zlerinin Rengidir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/4bd35bf6-043b-43e5-89fb-e92153dc50b1"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/2b59c021-5d02-4627-afae-d8558771f760"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 217, 
     "path": "../data/Hicazkar/2b59c021-5d02-4627-afae-d8558771f760.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4bd35bf6-043b-43e5-89fb-e92153dc50b1", 
-            "title": "Beni Sana Ba\u011flayan G\u00f6zlerinin Rengidir"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/4bd35bf6-043b-43e5-89fb-e92153dc50b1"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/2b59c021-5d02-4627-afae-d8558771f760"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

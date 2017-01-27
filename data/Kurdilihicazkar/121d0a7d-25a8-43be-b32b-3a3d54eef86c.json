@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0c08cb62-9a7b-4844-a10e-04ea4620b33e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/121d0a7d-25a8-43be-b32b-3a3d54eef86c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/0c08cb62-9a7b-4844-a10e-04ea4620b33e"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/121d0a7d-25a8-43be-b32b-3a3d54eef86c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "121d0a7d-25a8-43be-b32b-3a3d54eef86c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0c08cb62-9a7b-4844-a10e-04ea4620b33e", 
+            "title": "Nur Salk\u0131m\u0131s\u0131n G\u00fcl ki Bahar Baht\u0131na Yans\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/0c08cb62-9a7b-4844-a10e-04ea4620b33e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/121d0a7d-25a8-43be-b32b-3a3d54eef86c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -209,10 +202,17 @@
     ], 
     "duration": 286, 
     "path": "../data/Kurdilihicazkar/121d0a7d-25a8-43be-b32b-3a3d54eef86c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c08cb62-9a7b-4844-a10e-04ea4620b33e", 
-            "title": "Nur Salk\u0131m\u0131s\u0131n G\u00fcl ki Bahar Baht\u0131na Yans\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0c08cb62-9a7b-4844-a10e-04ea4620b33e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/121d0a7d-25a8-43be-b32b-3a3d54eef86c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

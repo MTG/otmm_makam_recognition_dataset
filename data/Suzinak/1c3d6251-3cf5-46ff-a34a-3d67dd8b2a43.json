@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a00aa0d1-1e59-40d1-8602-76b4aef68ada", 
+            "title": "Sensiz Ya\u015famak Bil ki \u00d6l\u00fcmden de Ac\u0131ym\u0131\u015f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "1dbb8fd5-7331-46d2-8816-edf2e4392648", 
@@ -118,10 +111,17 @@
     ], 
     "duration": 186, 
     "path": "../data/Suzinak/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a00aa0d1-1e59-40d1-8602-76b4aef68ada", 
-            "title": "Sensiz Ya\u015famak Bil ki \u00d6l\u00fcmden de Ac\u0131ym\u0131\u015f"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a00aa0d1-1e59-40d1-8602-76b4aef68ada"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1c3d6251-3cf5-46ff-a34a-3d67dd8b2a43"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

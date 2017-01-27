@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "90ce68fd-f23b-46ee-bf9d-bc211935df8c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "787d2c10-4cfd-45dd-9713-ec173719695a", 
+            "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 129, 
     "path": "../data/Acemasiran/90ce68fd-f23b-46ee-bf9d-bc211935df8c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "787d2c10-4cfd-45dd-9713-ec173719695a", 
-            "title": "Kime Halim Diyeyim/ Kime \u015eekva Edeyim"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/787d2c10-4cfd-45dd-9713-ec173719695a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/90ce68fd-f23b-46ee-bf9d-bc211935df8c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

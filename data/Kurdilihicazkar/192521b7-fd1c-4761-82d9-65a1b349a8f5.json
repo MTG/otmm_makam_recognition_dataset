@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/192521b7-fd1c-4761-82d9-65a1b349a8f5"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "192521b7-fd1c-4761-82d9-65a1b349a8f5", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 347, 
     "path": "../data/Kurdilihicazkar/192521b7-fd1c-4761-82d9-65a1b349a8f5.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/192521b7-fd1c-4761-82d9-65a1b349a8f5"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 

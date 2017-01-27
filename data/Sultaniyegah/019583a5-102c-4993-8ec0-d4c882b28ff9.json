@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/019583a5-102c-4993-8ec0-d4c882b28ff9"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "S\u00f6z Saz \u0130stanbul"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "019583a5-102c-4993-8ec0-d4c882b28ff9", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 119, 
     "path": "../data/Sultaniyegah/019583a5-102c-4993-8ec0-d4c882b28ff9.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/019583a5-102c-4993-8ec0-d4c882b28ff9"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 

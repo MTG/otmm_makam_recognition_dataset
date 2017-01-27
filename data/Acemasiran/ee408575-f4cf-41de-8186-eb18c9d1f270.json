@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ee408575-f4cf-41de-8186-eb18c9d1f270"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Fuat T\u00fcrkelman"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "ee408575-f4cf-41de-8186-eb18c9d1f270", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 295, 
     "path": "../data/Acemasiran/ee408575-f4cf-41de-8186-eb18c9d1f270.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ee408575-f4cf-41de-8186-eb18c9d1f270"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "acemasiran", 

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/86095f10-805a-4cf1-90c6-72f1a5346a06"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kemal Demir"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "86095f10-805a-4cf1-90c6-72f1a5346a06", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 125, 
     "path": "../data/Ussak/86095f10-805a-4cf1-90c6-72f1a5346a06.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/86095f10-805a-4cf1-90c6-72f1a5346a06"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "ussak", 

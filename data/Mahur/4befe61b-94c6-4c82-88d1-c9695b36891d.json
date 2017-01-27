@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4befe61b-94c6-4c82-88d1-c9695b36891d"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "4befe61b-94c6-4c82-88d1-c9695b36891d", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 216, 
     "path": "../data/Mahur/4befe61b-94c6-4c82-88d1-c9695b36891d.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/4befe61b-94c6-4c82-88d1-c9695b36891d"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "mahur", 

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b420795a-78d7-4e82-bd19-34607321b041"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130lhan Barut\u00e7u"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "b420795a-78d7-4e82-bd19-34607321b041", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 130, 
     "path": "../data/Sultaniyegah/b420795a-78d7-4e82-bd19-34607321b041.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b420795a-78d7-4e82-bd19-34607321b041"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 

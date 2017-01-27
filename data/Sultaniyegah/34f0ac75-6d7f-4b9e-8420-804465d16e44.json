@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/54691898-821d-4deb-9f1e-a9623edacd7a"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/34f0ac75-6d7f-4b9e-8420-804465d16e44"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/54691898-821d-4deb-9f1e-a9623edacd7a"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/34f0ac75-6d7f-4b9e-8420-804465d16e44"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "34f0ac75-6d7f-4b9e-8420-804465d16e44", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "54691898-821d-4deb-9f1e-a9623edacd7a", 
+            "title": "Hayat Gen\u00e7lik Boyunca"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/54691898-821d-4deb-9f1e-a9623edacd7a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/34f0ac75-6d7f-4b9e-8420-804465d16e44"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 183, 
     "path": "../data/Sultaniyegah/34f0ac75-6d7f-4b9e-8420-804465d16e44.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54691898-821d-4deb-9f1e-a9623edacd7a", 
-            "title": "Hayat Gen\u00e7lik Boyunca"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/54691898-821d-4deb-9f1e-a9623edacd7a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/34f0ac75-6d7f-4b9e-8420-804465d16e44"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

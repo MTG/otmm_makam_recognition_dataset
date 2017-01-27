@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/f401b8ae-c786-4893-a5e2-657afb447af6"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "f401b8ae-c786-4893-a5e2-657afb447af6", 
+            "title": "Gel Bezme Bir \u015eeb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/f401b8ae-c786-4893-a5e2-657afb447af6"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 129, 
     "path": "../data/Acemkurdi/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f401b8ae-c786-4893-a5e2-657afb447af6", 
-            "title": "Gel Bezme Bir \u015eeb"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/f401b8ae-c786-4893-a5e2-657afb447af6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0483bb9a-6b39-43f1-bfbe-0bcc45ed6ced"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

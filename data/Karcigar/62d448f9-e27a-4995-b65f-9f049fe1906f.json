@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/62d448f9-e27a-4995-b65f-9f049fe1906f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/62d448f9-e27a-4995-b65f-9f049fe1906f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "62d448f9-e27a-4995-b65f-9f049fe1906f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "906fd932-864a-4764-8b25-57da63c17cec", 
+            "title": "Bu Gece \u00c7amlarda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/62d448f9-e27a-4995-b65f-9f049fe1906f"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 165, 
     "path": "../data/Karcigar/62d448f9-e27a-4995-b65f-9f049fe1906f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "906fd932-864a-4764-8b25-57da63c17cec", 
-            "title": "Bu Gece \u00c7amlarda"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/906fd932-864a-4764-8b25-57da63c17cec"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/62d448f9-e27a-4995-b65f-9f049fe1906f"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

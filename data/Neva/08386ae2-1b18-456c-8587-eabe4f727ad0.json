@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "nakis", 
+            "mb_attribute": "Nak\u0131\u015f", 
             "source": "http://musicbrainz.org/work/98572383-0c4b-47f4-856d-726efd48dec3"
         }, 
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/08386ae2-1b18-456c-8587-eabe4f727ad0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/98572383-0c4b-47f4-856d-726efd48dec3"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/08386ae2-1b18-456c-8587-eabe4f727ad0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "08386ae2-1b18-456c-8587-eabe4f727ad0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "nakis", 
-            "mb_attribute": "Nak\u0131\u015f", 
+            "mbid": "98572383-0c4b-47f4-856d-726efd48dec3", 
+            "title": "Bir Zaman \u0130di Hem-agu\u015f-i Hayal Oldu\u011fumuz"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/98572383-0c4b-47f4-856d-726efd48dec3"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/08386ae2-1b18-456c-8587-eabe4f727ad0"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 312, 
     "path": "../data/Neva/08386ae2-1b18-456c-8587-eabe4f727ad0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "98572383-0c4b-47f4-856d-726efd48dec3", 
-            "title": "Bir Zaman \u0130di Hem-agu\u015f-i Hayal Oldu\u011fumuz"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/98572383-0c4b-47f4-856d-726efd48dec3"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/08386ae2-1b18-456c-8587-eabe4f727ad0"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

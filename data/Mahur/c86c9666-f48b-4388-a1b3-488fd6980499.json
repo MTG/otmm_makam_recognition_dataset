@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c86c9666-f48b-4388-a1b3-488fd6980499", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "f5f2b640-4529-4e5f-98c8-11629c406227", 
+            "title": "Sarsam Miyan\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 187, 
     "path": "../data/Mahur/c86c9666-f48b-4388-a1b3-488fd6980499.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f5f2b640-4529-4e5f-98c8-11629c406227", 
-            "title": "Sarsam Miyan\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/f5f2b640-4529-4e5f-98c8-11629c406227"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/c86c9666-f48b-4388-a1b3-488fd6980499"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

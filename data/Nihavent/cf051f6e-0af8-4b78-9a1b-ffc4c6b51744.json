@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2e6f9077-e732-486f-9c3a-4c15e263c05d"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/2e6f9077-e732-486f-9c3a-4c15e263c05d"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "cf051f6e-0af8-4b78-9a1b-ffc4c6b51744", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2e6f9077-e732-486f-9c3a-4c15e263c05d", 
+            "title": "Bahar Bitti G\u00fcz Bitti"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/2e6f9077-e732-486f-9c3a-4c15e263c05d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 336, 
     "path": "../data/Nihavent/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2e6f9077-e732-486f-9c3a-4c15e263c05d", 
-            "title": "Bahar Bitti G\u00fcz Bitti"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/2e6f9077-e732-486f-9c3a-4c15e263c05d"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/cf051f6e-0af8-4b78-9a1b-ffc4c6b51744"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

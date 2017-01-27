@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a59820cf-a666-4a11-87ba-aced2fca5c1b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "a59820cf-a666-4a11-87ba-aced2fca5c1b", 
+    "sampling_frequency": 44100, 
     "bit_rate": 192, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 150, 
     "path": "../data/Suzinak/a59820cf-a666-4a11-87ba-aced2fca5c1b.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a59820cf-a666-4a11-87ba-aced2fca5c1b"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "suzinak", 

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "sakil", 
-            "mb_attribute": "Sakil", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/26264847-f0af-44cf-b1b0-6a13ed0333fb"
         }, 
         {
-            "attribute_key": "sakil", 
-            "mb_tag": "sakil", 
-            "source": "http://musicbrainz.org/recording/b466a80f-820e-4083-857f-2417d1551134"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/26264847-f0af-44cf-b1b0-6a13ed0333fb"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/b466a80f-820e-4083-857f-2417d1551134"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "b466a80f-820e-4083-857f-2417d1551134", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "26264847-f0af-44cf-b1b0-6a13ed0333fb", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/26264847-f0af-44cf-b1b0-6a13ed0333fb"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/b466a80f-820e-4083-857f-2417d1551134"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -225,10 +218,17 @@
     ], 
     "duration": 77, 
     "path": "../data/Rast/b466a80f-820e-4083-857f-2417d1551134.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "26264847-f0af-44cf-b1b0-6a13ed0333fb", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "sakil", 
+            "mb_attribute": "Sakil", 
+            "source": "http://musicbrainz.org/work/26264847-f0af-44cf-b1b0-6a13ed0333fb"
+        }, 
+        {
+            "attribute_key": "sakil", 
+            "mb_tag": "sakil", 
+            "source": "http://musicbrainz.org/recording/b466a80f-820e-4083-857f-2417d1551134"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

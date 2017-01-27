@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/788c219a-8b83-4b10-965a-04fe393bed6b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ca79aae1-44d0-4cd1-87b4-c459181a9874"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/788c219a-8b83-4b10-965a-04fe393bed6b"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ca79aae1-44d0-4cd1-87b4-c459181a9874"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "ca79aae1-44d0-4cd1-87b4-c459181a9874", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "788c219a-8b83-4b10-965a-04fe393bed6b", 
+            "title": "Ey Afitab\u0131 Bezm-i Nur"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/788c219a-8b83-4b10-965a-04fe393bed6b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/ca79aae1-44d0-4cd1-87b4-c459181a9874"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -153,10 +146,17 @@
     ], 
     "duration": 126, 
     "path": "../data/Bestenigar/ca79aae1-44d0-4cd1-87b4-c459181a9874.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "788c219a-8b83-4b10-965a-04fe393bed6b", 
-            "title": "Ey Afitab\u0131 Bezm-i Nur"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/788c219a-8b83-4b10-965a-04fe393bed6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ca79aae1-44d0-4cd1-87b4-c459181a9874"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

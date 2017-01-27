@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "agirduyek", 
-            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
         }, 
         {
-            "attribute_key": "agirduyek", 
-            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f0e5a80c-35b6-4cd8-8426-c36f232f6b8a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/f0e5a80c-35b6-4cd8-8426-c36f232f6b8a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "f0e5a80c-35b6-4cd8-8426-c36f232f6b8a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/f0e5a80c-35b6-4cd8-8426-c36f232f6b8a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 244, 
     "path": "../data/Kurdilihicazkar/f0e5a80c-35b6-4cd8-8426-c36f232f6b8a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
-            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+            "attribute_key": "agirduyek", 
+            "mb_attribute": "A\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e3691957-a2bd-4e40-8041-582af3a02b4e"
+        }, 
+        {
+            "attribute_key": "agirduyek", 
+            "mb_tag": "a\u011f\u0131rd\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f0e5a80c-35b6-4cd8-8426-c36f232f6b8a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

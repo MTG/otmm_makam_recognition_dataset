@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ac6b85ee-975a-4c80-999a-43f95d4c47af"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Nihat Do\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "ac6b85ee-975a-4c80-999a-43f95d4c47af", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 291, 
     "path": "../data/Neva/ac6b85ee-975a-4c80-999a-43f95d4c47af.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ac6b85ee-975a-4c80-999a-43f95d4c47af"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "neva", 

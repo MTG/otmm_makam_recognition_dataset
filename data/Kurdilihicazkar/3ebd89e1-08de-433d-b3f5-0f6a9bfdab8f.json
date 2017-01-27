@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9", 
+            "title": "Ak\u015fam Yine G\u00f6lgenle Sabah Etti Bu G\u00f6nl\u00fcm"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "00747e0a-cfdf-4391-903c-af9c6df6dd2e", 
@@ -118,10 +111,17 @@
     ], 
     "duration": 214, 
     "path": "../data/Kurdilihicazkar/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9", 
-            "title": "Ak\u015fam Yine G\u00f6lgenle Sabah Etti Bu G\u00f6nl\u00fcm"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5b03e1d5-41b0-44ca-a00a-0f4da1ba7bc9"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3ebd89e1-08de-433d-b3f5-0f6a9bfdab8f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

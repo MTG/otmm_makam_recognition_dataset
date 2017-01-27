@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Yesari As\u0131m Arsoy"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "44d4706b-a471-4ccf-974c-e1cb883660ca", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "fba48015-ae62-4425-a6ef-1dff5f20cd93", 
+            "title": "D\u00fcn Gece Bir \u015euhun..."
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "74f57922-a7dd-4d93-81f7-4be9c173a407", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 196, 
     "path": "../data/Huzzam/44d4706b-a471-4ccf-974c-e1cb883660ca.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fba48015-ae62-4425-a6ef-1dff5f20cd93", 
-            "title": "D\u00fcn Gece Bir \u015euhun..."
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fba48015-ae62-4425-a6ef-1dff5f20cd93"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/44d4706b-a471-4ccf-974c-e1cb883660ca"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

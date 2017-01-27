@@ -1,40 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "ac0f5805-4a28-416d-8a09-b6f174e859fe", 
-            "title": "H\u00fcseyni 3"
-        }
-    ], 
-    "title": "Talat\u0131n Devr-i Kamerde Mihri Alem-tab Eder", 
-    "url": "http://musicbrainz.org/work/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b", 
-    "artist_credits": [
-        {
-            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
-            "name": "Bekir S\u0131dk\u0131 Sezgin"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "mbid": "f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b", 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "agirsemai", 
@@ -52,7 +17,35 @@
             "source": "http://musicbrainz.org/recording/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b"
         }
     ], 
-    "bit_rate": 128, 
+    "releases": [
+        {
+            "mbid": "ac0f5805-4a28-416d-8a09-b6f174e859fe", 
+            "title": "H\u00fcseyni 3"
+        }
+    ], 
+    "title": "Talat\u0131n Devr-i Kamerde Mihri Alem-tab Eder", 
+    "url": "http://musicbrainz.org/work/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b", 
+    "artist_credits": [
+        {
+            "mbid": "7ef61959-65f2-41ab-9ae2-ba890812b7b4", 
+            "name": "Bekir S\u0131dk\u0131 Sezgin"
+        }
+    ], 
+    "mbid": "f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "c08e42db-5153-459a-b928-0717303a39ed", 
+            "title": "Tal'at\u0131n Devri Kamerde Mihr-i Alem Tab Eder"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
+        }
+    ], 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 187, 
     "path": "../data/Huseyni/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c08e42db-5153-459a-b928-0717303a39ed", 
-            "title": "Tal'at\u0131n Devri Kamerde Mihr-i Alem Tab Eder"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/c08e42db-5153-459a-b928-0717303a39ed"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

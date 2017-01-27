@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/8322f771-9443-4810-bafc-54cdd084bd3a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/8322f771-9443-4810-bafc-54cdd084bd3a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "8322f771-9443-4810-bafc-54cdd084bd3a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
+            "title": "Sult\u00e2niyeg\u00e2h Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/8322f771-9443-4810-bafc-54cdd084bd3a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
@@ -138,10 +131,17 @@
     ], 
     "duration": 107, 
     "path": "../data/Sultaniyegah/8322f771-9443-4810-bafc-54cdd084bd3a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
-            "title": "Sult\u00e2niyeg\u00e2h Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/95a0013a-eb0a-48fa-9ac9-05b56e21715e"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/8322f771-9443-4810-bafc-54cdd084bd3a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

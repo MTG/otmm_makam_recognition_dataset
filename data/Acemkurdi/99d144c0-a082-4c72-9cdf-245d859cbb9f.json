@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
         }, 
         {
-            "attribute_key": "agir_aksaksemai", 
-            "mb_tag": "a\u011f\u0131r aksaksemai", 
-            "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "99d144c0-a082-4c72-9cdf-245d859cbb9f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "60bb4a74-8934-49fa-8179-045d4c360dcf", 
+            "title": "Dur Etme Yan\u0131ndan Asla Bendeni Ey Ka\u015f-\u0131 Keman"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 222, 
     "path": "../data/Acemkurdi/99d144c0-a082-4c72-9cdf-245d859cbb9f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "60bb4a74-8934-49fa-8179-045d4c360dcf", 
-            "title": "Dur Etme Yan\u0131ndan Asla Bendeni Ey Ka\u015f-\u0131 Keman"
+            "attribute_key": "agir_aksaksemai", 
+            "mb_attribute": "A\u011f\u0131r Aksaksemai", 
+            "source": "http://musicbrainz.org/work/60bb4a74-8934-49fa-8179-045d4c360dcf"
+        }, 
+        {
+            "attribute_key": "agir_aksaksemai", 
+            "mb_tag": "a\u011f\u0131r aksaksemai", 
+            "source": "http://musicbrainz.org/recording/99d144c0-a082-4c72-9cdf-245d859cbb9f"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

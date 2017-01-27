@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "kar", 
+            "mb_attribute": "Kar", 
             "source": "http://musicbrainz.org/work/887fb775-83b1-48bf-bf32-66b263b2de00"
         }, 
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/bc69430a-0ff8-45e8-aeb3-9c42db7acf6e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/887fb775-83b1-48bf-bf32-66b263b2de00"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "kar", 
+            "mb_tag": "kar", 
             "source": "http://musicbrainz.org/recording/bc69430a-0ff8-45e8-aeb3-9c42db7acf6e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Anatolia"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "bc69430a-0ff8-45e8-aeb3-9c42db7acf6e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kar", 
-            "mb_attribute": "Kar", 
+            "mbid": "887fb775-83b1-48bf-bf32-66b263b2de00", 
+            "title": "Ey \u015eehin\u015fah-\u0131 Horasan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/887fb775-83b1-48bf-bf32-66b263b2de00"
         }, 
         {
-            "attribute_key": "kar", 
-            "mb_tag": "kar", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/bc69430a-0ff8-45e8-aeb3-9c42db7acf6e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "187c8edf-7924-47c9-9503-ba1ff3e17aa1", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 262, 
     "path": "../data/Segah/bc69430a-0ff8-45e8-aeb3-9c42db7acf6e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "887fb775-83b1-48bf-bf32-66b263b2de00", 
-            "title": "Ey \u015eehin\u015fah-\u0131 Horasan"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/887fb775-83b1-48bf-bf32-66b263b2de00"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/bc69430a-0ff8-45e8-aeb3-9c42db7acf6e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
         }
     ], 
@@ -39,17 +33,21 @@
             "name": "Esma Ba\u015fbu\u011f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "65835ad0-2296-409e-9031-09f584dde134", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
+            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -138,10 +136,12 @@
     ], 
     "duration": 231, 
     "path": "../data/Segah/65835ad0-2296-409e-9031-09f584dde134.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
-            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

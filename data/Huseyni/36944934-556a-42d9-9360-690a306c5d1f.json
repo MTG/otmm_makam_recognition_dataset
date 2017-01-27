@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/36944934-556a-42d9-9360-690a306c5d1f"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Meral U\u011furlu Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "36944934-556a-42d9-9360-690a306c5d1f", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 176, 
     "path": "../data/Huseyni/36944934-556a-42d9-9360-690a306c5d1f.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/36944934-556a-42d9-9360-690a306c5d1f"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "huseyni", 

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/20e9c2d7-d57d-4a1c-82bf-21cf0558bed8"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/d6d8beb3-477f-4ddd-92f5-52d61d314144"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/20e9c2d7-d57d-4a1c-82bf-21cf0558bed8"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/d6d8beb3-477f-4ddd-92f5-52d61d314144"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "d6d8beb3-477f-4ddd-92f5-52d61d314144", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "20e9c2d7-d57d-4a1c-82bf-21cf0558bed8", 
+            "title": "Benim Sen Nemsin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/20e9c2d7-d57d-4a1c-82bf-21cf0558bed8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/d6d8beb3-477f-4ddd-92f5-52d61d314144"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -403,10 +396,17 @@
     ], 
     "duration": 213, 
     "path": "../data/Segah/d6d8beb3-477f-4ddd-92f5-52d61d314144.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "20e9c2d7-d57d-4a1c-82bf-21cf0558bed8", 
-            "title": "Benim Sen Nemsin"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/20e9c2d7-d57d-4a1c-82bf-21cf0558bed8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d6d8beb3-477f-4ddd-92f5-52d61d314144"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

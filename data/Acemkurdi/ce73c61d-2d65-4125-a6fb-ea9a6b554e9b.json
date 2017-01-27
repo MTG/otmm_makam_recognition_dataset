@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ce73c61d-2d65-4125-a6fb-ea9a6b554e9b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "ce73c61d-2d65-4125-a6fb-ea9a6b554e9b", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 62, 
     "path": "../data/Acemkurdi/ce73c61d-2d65-4125-a6fb-ea9a6b554e9b.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ce73c61d-2d65-4125-a6fb-ea9a6b554e9b"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "acemkurdi", 

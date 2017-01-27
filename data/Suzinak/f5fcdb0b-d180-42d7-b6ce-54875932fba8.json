@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f5fcdb0b-d180-42d7-b6ce-54875932fba8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/f5fcdb0b-d180-42d7-b6ce-54875932fba8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f5fcdb0b-d180-42d7-b6ce-54875932fba8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
+            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/f5fcdb0b-d180-42d7-b6ce-54875932fba8"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 240, 
     "path": "../data/Suzinak/f5fcdb0b-d180-42d7-b6ce-54875932fba8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5eba4c68-fa50-4aaa-9d9e-05e854105e44", 
-            "title": "Kap\u0131l\u0131r Her G\u00f6ren Ol"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/5eba4c68-fa50-4aaa-9d9e-05e854105e44"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f5fcdb0b-d180-42d7-b6ce-54875932fba8"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/81a9ae33-e801-48a6-9d4c-19d2565cf881"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/81a9ae33-e801-48a6-9d4c-19d2565cf881"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Filiz \u015eat\u0131ro\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "81a9ae33-e801-48a6-9d4c-19d2565cf881", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe", 
+            "title": "G\u00fclen G\u00f6zlerinin Manas\u0131 Derin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/81a9ae33-e801-48a6-9d4c-19d2565cf881"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 245, 
     "path": "../data/Huseyni/81a9ae33-e801-48a6-9d4c-19d2565cf881.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe", 
-            "title": "G\u00fclen G\u00f6zlerinin Manas\u0131 Derin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ebdb0be4-e3b0-4e4d-94a7-1380af91a0fe"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/81a9ae33-e801-48a6-9d4c-19d2565cf881"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/edfa485b-1418-499b-b032-7207a4d965da"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/461a5280-bfd9-4db5-a3eb-df1a6bc64f63"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/edfa485b-1418-499b-b032-7207a4d965da"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/461a5280-bfd9-4db5-a3eb-df1a6bc64f63"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "461a5280-bfd9-4db5-a3eb-df1a6bc64f63", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "edfa485b-1418-499b-b032-7207a4d965da", 
+            "title": "Hala Ya\u015f\u0131yor Kalbimin Gizli Yerinde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/edfa485b-1418-499b-b032-7207a4d965da"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/461a5280-bfd9-4db5-a3eb-df1a6bc64f63"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 192, 
     "path": "../data/Nihavent/461a5280-bfd9-4db5-a3eb-df1a6bc64f63.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "edfa485b-1418-499b-b032-7207a4d965da", 
-            "title": "Hala Ya\u015f\u0131yor Kalbimin Gizli Yerinde"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/edfa485b-1418-499b-b032-7207a4d965da"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/461a5280-bfd9-4db5-a3eb-df1a6bc64f63"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

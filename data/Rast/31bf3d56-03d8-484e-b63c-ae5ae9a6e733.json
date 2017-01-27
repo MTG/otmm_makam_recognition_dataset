@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/5acbd63f-63fa-4070-a2a2-79e2940de768"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/31bf3d56-03d8-484e-b63c-ae5ae9a6e733"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/5acbd63f-63fa-4070-a2a2-79e2940de768"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/31bf3d56-03d8-484e-b63c-ae5ae9a6e733"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Hulusi Babal\u0131k"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "31bf3d56-03d8-484e-b63c-ae5ae9a6e733", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "5acbd63f-63fa-4070-a2a2-79e2940de768", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/5acbd63f-63fa-4070-a2a2-79e2940de768"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/31bf3d56-03d8-484e-b63c-ae5ae9a6e733"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 311, 
     "path": "../data/Rast/31bf3d56-03d8-484e-b63c-ae5ae9a6e733.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5acbd63f-63fa-4070-a2a2-79e2940de768", 
-            "title": "Rast Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/5acbd63f-63fa-4070-a2a2-79e2940de768"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/31bf3d56-03d8-484e-b63c-ae5ae9a6e733"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

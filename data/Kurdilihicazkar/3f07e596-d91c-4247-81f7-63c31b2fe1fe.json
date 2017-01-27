@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3f07e596-d91c-4247-81f7-63c31b2fe1fe", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "7617065c-b875-4c22-b167-43eec6e7b9da", 
+            "title": "Saymad\u0131m Ka\u00e7 Y\u0131l Oldu"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 225, 
     "path": "../data/Kurdilihicazkar/3f07e596-d91c-4247-81f7-63c31b2fe1fe.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7617065c-b875-4c22-b167-43eec6e7b9da", 
-            "title": "Saymad\u0131m Ka\u00e7 Y\u0131l Oldu"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7617065c-b875-4c22-b167-43eec6e7b9da"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/3f07e596-d91c-4247-81f7-63c31b2fe1fe"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

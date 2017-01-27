@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "G\u00fclnaz Ataman"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "fc998adf-0cff-403d-8679-5f224eb9c379", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "10f00516-e6be-47fa-8aba-28c2bd1bed6b", 
+            "title": "\u0130ltifat\u0131n \u00c7ok \u0130nayettir Bana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 152, 
     "path": "../data/Hicaz/fc998adf-0cff-403d-8679-5f224eb9c379.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "10f00516-e6be-47fa-8aba-28c2bd1bed6b", 
-            "title": "\u0130ltifat\u0131n \u00c7ok \u0130nayettir Bana"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/10f00516-e6be-47fa-8aba-28c2bd1bed6b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fc998adf-0cff-403d-8679-5f224eb9c379"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

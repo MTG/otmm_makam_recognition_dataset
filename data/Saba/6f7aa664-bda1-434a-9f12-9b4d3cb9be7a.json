@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6f7aa664-bda1-434a-9f12-9b4d3cb9be7a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
+            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 216, 
     "path": "../data/Saba/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9611c86-c656-4ca9-a536-5d6e11217637", 
-            "title": "S\u00fczd\u00fck\u00e7e G\u00fczel G\u00f6zlerini"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/f9611c86-c656-4ca9-a536-5d6e11217637"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/6f7aa664-bda1-434a-9f12-9b4d3cb9be7a"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

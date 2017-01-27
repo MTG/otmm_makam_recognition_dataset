@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e0e946bf-6db7-4b0d-bc48-de03f433f8a3"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/beed3887-30cb-4769-afe5-fdbf8620142f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/e0e946bf-6db7-4b0d-bc48-de03f433f8a3"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/beed3887-30cb-4769-afe5-fdbf8620142f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "beed3887-30cb-4769-afe5-fdbf8620142f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e0e946bf-6db7-4b0d-bc48-de03f433f8a3", 
+            "title": "\u00c7\u0131kal\u0131m Sayd-\u0131 \u015eikare"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/e0e946bf-6db7-4b0d-bc48-de03f433f8a3"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/beed3887-30cb-4769-afe5-fdbf8620142f"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 234, 
     "path": "../data/Beyati/beed3887-30cb-4769-afe5-fdbf8620142f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e0e946bf-6db7-4b0d-bc48-de03f433f8a3", 
-            "title": "\u00c7\u0131kal\u0131m Sayd-\u0131 \u015eikare"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/e0e946bf-6db7-4b0d-bc48-de03f433f8a3"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/beed3887-30cb-4769-afe5-fdbf8620142f"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

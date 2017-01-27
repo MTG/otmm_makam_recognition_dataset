@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "71f8bdfc-6181-43b0-a993-29badae80ddd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "8c3dba8c-f08e-4219-b1a4-b7b6eca29946", 
+            "title": "Beyo\u011flu'nda Gezersin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
@@ -143,10 +136,17 @@
     ], 
     "duration": 184, 
     "path": "../data/Mahur/71f8bdfc-6181-43b0-a993-29badae80ddd.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8c3dba8c-f08e-4219-b1a4-b7b6eca29946", 
-            "title": "Beyo\u011flu'nda Gezersin"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/8c3dba8c-f08e-4219-b1a4-b7b6eca29946"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/71f8bdfc-6181-43b0-a993-29badae80ddd"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

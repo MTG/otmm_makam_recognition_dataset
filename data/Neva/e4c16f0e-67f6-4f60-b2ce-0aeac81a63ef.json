@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "murabba", 
+            "mb_attribute": "Murabba", 
             "source": "http://musicbrainz.org/work/aee5a916-e297-4e01-8398-3e3b69a9c5ba"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/aee5a916-e297-4e01-8398-3e3b69a9c5ba"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "beste_murabba", 
+            "mb_tag": "beste-murabba", 
             "source": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "murabba", 
-            "mb_attribute": "Murabba", 
+            "mbid": "aee5a916-e297-4e01-8398-3e3b69a9c5ba", 
+            "title": "Zeyn Eden Ba\u011f-\u0131 Cihan\u0131 G\u00fcl M\u00fcd\u00fcr B\u00fclb\u00fcl M\u00fcd\u00fcr"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/aee5a916-e297-4e01-8398-3e3b69a9c5ba"
         }, 
         {
-            "attribute_key": "beste_murabba", 
-            "mb_tag": "beste-murabba", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 322, 
     "path": "../data/Neva/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aee5a916-e297-4e01-8398-3e3b69a9c5ba", 
-            "title": "Zeyn Eden Ba\u011f-\u0131 Cihan\u0131 G\u00fcl M\u00fcd\u00fcr B\u00fclb\u00fcl M\u00fcd\u00fcr"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/aee5a916-e297-4e01-8398-3e3b69a9c5ba"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/e4c16f0e-67f6-4f60-b2ce-0aeac81a63ef"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

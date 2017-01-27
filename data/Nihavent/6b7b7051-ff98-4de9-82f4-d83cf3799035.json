@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6b7b7051-ff98-4de9-82f4-d83cf3799035", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "72828685-9240-4ee3-890b-666b4b9a5025", 
+            "title": "Hasretin P\u0131nar\u0131 \u00c7a\u011flar \u0130\u00e7imde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "1082c2d9-9896-4db8-a9ad-5ca8bd7b0005", 
@@ -142,10 +135,17 @@
     ], 
     "duration": 234, 
     "path": "../data/Nihavent/6b7b7051-ff98-4de9-82f4-d83cf3799035.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "72828685-9240-4ee3-890b-666b4b9a5025", 
-            "title": "Hasretin P\u0131nar\u0131 \u00c7a\u011flar \u0130\u00e7imde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/72828685-9240-4ee3-890b-666b4b9a5025"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/6b7b7051-ff98-4de9-82f4-d83cf3799035"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

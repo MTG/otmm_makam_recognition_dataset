@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d14e218d-1952-4210-b681-e2d2956772d7"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/d14e218d-1952-4210-b681-e2d2956772d7"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Recep Birgit"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d14e218d-1952-4210-b681-e2d2956772d7", 
+            "title": "Ben Gaml\u0131 Hazan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/d14e218d-1952-4210-b681-e2d2956772d7"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 191, 
     "path": "../data/Hicaz/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d14e218d-1952-4210-b681-e2d2956772d7", 
-            "title": "Ben Gaml\u0131 Hazan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d14e218d-1952-4210-b681-e2d2956772d7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9f172b31-69b9-4cea-bfb0-6b7aaaaadf1c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

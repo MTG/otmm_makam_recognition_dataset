@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/719238bd-fa4e-46c1-87d8-2a9ae699ff6a"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/b9c3e50e-45ce-46bf-a289-5d15123be49f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/719238bd-fa4e-46c1-87d8-2a9ae699ff6a"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/b9c3e50e-45ce-46bf-a289-5d15123be49f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Haf\u0131z Sami"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "b9c3e50e-45ce-46bf-a289-5d15123be49f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "719238bd-fa4e-46c1-87d8-2a9ae699ff6a", 
+            "title": "Bir Yana E\u011fdir Fesin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/719238bd-fa4e-46c1-87d8-2a9ae699ff6a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/b9c3e50e-45ce-46bf-a289-5d15123be49f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ca1694a-6354-4414-bc3f-9dc0966bf5aa", 
@@ -70,10 +63,17 @@
     ], 
     "duration": 185, 
     "path": "../data/Huseyni/b9c3e50e-45ce-46bf-a289-5d15123be49f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "719238bd-fa4e-46c1-87d8-2a9ae699ff6a", 
-            "title": "Bir Yana E\u011fdir Fesin"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/719238bd-fa4e-46c1-87d8-2a9ae699ff6a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/b9c3e50e-45ce-46bf-a289-5d15123be49f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/9965f926-5da8-4b80-85f7-0dc363c79bdf"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/9965f926-5da8-4b80-85f7-0dc363c79bdf"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "S\u00f6z Saz \u0130stanbul"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "9965f926-5da8-4b80-85f7-0dc363c79bdf", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
+            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/9965f926-5da8-4b80-85f7-0dc363c79bdf"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 243, 
     "path": "../data/Sultaniyegah/9965f926-5da8-4b80-85f7-0dc363c79bdf.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c3aa184-4791-4352-a72b-ef1a0db2d638", 
-            "title": "Nihan Ettim Seni Sinemde Ey Meh-pare Can\u0131ms\u0131n"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/0c3aa184-4791-4352-a72b-ef1a0db2d638"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/9965f926-5da8-4b80-85f7-0dc363c79bdf"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

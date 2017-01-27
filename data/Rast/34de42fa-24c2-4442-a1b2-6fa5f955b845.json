@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "cifteduyek", 
-            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/e0e25b25-4768-4b60-895b-5baf6cdff60f"
         }, 
         {
-            "attribute_key": "cifteduyek", 
-            "mb_tag": "\u00e7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/34de42fa-24c2-4442-a1b2-6fa5f955b845"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/e0e25b25-4768-4b60-895b-5baf6cdff60f"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/34de42fa-24c2-4442-a1b2-6fa5f955b845"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ensemble Ulvi Erguner"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "34de42fa-24c2-4442-a1b2-6fa5f955b845", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "e0e25b25-4768-4b60-895b-5baf6cdff60f", 
+            "title": "Rast Pe\u015frev (D\u00fc-\u015eems)"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/e0e25b25-4768-4b60-895b-5baf6cdff60f"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/34de42fa-24c2-4442-a1b2-6fa5f955b845"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 126, 
     "path": "../data/Rast/34de42fa-24c2-4442-a1b2-6fa5f955b845.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e0e25b25-4768-4b60-895b-5baf6cdff60f", 
-            "title": "Rast Pe\u015frev (D\u00fc-\u015eems)"
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e0e25b25-4768-4b60-895b-5baf6cdff60f"
+        }, 
+        {
+            "attribute_key": "cifteduyek", 
+            "mb_tag": "\u00e7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/34de42fa-24c2-4442-a1b2-6fa5f955b845"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

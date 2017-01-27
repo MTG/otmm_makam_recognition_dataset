@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e23037e6-f90e-4ee2-a557-7eb5b51d54fe"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "e23037e6-f90e-4ee2-a557-7eb5b51d54fe", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -44,13 +50,7 @@
     ], 
     "duration": 163, 
     "path": "../data/Huzzam/e23037e6-f90e-4ee2-a557-7eb5b51d54fe.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e23037e6-f90e-4ee2-a557-7eb5b51d54fe"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "makam": [
         {
             "attribute_key": "huzzam", 

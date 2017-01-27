@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Semahat \u00d6zdenses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "81b44968-5451-4c94-9f7f-6695fdb9aa11", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "ae823bb9-2ca0-45c1-a454-265d29be80a5", 
+            "title": "Havada Bulut Yok"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -73,10 +66,17 @@
     ], 
     "duration": 154, 
     "path": "../data/Huseyni/81b44968-5451-4c94-9f7f-6695fdb9aa11.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ae823bb9-2ca0-45c1-a454-265d29be80a5", 
-            "title": "Havada Bulut Yok"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/ae823bb9-2ca0-45c1-a454-265d29be80a5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/81b44968-5451-4c94-9f7f-6695fdb9aa11"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

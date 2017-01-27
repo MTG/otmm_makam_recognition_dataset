@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
+            "title": "Ver Saki"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -230,10 +223,17 @@
     ], 
     "duration": 131, 
     "path": "../data/Mahur/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f844e1aa-df05-4692-b5d6-8a7cf5718a3b", 
-            "title": "Ver Saki"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f844e1aa-df05-4692-b5d6-8a7cf5718a3b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/34d1f88b-f3a1-4ed3-b0aa-8462ef2ba48f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

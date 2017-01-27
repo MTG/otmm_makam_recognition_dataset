@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6136f30e-9c3d-4243-a98b-ae28e5b96177", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "dd055b7a-9a0e-49db-86a2-ae74b99ff2fc", 
+            "title": "Oturmu\u015f Testi Elinde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 170, 
     "path": "../data/Hicazkar/6136f30e-9c3d-4243-a98b-ae28e5b96177.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dd055b7a-9a0e-49db-86a2-ae74b99ff2fc", 
-            "title": "Oturmu\u015f Testi Elinde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/dd055b7a-9a0e-49db-86a2-ae74b99ff2fc"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6136f30e-9c3d-4243-a98b-ae28e5b96177"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

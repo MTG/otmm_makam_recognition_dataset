@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "20a1ddac-39a4-4bbb-81f5-bee504540f02", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a7cc3380-a654-4426-b2aa-d3fb07dc51a0", 
+            "title": "Bekledim Fecre Kadar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 189, 
     "path": "../data/Hicazkar/20a1ddac-39a4-4bbb-81f5-bee504540f02.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a7cc3380-a654-4426-b2aa-d3fb07dc51a0", 
-            "title": "Bekledim Fecre Kadar"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a7cc3380-a654-4426-b2aa-d3fb07dc51a0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/20a1ddac-39a4-4bbb-81f5-bee504540f02"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

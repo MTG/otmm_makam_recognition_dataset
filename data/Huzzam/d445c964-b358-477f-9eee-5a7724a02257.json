@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/23589d9c-dfd1-47cf-ad3e-9fd0021d7c73"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/23589d9c-dfd1-47cf-ad3e-9fd0021d7c73"
         }, 
         {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/d445c964-b358-477f-9eee-5a7724a02257"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "d445c964-b358-477f-9eee-5a7724a02257", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "23589d9c-dfd1-47cf-ad3e-9fd0021d7c73", 
+            "title": "H\u00fczzam Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/23589d9c-dfd1-47cf-ad3e-9fd0021d7c73"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/d445c964-b358-477f-9eee-5a7724a02257"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 253, 
     "path": "../data/Huzzam/d445c964-b358-477f-9eee-5a7724a02257.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "23589d9c-dfd1-47cf-ad3e-9fd0021d7c73", 
-            "title": "H\u00fczzam Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/23589d9c-dfd1-47cf-ad3e-9fd0021d7c73"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sazeseri", 
+            "mb_attribute": "Sazeseri", 
             "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "etud", 
+            "mb_tag": "et\u00fcd", 
             "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015eerif Muhittin Targan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "aa419dd7-3789-4a39-bc76-56a7be39c614", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazeseri", 
-            "mb_attribute": "Sazeseri", 
+            "mbid": "040a9362-abd5-4135-be2c-cb889e083706", 
+            "title": "Kanatlar\u0131m Olsayd\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
         }, 
         {
-            "attribute_key": "etud", 
-            "mb_tag": "et\u00fcd", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 112, 
     "path": "../data/Nihavent/aa419dd7-3789-4a39-bc76-56a7be39c614.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "040a9362-abd5-4135-be2c-cb889e083706", 
-            "title": "Kanatlar\u0131m Olsayd\u0131"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/040a9362-abd5-4135-be2c-cb889e083706"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/aa419dd7-3789-4a39-bc76-56a7be39c614"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

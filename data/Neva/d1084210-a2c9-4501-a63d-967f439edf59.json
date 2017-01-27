@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/319ce4e7-a196-42a6-ba19-89aa800a76d9"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/319ce4e7-a196-42a6-ba19-89aa800a76d9"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "d1084210-a2c9-4501-a63d-967f439edf59", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "319ce4e7-a196-42a6-ba19-89aa800a76d9", 
+            "title": "Yine Ba\u011fland\u0131 Dil Bir Nev Nihale"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/319ce4e7-a196-42a6-ba19-89aa800a76d9"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -109,10 +102,17 @@
     ], 
     "duration": 210, 
     "path": "../data/Neva/d1084210-a2c9-4501-a63d-967f439edf59.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "319ce4e7-a196-42a6-ba19-89aa800a76d9", 
-            "title": "Yine Ba\u011fland\u0131 Dil Bir Nev Nihale"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/319ce4e7-a196-42a6-ba19-89aa800a76d9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/d1084210-a2c9-4501-a63d-967f439edf59"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

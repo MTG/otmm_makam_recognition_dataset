@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/542c8bf4-e991-4f35-811d-695ec9c031a9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/542c8bf4-e991-4f35-811d-695ec9c031a9"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Recep Birgit"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "542c8bf4-e991-4f35-811d-695ec9c031a9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "7f39416e-d671-407c-94b5-0f3187d6f9f3", 
+            "title": "Bir Taraftan \u00dcz\u00fcyor G\u00f6nl\u00fcm\u00fc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/542c8bf4-e991-4f35-811d-695ec9c031a9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 186, 
     "path": "../data/Hicaz/542c8bf4-e991-4f35-811d-695ec9c031a9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7f39416e-d671-407c-94b5-0f3187d6f9f3", 
-            "title": "Bir Taraftan \u00dcz\u00fcyor G\u00f6nl\u00fcm\u00fc"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/7f39416e-d671-407c-94b5-0f3187d6f9f3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/542c8bf4-e991-4f35-811d-695ec9c031a9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

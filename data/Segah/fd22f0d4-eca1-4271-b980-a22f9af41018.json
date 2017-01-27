@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/ed706f69-b43b-46e5-90e2-da3df672e35e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fd22f0d4-eca1-4271-b980-a22f9af41018"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/ed706f69-b43b-46e5-90e2-da3df672e35e"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/fd22f0d4-eca1-4271-b980-a22f9af41018"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "S\u00fcleyman Ta\u015fp\u0131narl\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "fd22f0d4-eca1-4271-b980-a22f9af41018", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "ed706f69-b43b-46e5-90e2-da3df672e35e", 
+            "title": "\u0130zmir'in Kavaklar\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/ed706f69-b43b-46e5-90e2-da3df672e35e"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/fd22f0d4-eca1-4271-b980-a22f9af41018"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "b5481038-251d-4c64-8f33-488c9cb43b3b", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 205, 
     "path": "../data/Segah/fd22f0d4-eca1-4271-b980-a22f9af41018.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ed706f69-b43b-46e5-90e2-da3df672e35e", 
-            "title": "\u0130zmir'in Kavaklar\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ed706f69-b43b-46e5-90e2-da3df672e35e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fd22f0d4-eca1-4271-b980-a22f9af41018"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

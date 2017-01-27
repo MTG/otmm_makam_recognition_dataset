@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/fc829aa9-a5e2-4262-a66e-031f04fa1a97"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/fc829aa9-a5e2-4262-a66e-031f04fa1a97"
         }
     ], 
@@ -49,22 +38,26 @@
             "name": "Alper Uzkur"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "fc829aa9-a5e2-4262-a66e-031f04fa1a97", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "baabfe67-5f03-4f6a-8d0d-592e36a2894b", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/fc829aa9-a5e2-4262-a66e-031f04fa1a97"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
@@ -101,10 +94,17 @@
     ], 
     "duration": 251, 
     "path": "../data/Acemasiran/fc829aa9-a5e2-4262-a66e-031f04fa1a97.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "baabfe67-5f03-4f6a-8d0d-592e36a2894b", 
-            "title": "Acema\u015firan Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/baabfe67-5f03-4f6a-8d0d-592e36a2894b"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fc829aa9-a5e2-4262-a66e-031f04fa1a97"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

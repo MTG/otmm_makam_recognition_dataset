@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5577911f-ea7e-4ae7-969e-9cd516ac4a6b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "5577911f-ea7e-4ae7-969e-9cd516ac4a6b", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 212, 
     "path": "../data/Neva/5577911f-ea7e-4ae7-969e-9cd516ac4a6b.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5577911f-ea7e-4ae7-969e-9cd516ac4a6b"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "neva", 

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9805d026-3310-4fec-90dc-e49e868d12d3"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Tevfik Soyata"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "9805d026-3310-4fec-90dc-e49e868d12d3", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 142, 
     "path": "../data/Rast/9805d026-3310-4fec-90dc-e49e868d12d3.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9805d026-3310-4fec-90dc-e49e868d12d3"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

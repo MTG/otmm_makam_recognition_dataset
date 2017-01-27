@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "raksaksagi", 
-            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "ed187560-ae33-455a-98a3-224f72b0e127", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "67519c81-f573-4580-8256-a764bf396576", 
+            "title": "Gemim Gidiyor Ba\u015ftan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 179, 
     "path": "../data/Ussak/ed187560-ae33-455a-98a3-224f72b0e127.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "67519c81-f573-4580-8256-a764bf396576", 
-            "title": "Gemim Gidiyor Ba\u015ftan"
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/ed187560-ae33-455a-98a3-224f72b0e127"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

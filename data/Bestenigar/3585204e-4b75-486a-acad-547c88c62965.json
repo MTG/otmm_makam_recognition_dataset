@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
-        }, 
-        {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
-            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "aa4ec600-4b32-451c-9c51-226001dd51ef", 
-            "title": "T\u00fcrk M\u00fczi\u011finde 75 B\u00fcy\u00fck Bestekar/ 75 Great Composers In Turkish Classical Music"
-        }
-    ], 
-    "title": "Ka\u00e7ma Mecburundan Ey Ahu-i Vah\u015fi \u00dclfet Et", 
-    "url": "http://musicbrainz.org/work/3585204e-4b75-486a-acad-547c88c62965", 
-    "artist_credits": [
-        {
-            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
-            "name": "M\u00fcnip Utand\u0131"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "mbid": "3585204e-4b75-486a-acad-547c88c62965", 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
         }
     ], 
-    "bit_rate": 160, 
+    "releases": [
+        {
+            "mbid": "aa4ec600-4b32-451c-9c51-226001dd51ef", 
+            "title": "T\u00fcrk M\u00fczi\u011finde 75 B\u00fcy\u00fck Bestekar/ 75 Great Composers In Turkish Classical Music"
+        }
+    ], 
+    "title": "Ka\u00e7ma Mecburundan Ey Ahu-i Vah\u015fi \u00dclfet Et", 
+    "url": "http://musicbrainz.org/work/3585204e-4b75-486a-acad-547c88c62965", 
+    "artist_credits": [
+        {
+            "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
+            "name": "M\u00fcnip Utand\u0131"
+        }
+    ], 
+    "mbid": "3585204e-4b75-486a-acad-547c88c62965", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
+            "title": "Ka\u00e7ma Mecburundan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
+        }
+    ], 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -240,10 +228,22 @@
     ], 
     "duration": 394, 
     "path": "../data/Bestenigar/3585204e-4b75-486a-acad-547c88c62965.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
-            "title": "Ka\u00e7ma Mecburundan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3585204e-4b75-486a-acad-547c88c62965"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

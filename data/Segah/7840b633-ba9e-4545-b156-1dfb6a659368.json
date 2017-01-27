@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/87256297-1da2-41f3-851b-cb71bbff69a6"
         }, 
         {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/7840b633-ba9e-4545-b156-1dfb6a659368"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "7840b633-ba9e-4545-b156-1dfb6a659368", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "87256297-1da2-41f3-851b-cb71bbff69a6", 
+            "title": "Segah Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/87256297-1da2-41f3-851b-cb71bbff69a6"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/7840b633-ba9e-4545-b156-1dfb6a659368"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -54,10 +58,6 @@
     ], 
     "duration": 248, 
     "path": "../data/Segah/7840b633-ba9e-4545-b156-1dfb6a659368.mp3", 
-    "works": [
-        {
-            "mbid": "87256297-1da2-41f3-851b-cb71bbff69a6", 
-            "title": "Segah Sazsemaisi"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 128
 }

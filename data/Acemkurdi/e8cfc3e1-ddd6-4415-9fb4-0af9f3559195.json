@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e8cfc3e1-ddd6-4415-9fb4-0af9f3559195", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a463f395-9c0b-4edc-af43-5c0267240d9f", 
+            "title": "A\u015fk\u0131n \u0130le G\u00fcnd\u00fcz Gece"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 168, 
     "path": "../data/Acemkurdi/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a463f395-9c0b-4edc-af43-5c0267240d9f", 
-            "title": "A\u015fk\u0131n \u0130le G\u00fcnd\u00fcz Gece"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/a463f395-9c0b-4edc-af43-5c0267240d9f"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/e8cfc3e1-ddd6-4415-9fb4-0af9f3559195"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

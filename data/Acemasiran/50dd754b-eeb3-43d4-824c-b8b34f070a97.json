@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a94d958d-1ec3-4822-8fa8-59b89c3b7097"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/50dd754b-eeb3-43d4-824c-b8b34f070a97"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/a94d958d-1ec3-4822-8fa8-59b89c3b7097"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/50dd754b-eeb3-43d4-824c-b8b34f070a97"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "50dd754b-eeb3-43d4-824c-b8b34f070a97", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a94d958d-1ec3-4822-8fa8-59b89c3b7097", 
+            "title": "Hem Sevip Hem Yakadan Att\u0131n Beni"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/a94d958d-1ec3-4822-8fa8-59b89c3b7097"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/50dd754b-eeb3-43d4-824c-b8b34f070a97"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 370, 
     "path": "../data/Acemasiran/50dd754b-eeb3-43d4-824c-b8b34f070a97.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a94d958d-1ec3-4822-8fa8-59b89c3b7097", 
-            "title": "Hem Sevip Hem Yakadan Att\u0131n Beni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/a94d958d-1ec3-4822-8fa8-59b89c3b7097"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/50dd754b-eeb3-43d4-824c-b8b34f070a97"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

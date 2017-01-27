@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e327471c-d546-4a74-9ed8-d25f819fc677"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Udi Nevres Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "e327471c-d546-4a74-9ed8-d25f819fc677", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 192, 
     "path": "../data/Huzzam/e327471c-d546-4a74-9ed8-d25f819fc677.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e327471c-d546-4a74-9ed8-d25f819fc677"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "huzzam", 

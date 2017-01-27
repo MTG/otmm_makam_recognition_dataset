@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "raksan", 
-            "mb_attribute": "Raksan", 
-            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
         }
     ], 
@@ -27,17 +21,21 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "dda92602-7405-4fda-917e-0120294d49f3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
+            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -47,10 +45,12 @@
     ], 
     "duration": 191, 
     "path": "../data/Muhayyer/dda92602-7405-4fda-917e-0120294d49f3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
-            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+            "attribute_key": "raksan", 
+            "mb_attribute": "Raksan", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

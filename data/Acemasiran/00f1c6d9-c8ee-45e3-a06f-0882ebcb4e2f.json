@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/3f509b87-782e-4ae6-b171-d9a962db0733"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/00f1c6d9-c8ee-45e3-a06f-0882ebcb4e2f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/3f509b87-782e-4ae6-b171-d9a962db0733"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/00f1c6d9-c8ee-45e3-a06f-0882ebcb4e2f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "00f1c6d9-c8ee-45e3-a06f-0882ebcb4e2f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "3f509b87-782e-4ae6-b171-d9a962db0733", 
+            "title": "Ber-k\u00fc\u015fa-y\u0131 Madelet"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/3f509b87-782e-4ae6-b171-d9a962db0733"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/00f1c6d9-c8ee-45e3-a06f-0882ebcb4e2f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 186, 
     "path": "../data/Acemasiran/00f1c6d9-c8ee-45e3-a06f-0882ebcb4e2f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3f509b87-782e-4ae6-b171-d9a962db0733", 
-            "title": "Ber-k\u00fc\u015fa-y\u0131 Madelet"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/3f509b87-782e-4ae6-b171-d9a962db0733"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/00f1c6d9-c8ee-45e3-a06f-0882ebcb4e2f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

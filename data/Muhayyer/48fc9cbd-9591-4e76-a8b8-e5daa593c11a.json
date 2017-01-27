@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/e72ff1eb-af4c-4368-a5a6-eb060b102c40"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/48fc9cbd-9591-4e76-a8b8-e5daa593c11a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/e72ff1eb-af4c-4368-a5a6-eb060b102c40"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/48fc9cbd-9591-4e76-a8b8-e5daa593c11a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "48fc9cbd-9591-4e76-a8b8-e5daa593c11a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "e72ff1eb-af4c-4368-a5a6-eb060b102c40", 
+            "title": "Muhayyer Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/e72ff1eb-af4c-4368-a5a6-eb060b102c40"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/48fc9cbd-9591-4e76-a8b8-e5daa593c11a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -89,10 +82,17 @@
     ], 
     "duration": 339, 
     "path": "../data/Muhayyer/48fc9cbd-9591-4e76-a8b8-e5daa593c11a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e72ff1eb-af4c-4368-a5a6-eb060b102c40", 
-            "title": "Muhayyer Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/e72ff1eb-af4c-4368-a5a6-eb060b102c40"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/48fc9cbd-9591-4e76-a8b8-e5daa593c11a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

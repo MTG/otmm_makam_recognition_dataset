@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/5c7f7dda-944a-473d-96ca-1cac7dd607a4"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/234095d5-29a9-4580-a1bc-2987f5de173e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/5c7f7dda-944a-473d-96ca-1cac7dd607a4"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/234095d5-29a9-4580-a1bc-2987f5de173e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "234095d5-29a9-4580-a1bc-2987f5de173e", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "5c7f7dda-944a-473d-96ca-1cac7dd607a4", 
+            "title": "Visal-i Yar ile"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/5c7f7dda-944a-473d-96ca-1cac7dd607a4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/234095d5-29a9-4580-a1bc-2987f5de173e"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 162, 
     "path": "../data/Hicazkar/234095d5-29a9-4580-a1bc-2987f5de173e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5c7f7dda-944a-473d-96ca-1cac7dd607a4", 
-            "title": "Visal-i Yar ile"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/5c7f7dda-944a-473d-96ca-1cac7dd607a4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/234095d5-29a9-4580-a1bc-2987f5de173e"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

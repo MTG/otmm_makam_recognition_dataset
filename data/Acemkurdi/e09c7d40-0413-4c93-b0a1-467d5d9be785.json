@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/e09c7d40-0413-4c93-b0a1-467d5d9be785"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e09c7d40-0413-4c93-b0a1-467d5d9be785"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e09c7d40-0413-4c93-b0a1-467d5d9be785", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa", 
+            "title": "Bezm-i Vasl\u0131nda Civan\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/e09c7d40-0413-4c93-b0a1-467d5d9be785"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 222, 
     "path": "../data/Acemkurdi/e09c7d40-0413-4c93-b0a1-467d5d9be785.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa", 
-            "title": "Bezm-i Vasl\u0131nda Civan\u0131m"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bfdefd2f-c8a6-445c-a4d0-7ac77b9a41fa"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/e09c7d40-0413-4c93-b0a1-467d5d9be785"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

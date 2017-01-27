@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/cee9dadd-d3f3-4ed9-bc24-133f648a35b3"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/cee9dadd-d3f3-4ed9-bc24-133f648a35b3"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "179a80ad-d2e1-42ab-8e2a-b5307322925e", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "cee9dadd-d3f3-4ed9-bc24-133f648a35b3", 
+            "title": "Ak\u015fam Yine \u00c7\u00f6kt\u00fc G\u00f6nl\u00fcme"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/cee9dadd-d3f3-4ed9-bc24-133f648a35b3"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "00747e0a-cfdf-4391-903c-af9c6df6dd2e", 
@@ -158,10 +151,17 @@
     ], 
     "duration": 254, 
     "path": "../data/Rast/179a80ad-d2e1-42ab-8e2a-b5307322925e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cee9dadd-d3f3-4ed9-bc24-133f648a35b3", 
-            "title": "Ak\u015fam Yine \u00c7\u00f6kt\u00fc G\u00f6nl\u00fcme"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cee9dadd-d3f3-4ed9-bc24-133f648a35b3"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/179a80ad-d2e1-42ab-8e2a-b5307322925e"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

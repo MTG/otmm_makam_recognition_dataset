@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "9846d836-33d6-4c74-bb17-1a8268109e76", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "013503a8-66e9-4dcb-87f4-caf26dd5aea1", 
+            "title": "Yand\u0131m O G\u00fczel G\u00f6zlere Ey \u015euh-i Sitemkar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 182, 
     "path": "../data/Suzinak/9846d836-33d6-4c74-bb17-1a8268109e76.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "013503a8-66e9-4dcb-87f4-caf26dd5aea1", 
-            "title": "Yand\u0131m O G\u00fczel G\u00f6zlere Ey \u015euh-i Sitemkar"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/013503a8-66e9-4dcb-87f4-caf26dd5aea1"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/9846d836-33d6-4c74-bb17-1a8268109e76"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

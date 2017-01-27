@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "367fa893-1ae2-4aa1-8b1a-0774b424e628", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a75c0817-0d59-4823-ab35-13bc02e5554b", 
+            "title": "Peri\u015fan \u00d6mr\u00fcm\u00fcn Ne\u015fesi S\u00f6nd\u00fc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 282, 
     "path": "../data/Ussak/367fa893-1ae2-4aa1-8b1a-0774b424e628.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a75c0817-0d59-4823-ab35-13bc02e5554b", 
-            "title": "Peri\u015fan \u00d6mr\u00fcm\u00fcn Ne\u015fesi S\u00f6nd\u00fc"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a75c0817-0d59-4823-ab35-13bc02e5554b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/367fa893-1ae2-4aa1-8b1a-0774b424e628"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

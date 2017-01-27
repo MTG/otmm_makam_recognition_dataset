@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/6b4e33d4-e95e-4863-9e28-6852d399e6cb"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/0a061cae-ea6d-44c1-8a5c-39f14f278e7b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/6b4e33d4-e95e-4863-9e28-6852d399e6cb"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0a061cae-ea6d-44c1-8a5c-39f14f278e7b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "0a061cae-ea6d-44c1-8a5c-39f14f278e7b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "6b4e33d4-e95e-4863-9e28-6852d399e6cb", 
+            "title": "Dinmiyor G\u00f6zya\u015flar\u0131m Rahmi Maderden Beri"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/6b4e33d4-e95e-4863-9e28-6852d399e6cb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/0a061cae-ea6d-44c1-8a5c-39f14f278e7b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 180, 
     "path": "../data/Hicazkar/0a061cae-ea6d-44c1-8a5c-39f14f278e7b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6b4e33d4-e95e-4863-9e28-6852d399e6cb", 
-            "title": "Dinmiyor G\u00f6zya\u015flar\u0131m Rahmi Maderden Beri"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6b4e33d4-e95e-4863-9e28-6852d399e6cb"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/0a061cae-ea6d-44c1-8a5c-39f14f278e7b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/84d98f0c-6b4f-4485-a453-7fb99e87a56e"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/c79290ea-2b38-41d1-ae53-bce6c12682d1"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/84d98f0c-6b4f-4485-a453-7fb99e87a56e"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c79290ea-2b38-41d1-ae53-bce6c12682d1"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Melda Kuyucu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c79290ea-2b38-41d1-ae53-bce6c12682d1", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "84d98f0c-6b4f-4485-a453-7fb99e87a56e", 
+            "title": "A\u00e7\u0131l\u0131r Gonca G\u00fcl Yar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/84d98f0c-6b4f-4485-a453-7fb99e87a56e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/c79290ea-2b38-41d1-ae53-bce6c12682d1"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 139, 
     "path": "../data/Segah/c79290ea-2b38-41d1-ae53-bce6c12682d1.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "84d98f0c-6b4f-4485-a453-7fb99e87a56e", 
-            "title": "A\u00e7\u0131l\u0131r Gonca G\u00fcl Yar"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/84d98f0c-6b4f-4485-a453-7fb99e87a56e"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/c79290ea-2b38-41d1-ae53-bce6c12682d1"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

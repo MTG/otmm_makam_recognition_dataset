@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
         }, 
         {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e5f9a235-be2c-41ac-bf1c-60ccfe8708a4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d1c5238b-fa17-4710-8b67-268d5238a994", 
+            "title": "G\u00fcllerin Rengine Bir Bak De\u011fme B\u00fclb\u00fcl A\u011flas\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 170, 
     "path": "../data/Nihavent/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d1c5238b-fa17-4710-8b67-268d5238a994", 
-            "title": "G\u00fcllerin Rengine Bir Bak De\u011fme B\u00fclb\u00fcl A\u011flas\u0131n"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/d1c5238b-fa17-4710-8b67-268d5238a994"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/e5f9a235-be2c-41ac-bf1c-60ccfe8708a4"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

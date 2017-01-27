@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "7693fcf6-4a57-4dc2-b505-4f3d87ca71d0", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 231, 
     "path": "../data/Ussak/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/7693fcf6-4a57-4dc2-b505-4f3d87ca71d0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "makam": [
         {
             "attribute_key": "ussak", 

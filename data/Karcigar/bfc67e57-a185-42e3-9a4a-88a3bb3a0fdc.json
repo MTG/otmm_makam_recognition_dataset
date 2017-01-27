@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "nakis", 
+            "mb_attribute": "Nak\u0131\u015f", 
             "source": "http://musicbrainz.org/work/677535c2-7c1c-4c78-9f0d-cc272ffdde0c"
         }, 
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/bfc67e57-a185-42e3-9a4a-88a3bb3a0fdc"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/677535c2-7c1c-4c78-9f0d-cc272ffdde0c"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/bfc67e57-a185-42e3-9a4a-88a3bb3a0fdc"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "bfc67e57-a185-42e3-9a4a-88a3bb3a0fdc", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "nakis", 
-            "mb_attribute": "Nak\u0131\u015f", 
+            "mbid": "677535c2-7c1c-4c78-9f0d-cc272ffdde0c", 
+            "title": "Nihani Ol B\u00fct-i \u015eirin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/677535c2-7c1c-4c78-9f0d-cc272ffdde0c"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/bfc67e57-a185-42e3-9a4a-88a3bb3a0fdc"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Karcigar/bfc67e57-a185-42e3-9a4a-88a3bb3a0fdc.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "677535c2-7c1c-4c78-9f0d-cc272ffdde0c", 
-            "title": "Nihani Ol B\u00fct-i \u015eirin"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/677535c2-7c1c-4c78-9f0d-cc272ffdde0c"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/bfc67e57-a185-42e3-9a4a-88a3bb3a0fdc"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

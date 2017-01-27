@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/9b80d9db-c8b2-49f1-ac0b-35bea81dc58a"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/9b80d9db-c8b2-49f1-ac0b-35bea81dc58a"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142"
         }
     ], 
@@ -53,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "a19146b5-fd99-49f5-8388-9737ab8ee142", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "9b80d9db-c8b2-49f1-ac0b-35bea81dc58a", 
+            "title": "Kalmaz Karar\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/9b80d9db-c8b2-49f1-ac0b-35bea81dc58a"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -111,10 +104,17 @@
     ], 
     "duration": 314, 
     "path": "../data/Saba/a19146b5-fd99-49f5-8388-9737ab8ee142.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9b80d9db-c8b2-49f1-ac0b-35bea81dc58a", 
-            "title": "Kalmaz Karar\u0131m"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9b80d9db-c8b2-49f1-ac0b-35bea81dc58a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/a19146b5-fd99-49f5-8388-9737ab8ee142"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

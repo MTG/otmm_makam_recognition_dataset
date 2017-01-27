@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/85ad22fa-b478-4cb2-b5bd-90c4799a47d4"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/de29cf5a-0a91-4dde-aa18-139688f2b109"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/85ad22fa-b478-4cb2-b5bd-90c4799a47d4"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/de29cf5a-0a91-4dde-aa18-139688f2b109"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "de29cf5a-0a91-4dde-aa18-139688f2b109", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "85ad22fa-b478-4cb2-b5bd-90c4799a47d4", 
+            "title": "Dertliyim Ruhuma"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/85ad22fa-b478-4cb2-b5bd-90c4799a47d4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/de29cf5a-0a91-4dde-aa18-139688f2b109"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 421, 
     "path": "../data/Segah/de29cf5a-0a91-4dde-aa18-139688f2b109.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "85ad22fa-b478-4cb2-b5bd-90c4799a47d4", 
-            "title": "Dertliyim Ruhuma"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/85ad22fa-b478-4cb2-b5bd-90c4799a47d4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/de29cf5a-0a91-4dde-aa18-139688f2b109"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

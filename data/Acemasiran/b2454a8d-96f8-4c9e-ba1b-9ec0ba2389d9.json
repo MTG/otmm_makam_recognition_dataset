@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/b2454a8d-96f8-4c9e-ba1b-9ec0ba2389d9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/fa39a29d-9559-4b7a-8853-54f9b9529151"
         }, 
         {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/b2454a8d-96f8-4c9e-ba1b-9ec0ba2389d9"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "b2454a8d-96f8-4c9e-ba1b-9ec0ba2389d9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "fa39a29d-9559-4b7a-8853-54f9b9529151", 
+            "title": "Acema\u015firan Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/fa39a29d-9559-4b7a-8853-54f9b9529151"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/b2454a8d-96f8-4c9e-ba1b-9ec0ba2389d9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
@@ -174,10 +172,12 @@
     ], 
     "duration": 354, 
     "path": "../data/Acemasiran/b2454a8d-96f8-4c9e-ba1b-9ec0ba2389d9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fa39a29d-9559-4b7a-8853-54f9b9529151", 
-            "title": "Acema\u015firan Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/b2454a8d-96f8-4c9e-ba1b-9ec0ba2389d9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

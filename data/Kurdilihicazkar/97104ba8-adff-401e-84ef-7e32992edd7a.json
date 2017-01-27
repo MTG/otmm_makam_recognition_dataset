@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/97104ba8-adff-401e-84ef-7e32992edd7a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Volkan Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "97104ba8-adff-401e-84ef-7e32992edd7a", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 163, 
     "path": "../data/Kurdilihicazkar/97104ba8-adff-401e-84ef-7e32992edd7a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/97104ba8-adff-401e-84ef-7e32992edd7a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 

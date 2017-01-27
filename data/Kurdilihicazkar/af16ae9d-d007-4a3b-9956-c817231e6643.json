@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Serhat Sarpel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "af16ae9d-d007-4a3b-9956-c817231e6643", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0272866b-d101-43f7-9e93-a1a7d72c5e5e", 
+            "title": "Duyup Ahvalimizi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 145, 
     "path": "../data/Kurdilihicazkar/af16ae9d-d007-4a3b-9956-c817231e6643.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0272866b-d101-43f7-9e93-a1a7d72c5e5e", 
-            "title": "Duyup Ahvalimizi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0272866b-d101-43f7-9e93-a1a7d72c5e5e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/af16ae9d-d007-4a3b-9956-c817231e6643"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

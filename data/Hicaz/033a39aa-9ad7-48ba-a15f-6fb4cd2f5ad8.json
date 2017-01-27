@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mutlu Torun"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
@@ -77,10 +70,17 @@
     ], 
     "duration": 368, 
     "path": "../data/Hicaz/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
-            "title": "Hicaz Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8caa157b-0163-4de7-8625-07e49f262a26"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "207d13f8-7576-48e5-9953-3579b86accf0", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b820a37b-cccb-491c-8726-907fa5c8c004", 
+            "title": "Alemde Zafer Bulay\u0131m Hem \u015e\u00e2d Olay\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -101,10 +94,17 @@
     ], 
     "duration": 210, 
     "path": "../data/Saba/207d13f8-7576-48e5-9953-3579b86accf0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b820a37b-cccb-491c-8726-907fa5c8c004", 
-            "title": "Alemde Zafer Bulay\u0131m Hem \u015e\u00e2d Olay\u0131m"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b820a37b-cccb-491c-8726-907fa5c8c004"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/207d13f8-7576-48e5-9953-3579b86accf0"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

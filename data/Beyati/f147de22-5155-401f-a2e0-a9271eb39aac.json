@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "f147de22-5155-401f-a2e0-a9271eb39aac", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "b0c1412f-c3e5-4403-a25f-839c3db9b8cf", 
+            "title": "Hadden A\u015ft\u0131 \u0130\u015ftiyak\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 233, 
     "path": "../data/Beyati/f147de22-5155-401f-a2e0-a9271eb39aac.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b0c1412f-c3e5-4403-a25f-839c3db9b8cf", 
-            "title": "Hadden A\u015ft\u0131 \u0130\u015ftiyak\u0131n"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0c1412f-c3e5-4403-a25f-839c3db9b8cf"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f147de22-5155-401f-a2e0-a9271eb39aac"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

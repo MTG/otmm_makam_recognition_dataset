@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/05a8b9b1-8140-4ae2-9051-0e9f2e972ba6"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/0779dabb-4fbb-4a4e-86cb-c8a0a112510c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/05a8b9b1-8140-4ae2-9051-0e9f2e972ba6"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0779dabb-4fbb-4a4e-86cb-c8a0a112510c"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0779dabb-4fbb-4a4e-86cb-c8a0a112510c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "05a8b9b1-8140-4ae2-9051-0e9f2e972ba6", 
+            "title": "Lutfeyle G\u00fczel Gel de Benim G\u00f6nl\u00fcm\u00fc \u015ead Et"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/05a8b9b1-8140-4ae2-9051-0e9f2e972ba6"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/0779dabb-4fbb-4a4e-86cb-c8a0a112510c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 189, 
     "path": "../data/Hicazkar/0779dabb-4fbb-4a4e-86cb-c8a0a112510c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05a8b9b1-8140-4ae2-9051-0e9f2e972ba6", 
-            "title": "Lutfeyle G\u00fczel Gel de Benim G\u00f6nl\u00fcm\u00fc \u015ead Et"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/05a8b9b1-8140-4ae2-9051-0e9f2e972ba6"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/0779dabb-4fbb-4a4e-86cb-c8a0a112510c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

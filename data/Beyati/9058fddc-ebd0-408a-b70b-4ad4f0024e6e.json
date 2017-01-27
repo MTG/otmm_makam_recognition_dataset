@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "9058fddc-ebd0-408a-b70b-4ad4f0024e6e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "15b03ad0-4fbf-47fd-9a13-34e2c472aba4", 
+            "title": "Sebep Ne Bakm\u0131yor Yarim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
@@ -134,10 +127,17 @@
     ], 
     "duration": 153, 
     "path": "../data/Beyati/9058fddc-ebd0-408a-b70b-4ad4f0024e6e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "15b03ad0-4fbf-47fd-9a13-34e2c472aba4", 
-            "title": "Sebep Ne Bakm\u0131yor Yarim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/15b03ad0-4fbf-47fd-9a13-34e2c472aba4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9058fddc-ebd0-408a-b70b-4ad4f0024e6e"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

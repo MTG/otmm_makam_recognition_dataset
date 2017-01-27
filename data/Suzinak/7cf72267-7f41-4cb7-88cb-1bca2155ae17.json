@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/59a2fbf0-d371-4705-88f6-35d498c79b66"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7cf72267-7f41-4cb7-88cb-1bca2155ae17"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/59a2fbf0-d371-4705-88f6-35d498c79b66"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/7cf72267-7f41-4cb7-88cb-1bca2155ae17"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "7cf72267-7f41-4cb7-88cb-1bca2155ae17", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "59a2fbf0-d371-4705-88f6-35d498c79b66", 
+            "title": "Usat-\u0131 \u00dcmmetinden Bir Zelilim Ya Ras\u00fclallah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/59a2fbf0-d371-4705-88f6-35d498c79b66"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/7cf72267-7f41-4cb7-88cb-1bca2155ae17"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 192, 
     "path": "../data/Suzinak/7cf72267-7f41-4cb7-88cb-1bca2155ae17.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "59a2fbf0-d371-4705-88f6-35d498c79b66", 
-            "title": "Usat-\u0131 \u00dcmmetinden Bir Zelilim Ya Ras\u00fclallah"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/59a2fbf0-d371-4705-88f6-35d498c79b66"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7cf72267-7f41-4cb7-88cb-1bca2155ae17"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

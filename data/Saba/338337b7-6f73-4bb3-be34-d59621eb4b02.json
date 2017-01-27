@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/8c6dbffc-ff4e-4ecf-a433-b506838a8f8d"
         }, 
         {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "338337b7-6f73-4bb3-be34-d59621eb4b02", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "8c6dbffc-ff4e-4ecf-a433-b506838a8f8d", 
+            "title": "Saba Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/8c6dbffc-ff4e-4ecf-a433-b506838a8f8d"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
@@ -174,10 +172,12 @@
     ], 
     "duration": 237, 
     "path": "../data/Saba/338337b7-6f73-4bb3-be34-d59621eb4b02.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8c6dbffc-ff4e-4ecf-a433-b506838a8f8d", 
-            "title": "Saba Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/338337b7-6f73-4bb3-be34-d59621eb4b02"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

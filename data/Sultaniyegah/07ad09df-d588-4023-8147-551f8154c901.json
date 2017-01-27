@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/07ad09df-d588-4023-8147-551f8154c901"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "S\u00fcleyman Erg\u00fcner"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "07ad09df-d588-4023-8147-551f8154c901", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 259, 
     "path": "../data/Sultaniyegah/07ad09df-d588-4023-8147-551f8154c901.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/07ad09df-d588-4023-8147-551f8154c901"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 

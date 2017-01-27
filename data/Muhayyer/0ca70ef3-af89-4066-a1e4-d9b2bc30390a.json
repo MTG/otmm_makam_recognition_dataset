@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0ca70ef3-af89-4066-a1e4-d9b2bc30390a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Hakan Talu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "0ca70ef3-af89-4066-a1e4-d9b2bc30390a", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 155, 
     "path": "../data/Muhayyer/0ca70ef3-af89-4066-a1e4-d9b2bc30390a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0ca70ef3-af89-4066-a1e4-d9b2bc30390a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "muhayyer", 

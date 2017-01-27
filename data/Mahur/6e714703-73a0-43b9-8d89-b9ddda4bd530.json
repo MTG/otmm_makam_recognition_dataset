@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6e714703-73a0-43b9-8d89-b9ddda4bd530"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Lalezar"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "6e714703-73a0-43b9-8d89-b9ddda4bd530", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 47, 
     "path": "../data/Mahur/6e714703-73a0-43b9-8d89-b9ddda4bd530.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/6e714703-73a0-43b9-8d89-b9ddda4bd530"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "mahur", 

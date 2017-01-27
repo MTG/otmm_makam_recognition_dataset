@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/820fba19-5c4d-4b53-b0d8-7df64b6a8fd3"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/b91cceb1-1091-4c26-be90-aaa06b2b37ce"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/820fba19-5c4d-4b53-b0d8-7df64b6a8fd3"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/b91cceb1-1091-4c26-be90-aaa06b2b37ce"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alp Arslan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "b91cceb1-1091-4c26-be90-aaa06b2b37ce", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "820fba19-5c4d-4b53-b0d8-7df64b6a8fd3", 
+            "title": "Kaderimde Hep G\u00fczeli Arad\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/820fba19-5c4d-4b53-b0d8-7df64b6a8fd3"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/b91cceb1-1091-4c26-be90-aaa06b2b37ce"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
@@ -233,10 +226,17 @@
     ], 
     "duration": 345, 
     "path": "../data/Nihavent/b91cceb1-1091-4c26-be90-aaa06b2b37ce.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "820fba19-5c4d-4b53-b0d8-7df64b6a8fd3", 
-            "title": "Kaderimde Hep G\u00fczeli Arad\u0131m"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/820fba19-5c4d-4b53-b0d8-7df64b6a8fd3"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/b91cceb1-1091-4c26-be90-aaa06b2b37ce"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/8066bf4c-03d8-430a-a364-eeaf445a4a79"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/8066bf4c-03d8-430a-a364-eeaf445a4a79"
         }, 
         {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/46e5abd4-a570-4dc4-a219-167b49736abe"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "46e5abd4-a570-4dc4-a219-167b49736abe", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "8066bf4c-03d8-430a-a364-eeaf445a4a79", 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/8066bf4c-03d8-430a-a364-eeaf445a4a79"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/46e5abd4-a570-4dc4-a219-167b49736abe"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 240, 
     "path": "../data/Hicaz/46e5abd4-a570-4dc4-a219-167b49736abe.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8066bf4c-03d8-430a-a364-eeaf445a4a79", 
-            "title": "Hicaz Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/8066bf4c-03d8-430a-a364-eeaf445a4a79"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

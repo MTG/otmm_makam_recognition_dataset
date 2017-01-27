@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/af16a879-d0c8-4800-ae28-6eec7b019ae1"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130brahim Ziya Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "af16a879-d0c8-4800-ae28-6eec7b019ae1", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 246, 
     "path": "../data/Neva/af16a879-d0c8-4800-ae28-6eec7b019ae1.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/af16a879-d0c8-4800-ae28-6eec7b019ae1"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "neva", 

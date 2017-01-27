@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c7be419c-8414-4d8a-9646-08a6f9238e7a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "6924cefb-9fad-483c-b50b-0f074a441e9d", 
+            "title": "Ni\u00e7in Mahzun Bakars\u0131n Sen Bana S\u00f6yle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 166, 
     "path": "../data/Muhayyer/c7be419c-8414-4d8a-9646-08a6f9238e7a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6924cefb-9fad-483c-b50b-0f074a441e9d", 
-            "title": "Ni\u00e7in Mahzun Bakars\u0131n Sen Bana S\u00f6yle"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/6924cefb-9fad-483c-b50b-0f074a441e9d"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/c7be419c-8414-4d8a-9646-08a6f9238e7a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

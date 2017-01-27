@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "zeybek", 
+            "mb_attribute": "Zeybek", 
             "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "zeybek", 
+            "mb_tag": "zeybek", 
             "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015e\u00fckr\u00fc Tunar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "e5929839-8ce6-4ad0-97a3-eba5c82c9e3d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "zeybek", 
-            "mb_attribute": "Zeybek", 
+            "mbid": "02a469db-f0bc-4796-a773-bda58d9e896c", 
+            "title": "Hovarda Zeybe\u011fi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
         }, 
         {
-            "attribute_key": "zeybek", 
-            "mb_tag": "zeybek", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 192, 
     "path": "../data/Saba/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "02a469db-f0bc-4796-a773-bda58d9e896c", 
-            "title": "Hovarda Zeybe\u011fi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/02a469db-f0bc-4796-a773-bda58d9e896c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/e5929839-8ce6-4ad0-97a3-eba5c82c9e3d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Aziz \u015eenol Filiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "17395325-b321-4c04-801c-6ef7ced0b94b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3", 
+            "title": "Beyati Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 481, 
     "path": "../data/Beyati/17395325-b321-4c04-801c-6ef7ced0b94b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3", 
-            "title": "Beyati Pe\u015frevi"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/17395325-b321-4c04-801c-6ef7ced0b94b"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

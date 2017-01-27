@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a4c73ff3-9c7b-4ac9-ada9-cb4ffd80fe74"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/05631670-dac1-4336-a3ab-ae94eb04344b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/a4c73ff3-9c7b-4ac9-ada9-cb4ffd80fe74"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/05631670-dac1-4336-a3ab-ae94eb04344b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "05631670-dac1-4336-a3ab-ae94eb04344b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a4c73ff3-9c7b-4ac9-ada9-cb4ffd80fe74", 
+            "title": "Sanki Benim \u0130\u00e7in Do\u011fmu\u015fsun"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/a4c73ff3-9c7b-4ac9-ada9-cb4ffd80fe74"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/05631670-dac1-4336-a3ab-ae94eb04344b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 236, 
     "path": "../data/Hicaz/05631670-dac1-4336-a3ab-ae94eb04344b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a4c73ff3-9c7b-4ac9-ada9-cb4ffd80fe74", 
-            "title": "Sanki Benim \u0130\u00e7in Do\u011fmu\u015fsun"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/a4c73ff3-9c7b-4ac9-ada9-cb4ffd80fe74"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/05631670-dac1-4336-a3ab-ae94eb04344b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

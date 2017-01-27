@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/4cdf19cc-6a4d-4e21-b5ce-4ced7f856e7e"
         }, 
         {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/bdc86dc2-a23f-4a1a-a311-a1a14177de1a"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Radife Erten"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "bdc86dc2-a23f-4a1a-a311-a1a14177de1a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "4cdf19cc-6a4d-4e21-b5ce-4ced7f856e7e", 
+            "title": "Kerem Gibi Da\u011f Ba\u015f\u0131nda \u0130nlerim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/4cdf19cc-6a4d-4e21-b5ce-4ced7f856e7e"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/bdc86dc2-a23f-4a1a-a311-a1a14177de1a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
@@ -51,10 +55,6 @@
     ], 
     "duration": 273, 
     "path": "../data/Karcigar/bdc86dc2-a23f-4a1a-a311-a1a14177de1a.mp3", 
-    "works": [
-        {
-            "mbid": "4cdf19cc-6a4d-4e21-b5ce-4ced7f856e7e", 
-            "title": "Kerem Gibi Da\u011f Ba\u015f\u0131nda \u0130nlerim"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

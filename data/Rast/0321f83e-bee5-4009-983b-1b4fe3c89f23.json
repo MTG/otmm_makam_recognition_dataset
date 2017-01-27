@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/293f76b6-7b67-486b-ae39-ac603e2be2a6"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/0321f83e-bee5-4009-983b-1b4fe3c89f23"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/293f76b6-7b67-486b-ae39-ac603e2be2a6"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0321f83e-bee5-4009-983b-1b4fe3c89f23"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ahmet Celal Tokses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0321f83e-bee5-4009-983b-1b4fe3c89f23", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "293f76b6-7b67-486b-ae39-ac603e2be2a6", 
+            "title": "Y\u00fcz\u00fcd\u00fcr Cihan\u0131 M\u00fcnevver Eden"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/293f76b6-7b67-486b-ae39-ac603e2be2a6"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/0321f83e-bee5-4009-983b-1b4fe3c89f23"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "d50737e5-05ab-48fa-91ac-a70cfcf01a20", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 180, 
     "path": "../data/Rast/0321f83e-bee5-4009-983b-1b4fe3c89f23.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "293f76b6-7b67-486b-ae39-ac603e2be2a6", 
-            "title": "Y\u00fcz\u00fcd\u00fcr Cihan\u0131 M\u00fcnevver Eden"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/293f76b6-7b67-486b-ae39-ac603e2be2a6"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/0321f83e-bee5-4009-983b-1b4fe3c89f23"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

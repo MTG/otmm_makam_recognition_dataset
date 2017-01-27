@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/028e1882-0e6c-4b82-b658-ccdd83f1c9b5"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/452eaf98-3b0b-4660-a87e-c703f1a31ef7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/028e1882-0e6c-4b82-b658-ccdd83f1c9b5"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/452eaf98-3b0b-4660-a87e-c703f1a31ef7"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Recep Birgit"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "452eaf98-3b0b-4660-a87e-c703f1a31ef7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "028e1882-0e6c-4b82-b658-ccdd83f1c9b5", 
+            "title": "Gel Ey Denizin Nazl\u0131 K\u0131z\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/028e1882-0e6c-4b82-b658-ccdd83f1c9b5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/452eaf98-3b0b-4660-a87e-c703f1a31ef7"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -109,10 +102,17 @@
     ], 
     "duration": 270, 
     "path": "../data/Acemasiran/452eaf98-3b0b-4660-a87e-c703f1a31ef7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "028e1882-0e6c-4b82-b658-ccdd83f1c9b5", 
-            "title": "Gel Ey Denizin Nazl\u0131 K\u0131z\u0131"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/028e1882-0e6c-4b82-b658-ccdd83f1c9b5"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/452eaf98-3b0b-4660-a87e-c703f1a31ef7"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

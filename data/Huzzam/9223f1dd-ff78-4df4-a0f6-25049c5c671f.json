@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9223f1dd-ff78-4df4-a0f6-25049c5c671f"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z H\u00fcseyin H\u00fcsn\u00fc"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "9223f1dd-ff78-4df4-a0f6-25049c5c671f", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 184, 
     "path": "../data/Huzzam/9223f1dd-ff78-4df4-a0f6-25049c5c671f.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9223f1dd-ff78-4df4-a0f6-25049c5c671f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "huzzam", 

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e2013887-8f33-4e07-b275-d61399892db0"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z Sami"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "e2013887-8f33-4e07-b275-d61399892db0", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 211, 
     "path": "../data/Acemasiran/e2013887-8f33-4e07-b275-d61399892db0.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e2013887-8f33-4e07-b275-d61399892db0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "acemasiran", 

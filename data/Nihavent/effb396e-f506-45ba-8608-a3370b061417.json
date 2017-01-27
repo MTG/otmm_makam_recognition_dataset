@@ -1,30 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/85c39239-21d6-4bd8-a91d-3e833b19dfa9"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/effb396e-f506-45ba-8608-a3370b061417"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/effb396e-f506-45ba-8608-a3370b061417"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/85c39239-21d6-4bd8-a91d-3e833b19dfa9"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/effb396e-f506-45ba-8608-a3370b061417"
         }
     ], 
@@ -42,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "effb396e-f506-45ba-8608-a3370b061417", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "85c39239-21d6-4bd8-a91d-3e833b19dfa9", 
+            "title": "V\u00fccud \u0130kliminin Sultan\u0131 Sensin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/85c39239-21d6-4bd8-a91d-3e833b19dfa9"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/effb396e-f506-45ba-8608-a3370b061417"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -72,10 +60,22 @@
     ], 
     "duration": 160, 
     "path": "../data/Nihavent/effb396e-f506-45ba-8608-a3370b061417.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "85c39239-21d6-4bd8-a91d-3e833b19dfa9", 
-            "title": "V\u00fccud \u0130kliminin Sultan\u0131 Sensin"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/85c39239-21d6-4bd8-a91d-3e833b19dfa9"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/effb396e-f506-45ba-8608-a3370b061417"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/effb396e-f506-45ba-8608-a3370b061417"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

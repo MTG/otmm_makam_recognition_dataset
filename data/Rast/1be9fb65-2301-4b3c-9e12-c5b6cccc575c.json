@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
-            "source": "http://musicbrainz.org/work/6db3bc92-3d53-41ed-b80e-112a0b7d86b9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/6db3bc92-3d53-41ed-b80e-112a0b7d86b9"
         }
     ], 
@@ -39,17 +33,21 @@
             "name": "Esma Ba\u015fbu\u011f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "1be9fb65-2301-4b3c-9e12-c5b6cccc575c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "6db3bc92-3d53-41ed-b80e-112a0b7d86b9", 
+            "title": "G\u00fclnihal"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/6db3bc92-3d53-41ed-b80e-112a0b7d86b9"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -138,10 +136,12 @@
     ], 
     "duration": 250, 
     "path": "../data/Rast/1be9fb65-2301-4b3c-9e12-c5b6cccc575c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6db3bc92-3d53-41ed-b80e-112a0b7d86b9", 
-            "title": "G\u00fclnihal"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/6db3bc92-3d53-41ed-b80e-112a0b7d86b9"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

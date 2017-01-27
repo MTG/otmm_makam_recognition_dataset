@@ -1,16 +1,15 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
             "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
-        }
-    ], 
-    "makam": [
+        }, 
         {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
+            "attribute_key": "ciftetelli", 
+            "mb_tag": "\u00e7iftetelli", 
+            "source": "http://musicbrainz.org/recording/7d781ded-ceb2-41ff-8172-edc3dee9c674"
         }
     ], 
     "releases": [
@@ -27,22 +26,21 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "7d781ded-ceb2-41ff-8172-edc3dee9c674", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
-        }, 
-        {
-            "attribute_key": "ciftetelli", 
-            "mb_tag": "\u00e7iftetelli", 
-            "source": "http://musicbrainz.org/recording/7d781ded-ceb2-41ff-8172-edc3dee9c674"
+            "mbid": "b2b286f3-6522-4076-8702-91944e460f10", 
+            "title": "G\u00f6n\u00fcller U\u011frusu"
         }
     ], 
-    "bit_rate": 160, 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
+            "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
+        }
+    ], 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -63,10 +61,12 @@
     ], 
     "duration": 198, 
     "path": "../data/Huseyni/7d781ded-ceb2-41ff-8172-edc3dee9c674.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b2b286f3-6522-4076-8702-91944e460f10", 
-            "title": "G\u00f6n\u00fcller U\u011frusu"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/b2b286f3-6522-4076-8702-91944e460f10"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

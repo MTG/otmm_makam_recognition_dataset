@@ -1,24 +1,47 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
         }, 
         {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
             "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
         }, 
         {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
             "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
+        }
+    ], 
+    "releases": [
+        {
+            "mbid": "4a2f44fe-d4bf-4902-b11e-b0584cbfe8ee", 
+            "title": "Legacy"
+        }
+    ], 
+    "title": "Mahur Taksim On Tanbur, Mahur Pe\u015frev, Taksim On Kemen\u00e7e", 
+    "url": "http://musicbrainz.org/work/d2ebf684-8b56-418c-866a-0fa6b8acda1e", 
+    "artist_credits": [
+        {
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "name": "Neva \u00d6zgen"
+        }
+    ], 
+    "mbid": "d2ebf684-8b56-418c-866a-0fa6b8acda1e", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "title": "Mahur Pe\u015frevi"
         }
     ], 
     "makam": [
@@ -43,46 +66,6 @@
             "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
         }
     ], 
-    "releases": [
-        {
-            "mbid": "4a2f44fe-d4bf-4902-b11e-b0584cbfe8ee", 
-            "title": "Legacy"
-        }
-    ], 
-    "title": "Mahur Taksim On Tanbur, Mahur Pe\u015frev, Taksim On Kemen\u00e7e", 
-    "url": "http://musicbrainz.org/work/d2ebf684-8b56-418c-866a-0fa6b8acda1e", 
-    "artist_credits": [
-        {
-            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
-            "name": "Neva \u00d6zgen"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
-    "mbid": "d2ebf684-8b56-418c-866a-0fa6b8acda1e", 
-    "form": [
-        {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
-            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
-        }, 
-        {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
-            "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
-        }, 
-        {
-            "attribute_key": "taksim", 
-            "mb_tag": "taksim", 
-            "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
-        }, 
-        {
-            "attribute_key": "taksim", 
-            "mb_tag": "taksim", 
-            "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
-        }
-    ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
@@ -103,10 +86,27 @@
     ], 
     "duration": 415, 
     "path": "../data/Mahur/d2ebf684-8b56-418c-866a-0fa6b8acda1e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/423ec97c-d4bd-4340-81da-625b1934021b"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d2ebf684-8b56-418c-866a-0fa6b8acda1e"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

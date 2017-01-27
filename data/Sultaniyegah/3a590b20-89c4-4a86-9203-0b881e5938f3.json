@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
+            "attribute_key": "medhal", 
+            "mb_attribute": "Medhal", 
             "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
         }, 
         {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "medhal", 
+            "mb_tag": "medhal", 
             "source": "http://musicbrainz.org/recording/3a590b20-89c4-4a86-9203-0b881e5938f3"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "3a590b20-89c4-4a86-9203-0b881e5938f3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "medhal", 
-            "mb_attribute": "Medhal", 
+            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
+            "title": "Sultaniyegah Medhal"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
         }, 
         {
-            "attribute_key": "medhal", 
-            "mb_tag": "medhal", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/3a590b20-89c4-4a86-9203-0b881e5938f3"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 341, 
     "path": "../data/Sultaniyegah/3a590b20-89c4-4a86-9203-0b881e5938f3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "071c556f-3b64-4b2d-b7a0-edd41f35994c", 
-            "title": "Sultaniyegah Medhal"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/071c556f-3b64-4b2d-b7a0-edd41f35994c"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

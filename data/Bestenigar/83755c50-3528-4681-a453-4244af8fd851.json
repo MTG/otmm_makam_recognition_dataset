@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/7d180e39-11bd-4874-a0b5-c4d75f1d686d"
         }, 
         {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/83755c50-3528-4681-a453-4244af8fd851"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/7d180e39-11bd-4874-a0b5-c4d75f1d686d"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "beste_murabba", 
+            "mb_tag": "beste-murabba", 
             "source": "http://musicbrainz.org/recording/83755c50-3528-4681-a453-4244af8fd851"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "83755c50-3528-4681-a453-4244af8fd851", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "7d180e39-11bd-4874-a0b5-c4d75f1d686d", 
+            "title": "Eri\u015fti Mevsim-i G\u00fcl Seyr-i G\u00fclistan Edelim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/7d180e39-11bd-4874-a0b5-c4d75f1d686d"
         }, 
         {
-            "attribute_key": "beste_murabba", 
-            "mb_tag": "beste-murabba", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/83755c50-3528-4681-a453-4244af8fd851"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 362, 
     "path": "../data/Bestenigar/83755c50-3528-4681-a453-4244af8fd851.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7d180e39-11bd-4874-a0b5-c4d75f1d686d", 
-            "title": "Eri\u015fti Mevsim-i G\u00fcl Seyr-i G\u00fclistan Edelim"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/7d180e39-11bd-4874-a0b5-c4d75f1d686d"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/83755c50-3528-4681-a453-4244af8fd851"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

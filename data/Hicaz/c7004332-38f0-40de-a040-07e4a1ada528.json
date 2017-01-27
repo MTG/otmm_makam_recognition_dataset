@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
-            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
         }
     ], 
@@ -31,17 +25,21 @@
             "name": "Adnan \u00c7oban"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "c7004332-38f0-40de-a040-07e4a1ada528", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "77d378a1-6879-4595-9336-5487c6507922", 
+            "title": "Ey B\u00fct-i Nev Eda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -120,10 +118,12 @@
     ], 
     "duration": 212, 
     "path": "../data/Hicaz/c7004332-38f0-40de-a040-07e4a1ada528.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "77d378a1-6879-4595-9336-5487c6507922", 
-            "title": "Ey B\u00fct-i Nev Eda"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/77d378a1-6879-4595-9336-5487c6507922"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

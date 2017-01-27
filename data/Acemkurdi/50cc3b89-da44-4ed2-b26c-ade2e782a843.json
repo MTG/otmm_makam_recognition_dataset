@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/50cc3b89-da44-4ed2-b26c-ade2e782a843"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Udi Yorgo Bacanos"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "50cc3b89-da44-4ed2-b26c-ade2e782a843", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 336, 
     "path": "../data/Acemkurdi/50cc3b89-da44-4ed2-b26c-ade2e782a843.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/50cc3b89-da44-4ed2-b26c-ade2e782a843"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "acemkurdi", 

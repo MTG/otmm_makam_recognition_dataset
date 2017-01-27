@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/54a7d617-62ec-4935-8e21-8f00088d160e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/54a7d617-62ec-4935-8e21-8f00088d160e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "54a7d617-62ec-4935-8e21-8f00088d160e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "dee81ee2-bfae-4276-ad99-75a05d39c56c", 
+            "title": "Ey Gonca Dehen Ah-\u0131 Seherden Hazer Eyle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/54a7d617-62ec-4935-8e21-8f00088d160e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 263, 
     "path": "../data/Neva/54a7d617-62ec-4935-8e21-8f00088d160e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dee81ee2-bfae-4276-ad99-75a05d39c56c", 
-            "title": "Ey Gonca Dehen Ah-\u0131 Seherden Hazer Eyle"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/54a7d617-62ec-4935-8e21-8f00088d160e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

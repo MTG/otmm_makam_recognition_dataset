@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/baa1861e-432c-4d92-81ac-cfbf34e1d852"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/f5250a11-2db7-4eeb-b926-1a6fcb9e71b8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/baa1861e-432c-4d92-81ac-cfbf34e1d852"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/f5250a11-2db7-4eeb-b926-1a6fcb9e71b8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f5250a11-2db7-4eeb-b926-1a6fcb9e71b8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "baa1861e-432c-4d92-81ac-cfbf34e1d852", 
+            "title": "Sevdi Bu G\u00f6n\u00fcl Seni Yaman Eylemedi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/baa1861e-432c-4d92-81ac-cfbf34e1d852"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/f5250a11-2db7-4eeb-b926-1a6fcb9e71b8"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 244, 
     "path": "../data/Neva/f5250a11-2db7-4eeb-b926-1a6fcb9e71b8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "baa1861e-432c-4d92-81ac-cfbf34e1d852", 
-            "title": "Sevdi Bu G\u00f6n\u00fcl Seni Yaman Eylemedi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/baa1861e-432c-4d92-81ac-cfbf34e1d852"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/f5250a11-2db7-4eeb-b926-1a6fcb9e71b8"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

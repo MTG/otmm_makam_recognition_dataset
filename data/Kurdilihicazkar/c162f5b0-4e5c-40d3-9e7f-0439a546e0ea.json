@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c162f5b0-4e5c-40d3-9e7f-0439a546e0ea", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
+            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 184, 
     "path": "../data/Kurdilihicazkar/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2acc29a-fe3e-4346-8d62-457a6857cfeb", 
-            "title": "Bu Y\u0131l Da B\u00f6yle Ge\u00e7ti"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/a2acc29a-fe3e-4346-8d62-457a6857cfeb"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/c162f5b0-4e5c-40d3-9e7f-0439a546e0ea"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

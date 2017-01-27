@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
         }, 
         {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "d7128150-850e-4903-bfcf-0eaf513e44b3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "47a23970-65ef-42b7-8ad7-c71a7541a089", 
+            "title": "Bir G\u00f6r\u00fc\u015fte Ey Peri Yand\u0131m Sana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
@@ -121,10 +114,17 @@
     ], 
     "duration": 176, 
     "path": "../data/Huseyni/d7128150-850e-4903-bfcf-0eaf513e44b3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "47a23970-65ef-42b7-8ad7-c71a7541a089", 
-            "title": "Bir G\u00f6r\u00fc\u015fte Ey Peri Yand\u0131m Sana"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/47a23970-65ef-42b7-8ad7-c71a7541a089"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/d7128150-850e-4903-bfcf-0eaf513e44b3"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

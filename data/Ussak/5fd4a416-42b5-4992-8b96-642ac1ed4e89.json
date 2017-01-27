@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Udi Hrant Kenkulian"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "5fd4a416-42b5-4992-8b96-642ac1ed4e89", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "46497022-66e6-4cf9-8901-18b1ab3fcce3", 
+            "title": "Pencereden Kar Geliyor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
@@ -94,10 +87,17 @@
     ], 
     "duration": 188, 
     "path": "../data/Ussak/5fd4a416-42b5-4992-8b96-642ac1ed4e89.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "46497022-66e6-4cf9-8901-18b1ab3fcce3", 
-            "title": "Pencereden Kar Geliyor"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/46497022-66e6-4cf9-8901-18b1ab3fcce3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/5fd4a416-42b5-4992-8b96-642ac1ed4e89"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

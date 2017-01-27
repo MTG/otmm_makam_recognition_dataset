@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/665b61c1-b631-4053-a765-05477a947ed6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/665b61c1-b631-4053-a765-05477a947ed6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Enver Mete Aslan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "665b61c1-b631-4053-a765-05477a947ed6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/665b61c1-b631-4053-a765-05477a947ed6"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 278, 
     "path": "../data/Suzinak/665b61c1-b631-4053-a765-05477a947ed6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
-            "title": "Suzinak Pe\u015frev"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/665b61c1-b631-4053-a765-05477a947ed6"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

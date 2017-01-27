@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c892812d-cc86-4d1c-a344-a4c6e775c039", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "9acc6774-439e-4e13-9c0a-7a74355f6cbc", 
+            "title": "Ne Sevincin \u00d6mr\u00fc Varm\u0131\u015f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 154, 
     "path": "../data/Rast/c892812d-cc86-4d1c-a344-a4c6e775c039.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9acc6774-439e-4e13-9c0a-7a74355f6cbc", 
-            "title": "Ne Sevincin \u00d6mr\u00fc Varm\u0131\u015f"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/9acc6774-439e-4e13-9c0a-7a74355f6cbc"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/c892812d-cc86-4d1c-a344-a4c6e775c039"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

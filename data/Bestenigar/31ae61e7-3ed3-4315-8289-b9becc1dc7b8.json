@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Ensemble instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/31ae61e7-3ed3-4315-8289-b9becc1dc7b8"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "31ae61e7-3ed3-4315-8289-b9becc1dc7b8", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -68,13 +74,7 @@
     ], 
     "duration": 489, 
     "path": "../data/Bestenigar/31ae61e7-3ed3-4315-8289-b9becc1dc7b8.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/31ae61e7-3ed3-4315-8289-b9becc1dc7b8"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "makam": [
         {
             "attribute_key": "bestenigar", 

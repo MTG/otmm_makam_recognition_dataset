@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
+            "attribute_key": "uzunhava", 
+            "mb_attribute": "Uzunhava", 
             "source": "http://musicbrainz.org/work/48144034-596a-4e02-b295-2dbee88befe6"
         }, 
         {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0423e513-cb38-4d7a-b229-f96b9ef923e4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/48144034-596a-4e02-b295-2dbee88befe6"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "uzunhava", 
+            "mb_tag": "uzunhava", 
             "source": "http://musicbrainz.org/recording/0423e513-cb38-4d7a-b229-f96b9ef923e4"
         }
     ], 
@@ -53,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0423e513-cb38-4d7a-b229-f96b9ef923e4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "uzunhava", 
-            "mb_attribute": "Uzunhava", 
+            "mbid": "48144034-596a-4e02-b295-2dbee88befe6", 
+            "title": "G\u00f6z\u00fcm Yokdur"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/48144034-596a-4e02-b295-2dbee88befe6"
         }, 
         {
-            "attribute_key": "uzunhava", 
-            "mb_tag": "uzunhava", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/0423e513-cb38-4d7a-b229-f96b9ef923e4"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "a6592b6f-a8d8-41a1-8b9e-044dc9e69805", 
@@ -81,10 +74,17 @@
     ], 
     "duration": 124, 
     "path": "../data/Saba/0423e513-cb38-4d7a-b229-f96b9ef923e4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "48144034-596a-4e02-b295-2dbee88befe6", 
-            "title": "G\u00f6z\u00fcm Yokdur"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/48144034-596a-4e02-b295-2dbee88befe6"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0423e513-cb38-4d7a-b229-f96b9ef923e4"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

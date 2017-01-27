@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ee669aaa-f1f9-437d-b5c7-11bcf43be7eb"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/12b3a060-0450-42e7-b0d7-6d859412f205"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/ee669aaa-f1f9-437d-b5c7-11bcf43be7eb"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/12b3a060-0450-42e7-b0d7-6d859412f205"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Muzaffer Birtan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "12b3a060-0450-42e7-b0d7-6d859412f205", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ee669aaa-f1f9-437d-b5c7-11bcf43be7eb", 
+            "title": "Sevdam\u0131 Siyah G\u00f6zlerinin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/ee669aaa-f1f9-437d-b5c7-11bcf43be7eb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/12b3a060-0450-42e7-b0d7-6d859412f205"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "b1dc745c-ac52-414e-8a1b-42796e9ec531", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 216, 
     "path": "../data/Acemkurdi/12b3a060-0450-42e7-b0d7-6d859412f205.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ee669aaa-f1f9-437d-b5c7-11bcf43be7eb", 
-            "title": "Sevdam\u0131 Siyah G\u00f6zlerinin"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ee669aaa-f1f9-437d-b5c7-11bcf43be7eb"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/12b3a060-0450-42e7-b0d7-6d859412f205"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

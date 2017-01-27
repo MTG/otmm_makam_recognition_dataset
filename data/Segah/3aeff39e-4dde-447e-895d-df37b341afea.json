@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "evsat", 
-            "mb_attribute": "Evsat", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/29caaae6-30d0-48e5-bd4f-957578bdb4c3"
         }, 
         {
-            "attribute_key": "evsat", 
-            "mb_tag": "evsat", 
-            "source": "http://musicbrainz.org/recording/3aeff39e-4dde-447e-895d-df37b341afea"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/29caaae6-30d0-48e5-bd4f-957578bdb4c3"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/3aeff39e-4dde-447e-895d-df37b341afea"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3aeff39e-4dde-447e-895d-df37b341afea", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "29caaae6-30d0-48e5-bd4f-957578bdb4c3", 
+            "title": "Sadr-i C\u00fcmle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/29caaae6-30d0-48e5-bd4f-957578bdb4c3"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/3aeff39e-4dde-447e-895d-df37b341afea"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "19290a9a-c68a-4a48-b3b0-2652e9adfa41", 
@@ -133,10 +126,17 @@
     ], 
     "duration": 265, 
     "path": "../data/Segah/3aeff39e-4dde-447e-895d-df37b341afea.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "29caaae6-30d0-48e5-bd4f-957578bdb4c3", 
-            "title": "Sadr-i C\u00fcmle"
+            "attribute_key": "evsat", 
+            "mb_attribute": "Evsat", 
+            "source": "http://musicbrainz.org/work/29caaae6-30d0-48e5-bd4f-957578bdb4c3"
+        }, 
+        {
+            "attribute_key": "evsat", 
+            "mb_tag": "evsat", 
+            "source": "http://musicbrainz.org/recording/3aeff39e-4dde-447e-895d-df37b341afea"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

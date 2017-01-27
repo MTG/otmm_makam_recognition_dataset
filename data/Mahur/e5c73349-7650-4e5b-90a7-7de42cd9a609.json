@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e5c73349-7650-4e5b-90a7-7de42cd9a609"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "e5c73349-7650-4e5b-90a7-7de42cd9a609", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 89, 
     "path": "../data/Mahur/e5c73349-7650-4e5b-90a7-7de42cd9a609.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e5c73349-7650-4e5b-90a7-7de42cd9a609"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "mahur", 

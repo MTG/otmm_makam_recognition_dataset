@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/dfc16e22-0aae-4bd0-a32c-5c000130e96a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/dfc16e22-0aae-4bd0-a32c-5c000130e96a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "dfc16e22-0aae-4bd0-a32c-5c000130e96a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
+            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/dfc16e22-0aae-4bd0-a32c-5c000130e96a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
@@ -70,10 +63,17 @@
     ], 
     "duration": 154, 
     "path": "../data/Acemkurdi/dfc16e22-0aae-4bd0-a32c-5c000130e96a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "86c12055-b675-46b6-89a6-4568be1143d5", 
-            "title": "Sevdi G\u00f6nl\u00fcm Ey Melek Sima Seni"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/86c12055-b675-46b6-89a6-4568be1143d5"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/dfc16e22-0aae-4bd0-a32c-5c000130e96a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

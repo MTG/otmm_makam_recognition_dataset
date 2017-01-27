@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e5a93ab8-a877-4d24-8e22-4f1e99514369"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/e2ee2a84-5391-4eca-94bd-f10afcdffd58"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/e5a93ab8-a877-4d24-8e22-4f1e99514369"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e2ee2a84-5391-4eca-94bd-f10afcdffd58"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Seda G\u00fclbeyaz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e2ee2a84-5391-4eca-94bd-f10afcdffd58", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e5a93ab8-a877-4d24-8e22-4f1e99514369", 
+            "title": "Hep A\u011flatt\u0131 Beni Kaderim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/e5a93ab8-a877-4d24-8e22-4f1e99514369"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/e2ee2a84-5391-4eca-94bd-f10afcdffd58"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Nihavent/e2ee2a84-5391-4eca-94bd-f10afcdffd58.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5a93ab8-a877-4d24-8e22-4f1e99514369", 
-            "title": "Hep A\u011flatt\u0131 Beni Kaderim"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/e5a93ab8-a877-4d24-8e22-4f1e99514369"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/e2ee2a84-5391-4eca-94bd-f10afcdffd58"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

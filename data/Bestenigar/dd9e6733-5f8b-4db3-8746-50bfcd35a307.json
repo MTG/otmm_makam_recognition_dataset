@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Dar\u00fcttalim-i Musiki Heyeti"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "dd9e6733-5f8b-4db3-8746-50bfcd35a307", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
+            "title": "Ka\u00e7ma Mecburundan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
@@ -99,10 +92,17 @@
     ], 
     "duration": 185, 
     "path": "../data/Bestenigar/dd9e6733-5f8b-4db3-8746-50bfcd35a307.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
-            "title": "Ka\u00e7ma Mecburundan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/dd9e6733-5f8b-4db3-8746-50bfcd35a307"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/64c31df3-a716-4afb-b5b9-6292c9cb282d"
         }, 
         {
-            "attribute_key": "fahte", 
-            "mb_tag": "fahte", 
-            "source": "http://musicbrainz.org/recording/d8abb75f-2e40-4a98-a095-5020a749eabd"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/64c31df3-a716-4afb-b5b9-6292c9cb282d"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/d8abb75f-2e40-4a98-a095-5020a749eabd"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "d8abb75f-2e40-4a98-a095-5020a749eabd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "64c31df3-a716-4afb-b5b9-6292c9cb282d", 
+            "title": "\u0130ntizar-\u0131 Makdeminle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/64c31df3-a716-4afb-b5b9-6292c9cb282d"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/d8abb75f-2e40-4a98-a095-5020a749eabd"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 357, 
     "path": "../data/Acemkurdi/d8abb75f-2e40-4a98-a095-5020a749eabd.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "64c31df3-a716-4afb-b5b9-6292c9cb282d", 
-            "title": "\u0130ntizar-\u0131 Makdeminle"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/64c31df3-a716-4afb-b5b9-6292c9cb282d"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_tag": "fahte", 
+            "source": "http://musicbrainz.org/recording/d8abb75f-2e40-4a98-a095-5020a749eabd"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

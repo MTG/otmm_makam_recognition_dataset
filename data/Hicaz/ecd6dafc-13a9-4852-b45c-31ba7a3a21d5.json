@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "kalenderi", 
+            "mb_attribute": "Kalenderi", 
             "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "kalenderi", 
+            "mb_tag": "kalenderi", 
             "source": "http://musicbrainz.org/recording/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "ecd6dafc-13a9-4852-b45c-31ba7a3a21d5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kalenderi", 
-            "mb_attribute": "Kalenderi", 
+            "mbid": "011a31dc-a768-45db-b362-72928942c86e", 
+            "title": "Ebrulerinin Zahm-i Nihand\u0131r Ci\u011ferimde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
         }, 
         {
-            "attribute_key": "kalenderi", 
-            "mb_tag": "kalenderi", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 218, 
     "path": "../data/Hicaz/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "011a31dc-a768-45db-b362-72928942c86e", 
-            "title": "Ebrulerinin Zahm-i Nihand\u0131r Ci\u011ferimde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/011a31dc-a768-45db-b362-72928942c86e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/ecd6dafc-13a9-4852-b45c-31ba7a3a21d5"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

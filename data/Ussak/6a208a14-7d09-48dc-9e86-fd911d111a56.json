@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6a208a14-7d09-48dc-9e86-fd911d111a56"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kudsi Erg\u00fcner Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "6a208a14-7d09-48dc-9e86-fd911d111a56", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 198, 
     "path": "../data/Ussak/6a208a14-7d09-48dc-9e86-fd911d111a56.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/6a208a14-7d09-48dc-9e86-fd911d111a56"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "ussak", 

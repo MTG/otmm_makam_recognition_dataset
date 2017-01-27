@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Serhat Sarpel"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "1ff4b31b-91bc-48d0-a184-6666f443a010", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "256efd9c-8c81-4065-9968-f760a5742dd7", 
+            "title": "Da\u011fda Tav\u015fanlar Geziyor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "9e96870c-5143-40cd-8e8b-c48995976346", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 137, 
     "path": "../data/Karcigar/1ff4b31b-91bc-48d0-a184-6666f443a010.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "256efd9c-8c81-4065-9968-f760a5742dd7", 
-            "title": "Da\u011fda Tav\u015fanlar Geziyor"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/256efd9c-8c81-4065-9968-f760a5742dd7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/1ff4b31b-91bc-48d0-a184-6666f443a010"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

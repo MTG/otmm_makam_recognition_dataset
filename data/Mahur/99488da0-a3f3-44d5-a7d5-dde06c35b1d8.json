@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/4263f6b7-e31b-48a0-aa75-7eadfa2d37f8"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/99488da0-a3f3-44d5-a7d5-dde06c35b1d8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/4263f6b7-e31b-48a0-aa75-7eadfa2d37f8"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/99488da0-a3f3-44d5-a7d5-dde06c35b1d8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "99488da0-a3f3-44d5-a7d5-dde06c35b1d8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "4263f6b7-e31b-48a0-aa75-7eadfa2d37f8", 
+            "title": "Esir Ettin Beni"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/4263f6b7-e31b-48a0-aa75-7eadfa2d37f8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/99488da0-a3f3-44d5-a7d5-dde06c35b1d8"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -280,10 +273,17 @@
     ], 
     "duration": 216, 
     "path": "../data/Mahur/99488da0-a3f3-44d5-a7d5-dde06c35b1d8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4263f6b7-e31b-48a0-aa75-7eadfa2d37f8", 
-            "title": "Esir Ettin Beni"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/4263f6b7-e31b-48a0-aa75-7eadfa2d37f8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/99488da0-a3f3-44d5-a7d5-dde06c35b1d8"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

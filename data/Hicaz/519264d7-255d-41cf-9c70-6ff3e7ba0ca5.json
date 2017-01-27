@@ -1,69 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrituran_ii", 
-            "mb_attribute": "Devr-i Turan II", 
-            "source": "http://musicbrainz.org/work/c87828ef-eba6-46da-89d5-544304ccdc68"
-        }, 
-        {
-            "attribute_key": "devrituran_ii", 
-            "mb_tag": "devr-i turan", 
-            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/c87828ef-eba6-46da-89d5-544304ccdc68"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
-            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
-            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
-            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
-            "title": "Mesut Cemil"
-        }, 
-        {
-            "mbid": "64f1a9db-c999-4564-951e-6bb181b7f75b", 
-            "title": "Mesut Cemil (1902-1963) Volume 1"
-        }
-    ], 
-    "title": "Hicaz Taksim, Hicaz Mandra", 
-    "url": "http://musicbrainz.org/work/519264d7-255d-41cf-9c70-6ff3e7ba0ca5", 
-    "artist_credits": [
-        {
-            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
-            "name": "Mesut Cemil Bey"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
-    "mbid": "519264d7-255d-41cf-9c70-6ff3e7ba0ca5", 
+    "instrumentation_voicing": "solo instrumental", 
     "form": [
         {
             "attribute_key": "mandra", 
@@ -91,7 +27,54 @@
             "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
         }
     ], 
-    "bit_rate": 160, 
+    "releases": [
+        {
+            "mbid": "50eca73e-ab0b-4fd5-bba2-d8e888664e0b", 
+            "title": "Mesut Cemil"
+        }, 
+        {
+            "mbid": "64f1a9db-c999-4564-951e-6bb181b7f75b", 
+            "title": "Mesut Cemil (1902-1963) Volume 1"
+        }
+    ], 
+    "title": "Hicaz Taksim, Hicaz Mandra", 
+    "url": "http://musicbrainz.org/work/519264d7-255d-41cf-9c70-6ff3e7ba0ca5", 
+    "artist_credits": [
+        {
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey"
+        }
+    ], 
+    "mbid": "519264d7-255d-41cf-9c70-6ff3e7ba0ca5", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "c87828ef-eba6-46da-89d5-544304ccdc68", 
+            "title": "Hicaz Mandra"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
+            "source": "http://musicbrainz.org/work/c87828ef-eba6-46da-89d5-544304ccdc68"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
+        }, 
+        {
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
+            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
+        }
+    ], 
     "artists": [
         {
             "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
@@ -104,10 +87,27 @@
     ], 
     "duration": 128, 
     "path": "../data/Hicaz/519264d7-255d-41cf-9c70-6ff3e7ba0ca5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c87828ef-eba6-46da-89d5-544304ccdc68", 
-            "title": "Hicaz Mandra"
+            "attribute_key": "devrituran_ii", 
+            "mb_attribute": "Devr-i Turan II", 
+            "source": "http://musicbrainz.org/work/c87828ef-eba6-46da-89d5-544304ccdc68"
+        }, 
+        {
+            "attribute_key": "devrituran_ii", 
+            "mb_tag": "devr-i turan", 
+            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/519264d7-255d-41cf-9c70-6ff3e7ba0ca5"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

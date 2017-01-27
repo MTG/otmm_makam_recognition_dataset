@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ecfece94-a457-4121-a9c9-6a9ee88097f6"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/7bd4f570-d13e-48f2-9f92-06fc63e0f9bc"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/ecfece94-a457-4121-a9c9-6a9ee88097f6"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/7bd4f570-d13e-48f2-9f92-06fc63e0f9bc"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "7bd4f570-d13e-48f2-9f92-06fc63e0f9bc", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ecfece94-a457-4121-a9c9-6a9ee88097f6", 
+            "title": "Menek\u015felendi Sular"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/ecfece94-a457-4121-a9c9-6a9ee88097f6"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/7bd4f570-d13e-48f2-9f92-06fc63e0f9bc"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 359, 
     "path": "../data/Nihavent/7bd4f570-d13e-48f2-9f92-06fc63e0f9bc.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ecfece94-a457-4121-a9c9-6a9ee88097f6", 
-            "title": "Menek\u015felendi Sular"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/ecfece94-a457-4121-a9c9-6a9ee88097f6"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/7bd4f570-d13e-48f2-9f92-06fc63e0f9bc"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

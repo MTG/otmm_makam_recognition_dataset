@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "tesbih", 
+            "mb_attribute": "Tesbih", 
             "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "tesbih", 
+            "mb_tag": "tesbih", 
             "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "97ba3020-29f7-4bae-aaf4-eb03752e289d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tesbih", 
-            "mb_attribute": "Tesbih", 
+            "mbid": "2858830d-3333-4d43-8ae7-ce282d31a1c3", 
+            "title": "Ya Allah Ya Rahman"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
         }, 
         {
-            "attribute_key": "tesbih", 
-            "mb_tag": "tesbih", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "039679c2-d725-4105-90f4-91b568fec6e9", 
@@ -263,10 +256,17 @@
     ], 
     "duration": 318, 
     "path": "../data/Saba/97ba3020-29f7-4bae-aaf4-eb03752e289d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2858830d-3333-4d43-8ae7-ce282d31a1c3", 
-            "title": "Ya Allah Ya Rahman"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2858830d-3333-4d43-8ae7-ce282d31a1c3"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/97ba3020-29f7-4bae-aaf4-eb03752e289d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

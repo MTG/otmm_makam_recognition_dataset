@@ -1,30 +1,19 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
         }, 
         {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "taksim", 
+            "mb_tag": "taksim", 
             "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
         }
     ], 
@@ -46,27 +35,26 @@
             "name": "Necdet Ya\u015far"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "f088f793-d53f-490b-abc0-49890520d9ce", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
-            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
-        }, 
-        {
-            "attribute_key": "taksim", 
-            "mb_tag": "taksim", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
@@ -87,10 +75,22 @@
     ], 
     "duration": 464, 
     "path": "../data/Neva/f088f793-d53f-490b-abc0-49890520d9ce.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f088f793-d53f-490b-abc0-49890520d9ce"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

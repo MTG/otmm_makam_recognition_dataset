@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "254ea8b1-3924-4ef2-b799-544fc062b7e6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "cde88fcc-0cb1-454e-b94a-6f784c688eb5", 
+            "title": "Hal-i Siyah\u0131 Gerden-i Nazik Terindedir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 273, 
     "path": "../data/Muhayyer/254ea8b1-3924-4ef2-b799-544fc062b7e6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cde88fcc-0cb1-454e-b94a-6f784c688eb5", 
-            "title": "Hal-i Siyah\u0131 Gerden-i Nazik Terindedir"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/cde88fcc-0cb1-454e-b94a-6f784c688eb5"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/254ea8b1-3924-4ef2-b799-544fc062b7e6"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

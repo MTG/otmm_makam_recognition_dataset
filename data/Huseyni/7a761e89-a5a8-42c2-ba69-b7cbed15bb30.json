@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Hulusi Babal\u0131k"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "7a761e89-a5a8-42c2-ba69-b7cbed15bb30", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "53b4d534-9bd1-440c-a58a-a2ae11731b23", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 266, 
     "path": "../data/Huseyni/7a761e89-a5a8-42c2-ba69-b7cbed15bb30.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "53b4d534-9bd1-440c-a58a-a2ae11731b23", 
-            "title": "H\u00fcseyni Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/53b4d534-9bd1-440c-a58a-a2ae11731b23"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/7a761e89-a5a8-42c2-ba69-b7cbed15bb30"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

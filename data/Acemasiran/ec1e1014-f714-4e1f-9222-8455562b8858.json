@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ec1e1014-f714-4e1f-9222-8455562b8858", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d8f70cd1-ea9a-4ec3-bb38-40335d222d7f", 
+            "title": "Yand\u0131 Dil A\u015fk\u0131na Ey \u015euh-i \u015eenim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 233, 
     "path": "../data/Acemasiran/ec1e1014-f714-4e1f-9222-8455562b8858.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d8f70cd1-ea9a-4ec3-bb38-40335d222d7f", 
-            "title": "Yand\u0131 Dil A\u015fk\u0131na Ey \u015euh-i \u015eenim"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/d8f70cd1-ea9a-4ec3-bb38-40335d222d7f"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/ec1e1014-f714-4e1f-9222-8455562b8858"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

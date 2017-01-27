@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "darbifetih", 
-            "mb_attribute": "Darb-\u0131 Fetih", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
         }, 
         {
-            "attribute_key": "darbifetih", 
-            "mb_tag": "darb-\u0131 fetih", 
-            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Anatolia"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "10e4566b-b291-484b-b544-ebdc87621bcf", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "98e04d11-0dee-4aab-a39a-50928158eb59", 
+            "title": "Gamzen Ki Ola Saki"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "187c8edf-7924-47c9-9503-ba1ff3e17aa1", 
@@ -110,10 +103,17 @@
     ], 
     "duration": 274, 
     "path": "../data/Bestenigar/10e4566b-b291-484b-b544-ebdc87621bcf.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "98e04d11-0dee-4aab-a39a-50928158eb59", 
-            "title": "Gamzen Ki Ola Saki"
+            "attribute_key": "darbifetih", 
+            "mb_attribute": "Darb-\u0131 Fetih", 
+            "source": "http://musicbrainz.org/work/98e04d11-0dee-4aab-a39a-50928158eb59"
+        }, 
+        {
+            "attribute_key": "darbifetih", 
+            "mb_tag": "darb-\u0131 fetih", 
+            "source": "http://musicbrainz.org/recording/10e4566b-b291-484b-b544-ebdc87621bcf"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "darbeyn", 
-            "mb_attribute": "Darbeyn", 
+            "attribute_key": "murabba", 
+            "mb_attribute": "Murabba", 
             "source": "http://musicbrainz.org/work/3770a12c-c251-4f3c-89de-1cce62287e81"
         }, 
         {
-            "attribute_key": "darbeyn", 
-            "mb_tag": "darbeyn", 
-            "source": "http://musicbrainz.org/recording/1eda9722-cf12-4a2c-992a-852c7844abe7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/3770a12c-c251-4f3c-89de-1cce62287e81"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "beste_murabba", 
+            "mb_tag": "beste-murabba", 
             "source": "http://musicbrainz.org/recording/1eda9722-cf12-4a2c-992a-852c7844abe7"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "1eda9722-cf12-4a2c-992a-852c7844abe7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "murabba", 
-            "mb_attribute": "Murabba", 
+            "mbid": "3770a12c-c251-4f3c-89de-1cce62287e81", 
+            "title": "M\u00fc\u015ftak-i Cemalin Gece G\u00fcnd\u00fcz"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/3770a12c-c251-4f3c-89de-1cce62287e81"
         }, 
         {
-            "attribute_key": "beste_murabba", 
-            "mb_tag": "beste-murabba", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/1eda9722-cf12-4a2c-992a-852c7844abe7"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 351, 
     "path": "../data/Suzinak/1eda9722-cf12-4a2c-992a-852c7844abe7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3770a12c-c251-4f3c-89de-1cce62287e81", 
-            "title": "M\u00fc\u015ftak-i Cemalin Gece G\u00fcnd\u00fcz"
+            "attribute_key": "darbeyn", 
+            "mb_attribute": "Darbeyn", 
+            "source": "http://musicbrainz.org/work/3770a12c-c251-4f3c-89de-1cce62287e81"
+        }, 
+        {
+            "attribute_key": "darbeyn", 
+            "mb_tag": "darbeyn", 
+            "source": "http://musicbrainz.org/recording/1eda9722-cf12-4a2c-992a-852c7844abe7"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/bf93314a-8209-4417-9f56-2a357472af0b"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/56fb5cf8-2337-4489-8906-0913f0b6b0a3"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/bf93314a-8209-4417-9f56-2a357472af0b"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/56fb5cf8-2337-4489-8906-0913f0b6b0a3"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Radife Erten"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "56fb5cf8-2337-4489-8906-0913f0b6b0a3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "bf93314a-8209-4417-9f56-2a357472af0b", 
+            "title": "Rast Geldim \u0130ki C\u00e2ne"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/bf93314a-8209-4417-9f56-2a357472af0b"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/56fb5cf8-2337-4489-8906-0913f0b6b0a3"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 180, 
     "path": "../data/Acemasiran/56fb5cf8-2337-4489-8906-0913f0b6b0a3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bf93314a-8209-4417-9f56-2a357472af0b", 
-            "title": "Rast Geldim \u0130ki C\u00e2ne"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/bf93314a-8209-4417-9f56-2a357472af0b"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/56fb5cf8-2337-4489-8906-0913f0b6b0a3"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

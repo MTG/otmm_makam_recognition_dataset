@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/b0633fcb-823c-4c16-9a30-d0c3accdcccc"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/b0633fcb-823c-4c16-9a30-d0c3accdcccc"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "b0633fcb-823c-4c16-9a30-d0c3accdcccc", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e0571832-f8df-4192-b1cc-a655c5c782d7", 
+            "title": "\u00c7ok S\u00fcrmedi Ge\u00e7ti"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/b0633fcb-823c-4c16-9a30-d0c3accdcccc"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 263, 
     "path": "../data/Bestenigar/b0633fcb-823c-4c16-9a30-d0c3accdcccc.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e0571832-f8df-4192-b1cc-a655c5c782d7", 
-            "title": "\u00c7ok S\u00fcrmedi Ge\u00e7ti"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/e0571832-f8df-4192-b1cc-a655c5c782d7"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/b0633fcb-823c-4c16-9a30-d0c3accdcccc"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

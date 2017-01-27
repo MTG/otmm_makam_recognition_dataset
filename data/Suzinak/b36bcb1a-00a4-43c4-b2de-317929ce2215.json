@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b36bcb1a-00a4-43c4-b2de-317929ce2215"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 22050, 
     "mbid": "b36bcb1a-00a4-43c4-b2de-317929ce2215", 
+    "sampling_frequency": 22050, 
     "bit_rate": 80, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 91, 
     "path": "../data/Suzinak/b36bcb1a-00a4-43c4-b2de-317929ce2215.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b36bcb1a-00a4-43c4-b2de-317929ce2215"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "suzinak", 

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c459bff0-0572-4a50-bcfb-b49fc06d8c4b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "54bc8afa-0cb2-4790-9a65-8c7213aa3db4", 
+            "title": "Uzun Y\u0131llar Bekledim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 182, 
     "path": "../data/Kurdilihicazkar/c459bff0-0572-4a50-bcfb-b49fc06d8c4b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "54bc8afa-0cb2-4790-9a65-8c7213aa3db4", 
-            "title": "Uzun Y\u0131llar Bekledim"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/54bc8afa-0cb2-4790-9a65-8c7213aa3db4"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/c459bff0-0572-4a50-bcfb-b49fc06d8c4b"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

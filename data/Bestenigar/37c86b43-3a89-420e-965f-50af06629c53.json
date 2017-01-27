@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ayla B\u00fcy\u00fckataman"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "37c86b43-3a89-420e-965f-50af06629c53", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "06dc5d29-9aa6-4dc9-aa09-b25d1720ed69", 
+            "title": "G\u00f6z\u00fcmde \u00d6zleyi\u015f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "d3e36121-7c17-4ba8-bcd0-7929c2baf103", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 211, 
     "path": "../data/Bestenigar/37c86b43-3a89-420e-965f-50af06629c53.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06dc5d29-9aa6-4dc9-aa09-b25d1720ed69", 
-            "title": "G\u00f6z\u00fcmde \u00d6zleyi\u015f"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/06dc5d29-9aa6-4dc9-aa09-b25d1720ed69"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/37c86b43-3a89-420e-965f-50af06629c53"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

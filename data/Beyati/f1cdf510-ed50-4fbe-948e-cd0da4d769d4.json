@@ -1,26 +1,10 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f1cdf510-ed50-4fbe-948e-cd0da4d769d4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
-            "source": "http://musicbrainz.org/recording/f1cdf510-ed50-4fbe-948e-cd0da4d769d4"
         }
     ], 
     "releases": [
@@ -37,17 +21,26 @@
             "name": "Adnan Mungan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "f1cdf510-ed50-4fbe-948e-cd0da4d769d4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
-            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
+            "mbid": "a346442e-7713-4233-b119-6dee53c4e9b8", 
+            "title": "Benzemez Kimse Sana"
         }
     ], 
-    "bit_rate": 128, 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/f1cdf510-ed50-4fbe-948e-cd0da4d769d4"
+        }
+    ], 
     "artists": [
         {
             "mbid": "321fa912-6c30-4b7b-9ba9-9c98d7304d34", 
@@ -57,10 +50,17 @@
     ], 
     "duration": 178, 
     "path": "../data/Beyati/f1cdf510-ed50-4fbe-948e-cd0da4d769d4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a346442e-7713-4233-b119-6dee53c4e9b8", 
-            "title": "Benzemez Kimse Sana"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/a346442e-7713-4233-b119-6dee53c4e9b8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f1cdf510-ed50-4fbe-948e-cd0da4d769d4"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

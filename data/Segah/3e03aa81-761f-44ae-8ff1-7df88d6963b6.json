@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -25,8 +31,8 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "3e03aa81-761f-44ae-8ff1-7df88d6963b6", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -42,13 +48,7 @@
     ], 
     "duration": 209, 
     "path": "../data/Segah/3e03aa81-761f-44ae-8ff1-7df88d6963b6.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3e03aa81-761f-44ae-8ff1-7df88d6963b6"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "makam": [
         {
             "attribute_key": "segah", 

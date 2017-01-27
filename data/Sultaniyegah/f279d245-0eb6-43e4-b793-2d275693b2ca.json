@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/f279d245-0eb6-43e4-b793-2d275693b2ca"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/f279d245-0eb6-43e4-b793-2d275693b2ca"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f279d245-0eb6-43e4-b793-2d275693b2ca", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a", 
+            "title": "\u015ead Eyledi Can \u00fc Dilimi Ruh-i Revan\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/f279d245-0eb6-43e4-b793-2d275693b2ca"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 302, 
     "path": "../data/Sultaniyegah/f279d245-0eb6-43e4-b793-2d275693b2ca.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a", 
-            "title": "\u015ead Eyledi Can \u00fc Dilimi Ruh-i Revan\u0131m"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/e3cb3d21-c9b1-49e9-bc74-4b2d850ed47a"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/f279d245-0eb6-43e4-b793-2d275693b2ca"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

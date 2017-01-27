@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/1f426906-201f-4098-ba98-1592d7e0caf0"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/61b3188f-ef54-447f-b62a-fb0c21dbae61"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/1f426906-201f-4098-ba98-1592d7e0caf0"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/61b3188f-ef54-447f-b62a-fb0c21dbae61"
         }
     ], 
@@ -53,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "61b3188f-ef54-447f-b62a-fb0c21dbae61", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "1f426906-201f-4098-ba98-1592d7e0caf0", 
+            "title": "Meclise Gel"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/1f426906-201f-4098-ba98-1592d7e0caf0"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/61b3188f-ef54-447f-b62a-fb0c21dbae61"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -111,10 +104,17 @@
     ], 
     "duration": 87, 
     "path": "../data/Beyati/61b3188f-ef54-447f-b62a-fb0c21dbae61.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1f426906-201f-4098-ba98-1592d7e0caf0", 
-            "title": "Meclise Gel"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/1f426906-201f-4098-ba98-1592d7e0caf0"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/61b3188f-ef54-447f-b62a-fb0c21dbae61"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

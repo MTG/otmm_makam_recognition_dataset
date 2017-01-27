@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f4646a66-20d8-4299-b137-d4d0b68ddce7"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/54c14369-76ce-41f5-949c-a6c5cf672ba6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak_zirgule", 
-            "mb_attribute": "Suzinak Zirg\u00fcle", 
-            "source": "http://musicbrainz.org/work/f4646a66-20d8-4299-b137-d4d0b68ddce7"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/54c14369-76ce-41f5-949c-a6c5cf672ba6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnip Utand\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "54c14369-76ce-41f5-949c-a6c5cf672ba6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f4646a66-20d8-4299-b137-d4d0b68ddce7", 
+            "title": "Ayr\u0131 D\u00fc\u015ft\u00fcm Sevgilimden"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak_zirgule", 
+            "mb_attribute": "Suzinak Zirg\u00fcle", 
             "source": "http://musicbrainz.org/work/f4646a66-20d8-4299-b137-d4d0b68ddce7"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/54c14369-76ce-41f5-949c-a6c5cf672ba6"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "d4ed02e5-cf5f-49a7-83f3-3711b3f1d77d", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 236, 
     "path": "../data/Suzinak/54c14369-76ce-41f5-949c-a6c5cf672ba6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f4646a66-20d8-4299-b137-d4d0b68ddce7", 
-            "title": "Ayr\u0131 D\u00fc\u015ft\u00fcm Sevgilimden"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/f4646a66-20d8-4299-b137-d4d0b68ddce7"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/54c14369-76ce-41f5-949c-a6c5cf672ba6"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

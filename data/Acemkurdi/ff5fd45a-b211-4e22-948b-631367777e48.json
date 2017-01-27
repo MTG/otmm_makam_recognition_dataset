@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Erkan Dedeo\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "ff5fd45a-b211-4e22-948b-631367777e48", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1bbfb4be-4d64-4fa4-ad0f-71ad0787ba30", 
@@ -214,10 +207,17 @@
     ], 
     "duration": 248, 
     "path": "../data/Acemkurdi/ff5fd45a-b211-4e22-948b-631367777e48.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e5654095-0ec2-4017-a503-ab8ca7dc993e", 
-            "title": "Acemk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e5654095-0ec2-4017-a503-ab8ca7dc993e"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/ff5fd45a-b211-4e22-948b-631367777e48"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

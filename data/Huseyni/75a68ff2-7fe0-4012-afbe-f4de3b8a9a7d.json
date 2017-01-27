@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0aefabe4-8b35-4b0f-bb17-8b8d93fbb772"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/0aefabe4-8b35-4b0f-bb17-8b8d93fbb772"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Filiz \u015eat\u0131ro\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0aefabe4-8b35-4b0f-bb17-8b8d93fbb772", 
+            "title": "Bayg\u0131n Sular\u0131n G\u00f6\u011fs\u00fcne Yaslansam"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/0aefabe4-8b35-4b0f-bb17-8b8d93fbb772"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 254, 
     "path": "../data/Huseyni/75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0aefabe4-8b35-4b0f-bb17-8b8d93fbb772", 
-            "title": "Bayg\u0131n Sular\u0131n G\u00f6\u011fs\u00fcne Yaslansam"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/0aefabe4-8b35-4b0f-bb17-8b8d93fbb772"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

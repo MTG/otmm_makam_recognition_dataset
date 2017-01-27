@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/31c5dad5-4e6f-4090-b342-1b5d45bbabde"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/c71bf38f-96a5-407b-9cfe-2021a1e350f6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/31c5dad5-4e6f-4090-b342-1b5d45bbabde"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c71bf38f-96a5-407b-9cfe-2021a1e350f6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "c71bf38f-96a5-407b-9cfe-2021a1e350f6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "31c5dad5-4e6f-4090-b342-1b5d45bbabde", 
+            "title": "Ben Sana G\u00f6n\u00fcl Vereli Bak Ne Hal Oldum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/31c5dad5-4e6f-4090-b342-1b5d45bbabde"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/c71bf38f-96a5-407b-9cfe-2021a1e350f6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 211, 
     "path": "../data/Hicazkar/c71bf38f-96a5-407b-9cfe-2021a1e350f6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "31c5dad5-4e6f-4090-b342-1b5d45bbabde", 
-            "title": "Ben Sana G\u00f6n\u00fcl Vereli Bak Ne Hal Oldum"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/31c5dad5-4e6f-4090-b342-1b5d45bbabde"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/c71bf38f-96a5-407b-9cfe-2021a1e350f6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

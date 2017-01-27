@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/3652ead2-775a-403f-9ac5-c1eafb1c30b7"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/3652ead2-775a-403f-9ac5-c1eafb1c30b7"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Muzaffer Birtan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "f4a426fb-cf87-4fa4-9ee7-a230f4e7307c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "3652ead2-775a-403f-9ac5-c1eafb1c30b7", 
+            "title": "K\u0131r At\u0131ma Bineyim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/3652ead2-775a-403f-9ac5-c1eafb1c30b7"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "b1dc745c-ac52-414e-8a1b-42796e9ec531", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 180, 
     "path": "../data/Acemkurdi/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3652ead2-775a-403f-9ac5-c1eafb1c30b7", 
-            "title": "K\u0131r At\u0131ma Bineyim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3652ead2-775a-403f-9ac5-c1eafb1c30b7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f4a426fb-cf87-4fa4-9ee7-a230f4e7307c"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

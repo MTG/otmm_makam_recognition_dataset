@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
         }
     ], 
@@ -61,22 +50,26 @@
             "name": "Hasan Esen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "af7ed960-48f2-46bc-99ad-2ba229ef57e9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "418a1421-39de-44c4-8f43-26df51202784", 
+            "title": "Neva Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -130,10 +123,17 @@
     ], 
     "duration": 156, 
     "path": "../data/Neva/af7ed960-48f2-46bc-99ad-2ba229ef57e9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "418a1421-39de-44c4-8f43-26df51202784", 
-            "title": "Neva Pe\u015frev"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/418a1421-39de-44c4-8f43-26df51202784"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/af7ed960-48f2-46bc-99ad-2ba229ef57e9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

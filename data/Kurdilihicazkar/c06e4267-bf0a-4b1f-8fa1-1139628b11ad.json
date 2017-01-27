@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2f1bbd2f-dbcf-4309-be72-7b94ce4d463e"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c06e4267-bf0a-4b1f-8fa1-1139628b11ad"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/2f1bbd2f-dbcf-4309-be72-7b94ce4d463e"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c06e4267-bf0a-4b1f-8fa1-1139628b11ad"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130lhan Yaz\u0131c\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c06e4267-bf0a-4b1f-8fa1-1139628b11ad", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2f1bbd2f-dbcf-4309-be72-7b94ce4d463e", 
+            "title": "Ge\u00e7mesin G\u00fcn\u00fcm\u00fcz"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/2f1bbd2f-dbcf-4309-be72-7b94ce4d463e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/c06e4267-bf0a-4b1f-8fa1-1139628b11ad"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2f4e08c9-169f-4cfc-bf30-0a419ff30c33", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 210, 
     "path": "../data/Kurdilihicazkar/c06e4267-bf0a-4b1f-8fa1-1139628b11ad.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2f1bbd2f-dbcf-4309-be72-7b94ce4d463e", 
-            "title": "Ge\u00e7mesin G\u00fcn\u00fcm\u00fcz"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2f1bbd2f-dbcf-4309-be72-7b94ce4d463e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c06e4267-bf0a-4b1f-8fa1-1139628b11ad"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

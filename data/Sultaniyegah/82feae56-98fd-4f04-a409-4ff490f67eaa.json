@@ -1,30 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
-            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
-        }, 
-        {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/82feae56-98fd-4f04-a409-4ff490f67eaa"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/82feae56-98fd-4f04-a409-4ff490f67eaa"
         }
     ], 
@@ -42,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "82feae56-98fd-4f04-a409-4ff490f67eaa", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "aa2ed854-ff92-47b8-98cf-359b5364220a", 
+            "title": "Bu H\u00fclyalar Diyar\u0131nda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/82feae56-98fd-4f04-a409-4ff490f67eaa"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -72,10 +60,22 @@
     ], 
     "duration": 321, 
     "path": "../data/Sultaniyegah/82feae56-98fd-4f04-a409-4ff490f67eaa.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aa2ed854-ff92-47b8-98cf-359b5364220a", 
-            "title": "Bu H\u00fclyalar Diyar\u0131nda"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/aa2ed854-ff92-47b8-98cf-359b5364220a"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/82feae56-98fd-4f04-a409-4ff490f67eaa"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 22050, 
     "mbid": "7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a", 
+    "sampling_frequency": 22050, 
     "bit_rate": 80, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 119, 
     "path": "../data/Muhayyer/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/7fe3bc44-0c7b-4d5b-937a-3f0f99ce182a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "muhayyer", 

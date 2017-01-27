@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b0604d90-0443-4c93-96b8-29861b1383fd"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kemal Demir"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "b0604d90-0443-4c93-96b8-29861b1383fd", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 86, 
     "path": "../data/Hicazkar/b0604d90-0443-4c93-96b8-29861b1383fd.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b0604d90-0443-4c93-96b8-29861b1383fd"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "hicazkar", 

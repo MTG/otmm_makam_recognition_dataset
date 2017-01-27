@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/78715816-bba8-427f-9574-17b2a9f31519"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
+            "attribute_key": "kasaphavasi", 
+            "mb_attribute": "Kasaphavas\u0131", 
             "source": "http://musicbrainz.org/work/6df7b919-91e0-44e3-9e98-4807a1fa6458"
         }, 
         {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
             "source": "http://musicbrainz.org/recording/78715816-bba8-427f-9574-17b2a9f31519"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "78715816-bba8-427f-9574-17b2a9f31519", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kasaphavasi", 
-            "mb_attribute": "Kasaphavas\u0131", 
+            "mbid": "6df7b919-91e0-44e3-9e98-4807a1fa6458", 
+            "title": "Sak\u0131z Kasap Havas\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/6df7b919-91e0-44e3-9e98-4807a1fa6458"
         }, 
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_tag": "oyunhavas\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/78715816-bba8-427f-9574-17b2a9f31519"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
@@ -174,10 +172,12 @@
     ], 
     "duration": 178, 
     "path": "../data/Suzinak/78715816-bba8-427f-9574-17b2a9f31519.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6df7b919-91e0-44e3-9e98-4807a1fa6458", 
-            "title": "Sak\u0131z Kasap Havas\u0131"
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/78715816-bba8-427f-9574-17b2a9f31519"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

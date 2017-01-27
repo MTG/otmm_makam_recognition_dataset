@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/24e2d3b6-070d-418a-8dac-5cac66976eff"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Vasfi R\u0131za Zobu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "24e2d3b6-070d-418a-8dac-5cac66976eff", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 185, 
     "path": "../data/Hicaz/24e2d3b6-070d-418a-8dac-5cac66976eff.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/24e2d3b6-070d-418a-8dac-5cac66976eff"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "makam": [
         {
             "attribute_key": "hicaz", 

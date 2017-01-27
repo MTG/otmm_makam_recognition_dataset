@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz_uzzal", 
-            "mb_attribute": "Hicaz Uzzal", 
-            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f3234351-a697-487f-8957-5b88de0e5bb4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d691b344-090e-4f4f-af79-84b5afc5e04a", 
+            "title": "Kurdu Meclis A\u015f\u0131kan Meyhanede"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz_uzzal", 
+            "mb_attribute": "Hicaz Uzzal", 
             "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 130, 
     "path": "../data/Hicaz/f3234351-a697-487f-8957-5b88de0e5bb4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d691b344-090e-4f4f-af79-84b5afc5e04a", 
-            "title": "Kurdu Meclis A\u015f\u0131kan Meyhanede"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d691b344-090e-4f4f-af79-84b5afc5e04a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f3234351-a697-487f-8957-5b88de0e5bb4"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

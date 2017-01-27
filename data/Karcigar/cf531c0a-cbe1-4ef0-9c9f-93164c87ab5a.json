@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mediha \u015een Sancako\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "56d661d7-8c83-49f8-bcf0-0e00b60ef291", 
+            "title": "O A\u011fac\u0131n Alt\u0131n\u0131 Anmaz Olur Muyum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 264, 
     "path": "../data/Karcigar/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "56d661d7-8c83-49f8-bcf0-0e00b60ef291", 
-            "title": "O A\u011fac\u0131n Alt\u0131n\u0131 Anmaz Olur Muyum"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/56d661d7-8c83-49f8-bcf0-0e00b60ef291"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/cf531c0a-cbe1-4ef0-9c9f-93164c87ab5a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

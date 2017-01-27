@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/14467e1a-80c7-4351-8a8d-bdaa9a08b8fd"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/023f82a0-fdce-4b89-8e1e-9822e9cc5585"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/14467e1a-80c7-4351-8a8d-bdaa9a08b8fd"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/023f82a0-fdce-4b89-8e1e-9822e9cc5585"
         }
     ], 
@@ -53,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "023f82a0-fdce-4b89-8e1e-9822e9cc5585", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "14467e1a-80c7-4351-8a8d-bdaa9a08b8fd", 
+            "title": "Gaddar Felek"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/14467e1a-80c7-4351-8a8d-bdaa9a08b8fd"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/023f82a0-fdce-4b89-8e1e-9822e9cc5585"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -111,10 +104,17 @@
     ], 
     "duration": 268, 
     "path": "../data/Hicaz/023f82a0-fdce-4b89-8e1e-9822e9cc5585.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "14467e1a-80c7-4351-8a8d-bdaa9a08b8fd", 
-            "title": "Gaddar Felek"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/14467e1a-80c7-4351-8a8d-bdaa9a08b8fd"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/023f82a0-fdce-4b89-8e1e-9822e9cc5585"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

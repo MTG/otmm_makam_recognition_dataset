@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/690808ca-d4b0-4c5c-8ac2-3035489a3596"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Sadettin Kaynak"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "690808ca-d4b0-4c5c-8ac2-3035489a3596", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 237, 
     "path": "../data/Huzzam/690808ca-d4b0-4c5c-8ac2-3035489a3596.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/690808ca-d4b0-4c5c-8ac2-3035489a3596"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "huzzam", 

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/08246c58-0234-47f6-bd84-acca968d2a8a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Ahmet Celal Tokses"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "08246c58-0234-47f6-bd84-acca968d2a8a", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 185, 
     "path": "../data/Kurdilihicazkar/08246c58-0234-47f6-bd84-acca968d2a8a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/08246c58-0234-47f6-bd84-acca968d2a8a"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 

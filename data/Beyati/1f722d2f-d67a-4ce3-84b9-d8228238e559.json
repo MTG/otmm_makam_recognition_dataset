@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/17f6cc3d-cfbc-453c-96c7-83ca534ae713"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/1f722d2f-d67a-4ce3-84b9-d8228238e559"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/17f6cc3d-cfbc-453c-96c7-83ca534ae713"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/1f722d2f-d67a-4ce3-84b9-d8228238e559"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "1f722d2f-d67a-4ce3-84b9-d8228238e559", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "17f6cc3d-cfbc-453c-96c7-83ca534ae713", 
+            "title": "\u00c7\u0131kmaz Derun-i Dilden Efendim Muhabbetin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/17f6cc3d-cfbc-453c-96c7-83ca534ae713"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/1f722d2f-d67a-4ce3-84b9-d8228238e559"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -230,10 +223,17 @@
     ], 
     "duration": 214, 
     "path": "../data/Beyati/1f722d2f-d67a-4ce3-84b9-d8228238e559.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "17f6cc3d-cfbc-453c-96c7-83ca534ae713", 
-            "title": "\u00c7\u0131kmaz Derun-i Dilden Efendim Muhabbetin"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/17f6cc3d-cfbc-453c-96c7-83ca534ae713"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/1f722d2f-d67a-4ce3-84b9-d8228238e559"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

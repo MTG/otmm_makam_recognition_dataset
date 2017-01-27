@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/967020ce-857f-4933-86ee-9aef4cf7000f"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z Memduh"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "967020ce-857f-4933-86ee-9aef4cf7000f", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 205, 
     "path": "../data/Ussak/967020ce-857f-4933-86ee-9aef4cf7000f.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/967020ce-857f-4933-86ee-9aef4cf7000f"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "ussak", 

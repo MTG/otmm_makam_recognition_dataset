@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ec0a94f8-42f0-416c-9b36-5eceeadffae2"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Udi Hrant Kenkulian"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "ec0a94f8-42f0-416c-9b36-5eceeadffae2", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 213, 
     "path": "../data/Kurdilihicazkar/ec0a94f8-42f0-416c-9b36-5eceeadffae2.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ec0a94f8-42f0-416c-9b36-5eceeadffae2"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 

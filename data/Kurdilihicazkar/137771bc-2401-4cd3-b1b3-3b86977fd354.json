@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/137771bc-2401-4cd3-b1b3-3b86977fd354"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/137771bc-2401-4cd3-b1b3-3b86977fd354"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Oya \u0130\u015fbo\u011fa"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "137771bc-2401-4cd3-b1b3-3b86977fd354", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/137771bc-2401-4cd3-b1b3-3b86977fd354"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
@@ -105,10 +98,17 @@
     ], 
     "duration": 292, 
     "path": "../data/Kurdilihicazkar/137771bc-2401-4cd3-b1b3-3b86977fd354.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
-            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/137771bc-2401-4cd3-b1b3-3b86977fd354"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

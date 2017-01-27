@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
+            "attribute_key": "tesbih", 
+            "mb_attribute": "Tesbih", 
             "source": "http://musicbrainz.org/work/64f18042-48fc-4089-8fe2-2e81b7746e28"
         }, 
         {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "tesbih", 
+            "mb_tag": "tesbih", 
             "source": "http://musicbrainz.org/recording/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Kani Karaca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tesbih", 
-            "mb_attribute": "Tesbih", 
+            "mbid": "64f18042-48fc-4089-8fe2-2e81b7746e28", 
+            "title": "Neva Tesbih"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/64f18042-48fc-4089-8fe2-2e81b7746e28"
         }, 
         {
-            "attribute_key": "tesbih", 
-            "mb_tag": "tesbih", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
@@ -54,10 +58,6 @@
     ], 
     "duration": 124, 
     "path": "../data/Neva/2cbe9b0c-7618-4ef5-b9c7-8f1a276ae1a0.mp3", 
-    "works": [
-        {
-            "mbid": "64f18042-48fc-4089-8fe2-2e81b7746e28", 
-            "title": "Neva Tesbih"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 160
 }

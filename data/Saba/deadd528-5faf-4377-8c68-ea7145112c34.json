@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "deadd528-5faf-4377-8c68-ea7145112c34", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "787629e4-ab70-4223-a599-d14a8a8e89ed", 
+            "title": "Gelin Ey A\u015f\u0131klar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -69,10 +62,17 @@
     ], 
     "duration": 343, 
     "path": "../data/Saba/deadd528-5faf-4377-8c68-ea7145112c34.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "787629e4-ab70-4223-a599-d14a8a8e89ed", 
-            "title": "Gelin Ey A\u015f\u0131klar"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/787629e4-ab70-4223-a599-d14a8a8e89ed"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/deadd528-5faf-4377-8c68-ea7145112c34"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

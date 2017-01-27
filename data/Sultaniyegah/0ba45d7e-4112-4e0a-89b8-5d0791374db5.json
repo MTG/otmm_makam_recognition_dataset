@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "zencir", 
-            "mb_attribute": "Zencir", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
         }, 
         {
-            "attribute_key": "zencir", 
-            "mb_tag": "zencir", 
-            "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "0ba45d7e-4112-4e0a-89b8-5d0791374db5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "3122c992-e159-46a3-b0b2-57005dd76a80", 
+            "title": "Misalini Ne Zemin \u00fc Zaman G\u00f6rm\u00fc\u015ft\u00fcr"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 175, 
     "path": "../data/Sultaniyegah/0ba45d7e-4112-4e0a-89b8-5d0791374db5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3122c992-e159-46a3-b0b2-57005dd76a80", 
-            "title": "Misalini Ne Zemin \u00fc Zaman G\u00f6rm\u00fc\u015ft\u00fcr"
+            "attribute_key": "zencir", 
+            "mb_attribute": "Zencir", 
+            "source": "http://musicbrainz.org/work/3122c992-e159-46a3-b0b2-57005dd76a80"
+        }, 
+        {
+            "attribute_key": "zencir", 
+            "mb_tag": "zencir", 
+            "source": "http://musicbrainz.org/recording/0ba45d7e-4112-4e0a-89b8-5d0791374db5"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

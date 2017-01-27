@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "trio instrumental", 
+    "form": [
         {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/ce39ab0b-069c-4cd2-9da4-cd78be083a77"
         }, 
         {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/ad25235c-895d-4b5a-a8cc-cb461a41e092"
         }
     ], 
@@ -38,22 +38,26 @@
             "name": "U\u011fur I\u015f\u0131k"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Trio instrumental", 
     "mbid": "ad25235c-895d-4b5a-a8cc-cb461a41e092", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "ce39ab0b-069c-4cd2-9da4-cd78be083a77", 
+            "title": "Nihavent Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/ce39ab0b-069c-4cd2-9da4-cd78be083a77"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/ad25235c-895d-4b5a-a8cc-cb461a41e092"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "59d8bee3-a751-4849-9f1f-42e9f343baf1", 
@@ -82,10 +86,6 @@
     ], 
     "duration": 229, 
     "path": "../data/Nihavent/ad25235c-895d-4b5a-a8cc-cb461a41e092.mp3", 
-    "works": [
-        {
-            "mbid": "ce39ab0b-069c-4cd2-9da4-cd78be083a77", 
-            "title": "Nihavent Pe\u015frev"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

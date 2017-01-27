@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Safiye Ayla"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0b45417b-acb4-4f8a-b180-5ad45be889af", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "139beb14-cfc7-4409-a37c-bba1571aa555", 
+            "title": "Bu Ak\u015fam Ay I\u015f\u0131\u011f\u0131nda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 171, 
     "path": "../data/Saba/0b45417b-acb4-4f8a-b180-5ad45be889af.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "139beb14-cfc7-4409-a37c-bba1571aa555", 
-            "title": "Bu Ak\u015fam Ay I\u015f\u0131\u011f\u0131nda"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/139beb14-cfc7-4409-a37c-bba1571aa555"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0b45417b-acb4-4f8a-b180-5ad45be889af"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

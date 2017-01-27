@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "8e563b52-2c02-4aa6-9af2-b4742c4c2e4e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 169, 
     "path": "../data/Hicaz/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/8e563b52-2c02-4aa6-9af2-b4742c4c2e4e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "hicaz", 

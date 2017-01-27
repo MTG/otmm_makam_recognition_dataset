@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/3c5848b4-4db3-48d9-a6e2-648c644a61f8"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/11ca8c5a-2cb6-4224-bb69-7841b2311e91"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/3c5848b4-4db3-48d9-a6e2-648c644a61f8"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/11ca8c5a-2cb6-4224-bb69-7841b2311e91"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u00c7a\u011flar K\u0131r\u00f6mero\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "11ca8c5a-2cb6-4224-bb69-7841b2311e91", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "3c5848b4-4db3-48d9-a6e2-648c644a61f8", 
+            "title": "Ehli A\u015fk\u0131n Dilinden Haberdar Olmayan Bilmez"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/3c5848b4-4db3-48d9-a6e2-648c644a61f8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/11ca8c5a-2cb6-4224-bb69-7841b2311e91"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -161,10 +154,17 @@
     ], 
     "duration": 169, 
     "path": "../data/Kurdilihicazkar/11ca8c5a-2cb6-4224-bb69-7841b2311e91.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3c5848b4-4db3-48d9-a6e2-648c644a61f8", 
-            "title": "Ehli A\u015fk\u0131n Dilinden Haberdar Olmayan Bilmez"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3c5848b4-4db3-48d9-a6e2-648c644a61f8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/11ca8c5a-2cb6-4224-bb69-7841b2311e91"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
-            "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
         }
     ], 
@@ -27,17 +21,21 @@
             "name": "Adnan \u00c7oban"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "67f293e2-11a4-4d91-a3d4-a8f89ca01ba4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "db89f129-32c8-4063-bb58-f90a4defc36a", 
+            "title": "Sevdice\u011fim A\u015f\u0131k\u0131n\u0131 A\u011flat\u0131r"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -114,10 +112,12 @@
     ], 
     "duration": 158, 
     "path": "../data/Muhayyer/67f293e2-11a4-4d91-a3d4-a8f89ca01ba4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "db89f129-32c8-4063-bb58-f90a4defc36a", 
-            "title": "Sevdice\u011fim A\u015f\u0131k\u0131n\u0131 A\u011flat\u0131r"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/db89f129-32c8-4063-bb58-f90a4defc36a"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

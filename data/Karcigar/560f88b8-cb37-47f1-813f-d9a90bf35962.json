@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/560f88b8-cb37-47f1-813f-d9a90bf35962"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/560f88b8-cb37-47f1-813f-d9a90bf35962"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "560f88b8-cb37-47f1-813f-d9a90bf35962", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "9a56af56-d465-4de9-aceb-9e6b36b05efc", 
+            "title": "Bikes \u00fc Bi\u00e7areyim Ah A\u011flar\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/560f88b8-cb37-47f1-813f-d9a90bf35962"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 150, 
     "path": "../data/Karcigar/560f88b8-cb37-47f1-813f-d9a90bf35962.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9a56af56-d465-4de9-aceb-9e6b36b05efc", 
-            "title": "Bikes \u00fc Bi\u00e7areyim Ah A\u011flar\u0131m"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/9a56af56-d465-4de9-aceb-9e6b36b05efc"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/560f88b8-cb37-47f1-813f-d9a90bf35962"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

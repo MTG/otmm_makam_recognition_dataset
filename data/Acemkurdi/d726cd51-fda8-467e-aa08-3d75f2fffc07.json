@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/d726cd51-fda8-467e-aa08-3d75f2fffc07"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/d726cd51-fda8-467e-aa08-3d75f2fffc07"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sabite Tur G\u00fclerman"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "d726cd51-fda8-467e-aa08-3d75f2fffc07", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
+            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/d726cd51-fda8-467e-aa08-3d75f2fffc07"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "7658e063-7f0b-43f5-bd55-fed92515ae6e", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 343, 
     "path": "../data/Acemkurdi/d726cd51-fda8-467e-aa08-3d75f2fffc07.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b0396179-53a8-4ab2-b07e-5c08e5dbcb0b", 
-            "title": "S\u00f6yleyin Nerde O G\u00f6z Nuru G\u00f6n\u00fcl Sevgisi Yar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/b0396179-53a8-4ab2-b07e-5c08e5dbcb0b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/d726cd51-fda8-467e-aa08-3d75f2fffc07"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

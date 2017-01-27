@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "cbcf2d1c-8371-4a57-8893-a1958ed001d3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "580aa88c-f6f5-4dae-af5c-3c036fa85b3e", 
+            "title": "Demirciler Demir D\u00f6ver Tun\u00e7 Olur"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "0bf88572-db68-4b2c-9a24-45e8cd0279f4", 
@@ -158,10 +151,17 @@
     ], 
     "duration": 239, 
     "path": "../data/Huseyni/cbcf2d1c-8371-4a57-8893-a1958ed001d3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "580aa88c-f6f5-4dae-af5c-3c036fa85b3e", 
-            "title": "Demirciler Demir D\u00f6ver Tun\u00e7 Olur"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/580aa88c-f6f5-4dae-af5c-3c036fa85b3e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/cbcf2d1c-8371-4a57-8893-a1958ed001d3"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

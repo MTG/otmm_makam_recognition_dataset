@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "berefsan", 
-            "mb_attribute": "Beref\u015fan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/bdd00620-607e-4502-8b37-685d6da5580c"
         }, 
         {
-            "attribute_key": "berefsan", 
-            "mb_tag": "beref\u015fan", 
-            "source": "http://musicbrainz.org/recording/4a2c7b38-a122-4051-85f8-c9b83ee05767"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/bdd00620-607e-4502-8b37-685d6da5580c"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4a2c7b38-a122-4051-85f8-c9b83ee05767"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "4a2c7b38-a122-4051-85f8-c9b83ee05767", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "bdd00620-607e-4502-8b37-685d6da5580c", 
+            "title": "Ate\u015f-i A\u015fk\u0131nla"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/bdd00620-607e-4502-8b37-685d6da5580c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/4a2c7b38-a122-4051-85f8-c9b83ee05767"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 482, 
     "path": "../data/Acemkurdi/4a2c7b38-a122-4051-85f8-c9b83ee05767.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bdd00620-607e-4502-8b37-685d6da5580c", 
-            "title": "Ate\u015f-i A\u015fk\u0131nla"
+            "attribute_key": "berefsan", 
+            "mb_attribute": "Beref\u015fan", 
+            "source": "http://musicbrainz.org/work/bdd00620-607e-4502-8b37-685d6da5580c"
+        }, 
+        {
+            "attribute_key": "berefsan", 
+            "mb_tag": "beref\u015fan", 
+            "source": "http://musicbrainz.org/recording/4a2c7b38-a122-4051-85f8-c9b83ee05767"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "a8bbb2db-6685-47ae-8e8e-a853ea12760f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "89298a3f-7789-4183-b24b-8d36ee25f36d", 
+            "title": "Mahrum-i \u015eevkim, Ruhum P\u00fcr-ahzan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -80,10 +73,17 @@
     ], 
     "duration": 257, 
     "path": "../data/Kurdilihicazkar/a8bbb2db-6685-47ae-8e8e-a853ea12760f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "89298a3f-7789-4183-b24b-8d36ee25f36d", 
-            "title": "Mahrum-i \u015eevkim, Ruhum P\u00fcr-ahzan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/89298a3f-7789-4183-b24b-8d36ee25f36d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a8bbb2db-6685-47ae-8e8e-a853ea12760f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

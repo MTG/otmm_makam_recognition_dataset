@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
             "source": "http://musicbrainz.org/work/f179364f-a5a3-4311-a372-1653fa028e6d"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/5bd0700b-d34f-4443-9e87-202870b0494f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/f179364f-a5a3-4311-a372-1653fa028e6d"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
             "source": "http://musicbrainz.org/recording/5bd0700b-d34f-4443-9e87-202870b0494f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "5bd0700b-d34f-4443-9e87-202870b0494f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sirto", 
-            "mb_attribute": "Sirto", 
+            "mbid": "f179364f-a5a3-4311-a372-1653fa028e6d", 
+            "title": "Hicazk\u00e2r Sirto"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/f179364f-a5a3-4311-a372-1653fa028e6d"
         }, 
         {
-            "attribute_key": "sirto", 
-            "mb_tag": "sirto", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/5bd0700b-d34f-4443-9e87-202870b0494f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
@@ -113,10 +106,17 @@
     ], 
     "duration": 194, 
     "path": "../data/Hicazkar/5bd0700b-d34f-4443-9e87-202870b0494f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f179364f-a5a3-4311-a372-1653fa028e6d", 
-            "title": "Hicazk\u00e2r Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/f179364f-a5a3-4311-a372-1653fa028e6d"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/5bd0700b-d34f-4443-9e87-202870b0494f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
             "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
         }, 
         {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
             "source": "http://musicbrainz.org/recording/aebdad66-019e-49a8-8a4d-d1ba5dc19be8"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Emirgan Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "aebdad66-019e-49a8-8a4d-d1ba5dc19be8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sirto", 
-            "mb_attribute": "Sirto", 
+            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
+            "title": "Rast Sirto"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
         }, 
         {
-            "attribute_key": "sirto", 
-            "mb_tag": "sirto", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/aebdad66-019e-49a8-8a4d-d1ba5dc19be8"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -100,10 +98,12 @@
     ], 
     "duration": 217, 
     "path": "../data/Rast/aebdad66-019e-49a8-8a4d-d1ba5dc19be8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d95f4a85-23a1-4d84-b425-fb55a4ee67c6", 
-            "title": "Rast Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/d95f4a85-23a1-4d84-b425-fb55a4ee67c6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

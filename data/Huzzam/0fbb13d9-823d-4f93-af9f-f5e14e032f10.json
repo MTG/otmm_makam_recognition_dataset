@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mediha Demirk\u0131ran"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0fbb13d9-823d-4f93-af9f-f5e14e032f10", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "c4d707dd-393d-4511-a9a9-297226964e1c", 
+            "title": "Bin H\u00fcz\u00fcn \u00c7\u00f6kt\u00fc Yine G\u00f6nl\u00fcme"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "58af6edc-f7c8-462a-90ec-4d5851598a1b", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 223, 
     "path": "../data/Huzzam/0fbb13d9-823d-4f93-af9f-f5e14e032f10.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c4d707dd-393d-4511-a9a9-297226964e1c", 
-            "title": "Bin H\u00fcz\u00fcn \u00c7\u00f6kt\u00fc Yine G\u00f6nl\u00fcme"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c4d707dd-393d-4511-a9a9-297226964e1c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0fbb13d9-823d-4f93-af9f-f5e14e032f10"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

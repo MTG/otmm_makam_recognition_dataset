@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimdevir", 
-            "mb_attribute": "Nimdevir", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/8e5f22db-47e1-4084-9a28-d996096ef5c0"
         }, 
         {
-            "attribute_key": "nimdevir", 
-            "mb_tag": "nimdevir", 
-            "source": "http://musicbrainz.org/recording/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/8e5f22db-47e1-4084-9a28-d996096ef5c0"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "beste_murabba", 
+            "mb_tag": "beste-murabba", 
             "source": "http://musicbrainz.org/recording/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "8f1d6b8a-6f73-4bae-a08e-15220a44e3ab", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "8e5f22db-47e1-4084-9a28-d996096ef5c0", 
+            "title": "De\u011fil Cam-\u0131 Mey A\u00e7\u0131ld\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/8e5f22db-47e1-4084-9a28-d996096ef5c0"
         }, 
         {
-            "attribute_key": "beste_murabba", 
-            "mb_tag": "beste-murabba", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 326, 
     "path": "../data/Beyati/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8e5f22db-47e1-4084-9a28-d996096ef5c0", 
-            "title": "De\u011fil Cam-\u0131 Mey A\u00e7\u0131ld\u0131"
+            "attribute_key": "nimdevir", 
+            "mb_attribute": "Nimdevir", 
+            "source": "http://musicbrainz.org/work/8e5f22db-47e1-4084-9a28-d996096ef5c0"
+        }, 
+        {
+            "attribute_key": "nimdevir", 
+            "mb_tag": "nimdevir", 
+            "source": "http://musicbrainz.org/recording/8f1d6b8a-6f73-4bae-a08e-15220a44e3ab"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -25,8 +31,8 @@
             "name": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03a3\u03b9\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "96702cde-f5f4-4d05-b6b7-750dccb49078", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 79, 
     "path": "../data/Rast/96702cde-f5f4-4d05-b6b7-750dccb49078.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/96702cde-f5f4-4d05-b6b7-750dccb49078"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

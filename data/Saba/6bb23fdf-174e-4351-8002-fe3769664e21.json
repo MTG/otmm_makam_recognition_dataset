@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/471ce76e-2593-4345-a9d1-30a9abf1e087"
         }, 
         {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/6bb23fdf-174e-4351-8002-fe3769664e21"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/471ce76e-2593-4345-a9d1-30a9abf1e087"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/6bb23fdf-174e-4351-8002-fe3769664e21"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "6bb23fdf-174e-4351-8002-fe3769664e21", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "471ce76e-2593-4345-a9d1-30a9abf1e087", 
+            "title": "Merhaba Ya Merhaba"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/471ce76e-2593-4345-a9d1-30a9abf1e087"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/6bb23fdf-174e-4351-8002-fe3769664e21"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -70,10 +63,17 @@
     ], 
     "duration": 522, 
     "path": "../data/Saba/6bb23fdf-174e-4351-8002-fe3769664e21.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "471ce76e-2593-4345-a9d1-30a9abf1e087", 
-            "title": "Merhaba Ya Merhaba"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/471ce76e-2593-4345-a9d1-30a9abf1e087"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/6bb23fdf-174e-4351-8002-fe3769664e21"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

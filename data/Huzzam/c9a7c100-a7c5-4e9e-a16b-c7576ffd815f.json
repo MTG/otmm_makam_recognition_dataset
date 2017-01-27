@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/0c68de91-39f7-4ffb-8914-94ed66d075c8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0c68de91-39f7-4ffb-8914-94ed66d075c8"
         }, 
         {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c9a7c100-a7c5-4e9e-a16b-c7576ffd815f"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "c9a7c100-a7c5-4e9e-a16b-c7576ffd815f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0c68de91-39f7-4ffb-8914-94ed66d075c8", 
+            "title": "Vefa Yoktur Akan Suda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/0c68de91-39f7-4ffb-8914-94ed66d075c8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/c9a7c100-a7c5-4e9e-a16b-c7576ffd815f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -558,10 +556,12 @@
     ], 
     "duration": 203, 
     "path": "../data/Huzzam/c9a7c100-a7c5-4e9e-a16b-c7576ffd815f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0c68de91-39f7-4ffb-8914-94ed66d075c8", 
-            "title": "Vefa Yoktur Akan Suda"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0c68de91-39f7-4ffb-8914-94ed66d075c8"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

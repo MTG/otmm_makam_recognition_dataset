@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
-            "source": "http://musicbrainz.org/work/d2a83da8-30aa-43e2-8643-b493320cb476"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/d2a83da8-30aa-43e2-8643-b493320cb476"
         }, 
         {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/d9796290-ab53-4107-aac4-3252cea9dfc3"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "d9796290-ab53-4107-aac4-3252cea9dfc3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "d2a83da8-30aa-43e2-8643-b493320cb476", 
+            "title": "Kara G\u00f6zl\u00fc \u00c7ingenem"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/d2a83da8-30aa-43e2-8643-b493320cb476"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/d9796290-ab53-4107-aac4-3252cea9dfc3"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 189, 
     "path": "../data/Saba/d9796290-ab53-4107-aac4-3252cea9dfc3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d2a83da8-30aa-43e2-8643-b493320cb476", 
-            "title": "Kara G\u00f6zl\u00fc \u00c7ingenem"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/d2a83da8-30aa-43e2-8643-b493320cb476"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

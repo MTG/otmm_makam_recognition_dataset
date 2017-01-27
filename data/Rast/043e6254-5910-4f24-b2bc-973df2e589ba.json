@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/043e6254-5910-4f24-b2bc-973df2e589ba"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Vedia Tun\u00e7\u00e7eki\u00e7"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "043e6254-5910-4f24-b2bc-973df2e589ba", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 96, 
     "path": "../data/Rast/043e6254-5910-4f24-b2bc-973df2e589ba.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/043e6254-5910-4f24-b2bc-973df2e589ba"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

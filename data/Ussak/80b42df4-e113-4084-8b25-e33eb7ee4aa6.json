@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/80b42df4-e113-4084-8b25-e33eb7ee4aa6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/80b42df4-e113-4084-8b25-e33eb7ee4aa6"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "80b42df4-e113-4084-8b25-e33eb7ee4aa6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f", 
+            "title": "Kimseler Gelmez Senin Feryad-\u0131 Ate\u015f Ba\u011fr\u0131na"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/80b42df4-e113-4084-8b25-e33eb7ee4aa6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 157, 
     "path": "../data/Ussak/80b42df4-e113-4084-8b25-e33eb7ee4aa6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f", 
-            "title": "Kimseler Gelmez Senin Feryad-\u0131 Ate\u015f Ba\u011fr\u0131na"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/b781c4a0-e1f0-4dcc-8c86-01fa17ecfc1f"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/80b42df4-e113-4084-8b25-e33eb7ee4aa6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

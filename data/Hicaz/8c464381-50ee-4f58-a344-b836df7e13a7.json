@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8c464381-50ee-4f58-a344-b836df7e13a7"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "8c464381-50ee-4f58-a344-b836df7e13a7", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -41,13 +47,7 @@
     ], 
     "duration": 221, 
     "path": "../data/Hicaz/8c464381-50ee-4f58-a344-b836df7e13a7.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/8c464381-50ee-4f58-a344-b836df7e13a7"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "makam": [
         {
             "attribute_key": "hicaz", 

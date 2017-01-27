@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "sakil", 
-            "mb_attribute": "Sakil", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
         }, 
         {
-            "attribute_key": "sakil", 
-            "mb_tag": "sakil", 
-            "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "b3604693-be59-472e-8d23-e9207ffbddce", 
+            "title": "Segah Karabatak Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
@@ -73,10 +66,17 @@
     ], 
     "duration": 427, 
     "path": "../data/Segah/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b3604693-be59-472e-8d23-e9207ffbddce", 
-            "title": "Segah Karabatak Pe\u015frevi"
+            "attribute_key": "sakil", 
+            "mb_attribute": "Sakil", 
+            "source": "http://musicbrainz.org/work/b3604693-be59-472e-8d23-e9207ffbddce"
+        }, 
+        {
+            "attribute_key": "sakil", 
+            "mb_tag": "sakil", 
+            "source": "http://musicbrainz.org/recording/a8f5a0f7-5bc4-4357-9e78-9e1c62bf842c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

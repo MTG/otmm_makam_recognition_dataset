@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
             "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "009309d2-c260-4808-8f1d-44a5ddc6bc5f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kocekce", 
-            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "mbid": "67938bce-1cff-34ff-8aad-e1b3a3b17aa8", 
+            "title": "Benliyi Ald\u0131m Ka\u00e7aktan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 132, 
     "path": "../data/Karcigar/009309d2-c260-4808-8f1d-44a5ddc6bc5f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "67938bce-1cff-34ff-8aad-e1b3a3b17aa8", 
-            "title": "Benliyi Ald\u0131m Ka\u00e7aktan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/67938bce-1cff-34ff-8aad-e1b3a3b17aa8"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/009309d2-c260-4808-8f1d-44a5ddc6bc5f"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

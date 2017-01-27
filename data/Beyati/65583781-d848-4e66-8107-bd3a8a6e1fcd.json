@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ahmet \u00d6zhan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "65583781-d848-4e66-8107-bd3a8a6e1fcd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "b429f9aa-4473-4c1b-a738-da351f7439c9", 
+            "title": "Umrumdan \u00c7\u0131kt\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 208, 
     "path": "../data/Beyati/65583781-d848-4e66-8107-bd3a8a6e1fcd.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b429f9aa-4473-4c1b-a738-da351f7439c9", 
-            "title": "Umrumdan \u00c7\u0131kt\u0131m"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b429f9aa-4473-4c1b-a738-da351f7439c9"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/65583781-d848-4e66-8107-bd3a8a6e1fcd"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

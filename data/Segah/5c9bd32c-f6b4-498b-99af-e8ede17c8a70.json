@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5c9bd32c-f6b4-498b-99af-e8ede17c8a70"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Anatolia"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "5c9bd32c-f6b4-498b-99af-e8ede17c8a70", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 94, 
     "path": "../data/Segah/5c9bd32c-f6b4-498b-99af-e8ede17c8a70.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5c9bd32c-f6b4-498b-99af-e8ede17c8a70"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

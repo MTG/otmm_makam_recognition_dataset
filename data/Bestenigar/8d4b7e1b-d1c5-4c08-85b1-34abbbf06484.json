@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/87f9035f-20d6-462d-989a-3165e532deb4"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/87f9035f-20d6-462d-989a-3165e532deb4"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "8d4b7e1b-d1c5-4c08-85b1-34abbbf06484", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "87f9035f-20d6-462d-989a-3165e532deb4", 
+            "title": "\u00c7\u00fcn Do\u011fup Tuttu Cihan Y\u00fcz\u00fcn\u00fc H\u00fcsn\u00fcn G\u00fcne\u015fi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/87f9035f-20d6-462d-989a-3165e532deb4"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -127,10 +120,17 @@
     ], 
     "duration": 264, 
     "path": "../data/Bestenigar/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "87f9035f-20d6-462d-989a-3165e532deb4", 
-            "title": "\u00c7\u00fcn Do\u011fup Tuttu Cihan Y\u00fcz\u00fcn\u00fc H\u00fcsn\u00fcn G\u00fcne\u015fi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/87f9035f-20d6-462d-989a-3165e532deb4"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/8d4b7e1b-d1c5-4c08-85b1-34abbbf06484"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

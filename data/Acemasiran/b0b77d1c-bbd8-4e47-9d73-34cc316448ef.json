@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "agirsemai", 
+            "mb_attribute": "A\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "agirsemai", 
+            "mb_tag": "a\u011f\u0131rsemai", 
             "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "b0b77d1c-bbd8-4e47-9d73-34cc316448ef", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "agirsemai", 
-            "mb_attribute": "A\u011f\u0131rsemai", 
+            "mbid": "e534e173-68aa-4b90-a82c-4d247d8d4eed", 
+            "title": "Ey Lebleri Gonce Y\u00fcz\u00fc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
         }, 
         {
-            "attribute_key": "agirsemai", 
-            "mb_tag": "a\u011f\u0131rsemai", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 385, 
     "path": "../data/Acemasiran/b0b77d1c-bbd8-4e47-9d73-34cc316448ef.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e534e173-68aa-4b90-a82c-4d247d8d4eed", 
-            "title": "Ey Lebleri Gonce Y\u00fcz\u00fc"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/e534e173-68aa-4b90-a82c-4d247d8d4eed"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/b0b77d1c-bbd8-4e47-9d73-34cc316448ef"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

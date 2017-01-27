@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f7c079fb-b5e3-4ad6-b904-77343caedd03"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Sava\u015f \u015e. Bark\u00e7in"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "f7c079fb-b5e3-4ad6-b904-77343caedd03", 
+    "sampling_frequency": 44100, 
     "bit_rate": 192, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 115, 
     "path": "../data/Sultaniyegah/f7c079fb-b5e3-4ad6-b904-77343caedd03.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/f7c079fb-b5e3-4ad6-b904-77343caedd03"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 

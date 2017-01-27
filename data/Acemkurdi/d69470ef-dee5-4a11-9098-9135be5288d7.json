@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "bektasiraksani", 
-            "mb_attribute": "Bekta\u015fi Raksan\u0131", 
+            "attribute_key": "nefes", 
+            "mb_attribute": "Nefes", 
             "source": "http://musicbrainz.org/work/3d9a6644-0d1a-428c-8370-297082b69689"
         }, 
         {
-            "attribute_key": "raksan", 
-            "mb_tag": "raksan", 
-            "source": "http://musicbrainz.org/recording/d69470ef-dee5-4a11-9098-9135be5288d7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/3d9a6644-0d1a-428c-8370-297082b69689"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "nefes", 
+            "mb_tag": "nefes", 
             "source": "http://musicbrainz.org/recording/d69470ef-dee5-4a11-9098-9135be5288d7"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "d69470ef-dee5-4a11-9098-9135be5288d7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "nefes", 
-            "mb_attribute": "Nefes", 
+            "mbid": "3d9a6644-0d1a-428c-8370-297082b69689", 
+            "title": "\u015eah-\u0131 Merdan\u0131n Avaz\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/3d9a6644-0d1a-428c-8370-297082b69689"
         }, 
         {
-            "attribute_key": "nefes", 
-            "mb_tag": "nefes", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/d69470ef-dee5-4a11-9098-9135be5288d7"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Acemkurdi/d69470ef-dee5-4a11-9098-9135be5288d7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3d9a6644-0d1a-428c-8370-297082b69689", 
-            "title": "\u015eah-\u0131 Merdan\u0131n Avaz\u0131"
+            "attribute_key": "bektasiraksani", 
+            "mb_attribute": "Bekta\u015fi Raksan\u0131", 
+            "source": "http://musicbrainz.org/work/3d9a6644-0d1a-428c-8370-297082b69689"
+        }, 
+        {
+            "attribute_key": "raksan", 
+            "mb_tag": "raksan", 
+            "source": "http://musicbrainz.org/recording/d69470ef-dee5-4a11-9098-9135be5288d7"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

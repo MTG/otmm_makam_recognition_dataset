@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/149d651a-616e-49a9-8c76-036baa62ad9d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/149d651a-616e-49a9-8c76-036baa62ad9d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ela Alt\u0131n"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "149d651a-616e-49a9-8c76-036baa62ad9d", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "bf4f8c62-bed1-41d9-833b-e1354c186a30", 
+            "title": "Unutulmu\u015f Birer Birer"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/149d651a-616e-49a9-8c76-036baa62ad9d"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "ef69589b-9e0f-44a1-8f70-9747adca4bc4", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 241, 
     "path": "../data/Rast/149d651a-616e-49a9-8c76-036baa62ad9d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bf4f8c62-bed1-41d9-833b-e1354c186a30", 
-            "title": "Unutulmu\u015f Birer Birer"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/bf4f8c62-bed1-41d9-833b-e1354c186a30"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/149d651a-616e-49a9-8c76-036baa62ad9d"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

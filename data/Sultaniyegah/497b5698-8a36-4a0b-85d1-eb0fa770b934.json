@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0576b84b-1d6b-4008-a289-a9c7c22e2e76"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/497b5698-8a36-4a0b-85d1-eb0fa770b934"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/0576b84b-1d6b-4008-a289-a9c7c22e2e76"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/497b5698-8a36-4a0b-85d1-eb0fa770b934"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "497b5698-8a36-4a0b-85d1-eb0fa770b934", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0576b84b-1d6b-4008-a289-a9c7c22e2e76", 
+            "title": "Al Saz\u0131n\u0131 Sen Sevdice\u011fim \u015een Hevesinle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/0576b84b-1d6b-4008-a289-a9c7c22e2e76"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/497b5698-8a36-4a0b-85d1-eb0fa770b934"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -142,10 +135,17 @@
     ], 
     "duration": 171, 
     "path": "../data/Sultaniyegah/497b5698-8a36-4a0b-85d1-eb0fa770b934.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0576b84b-1d6b-4008-a289-a9c7c22e2e76", 
-            "title": "Al Saz\u0131n\u0131 Sen Sevdice\u011fim \u015een Hevesinle"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/0576b84b-1d6b-4008-a289-a9c7c22e2e76"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/497b5698-8a36-4a0b-85d1-eb0fa770b934"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

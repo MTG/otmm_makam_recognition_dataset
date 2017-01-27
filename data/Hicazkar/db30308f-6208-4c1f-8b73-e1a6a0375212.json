@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/18078a47-32cb-49bf-bd7c-e249dfa580e2"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/db30308f-6208-4c1f-8b73-e1a6a0375212"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/18078a47-32cb-49bf-bd7c-e249dfa580e2"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/db30308f-6208-4c1f-8b73-e1a6a0375212"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alp Arslan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "db30308f-6208-4c1f-8b73-e1a6a0375212", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "18078a47-32cb-49bf-bd7c-e249dfa580e2", 
+            "title": "G\u00f6rd\u00fcm Bug\u00fcn O G\u00fczeli"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/18078a47-32cb-49bf-bd7c-e249dfa580e2"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/db30308f-6208-4c1f-8b73-e1a6a0375212"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -161,10 +154,17 @@
     ], 
     "duration": 129, 
     "path": "../data/Hicazkar/db30308f-6208-4c1f-8b73-e1a6a0375212.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "18078a47-32cb-49bf-bd7c-e249dfa580e2", 
-            "title": "G\u00f6rd\u00fcm Bug\u00fcn O G\u00fczeli"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/18078a47-32cb-49bf-bd7c-e249dfa580e2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/db30308f-6208-4c1f-8b73-e1a6a0375212"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

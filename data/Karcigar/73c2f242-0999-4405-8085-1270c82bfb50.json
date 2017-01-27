@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Recep Birgit"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "73c2f242-0999-4405-8085-1270c82bfb50", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
+            "title": "Bir Yareli Ku\u015f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "ad21dcd0-0028-4096-81b4-01c20bb179e0", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 165, 
     "path": "../data/Karcigar/73c2f242-0999-4405-8085-1270c82bfb50.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bffbd01f-252a-45ee-8e3c-34855650cf60", 
-            "title": "Bir Yareli Ku\u015f"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/bffbd01f-252a-45ee-8e3c-34855650cf60"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/73c2f242-0999-4405-8085-1270c82bfb50"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

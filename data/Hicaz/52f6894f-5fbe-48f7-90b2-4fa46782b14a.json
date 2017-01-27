@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/c35ccfae-9c6e-48c5-9375-624ba93adc36"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/52f6894f-5fbe-48f7-90b2-4fa46782b14a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/c35ccfae-9c6e-48c5-9375-624ba93adc36"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/52f6894f-5fbe-48f7-90b2-4fa46782b14a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "52f6894f-5fbe-48f7-90b2-4fa46782b14a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "c35ccfae-9c6e-48c5-9375-624ba93adc36", 
+            "title": "\u00c7ok Geceler Bekledim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/c35ccfae-9c6e-48c5-9375-624ba93adc36"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/52f6894f-5fbe-48f7-90b2-4fa46782b14a"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 174, 
     "path": "../data/Hicaz/52f6894f-5fbe-48f7-90b2-4fa46782b14a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c35ccfae-9c6e-48c5-9375-624ba93adc36", 
-            "title": "\u00c7ok Geceler Bekledim"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c35ccfae-9c6e-48c5-9375-624ba93adc36"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/52f6894f-5fbe-48f7-90b2-4fa46782b14a"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

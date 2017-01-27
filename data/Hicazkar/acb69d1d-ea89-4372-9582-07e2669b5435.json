@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/acb69d1d-ea89-4372-9582-07e2669b5435"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130hsan \u00d6zgen"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "acb69d1d-ea89-4372-9582-07e2669b5435", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -44,13 +50,7 @@
     ], 
     "duration": 61, 
     "path": "../data/Hicazkar/acb69d1d-ea89-4372-9582-07e2669b5435.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/acb69d1d-ea89-4372-9582-07e2669b5435"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "makam": [
         {
             "attribute_key": "hicazkar", 

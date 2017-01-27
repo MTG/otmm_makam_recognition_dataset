@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0379ad8b-bc83-4657-a44f-70778760510b"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/72df1496-b4ec-4caa-9747-48ad5e3debd5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/0379ad8b-bc83-4657-a44f-70778760510b"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/72df1496-b4ec-4caa-9747-48ad5e3debd5"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "72df1496-b4ec-4caa-9747-48ad5e3debd5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0379ad8b-bc83-4657-a44f-70778760510b", 
+            "title": "Fikrimin \u0130nce G\u00fcl\u00fc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/0379ad8b-bc83-4657-a44f-70778760510b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/72df1496-b4ec-4caa-9747-48ad5e3debd5"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 191, 
     "path": "../data/Acemkurdi/72df1496-b4ec-4caa-9747-48ad5e3debd5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0379ad8b-bc83-4657-a44f-70778760510b", 
-            "title": "Fikrimin \u0130nce G\u00fcl\u00fc"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/0379ad8b-bc83-4657-a44f-70778760510b"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/72df1496-b4ec-4caa-9747-48ad5e3debd5"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

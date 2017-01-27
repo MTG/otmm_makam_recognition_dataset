@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/2e87a363-838e-4565-bf2a-ae45ffb691ff"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/2e87a363-838e-4565-bf2a-ae45ffb691ff"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "2e87a363-838e-4565-bf2a-ae45ffb691ff", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "fd510c52-1e03-4e4e-ada1-1b533e18a585", 
+            "title": "Nev\u00e2 Sazsem\u00e2\u00eesi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/2e87a363-838e-4565-bf2a-ae45ffb691ff"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -275,10 +268,17 @@
     ], 
     "duration": 310, 
     "path": "../data/Neva/2e87a363-838e-4565-bf2a-ae45ffb691ff.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fd510c52-1e03-4e4e-ada1-1b533e18a585", 
-            "title": "Nev\u00e2 Sazsem\u00e2\u00eesi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/fd510c52-1e03-4e4e-ada1-1b533e18a585"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/2e87a363-838e-4565-bf2a-ae45ffb691ff"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

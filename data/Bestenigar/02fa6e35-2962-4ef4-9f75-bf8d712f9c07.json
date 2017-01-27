@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/710f34c0-b472-4712-ac48-f3c7f7c364bf"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/02fa6e35-2962-4ef4-9f75-bf8d712f9c07"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/710f34c0-b472-4712-ac48-f3c7f7c364bf"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/02fa6e35-2962-4ef4-9f75-bf8d712f9c07"
         }
     ], 
@@ -34,29 +23,32 @@
         }
     ], 
     "title": "Bir S\u00f6z Dedi Canan ki Keramet Var \u0130\u00e7inde", 
-    "url": "http://musicbrainz.org/work/02fa6e35-2962-4ef4-9f75-bf8d712f9c07", 
+    "url": "http://musicbrainz.org/recording/02fa6e35-2962-4ef4-9f75-bf8d712f9c07", 
     "artist_credits": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "02fa6e35-2962-4ef4-9f75-bf8d712f9c07", 
-    "form": [
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "710f34c0-b472-4712-ac48-f3c7f7c364bf", 
+            "title": "Bir S\u00f6z Dedi Canan ki"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/710f34c0-b472-4712-ac48-f3c7f7c364bf"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/02fa6e35-2962-4ef4-9f75-bf8d712f9c07"
         }
     ], 
-    "bit_rate": 256, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -69,12 +61,16 @@
             "name": "[unknown]"
         }
     ], 
-    "duration": 362, 
-    "path": "../data/Bestenigar/02fa6e35-2962-4ef4-9f75-bf8d712f9c07.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "710f34c0-b472-4712-ac48-f3c7f7c364bf", 
-            "title": "Bir S\u00f6z Dedi Canan ki"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/710f34c0-b472-4712-ac48-f3c7f7c364bf"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/02fa6e35-2962-4ef4-9f75-bf8d712f9c07"
         }
     ]
 }

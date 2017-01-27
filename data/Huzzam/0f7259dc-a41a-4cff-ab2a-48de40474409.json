@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "0f7259dc-a41a-4cff-ab2a-48de40474409", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "b12ecddc-6156-43ab-847d-8f1f82a3ca6c", 
+            "title": "Yan\u0131yor Mu Ye\u015fil K\u00f6\u015fk\u00fcn"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "1082c2d9-9896-4db8-a9ad-5ca8bd7b0005", 
@@ -150,10 +143,17 @@
     ], 
     "duration": 222, 
     "path": "../data/Huzzam/0f7259dc-a41a-4cff-ab2a-48de40474409.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b12ecddc-6156-43ab-847d-8f1f82a3ca6c", 
-            "title": "Yan\u0131yor Mu Ye\u015fil K\u00f6\u015fk\u00fcn"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/b12ecddc-6156-43ab-847d-8f1f82a3ca6c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/0f7259dc-a41a-4cff-ab2a-48de40474409"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

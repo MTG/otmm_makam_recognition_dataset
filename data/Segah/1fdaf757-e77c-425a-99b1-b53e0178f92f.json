@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "1fdaf757-e77c-425a-99b1-b53e0178f92f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "40950656-d3c2-4567-a8e1-bb12007b0a08", 
+            "title": "Acep L\u00fctfun Seherinde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -69,10 +62,17 @@
     ], 
     "duration": 117, 
     "path": "../data/Segah/1fdaf757-e77c-425a-99b1-b53e0178f92f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "40950656-d3c2-4567-a8e1-bb12007b0a08", 
-            "title": "Acep L\u00fctfun Seherinde"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/40950656-d3c2-4567-a8e1-bb12007b0a08"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1fdaf757-e77c-425a-99b1-b53e0178f92f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

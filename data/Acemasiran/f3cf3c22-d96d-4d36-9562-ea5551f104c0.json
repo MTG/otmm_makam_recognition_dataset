@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/f3651822-56e9-4143-a7a5-79e024ea282e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/f3cf3c22-d96d-4d36-9562-ea5551f104c0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/f3651822-56e9-4143-a7a5-79e024ea282e"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/f3cf3c22-d96d-4d36-9562-ea5551f104c0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Radife Erten"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "f3cf3c22-d96d-4d36-9562-ea5551f104c0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "f3651822-56e9-4143-a7a5-79e024ea282e", 
+            "title": "K\u00fcffar San\u0131r H\u00fcccet Alm\u0131\u015f E\u011fri'ye"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/f3651822-56e9-4143-a7a5-79e024ea282e"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/f3cf3c22-d96d-4d36-9562-ea5551f104c0"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "5a9a9af8-a7cd-450d-923c-a0e92f6e2c98", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Acemasiran/f3cf3c22-d96d-4d36-9562-ea5551f104c0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f3651822-56e9-4143-a7a5-79e024ea282e", 
-            "title": "K\u00fcffar San\u0131r H\u00fcccet Alm\u0131\u015f E\u011fri'ye"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/f3651822-56e9-4143-a7a5-79e024ea282e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/f3cf3c22-d96d-4d36-9562-ea5551f104c0"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

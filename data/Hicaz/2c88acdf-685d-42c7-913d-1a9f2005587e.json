@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
-            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
         }, 
         {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2c88acdf-685d-42c7-913d-1a9f2005587e"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "G\u00fcl G\u00f6re"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "2c88acdf-685d-42c7-913d-1a9f2005587e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "981de4a1-1073-4ba3-a3fe-fb577c29cb42", 
+            "title": "Gam-\u0131 Hicr\u00e2nla Peri\u015fan Ne Karanl\u0131k Kaderim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/2c88acdf-685d-42c7-913d-1a9f2005587e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -92,10 +90,12 @@
     ], 
     "duration": 130, 
     "path": "../data/Hicaz/2c88acdf-685d-42c7-913d-1a9f2005587e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "981de4a1-1073-4ba3-a3fe-fb577c29cb42", 
-            "title": "Gam-\u0131 Hicr\u00e2nla Peri\u015fan Ne Karanl\u0131k Kaderim"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/981de4a1-1073-4ba3-a3fe-fb577c29cb42"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

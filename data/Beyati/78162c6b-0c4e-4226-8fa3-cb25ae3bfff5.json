@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/fac99291-4c31-416b-af9b-4282fb5ca1e8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/fac99291-4c31-416b-af9b-4282fb5ca1e8"
         }, 
         {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/78162c6b-0c4e-4226-8fa3-cb25ae3bfff5"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "78162c6b-0c4e-4226-8fa3-cb25ae3bfff5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "fac99291-4c31-416b-af9b-4282fb5ca1e8", 
+            "title": "Beyati Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/fac99291-4c31-416b-af9b-4282fb5ca1e8"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/78162c6b-0c4e-4226-8fa3-cb25ae3bfff5"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -61,10 +59,12 @@
     ], 
     "duration": 325, 
     "path": "../data/Beyati/78162c6b-0c4e-4226-8fa3-cb25ae3bfff5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fac99291-4c31-416b-af9b-4282fb5ca1e8", 
-            "title": "Beyati Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/fac99291-4c31-416b-af9b-4282fb5ca1e8"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

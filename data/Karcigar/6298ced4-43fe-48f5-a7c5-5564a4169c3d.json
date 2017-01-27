@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/6298ced4-43fe-48f5-a7c5-5564a4169c3d"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kudsi Erg\u00fcner Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "6298ced4-43fe-48f5-a7c5-5564a4169c3d", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 89, 
     "path": "../data/Karcigar/6298ced4-43fe-48f5-a7c5-5564a4169c3d.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/6298ced4-43fe-48f5-a7c5-5564a4169c3d"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "huseyni", 

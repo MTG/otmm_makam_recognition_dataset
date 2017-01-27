@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "necd_i_huseyni", 
-            "mb_attribute": "Necd-i H\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
         }, 
         {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ef2e469f-7ffd-4a24-8113-8ee3ee4efab2", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "128cb07e-000a-4d2e-ae00-92616891aca3", 
+            "title": "Yetti Bunca \u0130ntizar\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "necd_i_huseyni", 
+            "mb_attribute": "Necd-i H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -92,10 +90,12 @@
     ], 
     "duration": 106, 
     "path": "../data/Neva/ef2e469f-7ffd-4a24-8113-8ee3ee4efab2.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "128cb07e-000a-4d2e-ae00-92616891aca3", 
-            "title": "Yetti Bunca \u0130ntizar\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/128cb07e-000a-4d2e-ae00-92616891aca3"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

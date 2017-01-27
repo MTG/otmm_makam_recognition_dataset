@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/7d5ff1f5-8402-4e9a-868e-8ad48aaa8847"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/7d5ff1f5-8402-4e9a-868e-8ad48aaa8847"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Sadettin Kaynak"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "7d5ff1f5-8402-4e9a-868e-8ad48aaa8847", 
+            "title": "D\u00fc\u015fse Z\u00fclf\u00fcnden"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/7d5ff1f5-8402-4e9a-868e-8ad48aaa8847"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "15d16e34-c029-40fc-8d78-8a7f24217311", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 253, 
     "path": "../data/Hicaz/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7d5ff1f5-8402-4e9a-868e-8ad48aaa8847", 
-            "title": "D\u00fc\u015fse Z\u00fclf\u00fcnden"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/7d5ff1f5-8402-4e9a-868e-8ad48aaa8847"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/c815f87b-dedb-45cd-9c7b-e5ed04dd3ab6"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/32f053e2-f1ec-4eb4-ac33-d415fd3e623b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/32f053e2-f1ec-4eb4-ac33-d415fd3e623b"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "6f26af11-7e51-4a2f-bca7-736a9c47fb3e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "32f053e2-f1ec-4eb4-ac33-d415fd3e623b", 
+            "title": "Bir Dilberdir Beni Yakan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/32f053e2-f1ec-4eb4-ac33-d415fd3e623b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -563,10 +556,17 @@
     ], 
     "duration": 98, 
     "path": "../data/Huseyni/6f26af11-7e51-4a2f-bca7-736a9c47fb3e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32f053e2-f1ec-4eb4-ac33-d415fd3e623b", 
-            "title": "Bir Dilberdir Beni Yakan"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/32f053e2-f1ec-4eb4-ac33-d415fd3e623b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

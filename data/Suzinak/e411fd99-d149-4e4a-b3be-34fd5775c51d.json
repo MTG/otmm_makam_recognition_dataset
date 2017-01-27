@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/e411fd99-d149-4e4a-b3be-34fd5775c51d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/e411fd99-d149-4e4a-b3be-34fd5775c51d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "e411fd99-d149-4e4a-b3be-34fd5775c51d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "d461e990-e760-4b20-9be7-268b5ce7c346", 
+            "title": "Ey Dil Heves-i Vuslat-\u0131 Canan Sana D\u00fc\u015fmez"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/e411fd99-d149-4e4a-b3be-34fd5775c51d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 194, 
     "path": "../data/Suzinak/e411fd99-d149-4e4a-b3be-34fd5775c51d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d461e990-e760-4b20-9be7-268b5ce7c346", 
-            "title": "Ey Dil Heves-i Vuslat-\u0131 Canan Sana D\u00fc\u015fmez"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/d461e990-e760-4b20-9be7-268b5ce7c346"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/e411fd99-d149-4e4a-b3be-34fd5775c51d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

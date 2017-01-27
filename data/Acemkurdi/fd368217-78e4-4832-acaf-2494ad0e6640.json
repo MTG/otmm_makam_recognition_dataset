@@ -1,30 +1,19 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
         }, 
         {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
         }
     ], 
@@ -46,27 +35,26 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "fd368217-78e4-4832-acaf-2494ad0e6640", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "title": "Acemk\u00fcrdi Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
-            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
-        }, 
-        {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
@@ -87,10 +75,22 @@
     ], 
     "duration": 443, 
     "path": "../data/Acemkurdi/fd368217-78e4-4832-acaf-2494ad0e6640.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
-            "title": "Acemk\u00fcrdi Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/9afa81b7-5d65-4235-b66c-a766e3ed1281"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fd368217-78e4-4832-acaf-2494ad0e6640"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

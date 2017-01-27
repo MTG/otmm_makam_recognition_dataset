@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/3bdfe52a-8d8f-48e0-bec4-0da54898d8b8"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/3bdfe52a-8d8f-48e0-bec4-0da54898d8b8"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Oya \u0130\u015fbo\u011fa"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "d29d8f2b-1e7c-4a49-95c3-81f246242080", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "3bdfe52a-8d8f-48e0-bec4-0da54898d8b8", 
+            "title": "G\u00f6z\u00fcmden Gitmiyor Bir Dem Hayalin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/3bdfe52a-8d8f-48e0-bec4-0da54898d8b8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
@@ -113,10 +106,17 @@
     ], 
     "duration": 139, 
     "path": "../data/Suzinak/d29d8f2b-1e7c-4a49-95c3-81f246242080.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3bdfe52a-8d8f-48e0-bec4-0da54898d8b8", 
-            "title": "G\u00f6z\u00fcmden Gitmiyor Bir Dem Hayalin"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/3bdfe52a-8d8f-48e0-bec4-0da54898d8b8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/d29d8f2b-1e7c-4a49-95c3-81f246242080"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

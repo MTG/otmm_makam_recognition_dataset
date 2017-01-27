@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/cc601533-a50f-4fcc-bca3-aed31342b9e1"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/20c47822-6ce3-4c49-b882-344f187cafd5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/cc601533-a50f-4fcc-bca3-aed31342b9e1"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/20c47822-6ce3-4c49-b882-344f187cafd5"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "20c47822-6ce3-4c49-b882-344f187cafd5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "cc601533-a50f-4fcc-bca3-aed31342b9e1", 
+            "title": "Canandan Uzak Kald\u0131 G\u00f6n\u00fcl"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/cc601533-a50f-4fcc-bca3-aed31342b9e1"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/20c47822-6ce3-4c49-b882-344f187cafd5"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 234, 
     "path": "../data/Kurdilihicazkar/20c47822-6ce3-4c49-b882-344f187cafd5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cc601533-a50f-4fcc-bca3-aed31342b9e1", 
-            "title": "Canandan Uzak Kald\u0131 G\u00f6n\u00fcl"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/cc601533-a50f-4fcc-bca3-aed31342b9e1"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/20c47822-6ce3-4c49-b882-344f187cafd5"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

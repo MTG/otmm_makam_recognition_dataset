@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/da32f145-d4c5-4f40-a18d-fc37d04b418c"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/2ff025cf-a6af-470e-80fc-7ed058b6fc0f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/da32f145-d4c5-4f40-a18d-fc37d04b418c"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2ff025cf-a6af-470e-80fc-7ed058b6fc0f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "2ff025cf-a6af-470e-80fc-7ed058b6fc0f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "da32f145-d4c5-4f40-a18d-fc37d04b418c", 
+            "title": "Bir Bezm-i Meyde Olsak"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/da32f145-d4c5-4f40-a18d-fc37d04b418c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/2ff025cf-a6af-470e-80fc-7ed058b6fc0f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -153,10 +146,17 @@
     ], 
     "duration": 202, 
     "path": "../data/Nihavent/2ff025cf-a6af-470e-80fc-7ed058b6fc0f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "da32f145-d4c5-4f40-a18d-fc37d04b418c", 
-            "title": "Bir Bezm-i Meyde Olsak"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/da32f145-d4c5-4f40-a18d-fc37d04b418c"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/2ff025cf-a6af-470e-80fc-7ed058b6fc0f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "musemmen", 
-            "mb_attribute": "M\u00fcsemmen", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/a2165502-fb2a-408f-a9b9-d956e6d0d2eb"
         }, 
         {
-            "attribute_key": "musemmen_ii", 
-            "mb_tag": "m\u00fcsemmen", 
-            "source": "http://musicbrainz.org/recording/3d6dd65a-01e6-4208-be32-f06397b6c10e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/a2165502-fb2a-408f-a9b9-d956e6d0d2eb"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3d6dd65a-01e6-4208-be32-f06397b6c10e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "3d6dd65a-01e6-4208-be32-f06397b6c10e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "a2165502-fb2a-408f-a9b9-d956e6d0d2eb", 
+            "title": "Yine Bir A\u015fk-\u0131 Emel-suz \u0130le Giryan Oldum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/a2165502-fb2a-408f-a9b9-d956e6d0d2eb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/3d6dd65a-01e6-4208-be32-f06397b6c10e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 108, 
     "path": "../data/Hicazkar/3d6dd65a-01e6-4208-be32-f06397b6c10e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "a2165502-fb2a-408f-a9b9-d956e6d0d2eb", 
-            "title": "Yine Bir A\u015fk-\u0131 Emel-suz \u0130le Giryan Oldum"
+            "attribute_key": "musemmen", 
+            "mb_attribute": "M\u00fcsemmen", 
+            "source": "http://musicbrainz.org/work/a2165502-fb2a-408f-a9b9-d956e6d0d2eb"
+        }, 
+        {
+            "attribute_key": "musemmen_ii", 
+            "mb_tag": "m\u00fcsemmen", 
+            "source": "http://musicbrainz.org/recording/3d6dd65a-01e6-4208-be32-f06397b6c10e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

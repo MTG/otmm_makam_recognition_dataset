@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/fac61418-3ef8-4ab3-a4ee-d78feac0f198"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/168f7c75-84fb-4316-99d7-acabadd3b2e6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/fac61418-3ef8-4ab3-a4ee-d78feac0f198"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/168f7c75-84fb-4316-99d7-acabadd3b2e6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ahmet \u00d6zhan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "168f7c75-84fb-4316-99d7-acabadd3b2e6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "fac61418-3ef8-4ab3-a4ee-d78feac0f198", 
+            "title": "M\u00fcjde M\u00fcminler"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/fac61418-3ef8-4ab3-a4ee-d78feac0f198"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/168f7c75-84fb-4316-99d7-acabadd3b2e6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 290, 
     "path": "../data/Acemasiran/168f7c75-84fb-4316-99d7-acabadd3b2e6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fac61418-3ef8-4ab3-a4ee-d78feac0f198", 
-            "title": "M\u00fcjde M\u00fcminler"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fac61418-3ef8-4ab3-a4ee-d78feac0f198"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/168f7c75-84fb-4316-99d7-acabadd3b2e6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

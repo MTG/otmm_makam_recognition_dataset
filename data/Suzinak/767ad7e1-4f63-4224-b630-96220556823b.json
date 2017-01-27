@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fclkiye Toper"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "767ad7e1-4f63-4224-b630-96220556823b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
+            "title": "Pek Revad\u0131r Sevdi\u011fim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "bfb3c881-6890-4ecd-8e21-75def0fd6109", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 164, 
     "path": "../data/Suzinak/767ad7e1-4f63-4224-b630-96220556823b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "50c5fca0-f0e1-434f-9736-7f1805d91cda", 
-            "title": "Pek Revad\u0131r Sevdi\u011fim"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/50c5fca0-f0e1-434f-9736-7f1805d91cda"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/767ad7e1-4f63-4224-b630-96220556823b"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

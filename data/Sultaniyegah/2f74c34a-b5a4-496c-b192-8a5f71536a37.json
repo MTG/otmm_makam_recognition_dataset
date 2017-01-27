@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/2f74c34a-b5a4-496c-b192-8a5f71536a37"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2f74c34a-b5a4-496c-b192-8a5f71536a37"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "2f74c34a-b5a4-496c-b192-8a5f71536a37", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "56fee550-2348-4275-a969-5ddc9ff112c8", 
+            "title": "Sen \u015eark\u0131 S\u00f6yledi\u011fin Zaman"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/2f74c34a-b5a4-496c-b192-8a5f71536a37"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 344, 
     "path": "../data/Sultaniyegah/2f74c34a-b5a4-496c-b192-8a5f71536a37.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "56fee550-2348-4275-a969-5ddc9ff112c8", 
-            "title": "Sen \u015eark\u0131 S\u00f6yledi\u011fin Zaman"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/56fee550-2348-4275-a969-5ddc9ff112c8"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/2f74c34a-b5a4-496c-b192-8a5f71536a37"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/c4b8b080-dbe0-45d3-b12c-798a57a2813f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c4b8b080-dbe0-45d3-b12c-798a57a2813f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "c4b8b080-dbe0-45d3-b12c-798a57a2813f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "93470683-3559-490b-bf8d-1e81f3a64910", 
+            "title": "Yaln\u0131z B\u0131rak\u0131p Gitme Bu Ak\u015fam"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/c4b8b080-dbe0-45d3-b12c-798a57a2813f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 213, 
     "path": "../data/Ussak/c4b8b080-dbe0-45d3-b12c-798a57a2813f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "93470683-3559-490b-bf8d-1e81f3a64910", 
-            "title": "Yaln\u0131z B\u0131rak\u0131p Gitme Bu Ak\u015fam"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/c4b8b080-dbe0-45d3-b12c-798a57a2813f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d11dcf2d-ff91-4ca2-9685-9f9ab630b65a"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/f456ca52-6f66-4c79-8125-75d9521483d5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/d11dcf2d-ff91-4ca2-9685-9f9ab630b65a"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/f456ca52-6f66-4c79-8125-75d9521483d5"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "f456ca52-6f66-4c79-8125-75d9521483d5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d11dcf2d-ff91-4ca2-9685-9f9ab630b65a", 
+            "title": "\u015een G\u00f6zlerine Ne\u015fe Veren"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/d11dcf2d-ff91-4ca2-9685-9f9ab630b65a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/f456ca52-6f66-4c79-8125-75d9521483d5"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -310,10 +303,17 @@
     ], 
     "duration": 248, 
     "path": "../data/Kurdilihicazkar/f456ca52-6f66-4c79-8125-75d9521483d5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d11dcf2d-ff91-4ca2-9685-9f9ab630b65a", 
-            "title": "\u015een G\u00f6zlerine Ne\u015fe Veren"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/d11dcf2d-ff91-4ca2-9685-9f9ab630b65a"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/f456ca52-6f66-4c79-8125-75d9521483d5"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

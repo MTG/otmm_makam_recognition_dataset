@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/1931cca6-5d64-4b54-b0ca-87ddc57b5008"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Aka G\u00fcnd\u00fcz Kutbay"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "1931cca6-5d64-4b54-b0ca-87ddc57b5008", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 576, 
     "path": "../data/Beyati/1931cca6-5d64-4b54-b0ca-87ddc57b5008.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/1931cca6-5d64-4b54-b0ca-87ddc57b5008"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "beyati", 

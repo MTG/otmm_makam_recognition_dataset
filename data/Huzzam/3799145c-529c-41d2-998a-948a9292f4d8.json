@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3799145c-529c-41d2-998a-948a9292f4d8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
+            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -134,10 +127,17 @@
     ], 
     "duration": 141, 
     "path": "../data/Huzzam/3799145c-529c-41d2-998a-948a9292f4d8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
-            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3799145c-529c-41d2-998a-948a9292f4d8"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

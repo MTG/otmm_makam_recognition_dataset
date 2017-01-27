@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "07f02eac-fe66-4baf-a863-7adea1408e64", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "24e8f453-2971-4b5f-b6ff-4b193a230bd8", 
+            "title": "Aman Da\u011flar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
@@ -71,10 +64,17 @@
     ], 
     "duration": 176, 
     "path": "../data/Huseyni/07f02eac-fe66-4baf-a863-7adea1408e64.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "24e8f453-2971-4b5f-b6ff-4b193a230bd8", 
-            "title": "Aman Da\u011flar"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/24e8f453-2971-4b5f-b6ff-4b193a230bd8"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/07f02eac-fe66-4baf-a863-7adea1408e64"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

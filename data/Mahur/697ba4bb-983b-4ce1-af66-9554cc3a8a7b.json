@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/902235f8-e11d-4f58-ab71-e27fe6bf1cd4"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/697ba4bb-983b-4ce1-af66-9554cc3a8a7b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/902235f8-e11d-4f58-ab71-e27fe6bf1cd4"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/697ba4bb-983b-4ce1-af66-9554cc3a8a7b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "697ba4bb-983b-4ce1-af66-9554cc3a8a7b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "902235f8-e11d-4f58-ab71-e27fe6bf1cd4", 
+            "title": "Ne Do\u011fan G\u00fcne H\u00fckm\u00fcm Ge\u00e7er"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/902235f8-e11d-4f58-ab71-e27fe6bf1cd4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/697ba4bb-983b-4ce1-af66-9554cc3a8a7b"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 324, 
     "path": "../data/Mahur/697ba4bb-983b-4ce1-af66-9554cc3a8a7b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "902235f8-e11d-4f58-ab71-e27fe6bf1cd4", 
-            "title": "Ne Do\u011fan G\u00fcne H\u00fckm\u00fcm Ge\u00e7er"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/902235f8-e11d-4f58-ab71-e27fe6bf1cd4"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/697ba4bb-983b-4ce1-af66-9554cc3a8a7b"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

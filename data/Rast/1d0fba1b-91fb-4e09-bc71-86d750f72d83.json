@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "mars", 
+            "mb_attribute": "Mar\u015f", 
             "source": "http://musicbrainz.org/work/f62b58be-2e28-4c13-ab61-84a90fdbdde2"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/1d0fba1b-91fb-4e09-bc71-86d750f72d83"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/f62b58be-2e28-4c13-ab61-84a90fdbdde2"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "mars", 
+            "mb_tag": "mar\u015f", 
             "source": "http://musicbrainz.org/recording/1d0fba1b-91fb-4e09-bc71-86d750f72d83"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ya\u015far Okur"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "1d0fba1b-91fb-4e09-bc71-86d750f72d83", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "mars", 
-            "mb_attribute": "Mar\u015f", 
+            "mbid": "f62b58be-2e28-4c13-ab61-84a90fdbdde2", 
+            "title": "Ordu Mar\u015f\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/f62b58be-2e28-4c13-ab61-84a90fdbdde2"
         }, 
         {
-            "attribute_key": "mars", 
-            "mb_tag": "mar\u015f", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/1d0fba1b-91fb-4e09-bc71-86d750f72d83"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "86c5c438-de64-47f1-8493-55ea44503199", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 197, 
     "path": "../data/Rast/1d0fba1b-91fb-4e09-bc71-86d750f72d83.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f62b58be-2e28-4c13-ab61-84a90fdbdde2", 
-            "title": "Ordu Mar\u015f\u0131"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f62b58be-2e28-4c13-ab61-84a90fdbdde2"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/1d0fba1b-91fb-4e09-bc71-86d750f72d83"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

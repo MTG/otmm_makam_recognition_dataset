@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c5c391b0-2037-4e44-bb80-ce5a49fb3c0e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Nevzat Akay"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "c5c391b0-2037-4e44-bb80-ce5a49fb3c0e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 190, 
     "path": "../data/Saba/c5c391b0-2037-4e44-bb80-ce5a49fb3c0e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/c5c391b0-2037-4e44-bb80-ce5a49fb3c0e"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "saba", 

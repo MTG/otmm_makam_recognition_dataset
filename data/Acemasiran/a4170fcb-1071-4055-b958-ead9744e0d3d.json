@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "a4170fcb-1071-4055-b958-ead9744e0d3d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "fb8caeac-2e10-40cd-8c1a-935f1fca5587", 
+            "title": "A\u00e7\u0131ld\u0131 Nev-bahar Bir Gonce-i G\u00fcl"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 157, 
     "path": "../data/Acemasiran/a4170fcb-1071-4055-b958-ead9744e0d3d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fb8caeac-2e10-40cd-8c1a-935f1fca5587", 
-            "title": "A\u00e7\u0131ld\u0131 Nev-bahar Bir Gonce-i G\u00fcl"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/fb8caeac-2e10-40cd-8c1a-935f1fca5587"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a4170fcb-1071-4055-b958-ead9744e0d3d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

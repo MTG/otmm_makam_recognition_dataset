@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "zeybek", 
+            "mb_attribute": "Zeybek", 
             "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "zeybek", 
+            "mb_tag": "zeybek", 
             "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "d662aa63-7002-4c01-af47-b302a0c94e69", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "zeybek", 
-            "mb_attribute": "Zeybek", 
+            "mbid": "ccd2cb76-b4f0-4033-9431-5dde0953d72c", 
+            "title": "Sar\u0131 Zeybek"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
         }, 
         {
-            "attribute_key": "zeybek", 
-            "mb_tag": "zeybek", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "168ada11-9c72-4641-85d4-cb41653576af", 
@@ -70,10 +63,17 @@
     ], 
     "duration": 198, 
     "path": "../data/Muhayyer/d662aa63-7002-4c01-af47-b302a0c94e69.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ccd2cb76-b4f0-4033-9431-5dde0953d72c", 
-            "title": "Sar\u0131 Zeybek"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/ccd2cb76-b4f0-4033-9431-5dde0953d72c"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d662aa63-7002-4c01-af47-b302a0c94e69"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

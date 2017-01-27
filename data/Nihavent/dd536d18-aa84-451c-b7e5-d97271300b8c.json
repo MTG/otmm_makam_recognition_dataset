@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/dd536d18-aa84-451c-b7e5-d97271300b8c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/dd536d18-aa84-451c-b7e5-d97271300b8c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Semahat \u00d6zdenses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "dd536d18-aa84-451c-b7e5-d97271300b8c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/dd536d18-aa84-451c-b7e5-d97271300b8c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -73,10 +66,17 @@
     ], 
     "duration": 209, 
     "path": "../data/Nihavent/dd536d18-aa84-451c-b7e5-d97271300b8c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
-            "title": "Bir \u0130htimal Daha Var"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/53bf3f1b-c618-425f-a179-d463db2ca918"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/dd536d18-aa84-451c-b7e5-d97271300b8c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

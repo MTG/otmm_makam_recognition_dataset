@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Taner Sayac\u0131o\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "af7fd1eb-f077-4245-836b-83d86732924b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "e0159abe-cf95-4c83-8c88-e764402784d0", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
@@ -77,10 +70,17 @@
     ], 
     "duration": 445, 
     "path": "../data/Sultaniyegah/af7fd1eb-f077-4245-836b-83d86732924b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e0159abe-cf95-4c83-8c88-e764402784d0", 
-            "title": "Sultaniyegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/e0159abe-cf95-4c83-8c88-e764402784d0"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/af7fd1eb-f077-4245-836b-83d86732924b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

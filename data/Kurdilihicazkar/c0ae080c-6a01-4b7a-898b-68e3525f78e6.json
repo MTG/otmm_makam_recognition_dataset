@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ferahnaz G\u00fcndo\u011fdu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c0ae080c-6a01-4b7a-898b-68e3525f78e6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "9823474a-ec2d-498f-a5b2-f0f798e2b11b", 
+            "title": "Ba\u015fka S\u00f6z S\u00f6ylemem A\u015fktan Yana Ben"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "ea72cc73-500e-45f4-a5f3-8c15ebf9eec8", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 253, 
     "path": "../data/Kurdilihicazkar/c0ae080c-6a01-4b7a-898b-68e3525f78e6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9823474a-ec2d-498f-a5b2-f0f798e2b11b", 
-            "title": "Ba\u015fka S\u00f6z S\u00f6ylemem A\u015fktan Yana Ben"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/9823474a-ec2d-498f-a5b2-f0f798e2b11b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c0ae080c-6a01-4b7a-898b-68e3525f78e6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

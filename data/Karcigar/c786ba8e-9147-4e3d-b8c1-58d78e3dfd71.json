@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Filiz \u015eat\u0131ro\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c786ba8e-9147-4e3d-b8c1-58d78e3dfd71", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f9bda789-3355-4b02-946e-70a8e59f24d4", 
+            "title": "Varken G\u00f6n\u00fclde Bin T\u00fcrl\u00fc Yare"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 253, 
     "path": "../data/Karcigar/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f9bda789-3355-4b02-946e-70a8e59f24d4", 
-            "title": "Varken G\u00f6n\u00fclde Bin T\u00fcrl\u00fc Yare"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/f9bda789-3355-4b02-946e-70a8e59f24d4"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/c786ba8e-9147-4e3d-b8c1-58d78e3dfd71"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

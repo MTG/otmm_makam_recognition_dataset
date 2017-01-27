@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
-            "source": "http://musicbrainz.org/work/e4d46b76-3c54-3f11-b606-197caa14706e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/e4d46b76-3c54-3f11-b606-197caa14706e"
         }, 
         {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/b576d7fc-3238-4b97-9e19-89acac3cda9e"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Ozan Karata\u015f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "b576d7fc-3238-4b97-9e19-89acac3cda9e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "e4d46b76-3c54-3f11-b606-197caa14706e", 
+            "title": "Telgraf\u0131n Telleri"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/e4d46b76-3c54-3f11-b606-197caa14706e"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/b576d7fc-3238-4b97-9e19-89acac3cda9e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2fbfeea4-cbe6-49e7-9470-59a36d8bcbe5", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 141, 
     "path": "../data/Ussak/b576d7fc-3238-4b97-9e19-89acac3cda9e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e4d46b76-3c54-3f11-b606-197caa14706e", 
-            "title": "Telgraf\u0131n Telleri"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e4d46b76-3c54-3f11-b606-197caa14706e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

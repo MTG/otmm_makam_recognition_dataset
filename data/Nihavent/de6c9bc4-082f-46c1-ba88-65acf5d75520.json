@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "trio instrumental", 
+    "form": [
         {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/b4678320-3127-495c-b4e4-4d414da32d28"
         }, 
         {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/de6c9bc4-082f-46c1-ba88-65acf5d75520"
         }
     ], 
@@ -34,22 +34,26 @@
             "name": "Ahmet Meter"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Trio instrumental", 
     "mbid": "de6c9bc4-082f-46c1-ba88-65acf5d75520", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "b4678320-3127-495c-b4e4-4d414da32d28", 
+            "title": "Nihavend Saz Semaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/b4678320-3127-495c-b4e4-4d414da32d28"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/de6c9bc4-082f-46c1-ba88-65acf5d75520"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -78,10 +82,6 @@
     ], 
     "duration": 382, 
     "path": "../data/Nihavent/de6c9bc4-082f-46c1-ba88-65acf5d75520.mp3", 
-    "works": [
-        {
-            "mbid": "b4678320-3127-495c-b4e4-4d414da32d28", 
-            "title": "Nihavend Saz Semaisi"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

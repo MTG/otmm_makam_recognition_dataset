@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
             "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
             "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03a3\u03b9\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "72361d21-fb80-47d8-8cf9-080e2238e03f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_attribute": "Oyunhavas\u0131", 
+            "mbid": "09cf48bf-4b39-4ff1-bec3-a74087a12e45", 
+            "title": "Yorgo'nun Havas\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
         }, 
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_tag": "oyunhavas\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "04b094d6-4b13-4f01-b010-3c96d6561fa0", 
@@ -110,10 +103,17 @@
     ], 
     "duration": 369, 
     "path": "../data/Saba/72361d21-fb80-47d8-8cf9-080e2238e03f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "09cf48bf-4b39-4ff1-bec3-a74087a12e45", 
-            "title": "Yorgo'nun Havas\u0131"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/09cf48bf-4b39-4ff1-bec3-a74087a12e45"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/72361d21-fb80-47d8-8cf9-080e2238e03f"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

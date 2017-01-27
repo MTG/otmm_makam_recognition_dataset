@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/62027537-d448-41d2-970c-a9f7817de9a1"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Lalezar"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "62027537-d448-41d2-970c-a9f7817de9a1", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 75, 
     "path": "../data/Suzinak/62027537-d448-41d2-970c-a9f7817de9a1.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/62027537-d448-41d2-970c-a9f7817de9a1"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "suzinak", 

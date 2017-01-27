@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "7b6f48da-b415-4664-880b-2a37a60fb897", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
+            "title": "Bir Bahar Ak\u015fam\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "252326bc-4b7c-4c63-81c8-43e91d450bd0", 
@@ -134,10 +127,17 @@
     ], 
     "duration": 227, 
     "path": "../data/Hicaz/7b6f48da-b415-4664-880b-2a37a60fb897.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4d52e24d-8432-3c49-988a-16e0310a062b", 
-            "title": "Bir Bahar Ak\u015fam\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/4d52e24d-8432-3c49-988a-16e0310a062b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7b6f48da-b415-4664-880b-2a37a60fb897"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

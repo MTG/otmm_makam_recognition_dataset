@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/041f035c-7db9-47fd-a743-1341a0176a70"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/f0e215c0-49f8-4962-8263-590dfff02a31"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/041f035c-7db9-47fd-a743-1341a0176a70"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/f0e215c0-49f8-4962-8263-590dfff02a31"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Udi Hrant Kenkulian"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "f0e215c0-49f8-4962-8263-590dfff02a31", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "041f035c-7db9-47fd-a743-1341a0176a70", 
+            "title": "Sabahtan Kalkt\u0131m Ki G\u00fcne\u015f Parl\u0131yor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/041f035c-7db9-47fd-a743-1341a0176a70"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/f0e215c0-49f8-4962-8263-590dfff02a31"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "54129850-5083-426f-9912-5e59fcc566fb", 
@@ -94,10 +87,17 @@
     ], 
     "duration": 208, 
     "path": "../data/Huseyni/f0e215c0-49f8-4962-8263-590dfff02a31.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "041f035c-7db9-47fd-a743-1341a0176a70", 
-            "title": "Sabahtan Kalkt\u0131m Ki G\u00fcne\u015f Parl\u0131yor"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/041f035c-7db9-47fd-a743-1341a0176a70"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/f0e215c0-49f8-4962-8263-590dfff02a31"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

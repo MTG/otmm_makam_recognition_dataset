@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "serbest", 
-            "mb_attribute": "Serbest", 
-            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
+            "attribute_key": "ezan", 
+            "mb_attribute": "Ezan", 
             "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
         }, 
         {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "ezan", 
+            "mb_tag": "ezan", 
             "source": "http://musicbrainz.org/recording/c8ad5f53-29cb-4327-8a15-0d3e275ed67b"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Kani Karaca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c8ad5f53-29cb-4327-8a15-0d3e275ed67b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ezan", 
-            "mb_attribute": "Ezan", 
+            "mbid": "44c1a878-9e0e-43e6-982c-0e02b864b6ea", 
+            "title": "Saba Ezan\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
         }, 
         {
-            "attribute_key": "ezan", 
-            "mb_tag": "ezan", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/c8ad5f53-29cb-4327-8a15-0d3e275ed67b"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 228, 
     "path": "../data/Saba/c8ad5f53-29cb-4327-8a15-0d3e275ed67b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44c1a878-9e0e-43e6-982c-0e02b864b6ea", 
-            "title": "Saba Ezan\u0131"
+            "attribute_key": "serbest", 
+            "mb_attribute": "Serbest", 
+            "source": "http://musicbrainz.org/work/44c1a878-9e0e-43e6-982c-0e02b864b6ea"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

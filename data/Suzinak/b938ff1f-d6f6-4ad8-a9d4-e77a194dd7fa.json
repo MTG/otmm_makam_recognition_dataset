@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "lenkfahte", 
-            "mb_attribute": "Lenk Fahte", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/2db0d080-a33c-455a-8848-976fcdd99a8c"
         }, 
         {
-            "attribute_key": "lenkfahte", 
-            "mb_tag": "lenk fahte", 
-            "source": "http://musicbrainz.org/recording/b938ff1f-d6f6-4ad8-a9d4-e77a194dd7fa"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/2db0d080-a33c-455a-8848-976fcdd99a8c"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/b938ff1f-d6f6-4ad8-a9d4-e77a194dd7fa"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "b938ff1f-d6f6-4ad8-a9d4-e77a194dd7fa", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "2db0d080-a33c-455a-8848-976fcdd99a8c", 
+            "title": "Serde Heva-y\u0131 Kak\u00fcl"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/2db0d080-a33c-455a-8848-976fcdd99a8c"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/b938ff1f-d6f6-4ad8-a9d4-e77a194dd7fa"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 184, 
     "path": "../data/Suzinak/b938ff1f-d6f6-4ad8-a9d4-e77a194dd7fa.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2db0d080-a33c-455a-8848-976fcdd99a8c", 
-            "title": "Serde Heva-y\u0131 Kak\u00fcl"
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/2db0d080-a33c-455a-8848-976fcdd99a8c"
+        }, 
+        {
+            "attribute_key": "lenkfahte", 
+            "mb_tag": "lenk fahte", 
+            "source": "http://musicbrainz.org/recording/b938ff1f-d6f6-4ad8-a9d4-e77a194dd7fa"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

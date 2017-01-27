@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/daf75b49-1a58-4fc1-83d5-bde4eff3823d"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kudsi Erg\u00fcner Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "daf75b49-1a58-4fc1-83d5-bde4eff3823d", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 105, 
     "path": "../data/Hicazkar/daf75b49-1a58-4fc1-83d5-bde4eff3823d.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/daf75b49-1a58-4fc1-83d5-bde4eff3823d"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "hicazkar", 

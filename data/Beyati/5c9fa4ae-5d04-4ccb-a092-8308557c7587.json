@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5c9fa4ae-5d04-4ccb-a092-8308557c7587"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "5c9fa4ae-5d04-4ccb-a092-8308557c7587", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 233, 
     "path": "../data/Beyati/5c9fa4ae-5d04-4ccb-a092-8308557c7587.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5c9fa4ae-5d04-4ccb-a092-8308557c7587"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "beyati", 

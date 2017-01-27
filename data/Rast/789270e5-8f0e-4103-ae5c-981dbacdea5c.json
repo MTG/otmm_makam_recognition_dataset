@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Belgin G\u00f6k"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "789270e5-8f0e-4103-ae5c-981dbacdea5c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "cbbe9a40-5844-4c0c-b92d-5bb06ea345f2", 
+            "title": "\u0130stanbul'u Art\u0131k Hi\u00e7 Sevmiyorum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 233, 
     "path": "../data/Rast/789270e5-8f0e-4103-ae5c-981dbacdea5c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "cbbe9a40-5844-4c0c-b92d-5bb06ea345f2", 
-            "title": "\u0130stanbul'u Art\u0131k Hi\u00e7 Sevmiyorum"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/cbbe9a40-5844-4c0c-b92d-5bb06ea345f2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/789270e5-8f0e-4103-ae5c-981dbacdea5c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

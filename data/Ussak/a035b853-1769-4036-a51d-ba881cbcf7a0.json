@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a035b853-1769-4036-a51d-ba881cbcf7a0"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "a035b853-1769-4036-a51d-ba881cbcf7a0", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 242, 
     "path": "../data/Ussak/a035b853-1769-4036-a51d-ba881cbcf7a0.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a035b853-1769-4036-a51d-ba881cbcf7a0"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "ussak", 

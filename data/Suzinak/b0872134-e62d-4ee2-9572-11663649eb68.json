@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/b2014c94-0c24-4163-bec9-ca090f0c4f34"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/b2014c94-0c24-4163-bec9-ca090f0c4f34"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "b0872134-e62d-4ee2-9572-11663649eb68", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "b2014c94-0c24-4163-bec9-ca090f0c4f34", 
+            "title": "Sinede Bir Lahza Aram Eyle Gel"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/b2014c94-0c24-4163-bec9-ca090f0c4f34"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
@@ -70,10 +63,17 @@
     ], 
     "duration": 244, 
     "path": "../data/Suzinak/b0872134-e62d-4ee2-9572-11663649eb68.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b2014c94-0c24-4163-bec9-ca090f0c4f34", 
-            "title": "Sinede Bir Lahza Aram Eyle Gel"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/b2014c94-0c24-4163-bec9-ca090f0c4f34"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/b0872134-e62d-4ee2-9572-11663649eb68"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

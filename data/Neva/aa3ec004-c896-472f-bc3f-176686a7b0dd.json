@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/acb90f8b-c6a3-426c-ab21-2b0a9ff966d9"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/acb90f8b-c6a3-426c-ab21-2b0a9ff966d9"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "aa3ec004-c896-472f-bc3f-176686a7b0dd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "acb90f8b-c6a3-426c-ab21-2b0a9ff966d9", 
+            "title": "Ko Sinem Ate\u015fe Yans\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/acb90f8b-c6a3-426c-ab21-2b0a9ff966d9"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 173, 
     "path": "../data/Neva/aa3ec004-c896-472f-bc3f-176686a7b0dd.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "acb90f8b-c6a3-426c-ab21-2b0a9ff966d9", 
-            "title": "Ko Sinem Ate\u015fe Yans\u0131n"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/acb90f8b-c6a3-426c-ab21-2b0a9ff966d9"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/aa3ec004-c896-472f-bc3f-176686a7b0dd"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

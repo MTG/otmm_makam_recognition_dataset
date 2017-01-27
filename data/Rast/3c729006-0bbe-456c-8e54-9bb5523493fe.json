@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/3c729006-0bbe-456c-8e54-9bb5523493fe"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Ya\u015far Okur"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "3c729006-0bbe-456c-8e54-9bb5523493fe", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 223, 
     "path": "../data/Rast/3c729006-0bbe-456c-8e54-9bb5523493fe.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/3c729006-0bbe-456c-8e54-9bb5523493fe"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "rast", 

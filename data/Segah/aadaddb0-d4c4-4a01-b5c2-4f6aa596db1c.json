@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/81c5d8bc-5dee-4dd7-b6ff-32953df139ba"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/81c5d8bc-5dee-4dd7-b6ff-32953df139ba"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir \u00dcnl\u00fcataer"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "81c5d8bc-5dee-4dd7-b6ff-32953df139ba", 
+            "title": "Bu Tats\u0131z Ak\u015fam Saatinde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/81c5d8bc-5dee-4dd7-b6ff-32953df139ba"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -230,10 +223,17 @@
     ], 
     "duration": 288, 
     "path": "../data/Segah/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "81c5d8bc-5dee-4dd7-b6ff-32953df139ba", 
-            "title": "Bu Tats\u0131z Ak\u015fam Saatinde"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/81c5d8bc-5dee-4dd7-b6ff-32953df139ba"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/aadaddb0-d4c4-4a01-b5c2-4f6aa596db1c"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

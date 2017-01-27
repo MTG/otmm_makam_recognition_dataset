@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9c497fd7-61b2-4ad1-99b3-ffa98cc35347"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Aziz \u015eenol Filiz"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "9c497fd7-61b2-4ad1-99b3-ffa98cc35347", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 112, 
     "path": "../data/Saba/9c497fd7-61b2-4ad1-99b3-ffa98cc35347.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9c497fd7-61b2-4ad1-99b3-ffa98cc35347"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "saba", 

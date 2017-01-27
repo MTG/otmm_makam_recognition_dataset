@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/35260a95-1204-4100-915b-1217708ce60a"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/6d4cbf95-734b-4f38-bcbd-f05e68e2b473"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/35260a95-1204-4100-915b-1217708ce60a"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/6d4cbf95-734b-4f38-bcbd-f05e68e2b473"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Selma Sa\u011fba\u015f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "6d4cbf95-734b-4f38-bcbd-f05e68e2b473", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "35260a95-1204-4100-915b-1217708ce60a", 
+            "title": "Cana Sana A\u015f\u0131k Nice"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/35260a95-1204-4100-915b-1217708ce60a"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/6d4cbf95-734b-4f38-bcbd-f05e68e2b473"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Bestenigar/6d4cbf95-734b-4f38-bcbd-f05e68e2b473.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35260a95-1204-4100-915b-1217708ce60a", 
-            "title": "Cana Sana A\u015f\u0131k Nice"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/35260a95-1204-4100-915b-1217708ce60a"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/6d4cbf95-734b-4f38-bcbd-f05e68e2b473"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

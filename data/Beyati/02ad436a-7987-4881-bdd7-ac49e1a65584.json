@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "darbifetih", 
-            "mb_attribute": "Darb-\u0131 Fetih", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/f262511a-6aef-4c52-a59d-f4b1085b536a"
         }, 
         {
-            "attribute_key": "darbifetih", 
-            "mb_tag": "darb-\u0131 fetih", 
-            "source": "http://musicbrainz.org/recording/02ad436a-7987-4881-bdd7-ac49e1a65584"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/f262511a-6aef-4c52-a59d-f4b1085b536a"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/02ad436a-7987-4881-bdd7-ac49e1a65584"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "02ad436a-7987-4881-bdd7-ac49e1a65584", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "f262511a-6aef-4c52-a59d-f4b1085b536a", 
+            "title": "Beyati Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/f262511a-6aef-4c52-a59d-f4b1085b536a"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/02ad436a-7987-4881-bdd7-ac49e1a65584"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -89,10 +82,17 @@
     ], 
     "duration": 602, 
     "path": "../data/Beyati/02ad436a-7987-4881-bdd7-ac49e1a65584.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f262511a-6aef-4c52-a59d-f4b1085b536a", 
-            "title": "Beyati Pe\u015frevi"
+            "attribute_key": "darbifetih", 
+            "mb_attribute": "Darb-\u0131 Fetih", 
+            "source": "http://musicbrainz.org/work/f262511a-6aef-4c52-a59d-f4b1085b536a"
+        }, 
+        {
+            "attribute_key": "darbifetih", 
+            "mb_tag": "darb-\u0131 fetih", 
+            "source": "http://musicbrainz.org/recording/02ad436a-7987-4881-bdd7-ac49e1a65584"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

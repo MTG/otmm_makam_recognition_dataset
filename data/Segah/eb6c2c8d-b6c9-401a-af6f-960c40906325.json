@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/70f9b43a-184c-4ae0-b8cf-08897ce68ae8"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/eb6c2c8d-b6c9-401a-af6f-960c40906325"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/70f9b43a-184c-4ae0-b8cf-08897ce68ae8"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/eb6c2c8d-b6c9-401a-af6f-960c40906325"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "eb6c2c8d-b6c9-401a-af6f-960c40906325", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "70f9b43a-184c-4ae0-b8cf-08897ce68ae8", 
+            "title": "Ayr\u0131l\u0131k Yaman Kelime"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/70f9b43a-184c-4ae0-b8cf-08897ce68ae8"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/eb6c2c8d-b6c9-401a-af6f-960c40906325"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 236, 
     "path": "../data/Segah/eb6c2c8d-b6c9-401a-af6f-960c40906325.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "70f9b43a-184c-4ae0-b8cf-08897ce68ae8", 
-            "title": "Ayr\u0131l\u0131k Yaman Kelime"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/70f9b43a-184c-4ae0-b8cf-08897ce68ae8"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/eb6c2c8d-b6c9-401a-af6f-960c40906325"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

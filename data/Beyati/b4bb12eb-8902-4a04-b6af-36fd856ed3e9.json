@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/b4bb12eb-8902-4a04-b6af-36fd856ed3e9"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Ahmet \u00d6zhan"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "b4bb12eb-8902-4a04-b6af-36fd856ed3e9", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 89, 
     "path": "../data/Beyati/b4bb12eb-8902-4a04-b6af-36fd856ed3e9.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/b4bb12eb-8902-4a04-b6af-36fd856ed3e9"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "beyati", 

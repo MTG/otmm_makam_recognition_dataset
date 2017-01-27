@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/b4d1bfea-a1a6-42fb-bd4a-40116e395b4e"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/407bb0b4-f19b-42ab-8c0a-9f1263126951"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/b4d1bfea-a1a6-42fb-bd4a-40116e395b4e"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/407bb0b4-f19b-42ab-8c0a-9f1263126951"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "407bb0b4-f19b-42ab-8c0a-9f1263126951", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "b4d1bfea-a1a6-42fb-bd4a-40116e395b4e", 
+            "title": "Kerim Allah Rahim Allah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/b4d1bfea-a1a6-42fb-bd4a-40116e395b4e"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/407bb0b4-f19b-42ab-8c0a-9f1263126951"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "039679c2-d725-4105-90f4-91b568fec6e9", 
@@ -263,10 +256,17 @@
     ], 
     "duration": 186, 
     "path": "../data/Acemasiran/407bb0b4-f19b-42ab-8c0a-9f1263126951.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b4d1bfea-a1a6-42fb-bd4a-40116e395b4e", 
-            "title": "Kerim Allah Rahim Allah"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/b4d1bfea-a1a6-42fb-bd4a-40116e395b4e"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/407bb0b4-f19b-42ab-8c0a-9f1263126951"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

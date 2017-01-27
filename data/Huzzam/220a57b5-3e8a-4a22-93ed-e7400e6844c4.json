@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/220a57b5-3e8a-4a22-93ed-e7400e6844c4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/220a57b5-3e8a-4a22-93ed-e7400e6844c4"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u00d6zdal Orhon"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "220a57b5-3e8a-4a22-93ed-e7400e6844c4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "da42bcac-7633-44ec-8626-4356064695c1", 
+            "title": "\u015eu G\u00f6\u011fs\u00fcm Y\u0131rt\u0131l\u0131p"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/220a57b5-3e8a-4a22-93ed-e7400e6844c4"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
@@ -86,10 +79,17 @@
     ], 
     "duration": 180, 
     "path": "../data/Huzzam/220a57b5-3e8a-4a22-93ed-e7400e6844c4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "da42bcac-7633-44ec-8626-4356064695c1", 
-            "title": "\u015eu G\u00f6\u011fs\u00fcm Y\u0131rt\u0131l\u0131p"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/da42bcac-7633-44ec-8626-4356064695c1"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/220a57b5-3e8a-4a22-93ed-e7400e6844c4"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

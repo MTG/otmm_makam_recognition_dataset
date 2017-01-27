@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/72192768-f3f6-4749-9958-460db1c1638c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/72192768-f3f6-4749-9958-460db1c1638c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "72192768-f3f6-4749-9958-460db1c1638c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
+            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/72192768-f3f6-4749-9958-460db1c1638c"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 211, 
     "path": "../data/Segah/72192768-f3f6-4749-9958-460db1c1638c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "12567f93-4ae7-4198-a55b-1422b7a3935c", 
-            "title": "Olmaz \u0130la\u00e7 Sine-i Sad Pareme"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/12567f93-4ae7-4198-a55b-1422b7a3935c"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/72192768-f3f6-4749-9958-460db1c1638c"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

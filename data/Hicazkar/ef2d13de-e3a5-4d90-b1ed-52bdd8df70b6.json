@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "mars", 
+            "mb_attribute": "Mar\u015f", 
             "source": "http://musicbrainz.org/work/525d6a8e-3a60-462e-bea6-0a137216bb99"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/525d6a8e-3a60-462e-bea6-0a137216bb99"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "mars", 
+            "mb_tag": "mar\u015f", 
             "source": "http://musicbrainz.org/recording/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ya\u015far Okur"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "mars", 
-            "mb_attribute": "Mar\u015f", 
+            "mbid": "525d6a8e-3a60-462e-bea6-0a137216bb99", 
+            "title": "Vicdan\u0131 Muazzam Olan Osmanl\u0131y\u0131z Biz"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/525d6a8e-3a60-462e-bea6-0a137216bb99"
         }, 
         {
-            "attribute_key": "mars", 
-            "mb_tag": "mar\u015f", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "86c5c438-de64-47f1-8493-55ea44503199", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 169, 
     "path": "../data/Hicazkar/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "525d6a8e-3a60-462e-bea6-0a137216bb99", 
-            "title": "Vicdan\u0131 Muazzam Olan Osmanl\u0131y\u0131z Biz"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/525d6a8e-3a60-462e-bea6-0a137216bb99"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ef2d13de-e3a5-4d90-b1ed-52bdd8df70b6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/1fe305f2-b181-4648-b686-c50f302c6ae2"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/1fe305f2-b181-4648-b686-c50f302c6ae2"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zuhal E\u011filmez"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "1fe305f2-b181-4648-b686-c50f302c6ae2", 
+            "title": "Bir Bahar Ak\u015fam\u0131nda Yine Bana D\u00f6nsen"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/1fe305f2-b181-4648-b686-c50f302c6ae2"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -182,10 +175,17 @@
     ], 
     "duration": 259, 
     "path": "../data/Acemkurdi/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1fe305f2-b181-4648-b686-c50f302c6ae2", 
-            "title": "Bir Bahar Ak\u015fam\u0131nda Yine Bana D\u00f6nsen"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1fe305f2-b181-4648-b686-c50f302c6ae2"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/2bd9066e-5ab1-4b0a-a95e-e2bad5eeaf24"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

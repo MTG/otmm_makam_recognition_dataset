@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "75c034d1-11e0-4851-93d8-a07ba41fae81", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "c2a3768e-6982-4c75-a30b-6abf757327bb", 
+            "title": "Emeli Meyl-i Vefa"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "26d31b66-ec11-4575-b599-6675285e0906", 
@@ -117,10 +110,17 @@
     ], 
     "duration": 232, 
     "path": "../data/Beyati/75c034d1-11e0-4851-93d8-a07ba41fae81.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c2a3768e-6982-4c75-a30b-6abf757327bb", 
-            "title": "Emeli Meyl-i Vefa"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c2a3768e-6982-4c75-a30b-6abf757327bb"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

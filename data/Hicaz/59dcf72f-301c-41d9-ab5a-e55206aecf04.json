@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/59dcf72f-301c-41d9-ab5a-e55206aecf04"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/59dcf72f-301c-41d9-ab5a-e55206aecf04"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u00d6zdal Orhon"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "59dcf72f-301c-41d9-ab5a-e55206aecf04", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "1d3193f4-eb7b-47db-8f1c-d3049736a45c", 
+            "title": "Art\u0131k Bu Solan Bah\u00e7ede B\u00fclb\u00fcllere Yer Yok"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/59dcf72f-301c-41d9-ab5a-e55206aecf04"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "645ef10f-0919-4e43-ae49-7e9c3c092edc", 
@@ -78,10 +71,17 @@
     ], 
     "duration": 189, 
     "path": "../data/Hicaz/59dcf72f-301c-41d9-ab5a-e55206aecf04.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1d3193f4-eb7b-47db-8f1c-d3049736a45c", 
-            "title": "Art\u0131k Bu Solan Bah\u00e7ede B\u00fclb\u00fcllere Yer Yok"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/1d3193f4-eb7b-47db-8f1c-d3049736a45c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/59dcf72f-301c-41d9-ab5a-e55206aecf04"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

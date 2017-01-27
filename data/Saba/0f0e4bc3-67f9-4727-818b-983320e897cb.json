@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "trio instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
         }, 
         {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/0f0e4bc3-67f9-4727-818b-983320e897cb"
         }
     ], 
@@ -40,22 +34,26 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Trio instrumental", 
     "mbid": "0f0e4bc3-67f9-4727-818b-983320e897cb", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Saba Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/0f0e4bc3-67f9-4727-818b-983320e897cb"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
@@ -84,10 +82,12 @@
     ], 
     "duration": 118, 
     "path": "../data/Saba/0f0e4bc3-67f9-4727-818b-983320e897cb.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
-            "title": "Saba Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/4b6540da-6806-4521-aa86-389615d475e7"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

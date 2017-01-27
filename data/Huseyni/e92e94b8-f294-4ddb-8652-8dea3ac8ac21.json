@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "oyunhavasi", 
+            "mb_attribute": "Oyunhavas\u0131", 
             "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "oyunhavasi", 
+            "mb_tag": "oyunhavas\u0131", 
             "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
         }
     ], 
@@ -45,22 +34,26 @@
             "name": "Necati \u00c7elik"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "e92e94b8-f294-4ddb-8652-8dea3ac8ac21", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_attribute": "Oyunhavas\u0131", 
+            "mbid": "93f31506-25aa-49da-96cd-660c6a2e44bf", 
+            "title": "\u00c7e\u00e7en K\u0131z\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
         }, 
         {
-            "attribute_key": "oyunhavasi", 
-            "mb_tag": "oyunhavas\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
@@ -73,10 +66,17 @@
     ], 
     "duration": 186, 
     "path": "../data/Huseyni/e92e94b8-f294-4ddb-8652-8dea3ac8ac21.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "93f31506-25aa-49da-96cd-660c6a2e44bf", 
-            "title": "\u00c7e\u00e7en K\u0131z\u0131"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93f31506-25aa-49da-96cd-660c6a2e44bf"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/e92e94b8-f294-4ddb-8652-8dea3ac8ac21"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

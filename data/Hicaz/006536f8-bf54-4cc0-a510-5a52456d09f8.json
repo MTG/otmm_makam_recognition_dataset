@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ceeaeca4-bb2b-4443-96cf-3f809a23364d"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/006536f8-bf54-4cc0-a510-5a52456d09f8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/ceeaeca4-bb2b-4443-96cf-3f809a23364d"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/006536f8-bf54-4cc0-a510-5a52456d09f8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "006536f8-bf54-4cc0-a510-5a52456d09f8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ceeaeca4-bb2b-4443-96cf-3f809a23364d", 
+            "title": "Ye\u015fil G\u00f6zlerinden Muhabbet Kapt\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/ceeaeca4-bb2b-4443-96cf-3f809a23364d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/006536f8-bf54-4cc0-a510-5a52456d09f8"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 171, 
     "path": "../data/Hicaz/006536f8-bf54-4cc0-a510-5a52456d09f8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ceeaeca4-bb2b-4443-96cf-3f809a23364d", 
-            "title": "Ye\u015fil G\u00f6zlerinden Muhabbet Kapt\u0131m"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/ceeaeca4-bb2b-4443-96cf-3f809a23364d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/006536f8-bf54-4cc0-a510-5a52456d09f8"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/ec543caa-9f83-438c-aeca-a9f5bace6553"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/db146670-0681-4531-acd4-a296eca2e2b7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/ec543caa-9f83-438c-aeca-a9f5bace6553"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/db146670-0681-4531-acd4-a296eca2e2b7"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "db146670-0681-4531-acd4-a296eca2e2b7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "ec543caa-9f83-438c-aeca-a9f5bace6553", 
+            "title": "Durmaz Yanar V\u00fccudum"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/ec543caa-9f83-438c-aeca-a9f5bace6553"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/db146670-0681-4531-acd4-a296eca2e2b7"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "039679c2-d725-4105-90f4-91b568fec6e9", 
@@ -263,10 +256,17 @@
     ], 
     "duration": 178, 
     "path": "../data/Mahur/db146670-0681-4531-acd4-a296eca2e2b7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ec543caa-9f83-438c-aeca-a9f5bace6553", 
-            "title": "Durmaz Yanar V\u00fccudum"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/ec543caa-9f83-438c-aeca-a9f5bace6553"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/db146670-0681-4531-acd4-a296eca2e2b7"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

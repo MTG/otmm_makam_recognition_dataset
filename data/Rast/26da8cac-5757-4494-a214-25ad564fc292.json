@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "zeybek", 
+            "mb_attribute": "Zeybek", 
             "source": "http://musicbrainz.org/work/e115d32c-2955-4278-bb13-46de299304bb"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/26da8cac-5757-4494-a214-25ad564fc292"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/e115d32c-2955-4278-bb13-46de299304bb"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "zeybek", 
+            "mb_tag": "zeybek", 
             "source": "http://musicbrainz.org/recording/26da8cac-5757-4494-a214-25ad564fc292"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03a3\u03b9\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "26da8cac-5757-4494-a214-25ad564fc292", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "zeybek", 
-            "mb_attribute": "Zeybek", 
+            "mbid": "e115d32c-2955-4278-bb13-46de299304bb", 
+            "title": "Rast Zeybek"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/e115d32c-2955-4278-bb13-46de299304bb"
         }, 
         {
-            "attribute_key": "zeybek", 
-            "mb_tag": "zeybek", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/26da8cac-5757-4494-a214-25ad564fc292"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "04b094d6-4b13-4f01-b010-3c96d6561fa0", 
@@ -110,10 +103,17 @@
     ], 
     "duration": 256, 
     "path": "../data/Rast/26da8cac-5757-4494-a214-25ad564fc292.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e115d32c-2955-4278-bb13-46de299304bb", 
-            "title": "Rast Zeybek"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/e115d32c-2955-4278-bb13-46de299304bb"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/26da8cac-5757-4494-a214-25ad564fc292"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

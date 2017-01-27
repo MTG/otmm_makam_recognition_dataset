@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b56bb119-57da-4b19-a2b7-e3e585b2681c"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/184886ba-9e1b-41c8-8c0f-fdd351f08817"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/b56bb119-57da-4b19-a2b7-e3e585b2681c"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/184886ba-9e1b-41c8-8c0f-fdd351f08817"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "184886ba-9e1b-41c8-8c0f-fdd351f08817", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b56bb119-57da-4b19-a2b7-e3e585b2681c", 
+            "title": "Yadeller Ald\u0131 Beni"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/b56bb119-57da-4b19-a2b7-e3e585b2681c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/184886ba-9e1b-41c8-8c0f-fdd351f08817"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 239, 
     "path": "../data/Hicaz/184886ba-9e1b-41c8-8c0f-fdd351f08817.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b56bb119-57da-4b19-a2b7-e3e585b2681c", 
-            "title": "Yadeller Ald\u0131 Beni"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b56bb119-57da-4b19-a2b7-e3e585b2681c"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/184886ba-9e1b-41c8-8c0f-fdd351f08817"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

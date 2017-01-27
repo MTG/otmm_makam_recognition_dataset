@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/621d73b5-5d99-47d0-8add-69b33c9c93bf"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/bb890204-5962-4ea5-a50d-a54193b73d8c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/621d73b5-5d99-47d0-8add-69b33c9c93bf"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/bb890204-5962-4ea5-a50d-a54193b73d8c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "bb890204-5962-4ea5-a50d-a54193b73d8c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "621d73b5-5d99-47d0-8add-69b33c9c93bf", 
+            "title": "Ey Mutrib-i Zevk A\u015fina"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/621d73b5-5d99-47d0-8add-69b33c9c93bf"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/bb890204-5962-4ea5-a50d-a54193b73d8c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -230,10 +223,17 @@
     ], 
     "duration": 163, 
     "path": "../data/Kurdilihicazkar/bb890204-5962-4ea5-a50d-a54193b73d8c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "621d73b5-5d99-47d0-8add-69b33c9c93bf", 
-            "title": "Ey Mutrib-i Zevk A\u015fina"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/621d73b5-5d99-47d0-8add-69b33c9c93bf"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/bb890204-5962-4ea5-a50d-a54193b73d8c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

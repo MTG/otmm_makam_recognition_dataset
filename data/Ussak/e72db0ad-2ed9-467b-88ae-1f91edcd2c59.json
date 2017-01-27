@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
         }, 
         {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/e72db0ad-2ed9-467b-88ae-1f91edcd2c59"
         }
     ], 
@@ -36,22 +30,26 @@
             "name": "Derya T\u00fcrkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "e72db0ad-2ed9-467b-88ae-1f91edcd2c59", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/e72db0ad-2ed9-467b-88ae-1f91edcd2c59"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
@@ -72,10 +70,12 @@
     ], 
     "duration": 258, 
     "path": "../data/Ussak/e72db0ad-2ed9-467b-88ae-1f91edcd2c59.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
-            "title": "U\u015f\u015fak Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/ad9fb46e-eb95-4446-93ad-e3bf13c01a95"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

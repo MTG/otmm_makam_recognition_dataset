@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/80513b98-ae8c-455f-ad80-343a0bb764ed"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/fa8a4b53-bafb-467c-84ea-3089c28f9463"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/80513b98-ae8c-455f-ad80-343a0bb764ed"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/fa8a4b53-bafb-467c-84ea-3089c28f9463"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Vedat \u00c7etinkaya"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "fa8a4b53-bafb-467c-84ea-3089c28f9463", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "80513b98-ae8c-455f-ad80-343a0bb764ed", 
+            "title": "Yine Bir S\u0131z\u0131 Var \u0130\u00e7imde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/80513b98-ae8c-455f-ad80-343a0bb764ed"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/fa8a4b53-bafb-467c-84ea-3089c28f9463"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "d4ebc3e7-df4a-4051-a277-ddfc4ccb2663", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 193, 
     "path": "../data/Huzzam/fa8a4b53-bafb-467c-84ea-3089c28f9463.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "80513b98-ae8c-455f-ad80-343a0bb764ed", 
-            "title": "Yine Bir S\u0131z\u0131 Var \u0130\u00e7imde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/80513b98-ae8c-455f-ad80-343a0bb764ed"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/fa8a4b53-bafb-467c-84ea-3089c28f9463"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

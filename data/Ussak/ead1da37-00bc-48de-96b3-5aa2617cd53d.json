@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "raksaksagi", 
-            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
         }, 
         {
-            "attribute_key": "raksaksagi_ii", 
-            "mb_tag": "raksaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/ead1da37-00bc-48de-96b3-5aa2617cd53d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ead1da37-00bc-48de-96b3-5aa2617cd53d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Perihan Alt\u0131nda\u011f S\u00f6zeri"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "ead1da37-00bc-48de-96b3-5aa2617cd53d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "67519c81-f573-4580-8256-a764bf396576", 
+            "title": "Gemim Gidiyor Ba\u015ftan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/ead1da37-00bc-48de-96b3-5aa2617cd53d"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "c5d7aa23-f016-46d2-af85-a2997799da15", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 208, 
     "path": "../data/Ussak/ead1da37-00bc-48de-96b3-5aa2617cd53d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "67519c81-f573-4580-8256-a764bf396576", 
-            "title": "Gemim Gidiyor Ba\u015ftan"
+            "attribute_key": "raksaksagi", 
+            "mb_attribute": "Raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/67519c81-f573-4580-8256-a764bf396576"
+        }, 
+        {
+            "attribute_key": "raksaksagi_ii", 
+            "mb_tag": "raksaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/ead1da37-00bc-48de-96b3-5aa2617cd53d"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

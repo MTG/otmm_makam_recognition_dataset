@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devrikebir", 
-            "source": "http://musicbrainz.org/recording/c3eb4ecc-2602-4804-be04-47740b8fa3bd"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/c3eb4ecc-2602-4804-be04-47740b8fa3bd"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Klasik T\u00fcrk M\u00fczi\u011fi Orkestras\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "c3eb4ecc-2602-4804-be04-47740b8fa3bd", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "title": "Acema\u015firan Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/c3eb4ecc-2602-4804-be04-47740b8fa3bd"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0518ef77-8346-4714-82d3-19adfba375c7", 
@@ -179,10 +172,17 @@
     ], 
     "duration": 147, 
     "path": "../data/Acemasiran/c3eb4ecc-2602-4804-be04-47740b8fa3bd.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
-            "title": "Acema\u015firan Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/01412a5d-1858-43b3-b5b0-78f383675e9b"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devrikebir", 
+            "source": "http://musicbrainz.org/recording/c3eb4ecc-2602-4804-be04-47740b8fa3bd"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

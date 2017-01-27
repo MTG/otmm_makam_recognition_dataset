@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Ensemble instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/ff1c2be9-fbba-4fb2-a457-037a59c8ce24"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "ff1c2be9-fbba-4fb2-a457-037a59c8ce24", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -77,13 +83,7 @@
     ], 
     "duration": 50, 
     "path": "../data/Segah/ff1c2be9-fbba-4fb2-a457-037a59c8ce24.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/ff1c2be9-fbba-4fb2-a457-037a59c8ce24"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/291c258f-1108-4810-8b4a-9f5b4fb97d47"
         }, 
         {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/24f549dd-3fa4-4e9b-a356-778fbbfd5cad"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/291c258f-1108-4810-8b4a-9f5b4fb97d47"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/24f549dd-3fa4-4e9b-a356-778fbbfd5cad"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ahmet \u00d6zhan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "24f549dd-3fa4-4e9b-a356-778fbbfd5cad", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "291c258f-1108-4810-8b4a-9f5b4fb97d47", 
+            "title": "Elveda Bizden Sana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/291c258f-1108-4810-8b4a-9f5b4fb97d47"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/24f549dd-3fa4-4e9b-a356-778fbbfd5cad"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 198, 
     "path": "../data/Acemasiran/24f549dd-3fa4-4e9b-a356-778fbbfd5cad.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "291c258f-1108-4810-8b4a-9f5b4fb97d47", 
-            "title": "Elveda Bizden Sana"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/291c258f-1108-4810-8b4a-9f5b4fb97d47"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/24f549dd-3fa4-4e9b-a356-778fbbfd5cad"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

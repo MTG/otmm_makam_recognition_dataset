@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/98dedfb7-6126-4f5d-b6cc-dd70d701a250"
         }, 
         {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/4eed90f3-9585-41ec-9e57-f11069576751"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/98dedfb7-6126-4f5d-b6cc-dd70d701a250"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/4eed90f3-9585-41ec-9e57-f11069576751"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bosphorus"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "4eed90f3-9585-41ec-9e57-f11069576751", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "98dedfb7-6126-4f5d-b6cc-dd70d701a250", 
+            "title": "U\u015f\u015fak Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/98dedfb7-6126-4f5d-b6cc-dd70d701a250"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/4eed90f3-9585-41ec-9e57-f11069576751"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0518ffd6-5b24-46a4-9045-773b741ee5f5", 
@@ -206,10 +199,17 @@
     ], 
     "duration": 476, 
     "path": "../data/Ussak/4eed90f3-9585-41ec-9e57-f11069576751.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "98dedfb7-6126-4f5d-b6cc-dd70d701a250", 
-            "title": "U\u015f\u015fak Pe\u015frev"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/98dedfb7-6126-4f5d-b6cc-dd70d701a250"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/4eed90f3-9585-41ec-9e57-f11069576751"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

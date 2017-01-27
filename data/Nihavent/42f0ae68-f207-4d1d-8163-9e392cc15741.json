@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai_ii", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "42f0ae68-f207-4d1d-8163-9e392cc15741", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "51374aea-cbaa-4c47-a030-2adbeac48d61", 
+            "title": "S\u00fcz\u00fcp S\u00fcz\u00fcp de Ey Melek"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -80,10 +73,17 @@
     ], 
     "duration": 210, 
     "path": "../data/Nihavent/42f0ae68-f207-4d1d-8163-9e392cc15741.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "51374aea-cbaa-4c47-a030-2adbeac48d61", 
-            "title": "S\u00fcz\u00fcp S\u00fcz\u00fcp de Ey Melek"
+            "attribute_key": "yuruksemai_ii", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai II", 
+            "source": "http://musicbrainz.org/work/51374aea-cbaa-4c47-a030-2adbeac48d61"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/42f0ae68-f207-4d1d-8163-9e392cc15741"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

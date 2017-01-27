@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/61a59c89-b6e8-4902-960d-5a838c95c520"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Hasan Esen"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "61a59c89-b6e8-4902-960d-5a838c95c520", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 174, 
     "path": "../data/Ussak/61a59c89-b6e8-4902-960d-5a838c95c520.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/61a59c89-b6e8-4902-960d-5a838c95c520"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "ussak", 

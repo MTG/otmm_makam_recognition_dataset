@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c935dc34-524b-418d-8e3f-f92d33c6c3d6", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "c42b0d60-24bb-4148-ad57-676a09997fe6", 
+            "title": "\u0130zmir'in \u0130\u00e7inde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 237, 
     "path": "../data/Hicazkar/c935dc34-524b-418d-8e3f-f92d33c6c3d6.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c42b0d60-24bb-4148-ad57-676a09997fe6", 
-            "title": "\u0130zmir'in \u0130\u00e7inde"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/c42b0d60-24bb-4148-ad57-676a09997fe6"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/c935dc34-524b-418d-8e3f-f92d33c6c3d6"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

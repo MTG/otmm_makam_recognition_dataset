@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "nimsakil", 
-            "mb_attribute": "Nimsakil", 
+            "attribute_key": "kar", 
+            "mb_attribute": "Kar", 
             "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
         }, 
         {
-            "attribute_key": "nimsakil", 
-            "mb_tag": "nimsakil", 
-            "source": "http://musicbrainz.org/recording/b40a6797-2615-4663-8e6f-85c40680a92a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "kar", 
+            "mb_tag": "kar", 
             "source": "http://musicbrainz.org/recording/b40a6797-2615-4663-8e6f-85c40680a92a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "b40a6797-2615-4663-8e6f-85c40680a92a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kar", 
-            "mb_attribute": "Kar", 
+            "mbid": "9cfa97f7-5fe2-4578-907a-a4b722a20f74", 
+            "title": "G\u00fclbin-i Iy\u015f Midemed Saki-i G\u00fcl-izar Ku"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
         }, 
         {
-            "attribute_key": "kar", 
-            "mb_tag": "kar", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/b40a6797-2615-4663-8e6f-85c40680a92a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -375,10 +368,17 @@
     ], 
     "duration": 788, 
     "path": "../data/Neva/b40a6797-2615-4663-8e6f-85c40680a92a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9cfa97f7-5fe2-4578-907a-a4b722a20f74", 
-            "title": "G\u00fclbin-i Iy\u015f Midemed Saki-i G\u00fcl-izar Ku"
+            "attribute_key": "nimsakil", 
+            "mb_attribute": "Nimsakil", 
+            "source": "http://musicbrainz.org/work/9cfa97f7-5fe2-4578-907a-a4b722a20f74"
+        }, 
+        {
+            "attribute_key": "nimsakil", 
+            "mb_tag": "nimsakil", 
+            "source": "http://musicbrainz.org/recording/b40a6797-2615-4663-8e6f-85c40680a92a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

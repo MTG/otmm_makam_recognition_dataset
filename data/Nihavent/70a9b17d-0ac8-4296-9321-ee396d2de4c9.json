@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/5e5aa6ce-3295-42ea-84ce-16005862d7b0"
         }, 
         {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Hulusi Babal\u0131k"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "70a9b17d-0ac8-4296-9321-ee396d2de4c9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "5e5aa6ce-3295-42ea-84ce-16005862d7b0", 
+            "title": "Nihavent Saz Semai"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/5e5aa6ce-3295-42ea-84ce-16005862d7b0"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
@@ -61,10 +59,12 @@
     ], 
     "duration": 260, 
     "path": "../data/Nihavent/70a9b17d-0ac8-4296-9321-ee396d2de4c9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5e5aa6ce-3295-42ea-84ce-16005862d7b0", 
-            "title": "Nihavent Saz Semai"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/70a9b17d-0ac8-4296-9321-ee396d2de4c9"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
-            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
-        }, 
-        {
-            "attribute_key": "huzzam", 
-            "mb_tag": "h\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e2e5febb-1ad2-4478-adf6-47e4ee534b16", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "05118462-66f2-4506-bf76-3faa5dca485e", 
+            "title": "Yine Kalbim Co\u015far A\u011flar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huzzam", 
+            "mb_tag": "h\u00fczzam", 
             "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
@@ -150,10 +143,17 @@
     ], 
     "duration": 171, 
     "path": "../data/Huzzam/e2e5febb-1ad2-4478-adf6-47e4ee534b16.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05118462-66f2-4506-bf76-3faa5dca485e", 
-            "title": "Yine Kalbim Co\u015far A\u011flar"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/05118462-66f2-4506-bf76-3faa5dca485e"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e2e5febb-1ad2-4478-adf6-47e4ee534b16"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

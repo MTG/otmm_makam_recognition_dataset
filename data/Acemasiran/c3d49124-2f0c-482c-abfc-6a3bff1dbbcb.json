@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "c3d49124-2f0c-482c-abfc-6a3bff1dbbcb", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "3bb19d54-1c13-4f52-bee0-a9f183037383", 
+            "title": "Geldin Geri Gider Misin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -70,10 +63,17 @@
     ], 
     "duration": 141, 
     "path": "../data/Acemasiran/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3bb19d54-1c13-4f52-bee0-a9f183037383", 
-            "title": "Geldin Geri Gider Misin"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/3bb19d54-1c13-4f52-bee0-a9f183037383"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/c3d49124-2f0c-482c-abfc-6a3bff1dbbcb"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

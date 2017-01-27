@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Melihat G\u00fclses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "de395649-6132-41c4-96cf-824ccb707e7d", 
+            "title": "Alt\u0131n Tasta G\u00fcl Kuruttum Aman Ali'm"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -209,10 +202,17 @@
     ], 
     "duration": 211, 
     "path": "../data/Acemkurdi/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "de395649-6132-41c4-96cf-824ccb707e7d", 
-            "title": "Alt\u0131n Tasta G\u00fcl Kuruttum Aman Ali'm"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/de395649-6132-41c4-96cf-824ccb707e7d"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/21c3e9f5-80ce-4cfc-9d9e-a7dd57b9d3c9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

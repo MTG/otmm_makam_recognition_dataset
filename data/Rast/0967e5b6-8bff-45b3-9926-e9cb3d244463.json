@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e365e0b7-42ba-4abe-bf3e-3d32d7e94a0c"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/0967e5b6-8bff-45b3-9926-e9cb3d244463"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/e365e0b7-42ba-4abe-bf3e-3d32d7e94a0c"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0967e5b6-8bff-45b3-9926-e9cb3d244463"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fczeyyen Senar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "0967e5b6-8bff-45b3-9926-e9cb3d244463", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e365e0b7-42ba-4abe-bf3e-3d32d7e94a0c", 
+            "title": "Sa\u00e7lar\u0131n Tarumar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/e365e0b7-42ba-4abe-bf3e-3d32d7e94a0c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/0967e5b6-8bff-45b3-9926-e9cb3d244463"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "6fa6cab0-1197-4d00-b451-275fc6b4caf5", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 209, 
     "path": "../data/Rast/0967e5b6-8bff-45b3-9926-e9cb3d244463.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e365e0b7-42ba-4abe-bf3e-3d32d7e94a0c", 
-            "title": "Sa\u00e7lar\u0131n Tarumar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/e365e0b7-42ba-4abe-bf3e-3d32d7e94a0c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/0967e5b6-8bff-45b3-9926-e9cb3d244463"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

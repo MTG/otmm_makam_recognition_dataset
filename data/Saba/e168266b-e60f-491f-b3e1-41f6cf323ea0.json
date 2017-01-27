@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e168266b-e60f-491f-b3e1-41f6cf323ea0"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "e168266b-e60f-491f-b3e1-41f6cf323ea0", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 617, 
     "path": "../data/Saba/e168266b-e60f-491f-b3e1-41f6cf323ea0.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e168266b-e60f-491f-b3e1-41f6cf323ea0"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "saba", 

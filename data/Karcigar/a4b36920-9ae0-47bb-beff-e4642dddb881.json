@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "kocekce", 
+            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
             "source": "http://musicbrainz.org/work/96d0c31d-0e7a-4c00-a0cc-f261361131b4"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/a4b36920-9ae0-47bb-beff-e4642dddb881"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/96d0c31d-0e7a-4c00-a0cc-f261361131b4"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "kocekce", 
+            "mb_tag": "k\u00f6\u00e7ek\u00e7e", 
             "source": "http://musicbrainz.org/recording/a4b36920-9ae0-47bb-beff-e4642dddb881"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Lalezar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "a4b36920-9ae0-47bb-beff-e4642dddb881", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kocekce", 
-            "mb_attribute": "K\u00f6\u00e7ek\u00e7e", 
+            "mbid": "96d0c31d-0e7a-4c00-a0cc-f261361131b4", 
+            "title": "\u0130lkbahar Olunca"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/96d0c31d-0e7a-4c00-a0cc-f261361131b4"
         }, 
         {
-            "attribute_key": "kocekce", 
-            "mb_tag": "k\u00f6\u00e7ek\u00e7e", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/a4b36920-9ae0-47bb-beff-e4642dddb881"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -106,10 +99,17 @@
     ], 
     "duration": 287, 
     "path": "../data/Karcigar/a4b36920-9ae0-47bb-beff-e4642dddb881.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "96d0c31d-0e7a-4c00-a0cc-f261361131b4", 
-            "title": "\u0130lkbahar Olunca"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/96d0c31d-0e7a-4c00-a0cc-f261361131b4"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/a4b36920-9ae0-47bb-beff-e4642dddb881"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

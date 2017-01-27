@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "trio instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sazeseri", 
+            "mb_attribute": "Sazeseri", 
             "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/391ad327-e834-42c6-baf0-35e81582ef63"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sazeseri", 
+            "mb_tag": "sazeseri", 
             "source": "http://musicbrainz.org/recording/391ad327-e834-42c6-baf0-35e81582ef63"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Lalezar"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Trio instrumental", 
     "mbid": "391ad327-e834-42c6-baf0-35e81582ef63", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazeseri", 
-            "mb_attribute": "Sazeseri", 
+            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
+            "title": "Hicazkar Saz Eseri"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
         }, 
         {
-            "attribute_key": "sazeseri", 
-            "mb_tag": "sazeseri", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/391ad327-e834-42c6-baf0-35e81582ef63"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
@@ -81,10 +74,17 @@
     ], 
     "duration": 300, 
     "path": "../data/Hicazkar/391ad327-e834-42c6-baf0-35e81582ef63.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "413364a2-fbed-4f89-8e4e-fc1a35700b42", 
-            "title": "Hicazkar Saz Eseri"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/413364a2-fbed-4f89-8e4e-fc1a35700b42"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/391ad327-e834-42c6-baf0-35e81582ef63"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

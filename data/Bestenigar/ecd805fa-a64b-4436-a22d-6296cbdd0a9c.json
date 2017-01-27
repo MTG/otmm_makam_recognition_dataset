@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "attribute_key": "nakis", 
+            "mb_attribute": "Nak\u0131\u015f", 
             "source": "http://musicbrainz.org/work/95407c40-399c-4af0-bed5-ebad201a10bf"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/ecd805fa-a64b-4436-a22d-6296cbdd0a9c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/95407c40-399c-4af0-bed5-ebad201a10bf"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "yuruksemai_nakis", 
+            "mb_tag": "y\u00fcr\u00fcksemai nak\u0131\u015f", 
             "source": "http://musicbrainz.org/recording/ecd805fa-a64b-4436-a22d-6296cbdd0a9c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ecd805fa-a64b-4436-a22d-6296cbdd0a9c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "nakis", 
-            "mb_attribute": "Nak\u0131\u015f", 
+            "mbid": "95407c40-399c-4af0-bed5-ebad201a10bf", 
+            "title": "Dervi\u015f Recayi Padi\u015fahi Nekened"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/95407c40-399c-4af0-bed5-ebad201a10bf"
         }, 
         {
-            "attribute_key": "yuruksemai_nakis", 
-            "mb_tag": "y\u00fcr\u00fcksemai nak\u0131\u015f", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/ecd805fa-a64b-4436-a22d-6296cbdd0a9c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 311, 
     "path": "../data/Bestenigar/ecd805fa-a64b-4436-a22d-6296cbdd0a9c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "95407c40-399c-4af0-bed5-ebad201a10bf", 
-            "title": "Dervi\u015f Recayi Padi\u015fahi Nekened"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/95407c40-399c-4af0-bed5-ebad201a10bf"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/ecd805fa-a64b-4436-a22d-6296cbdd0a9c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

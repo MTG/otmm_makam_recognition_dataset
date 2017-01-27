@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/5cd61f0a-a996-4a26-8251-d02681238d39"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/ede004ae-0c71-44d3-9cf7-576ea3bde28c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/5cd61f0a-a996-4a26-8251-d02681238d39"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ede004ae-0c71-44d3-9cf7-576ea3bde28c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Haf\u0131z Kemal Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ede004ae-0c71-44d3-9cf7-576ea3bde28c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "5cd61f0a-a996-4a26-8251-d02681238d39", 
+            "title": "Cismin Gibi Ruhun da G\u00fczel Zannedip Ey Mah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/5cd61f0a-a996-4a26-8251-d02681238d39"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/ede004ae-0c71-44d3-9cf7-576ea3bde28c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "12b365b8-7866-4d90-a0e2-0c2edbe6bb81", 
@@ -86,10 +79,17 @@
     ], 
     "duration": 168, 
     "path": "../data/Kurdilihicazkar/ede004ae-0c71-44d3-9cf7-576ea3bde28c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "5cd61f0a-a996-4a26-8251-d02681238d39", 
-            "title": "Cismin Gibi Ruhun da G\u00fczel Zannedip Ey Mah"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/5cd61f0a-a996-4a26-8251-d02681238d39"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/ede004ae-0c71-44d3-9cf7-576ea3bde28c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

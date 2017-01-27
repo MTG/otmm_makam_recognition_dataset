@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/dd1ab37c-a16a-44ed-b43a-faaf85e67314"
-        }, 
-        {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/dd1ab37c-a16a-44ed-b43a-faaf85e67314"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "aa4ec600-4b32-451c-9c51-226001dd51ef", 
-            "title": "T\u00fcrk M\u00fczi\u011finde 75 B\u00fcy\u00fck Bestekar/ 75 Great Composers In Turkish Classical Music"
-        }
-    ], 
-    "title": "Gelmiyorsun Yak\u0131yor Ba\u011fr\u0131m\u0131", 
-    "url": "http://musicbrainz.org/work/9282df6d-565e-41b1-b0c9-758da6afb442", 
-    "artist_credits": [
-        {
-            "mbid": "4ab06465-1b36-43d9-974c-c8b0a61ff0cf", 
-            "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "mbid": "9282df6d-565e-41b1-b0c9-758da6afb442", 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "sarki", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "aa4ec600-4b32-451c-9c51-226001dd51ef", 
+            "title": "T\u00fcrk M\u00fczi\u011finde 75 B\u00fcy\u00fck Bestekar/ 75 Great Composers In Turkish Classical Music"
+        }
+    ], 
+    "title": "Gelmiyorsun Yak\u0131yor Ba\u011fr\u0131m\u0131", 
+    "url": "http://musicbrainz.org/work/9282df6d-565e-41b1-b0c9-758da6afb442", 
+    "artist_credits": [
+        {
+            "mbid": "4ab06465-1b36-43d9-974c-c8b0a61ff0cf", 
+            "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
+        }
+    ], 
+    "mbid": "9282df6d-565e-41b1-b0c9-758da6afb442", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "dd1ab37c-a16a-44ed-b43a-faaf85e67314", 
+            "title": "Gelmiyorsun Yak\u0131yor Ba\u011fr\u0131m\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/work/dd1ab37c-a16a-44ed-b43a-faaf85e67314"
+        }, 
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
+            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
+        }
+    ], 
     "artists": [
         {
             "mbid": "1aa10fb2-d9e1-489c-b66f-543e94cf0cbe", 
@@ -240,10 +228,22 @@
     ], 
     "duration": 221, 
     "path": "../data/Kurdilihicazkar/9282df6d-565e-41b1-b0c9-758da6afb442.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dd1ab37c-a16a-44ed-b43a-faaf85e67314", 
-            "title": "Gelmiyorsun Yak\u0131yor Ba\u011fr\u0131m\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/dd1ab37c-a16a-44ed-b43a-faaf85e67314"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9282df6d-565e-41b1-b0c9-758da6afb442"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

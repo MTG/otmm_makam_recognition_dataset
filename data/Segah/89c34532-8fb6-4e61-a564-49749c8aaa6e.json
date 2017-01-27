@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Mesut Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "89c34532-8fb6-4e61-a564-49749c8aaa6e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
+            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -78,10 +71,17 @@
     ], 
     "duration": 190, 
     "path": "../data/Segah/89c34532-8fb6-4e61-a564-49749c8aaa6e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3ccfdae6-d6e1-4436-8f4a-4b777d28ada9", 
-            "title": "Tuti-i Mucize Guyem Ne Desem Laf De\u011fil"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/3ccfdae6-d6e1-4436-8f4a-4b777d28ada9"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/89c34532-8fb6-4e61-a564-49749c8aaa6e"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

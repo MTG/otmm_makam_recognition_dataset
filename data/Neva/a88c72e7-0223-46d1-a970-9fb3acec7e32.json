@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a88c72e7-0223-46d1-a970-9fb3acec7e32"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Ya\u015far Okur"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "a88c72e7-0223-46d1-a970-9fb3acec7e32", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 179, 
     "path": "../data/Neva/a88c72e7-0223-46d1-a970-9fb3acec7e32.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a88c72e7-0223-46d1-a970-9fb3acec7e32"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "neva", 

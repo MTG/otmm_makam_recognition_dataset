@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/dc91d0ed-a61a-4a0d-b935-3f184a08f3e7"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/555f09c6-07d6-43aa-a948-3bd0b41b7074"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/dc91d0ed-a61a-4a0d-b935-3f184a08f3e7"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/555f09c6-07d6-43aa-a948-3bd0b41b7074"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "555f09c6-07d6-43aa-a948-3bd0b41b7074", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "dc91d0ed-a61a-4a0d-b935-3f184a08f3e7", 
+            "title": "Beyati Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/dc91d0ed-a61a-4a0d-b935-3f184a08f3e7"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/555f09c6-07d6-43aa-a948-3bd0b41b7074"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -89,10 +82,17 @@
     ], 
     "duration": 429, 
     "path": "../data/Beyati/555f09c6-07d6-43aa-a948-3bd0b41b7074.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dc91d0ed-a61a-4a0d-b935-3f184a08f3e7", 
-            "title": "Beyati Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/dc91d0ed-a61a-4a0d-b935-3f184a08f3e7"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/555f09c6-07d6-43aa-a948-3bd0b41b7074"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "380f7d83-8602-47e2-a002-e8eae420d256", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "1f23231c-13dc-4303-964b-f29db152fa6f", 
+            "title": "Meftunun Oldum Ey Vech-i Ahsen"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -150,10 +143,17 @@
     ], 
     "duration": 195, 
     "path": "../data/Kurdilihicazkar/380f7d83-8602-47e2-a002-e8eae420d256.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1f23231c-13dc-4303-964b-f29db152fa6f", 
-            "title": "Meftunun Oldum Ey Vech-i Ahsen"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/1f23231c-13dc-4303-964b-f29db152fa6f"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/380f7d83-8602-47e2-a002-e8eae420d256"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
         }, 
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mutlu Torun"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
     "mbid": "6f49b674-4843-4577-8dcd-3b06c9851c65", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "263ec746-c61d-4d79-a67b-99e86387c29a", 
+            "title": "Karc\u0131\u011far Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
@@ -77,10 +70,17 @@
     ], 
     "duration": 275, 
     "path": "../data/Karcigar/6f49b674-4843-4577-8dcd-3b06c9851c65.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "263ec746-c61d-4d79-a67b-99e86387c29a", 
-            "title": "Karc\u0131\u011far Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/263ec746-c61d-4d79-a67b-99e86387c29a"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/6f49b674-4843-4577-8dcd-3b06c9851c65"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b63f78c6-74e1-44a9-a8c4-c2d07a47e799"
         }, 
         {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/b63f78c6-74e1-44a9-a8c4-c2d07a47e799"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Neveser Gerginok"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "70cdf978-4fe1-4d69-a2de-ccb6c36e2c85", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b63f78c6-74e1-44a9-a8c4-c2d07a47e799", 
+            "title": "\u00d6yle Bir Afet-i Yekta-y\u0131 Emelsin"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/b63f78c6-74e1-44a9-a8c4-c2d07a47e799"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "29f8e3a7-e2b7-46a5-9f0b-f3f707e0df23", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 207, 
     "path": "../data/Saba/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b63f78c6-74e1-44a9-a8c4-c2d07a47e799", 
-            "title": "\u00d6yle Bir Afet-i Yekta-y\u0131 Emelsin"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/b63f78c6-74e1-44a9-a8c4-c2d07a47e799"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/70cdf978-4fe1-4d69-a2de-ccb6c36e2c85"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

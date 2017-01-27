@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "4c7e88a9-1674-4cf3-95e5-da7932cb4a2d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
+            "title": "Yare Tesir Eylemi\u015f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -403,10 +396,17 @@
     ], 
     "duration": 189, 
     "path": "../data/Suzinak/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6d751be2-101e-4920-98ac-02195fd8c845", 
-            "title": "Yare Tesir Eylemi\u015f"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/6d751be2-101e-4920-98ac-02195fd8c845"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/4c7e88a9-1674-4cf3-95e5-da7932cb4a2d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Hamiyet Y\u00fcceses"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "455e6d06-e07b-4d43-9a27-9f0c07f174ad", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ad70fd0d-687a-4b58-80a5-587cdce2d9d5", 
+            "title": "Kalbime Hasretin Zehri D\u00f6k\u00fcld\u00fc"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "a2d55e94-413c-4b5d-8ba0-2fdd4ee1f458", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 310, 
     "path": "../data/Saba/455e6d06-e07b-4d43-9a27-9f0c07f174ad.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ad70fd0d-687a-4b58-80a5-587cdce2d9d5", 
-            "title": "Kalbime Hasretin Zehri D\u00f6k\u00fcld\u00fc"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/ad70fd0d-687a-4b58-80a5-587cdce2d9d5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/455e6d06-e07b-4d43-9a27-9f0c07f174ad"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

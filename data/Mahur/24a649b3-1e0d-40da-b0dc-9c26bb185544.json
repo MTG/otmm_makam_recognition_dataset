@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/3ae218a6-3119-4dea-a079-5b8e727d028c"
         }, 
         {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/24a649b3-1e0d-40da-b0dc-9c26bb185544"
         }
     ], 
@@ -66,22 +66,26 @@
             "name": "Seyfettin Ura\u015f"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "24a649b3-1e0d-40da-b0dc-9c26bb185544", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "3ae218a6-3119-4dea-a079-5b8e727d028c", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/3ae218a6-3119-4dea-a079-5b8e727d028c"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/24a649b3-1e0d-40da-b0dc-9c26bb185544"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -174,10 +178,6 @@
     ], 
     "duration": 282, 
     "path": "../data/Mahur/24a649b3-1e0d-40da-b0dc-9c26bb185544.mp3", 
-    "works": [
-        {
-            "mbid": "3ae218a6-3119-4dea-a079-5b8e727d028c", 
-            "title": "Mahur Pe\u015frevi"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

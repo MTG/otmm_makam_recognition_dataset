@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/da29a057-cfd5-4157-b4ca-dc2be11cdaef"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -25,8 +31,8 @@
             "name": "Murat Aydemir"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "da29a057-cfd5-4157-b4ca-dc2be11cdaef", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -48,13 +54,7 @@
     ], 
     "duration": 279, 
     "path": "../data/Ussak/da29a057-cfd5-4157-b4ca-dc2be11cdaef.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/da29a057-cfd5-4157-b4ca-dc2be11cdaef"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "makam": [
         {
             "attribute_key": "ussak", 

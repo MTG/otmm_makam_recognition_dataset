@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/dbca527d-a700-466c-93f6-83e3578c8277"
         }, 
         {
-            "attribute_key": "evfer", 
-            "mb_tag": "evfer", 
-            "source": "http://musicbrainz.org/recording/df593ea4-f714-4f59-8b36-0246d49c8085"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/dbca527d-a700-466c-93f6-83e3578c8277"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/df593ea4-f714-4f59-8b36-0246d49c8085"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Meral U\u011furlu"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "df593ea4-f714-4f59-8b36-0246d49c8085", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "dbca527d-a700-466c-93f6-83e3578c8277", 
+            "title": "Geldi Bir Hale G\u00f6n\u00fcl"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/dbca527d-a700-466c-93f6-83e3578c8277"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/df593ea4-f714-4f59-8b36-0246d49c8085"
         }
     ], 
-    "bit_rate": 80, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 117, 
     "path": "../data/Acemkurdi/df593ea4-f714-4f59-8b36-0246d49c8085.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dbca527d-a700-466c-93f6-83e3578c8277", 
-            "title": "Geldi Bir Hale G\u00f6n\u00fcl"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/dbca527d-a700-466c-93f6-83e3578c8277"
+        }, 
+        {
+            "attribute_key": "evfer", 
+            "mb_tag": "evfer", 
+            "source": "http://musicbrainz.org/recording/df593ea4-f714-4f59-8b36-0246d49c8085"
         }
-    ]
+    ], 
+    "bit_rate": 80
 }

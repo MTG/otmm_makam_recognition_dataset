@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "kar", 
+            "mb_attribute": "Kar", 
             "source": "http://musicbrainz.org/work/4483d8ba-e418-4813-b42e-9e972d8a22e8"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/79ab9218-ceda-42c9-b2c6-5bfe0128ba24"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/4483d8ba-e418-4813-b42e-9e972d8a22e8"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "kar", 
+            "mb_tag": "kar", 
             "source": "http://musicbrainz.org/recording/79ab9218-ceda-42c9-b2c6-5bfe0128ba24"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ensemble Ulvi Erguner"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "79ab9218-ceda-42c9-b2c6-5bfe0128ba24", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "kar", 
-            "mb_attribute": "Kar", 
+            "mbid": "4483d8ba-e418-4813-b42e-9e972d8a22e8", 
+            "title": "Haydarname"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/4483d8ba-e418-4813-b42e-9e972d8a22e8"
         }, 
         {
-            "attribute_key": "kar", 
-            "mb_tag": "kar", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/79ab9218-ceda-42c9-b2c6-5bfe0128ba24"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "836daa3d-2a22-460f-96cc-d15481d77436", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 251, 
     "path": "../data/Rast/79ab9218-ceda-42c9-b2c6-5bfe0128ba24.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4483d8ba-e418-4813-b42e-9e972d8a22e8", 
-            "title": "Haydarname"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/4483d8ba-e418-4813-b42e-9e972d8a22e8"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79ab9218-ceda-42c9-b2c6-5bfe0128ba24"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

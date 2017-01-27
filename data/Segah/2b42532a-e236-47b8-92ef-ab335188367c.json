@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
         }, 
         {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2b42532a-e236-47b8-92ef-ab335188367c"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "M\u00fcnip Utand\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "2b42532a-e236-47b8-92ef-ab335188367c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
+            "title": "K\u0131rd\u0131n \u00dcmidimi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/2b42532a-e236-47b8-92ef-ab335188367c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -121,10 +119,12 @@
     ], 
     "duration": 192, 
     "path": "../data/Segah/2b42532a-e236-47b8-92ef-ab335188367c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "88d8d952-820d-4a65-92ad-19f1a95f9644", 
-            "title": "K\u0131rd\u0131n \u00dcmidimi"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/88d8d952-820d-4a65-92ad-19f1a95f9644"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

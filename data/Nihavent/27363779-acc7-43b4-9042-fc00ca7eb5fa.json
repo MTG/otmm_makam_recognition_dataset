@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "27363779-acc7-43b4-9042-fc00ca7eb5fa", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "9314909a-0b7b-3b85-8f44-de00054cef87", 
+            "title": "Yok Ba\u015fka Yerin L\u00fctfu"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 205, 
     "path": "../data/Nihavent/27363779-acc7-43b4-9042-fc00ca7eb5fa.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "9314909a-0b7b-3b85-8f44-de00054cef87", 
-            "title": "Yok Ba\u015fka Yerin L\u00fctfu"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/9314909a-0b7b-3b85-8f44-de00054cef87"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/27363779-acc7-43b4-9042-fc00ca7eb5fa"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

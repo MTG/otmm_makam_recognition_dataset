@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "995cbbb4-2bf1-4f1c-8e35-f4467b22afac", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "93470683-3559-490b-bf8d-1e81f3a64910", 
+            "title": "Yaln\u0131z B\u0131rak\u0131p Gitme Bu Ak\u015fam"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -310,10 +303,17 @@
     ], 
     "duration": 228, 
     "path": "../data/Ussak/995cbbb4-2bf1-4f1c-8e35-f4467b22afac.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "93470683-3559-490b-bf8d-1e81f3a64910", 
-            "title": "Yaln\u0131z B\u0131rak\u0131p Gitme Bu Ak\u015fam"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/93470683-3559-490b-bf8d-1e81f3a64910"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/995cbbb4-2bf1-4f1c-8e35-f4467b22afac"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

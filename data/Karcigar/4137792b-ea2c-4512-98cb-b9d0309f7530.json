@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d5d17cb2-17f3-4a6e-b697-b11c35a62f01"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/4137792b-ea2c-4512-98cb-b9d0309f7530"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/d5d17cb2-17f3-4a6e-b697-b11c35a62f01"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4137792b-ea2c-4512-98cb-b9d0309f7530"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "4137792b-ea2c-4512-98cb-b9d0309f7530", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d5d17cb2-17f3-4a6e-b697-b11c35a62f01", 
+            "title": "Kalbimdeki Tek Hat\u0131ran\u0131n Rengi Solarken"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/d5d17cb2-17f3-4a6e-b697-b11c35a62f01"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/4137792b-ea2c-4512-98cb-b9d0309f7530"
         }
     ], 
-    "bit_rate": 192, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 181, 
     "path": "../data/Karcigar/4137792b-ea2c-4512-98cb-b9d0309f7530.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d5d17cb2-17f3-4a6e-b697-b11c35a62f01", 
-            "title": "Kalbimdeki Tek Hat\u0131ran\u0131n Rengi Solarken"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/d5d17cb2-17f3-4a6e-b697-b11c35a62f01"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/4137792b-ea2c-4512-98cb-b9d0309f7530"
         }
-    ]
+    ], 
+    "bit_rate": 192
 }

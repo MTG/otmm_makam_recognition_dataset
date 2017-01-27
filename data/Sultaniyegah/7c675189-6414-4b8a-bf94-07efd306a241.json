@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "nimsofyan", 
-            "mb_attribute": "Nimsofyan", 
+            "attribute_key": "sirto", 
+            "mb_attribute": "Sirto", 
             "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
         }, 
         {
-            "attribute_key": "nimsofyan", 
-            "mb_tag": "nimsofyan", 
-            "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
+            "attribute_key": "sirto", 
+            "mb_tag": "sirto", 
             "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Klasik T\u00fcrk M\u00fczi\u011fi Saz Heyeti"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "7c675189-6414-4b8a-bf94-07efd306a241", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sirto", 
-            "mb_attribute": "Sirto", 
+            "mbid": "93b81188-622b-4b0e-8489-b80ee49a22c3", 
+            "title": "Sultaniyegah Sirto"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
             "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
         }, 
         {
-            "attribute_key": "sirto", 
-            "mb_tag": "sirto", 
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
             "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "328f3817-0681-482a-aaec-19898db7bc22", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 194, 
     "path": "../data/Sultaniyegah/7c675189-6414-4b8a-bf94-07efd306a241.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "93b81188-622b-4b0e-8489-b80ee49a22c3", 
-            "title": "Sultaniyegah Sirto"
+            "attribute_key": "nimsofyan", 
+            "mb_attribute": "Nimsofyan", 
+            "source": "http://musicbrainz.org/work/93b81188-622b-4b0e-8489-b80ee49a22c3"
+        }, 
+        {
+            "attribute_key": "nimsofyan", 
+            "mb_tag": "nimsofyan", 
+            "source": "http://musicbrainz.org/recording/7c675189-6414-4b8a-bf94-07efd306a241"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

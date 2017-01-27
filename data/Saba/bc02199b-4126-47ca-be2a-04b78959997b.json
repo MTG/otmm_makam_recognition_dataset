@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/bc02199b-4126-47ca-be2a-04b78959997b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/bc02199b-4126-47ca-be2a-04b78959997b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Aziz T\u00fcrk Sanat M\u00fczi\u011fi Grubu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "bc02199b-4126-47ca-be2a-04b78959997b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f", 
+            "title": "Bir Esmere G\u00f6n\u00fcl Verdim"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/bc02199b-4126-47ca-be2a-04b78959997b"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "ef074ab6-a2a8-42f7-a454-068265023697", 
@@ -65,10 +58,17 @@
     ], 
     "duration": 88, 
     "path": "../data/Saba/bc02199b-4126-47ca-be2a-04b78959997b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f", 
-            "title": "Bir Esmere G\u00f6n\u00fcl Verdim"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/0ffe2ca5-65c0-4d6e-bdb2-d9e7d288176f"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/bc02199b-4126-47ca-be2a-04b78959997b"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

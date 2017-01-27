@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
         }, 
         {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "09148ef1-188e-4670-b2d9-521575f1a09c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "44c37b1b-5751-45a5-a3d8-f040cffe6770", 
+            "title": "Bir Vefas\u0131z Yare D\u00fc\u015ft\u00fcm Hi\u00e7 Beni Yad Etmiyor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 133, 
     "path": "../data/Acemkurdi/09148ef1-188e-4670-b2d9-521575f1a09c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "44c37b1b-5751-45a5-a3d8-f040cffe6770", 
-            "title": "Bir Vefas\u0131z Yare D\u00fc\u015ft\u00fcm Hi\u00e7 Beni Yad Etmiyor"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/44c37b1b-5751-45a5-a3d8-f040cffe6770"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/09148ef1-188e-4670-b2d9-521575f1a09c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

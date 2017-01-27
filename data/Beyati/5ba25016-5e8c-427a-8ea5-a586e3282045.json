@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
         }, 
         {
-            "attribute_key": "cenber", 
-            "mb_tag": "\u00e7enber", 
-            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "5ba25016-5e8c-427a-8ea5-a586e3282045", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "188f77fb-b044-4757-9c66-d5653091da5a", 
+            "title": "Muhabbetin Dilimi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -102,10 +95,17 @@
     ], 
     "duration": 239, 
     "path": "../data/Beyati/5ba25016-5e8c-427a-8ea5-a586e3282045.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "188f77fb-b044-4757-9c66-d5653091da5a", 
-            "title": "Muhabbetin Dilimi"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/188f77fb-b044-4757-9c66-d5653091da5a"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/5ba25016-5e8c-427a-8ea5-a586e3282045"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Kudsi Erg\u00fcner Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "5bcc3b05-e744-410d-b1c9-554d60bc04af", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "0a5e760b-f710-40ef-8c7d-93cccc68e5a0", 
+            "title": "Mani Oluyor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "0868a083-608c-41c5-89b0-bc5b9a616dbd", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 161, 
     "path": "../data/Hicazkar/5bcc3b05-e744-410d-b1c9-554d60bc04af.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "0a5e760b-f710-40ef-8c7d-93cccc68e5a0", 
-            "title": "Mani Oluyor"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/0a5e760b-f710-40ef-8c7d-93cccc68e5a0"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/5bcc3b05-e744-410d-b1c9-554d60bc04af"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

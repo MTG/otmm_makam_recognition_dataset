@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "616ba3b9-c329-4b0e-8f0e-9a0531f55c2e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 268, 
     "path": "../data/Segah/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/616ba3b9-c329-4b0e-8f0e-9a0531f55c2e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

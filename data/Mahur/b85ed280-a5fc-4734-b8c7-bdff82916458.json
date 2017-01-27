@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
-            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
         }, 
         {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/b85ed280-a5fc-4734-b8c7-bdff82916458"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "b85ed280-a5fc-4734-b8c7-bdff82916458", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/b85ed280-a5fc-4734-b8c7-bdff82916458"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -61,10 +59,12 @@
     ], 
     "duration": 273, 
     "path": "../data/Mahur/b85ed280-a5fc-4734-b8c7-bdff82916458.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
-            "title": "Mahur Pe\u015frevi"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/32a9c5dc-1e57-47dc-9b97-6e0a611df9e4"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

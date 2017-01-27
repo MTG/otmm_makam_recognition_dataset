@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/264127e5-82b5-4ea7-a1d3-80074fafa19d"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/516b99cd-060c-4212-83f1-5693012c5d2b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/264127e5-82b5-4ea7-a1d3-80074fafa19d"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/516b99cd-060c-4212-83f1-5693012c5d2b"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "516b99cd-060c-4212-83f1-5693012c5d2b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "264127e5-82b5-4ea7-a1d3-80074fafa19d", 
+            "title": "Sensiz Bu Sabah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/264127e5-82b5-4ea7-a1d3-80074fafa19d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/516b99cd-060c-4212-83f1-5693012c5d2b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "74f357bd-e144-4ace-8ea1-1dd3597faeed", 
@@ -66,10 +59,17 @@
     ], 
     "duration": 188, 
     "path": "../data/Suzinak/516b99cd-060c-4212-83f1-5693012c5d2b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "264127e5-82b5-4ea7-a1d3-80074fafa19d", 
-            "title": "Sensiz Bu Sabah"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/264127e5-82b5-4ea7-a1d3-80074fafa19d"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/516b99cd-060c-4212-83f1-5693012c5d2b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "tavsanca", 
+            "mb_attribute": "Tav\u015fanca", 
             "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ayangil T\u00fcrk M\u00fczi\u011fi Orkestra Ve Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "244ed755-df1f-495b-847a-1d0a0262aafa", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tavsanca", 
-            "mb_attribute": "Tav\u015fanca", 
+            "mbid": "054cb841-ecb2-4faa-a358-7088a356d8bb", 
+            "title": "Ne Ararsam"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "38709d7c-71bc-4663-8355-c0c62e919192", 
@@ -115,10 +108,17 @@
     ], 
     "duration": 289, 
     "path": "../data/Mahur/244ed755-df1f-495b-847a-1d0a0262aafa.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "054cb841-ecb2-4faa-a358-7088a356d8bb", 
-            "title": "Ne Ararsam"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/054cb841-ecb2-4faa-a358-7088a356d8bb"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/244ed755-df1f-495b-847a-1d0a0262aafa"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

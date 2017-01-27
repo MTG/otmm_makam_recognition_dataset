@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/3c47ae87-fd91-4e84-b60d-34ffc9aa7884"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/8045c841-b1f9-4732-b2b4-dbf618bb7c94"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/3c47ae87-fd91-4e84-b60d-34ffc9aa7884"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/8045c841-b1f9-4732-b2b4-dbf618bb7c94"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "8045c841-b1f9-4732-b2b4-dbf618bb7c94", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "3c47ae87-fd91-4e84-b60d-34ffc9aa7884", 
+            "title": "Yad\u0131mda O Sevdal\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/3c47ae87-fd91-4e84-b60d-34ffc9aa7884"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/8045c841-b1f9-4732-b2b4-dbf618bb7c94"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -142,10 +135,17 @@
     ], 
     "duration": 240, 
     "path": "../data/Muhayyer/8045c841-b1f9-4732-b2b4-dbf618bb7c94.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "3c47ae87-fd91-4e84-b60d-34ffc9aa7884", 
-            "title": "Yad\u0131mda O Sevdal\u0131"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/3c47ae87-fd91-4e84-b60d-34ffc9aa7884"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/8045c841-b1f9-4732-b2b4-dbf618bb7c94"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "lenkfahte", 
-            "mb_attribute": "Lenk Fahte", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
         }, 
         {
             "attribute_key": null, 
-            "mb_tag": "beste", 
-            "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "mb_tag": "lenk fahte", 
             "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "82a3a145-3780-4685-9233-3cdee453a8d5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "05fd4116-5692-4569-bc0b-1fcdafee5d6c", 
+            "title": "Hicr-i Lebinde Yarin Bir Dil ki Oldu Na-ho\u015f"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
         }, 
         {
-            "attribute_key": null, 
-            "mb_tag": "lenk fahte", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 258, 
     "path": "../data/Hicazkar/82a3a145-3780-4685-9233-3cdee453a8d5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "05fd4116-5692-4569-bc0b-1fcdafee5d6c", 
-            "title": "Hicr-i Lebinde Yarin Bir Dil ki Oldu Na-ho\u015f"
+            "attribute_key": "lenkfahte", 
+            "mb_attribute": "Lenk Fahte", 
+            "source": "http://musicbrainz.org/work/05fd4116-5692-4569-bc0b-1fcdafee5d6c"
+        }, 
+        {
+            "attribute_key": null, 
+            "mb_tag": "beste", 
+            "source": "http://musicbrainz.org/recording/82a3a145-3780-4685-9233-3cdee453a8d5"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

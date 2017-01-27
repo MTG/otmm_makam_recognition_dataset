@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Ensemble instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kemal Caba"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "4a906111-280f-4098-8eab-64300d0382b1", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -92,13 +98,7 @@
     ], 
     "duration": 119, 
     "path": "../data/Segah/4a906111-280f-4098-8eab-64300d0382b1.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/4a906111-280f-4098-8eab-64300d0382b1"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

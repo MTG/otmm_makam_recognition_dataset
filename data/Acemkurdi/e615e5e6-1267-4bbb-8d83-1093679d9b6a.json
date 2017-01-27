@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/e7553024-628c-41bd-9a2c-9f9b5b9e4520"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/e615e5e6-1267-4bbb-8d83-1093679d9b6a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/e7553024-628c-41bd-9a2c-9f9b5b9e4520"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e615e5e6-1267-4bbb-8d83-1093679d9b6a"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Burhan Dikencik"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "e615e5e6-1267-4bbb-8d83-1093679d9b6a", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "e7553024-628c-41bd-9a2c-9f9b5b9e4520", 
+            "title": "Bana A\u015fk\u0131n \u015earab\u0131n\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/e7553024-628c-41bd-9a2c-9f9b5b9e4520"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/e615e5e6-1267-4bbb-8d83-1093679d9b6a"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "ef422c4a-8938-4551-ab8d-603e533025cd", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 164, 
     "path": "../data/Acemkurdi/e615e5e6-1267-4bbb-8d83-1093679d9b6a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "e7553024-628c-41bd-9a2c-9f9b5b9e4520", 
-            "title": "Bana A\u015fk\u0131n \u015earab\u0131n\u0131"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/e7553024-628c-41bd-9a2c-9f9b5b9e4520"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/e615e5e6-1267-4bbb-8d83-1093679d9b6a"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

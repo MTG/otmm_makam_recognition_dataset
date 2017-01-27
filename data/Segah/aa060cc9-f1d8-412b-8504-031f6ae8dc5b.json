@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/aa060cc9-f1d8-412b-8504-031f6ae8dc5b"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "aa060cc9-f1d8-412b-8504-031f6ae8dc5b", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 125, 
     "path": "../data/Segah/aa060cc9-f1d8-412b-8504-031f6ae8dc5b.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/aa060cc9-f1d8-412b-8504-031f6ae8dc5b"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "segah", 

@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/c35b82c6-f328-422b-a65e-a4f4fc88e4f2"
         }, 
         {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/3886ae81-8863-483a-bbef-69af1e3d098e"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Mustafa Zeki \u00c7a\u011flarman"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "3886ae81-8863-483a-bbef-69af1e3d098e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "c35b82c6-f328-422b-a65e-a4f4fc88e4f2", 
+            "title": "At\u0131m Ka\u00e7t\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/c35b82c6-f328-422b-a65e-a4f4fc88e4f2"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/3886ae81-8863-483a-bbef-69af1e3d098e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
@@ -83,10 +87,6 @@
     ], 
     "duration": 189, 
     "path": "../data/Huseyni/3886ae81-8863-483a-bbef-69af1e3d098e.mp3", 
-    "works": [
-        {
-            "mbid": "c35b82c6-f328-422b-a65e-a4f4fc88e4f2", 
-            "title": "At\u0131m Ka\u00e7t\u0131"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

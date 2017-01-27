@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/65c663da-f516-4132-876d-b7dab20fe0ec"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/65c663da-f516-4132-876d-b7dab20fe0ec"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "65c663da-f516-4132-876d-b7dab20fe0ec", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "bee6ac55-19d8-4bdf-891e-ea2c8cc91837", 
+            "title": "G\u00fcl Hazin S\u00fcnb\u00fcl Peri\u015fan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/65c663da-f516-4132-876d-b7dab20fe0ec"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
@@ -134,10 +127,17 @@
     ], 
     "duration": 239, 
     "path": "../data/Beyati/65c663da-f516-4132-876d-b7dab20fe0ec.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bee6ac55-19d8-4bdf-891e-ea2c8cc91837", 
-            "title": "G\u00fcl Hazin S\u00fcnb\u00fcl Peri\u015fan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/bee6ac55-19d8-4bdf-891e-ea2c8cc91837"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/65c663da-f516-4132-876d-b7dab20fe0ec"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

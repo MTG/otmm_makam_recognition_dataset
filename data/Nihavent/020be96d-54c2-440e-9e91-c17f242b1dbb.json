@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bahad\u0131r \u00d6z\u00fc\u015fen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "020be96d-54c2-440e-9e91-c17f242b1dbb", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "f1c64982-8ff2-4d1e-a579-fa4ee562ee3b", 
+            "title": "I\u015f\u0131l I\u015f\u0131l G\u00f6zlerinde Siyah Sa\u00e7\u0131n Rengi Mi Var"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 163, 
     "path": "../data/Nihavent/020be96d-54c2-440e-9e91-c17f242b1dbb.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "f1c64982-8ff2-4d1e-a579-fa4ee562ee3b", 
-            "title": "I\u015f\u0131l I\u015f\u0131l G\u00f6zlerinde Siyah Sa\u00e7\u0131n Rengi Mi Var"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/f1c64982-8ff2-4d1e-a579-fa4ee562ee3b"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/020be96d-54c2-440e-9e91-c17f242b1dbb"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

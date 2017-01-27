@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Serhat Sarpel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "79ef8add-d7c5-40b3-a172-44ec34da8ef9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "af14f16d-f7fd-42d3-8221-e4b83fca949d", 
+            "title": "Ge\u00e7en G\u00fcn Eyledin \u0130krar"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
@@ -126,10 +119,17 @@
     ], 
     "duration": 143, 
     "path": "../data/Saba/79ef8add-d7c5-40b3-a172-44ec34da8ef9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "af14f16d-f7fd-42d3-8221-e4b83fca949d", 
-            "title": "Ge\u00e7en G\u00fcn Eyledin \u0130krar"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/af14f16d-f7fd-42d3-8221-e4b83fca949d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/79ef8add-d7c5-40b3-a172-44ec34da8ef9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

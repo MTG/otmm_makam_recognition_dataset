@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/d0725cac-46d2-4f19-b8d2-5ae0aef060bc"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/d0725cac-46d2-4f19-b8d2-5ae0aef060bc"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Recep Birgit"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "d0725cac-46d2-4f19-b8d2-5ae0aef060bc", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "556f33eb-d503-4211-ac91-b8c6ec2bf78e", 
+            "title": "Bensiz Ey G\u00fcl G\u00fcl\u015fen-i Alemde Mey Nu\u015f Eyleme"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/d0725cac-46d2-4f19-b8d2-5ae0aef060bc"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 312, 
     "path": "../data/Segah/d0725cac-46d2-4f19-b8d2-5ae0aef060bc.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "556f33eb-d503-4211-ac91-b8c6ec2bf78e", 
-            "title": "Bensiz Ey G\u00fcl G\u00fcl\u015fen-i Alemde Mey Nu\u015f Eyleme"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/556f33eb-d503-4211-ac91-b8c6ec2bf78e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/d0725cac-46d2-4f19-b8d2-5ae0aef060bc"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/25935bea-2b0b-4069-ae7d-876d9103f80a"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Taner Demiralp"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "25935bea-2b0b-4069-ae7d-876d9103f80a", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 288, 
     "path": "../data/Saba/25935bea-2b0b-4069-ae7d-876d9103f80a.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/25935bea-2b0b-4069-ae7d-876d9103f80a"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "saba", 

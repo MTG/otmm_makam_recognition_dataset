@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/186760d0-f2dc-4f66-bec3-a0bee1e84160"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/4371d5e2-42d0-4ec8-b150-e0db0539c750"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/186760d0-f2dc-4f66-bec3-a0bee1e84160"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4371d5e2-42d0-4ec8-b150-e0db0539c750"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "4371d5e2-42d0-4ec8-b150-e0db0539c750", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "186760d0-f2dc-4f66-bec3-a0bee1e84160", 
+            "title": "H\u00fcsn\u00fcne Etvar-\u0131 Naz\u0131n"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/186760d0-f2dc-4f66-bec3-a0bee1e84160"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/4371d5e2-42d0-4ec8-b150-e0db0539c750"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 347, 
     "path": "../data/Karcigar/4371d5e2-42d0-4ec8-b150-e0db0539c750.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "186760d0-f2dc-4f66-bec3-a0bee1e84160", 
-            "title": "H\u00fcsn\u00fcne Etvar-\u0131 Naz\u0131n"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/186760d0-f2dc-4f66-bec3-a0bee1e84160"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/4371d5e2-42d0-4ec8-b150-e0db0539c750"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_attribute": "Kapal\u0131 Curcuna", 
-            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
         }
     ], 
@@ -27,17 +21,21 @@
             "name": "\u0130lhan Yaz\u0131c\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "7aec9833-6482-4917-87bd-e60c7c1dae3c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a", 
+            "title": "Nedendir Bu Dil-i zar\u0131n Figan\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0eed075f-f237-4656-bacf-bc009d303297", 
@@ -85,10 +83,12 @@
     ], 
     "duration": 197, 
     "path": "../data/Rast/7aec9833-6482-4917-87bd-e60c7c1dae3c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a", 
-            "title": "Nedendir Bu Dil-i zar\u0131n Figan\u0131"
+            "attribute_key": "kapali_curcuna", 
+            "mb_attribute": "Kapal\u0131 Curcuna", 
+            "source": "http://musicbrainz.org/work/bcc986b0-2f6d-49c2-8e55-ce63dc48fe4a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

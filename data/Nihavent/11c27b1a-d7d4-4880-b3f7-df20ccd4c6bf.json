@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "7c97ffbb-a591-4158-bd1b-f0d5ef84545b", 
+            "title": "Kalplerden Dudaklara"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 266, 
     "path": "../data/Nihavent/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7c97ffbb-a591-4158-bd1b-f0d5ef84545b", 
-            "title": "Kalplerden Dudaklara"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7c97ffbb-a591-4158-bd1b-f0d5ef84545b"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/11c27b1a-d7d4-4880-b3f7-df20ccd4c6bf"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

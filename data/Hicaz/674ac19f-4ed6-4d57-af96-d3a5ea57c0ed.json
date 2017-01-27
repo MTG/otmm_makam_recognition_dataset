@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/74738e8a-909c-46e8-b376-09bb7e23e300"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/74738e8a-909c-46e8-b376-09bb7e23e300"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "674ac19f-4ed6-4d57-af96-d3a5ea57c0ed", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "74738e8a-909c-46e8-b376-09bb7e23e300", 
+            "title": "Yine Ye\u015fillendi Da\u011flar \u00c7emeni"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/74738e8a-909c-46e8-b376-09bb7e23e300"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2f8891f7-97a4-4ac5-a72f-de5c2b0d4629", 
@@ -71,10 +64,17 @@
     ], 
     "duration": 167, 
     "path": "../data/Hicaz/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "74738e8a-909c-46e8-b376-09bb7e23e300", 
-            "title": "Yine Ye\u015fillendi Da\u011flar \u00c7emeni"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/74738e8a-909c-46e8-b376-09bb7e23e300"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/674ac19f-4ed6-4d57-af96-d3a5ea57c0ed"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/06521d43-4953-411d-b017-8a3916ccf741"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Udi Hrant Kenkulian"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "06521d43-4953-411d-b017-8a3916ccf741", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 140, 
     "path": "../data/Hicaz/06521d43-4953-411d-b017-8a3916ccf741.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/06521d43-4953-411d-b017-8a3916ccf741"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "hicaz", 

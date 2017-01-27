@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
         }, 
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/08958b87-43f4-4bf3-a6ed-89cf27cf3986"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/08958b87-43f4-4bf3-a6ed-89cf27cf3986"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "08958b87-43f4-4bf3-a6ed-89cf27cf3986", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "title": "Beyati Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/08958b87-43f4-4bf3-a6ed-89cf27cf3986"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
@@ -134,10 +127,17 @@
     ], 
     "duration": 114, 
     "path": "../data/Beyati/08958b87-43f4-4bf3-a6ed-89cf27cf3986.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
-            "title": "Beyati Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/08958b87-43f4-4bf3-a6ed-89cf27cf3986"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

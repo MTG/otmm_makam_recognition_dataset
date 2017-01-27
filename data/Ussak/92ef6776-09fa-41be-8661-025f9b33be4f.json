@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/92ef6776-09fa-41be-8661-025f9b33be4f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/92ef6776-09fa-41be-8661-025f9b33be4f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "92ef6776-09fa-41be-8661-025f9b33be4f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
+            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/92ef6776-09fa-41be-8661-025f9b33be4f"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
@@ -118,10 +111,17 @@
     ], 
     "duration": 177, 
     "path": "../data/Ussak/92ef6776-09fa-41be-8661-025f9b33be4f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
-            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/c6e43ac6-4a18-42ab-bcc4-46e29360051e"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/92ef6776-09fa-41be-8661-025f9b33be4f"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/650471e3-f7b2-4747-abc3-12dac64d6e24"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "C\u00fcneyt Kosal"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "650471e3-f7b2-4747-abc3-12dac64d6e24", 
+    "sampling_frequency": 44100, 
     "bit_rate": 128, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 118, 
     "path": "../data/Suzinak/650471e3-f7b2-4747-abc3-12dac64d6e24.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/650471e3-f7b2-4747-abc3-12dac64d6e24"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "suzinak", 

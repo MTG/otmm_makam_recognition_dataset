@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/581c8ecb-80a9-4076-91c5-f4420c2bf1fe"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/2c011692-dc1c-433d-ac3e-9aafe9fed8d4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/581c8ecb-80a9-4076-91c5-f4420c2bf1fe"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2c011692-dc1c-433d-ac3e-9aafe9fed8d4"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "2c011692-dc1c-433d-ac3e-9aafe9fed8d4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "581c8ecb-80a9-4076-91c5-f4420c2bf1fe", 
+            "title": "B\u00fclb\u00fcl-i \u015eeydaya D\u00f6nd\u00fcm"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/581c8ecb-80a9-4076-91c5-f4420c2bf1fe"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/2c011692-dc1c-433d-ac3e-9aafe9fed8d4"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 184, 
     "path": "../data/Beyati/2c011692-dc1c-433d-ac3e-9aafe9fed8d4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "581c8ecb-80a9-4076-91c5-f4420c2bf1fe", 
-            "title": "B\u00fclb\u00fcl-i \u015eeydaya D\u00f6nd\u00fcm"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/581c8ecb-80a9-4076-91c5-f4420c2bf1fe"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/2c011692-dc1c-433d-ac3e-9aafe9fed8d4"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

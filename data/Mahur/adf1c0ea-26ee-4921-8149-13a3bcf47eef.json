@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "nimhafif", 
-            "mb_attribute": "Nimhafif", 
+            "attribute_key": "mars", 
+            "mb_attribute": "Mar\u015f", 
             "source": "http://musicbrainz.org/work/589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5"
         }, 
         {
-            "attribute_key": "nimhafif", 
-            "mb_tag": "nimhafif", 
-            "source": "http://musicbrainz.org/recording/adf1c0ea-26ee-4921-8149-13a3bcf47eef"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
-            "source": "http://musicbrainz.org/work/589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5"
-        }, 
-        {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "mars", 
+            "mb_tag": "mar\u015f", 
             "source": "http://musicbrainz.org/recording/adf1c0ea-26ee-4921-8149-13a3bcf47eef"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "adf1c0ea-26ee-4921-8149-13a3bcf47eef", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "mars", 
-            "mb_attribute": "Mar\u015f", 
+            "mbid": "589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5", 
+            "title": "Vur Pen\u00e7e-i Ali'deki"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5"
         }, 
         {
-            "attribute_key": "mars", 
-            "mb_tag": "mar\u015f", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/adf1c0ea-26ee-4921-8149-13a3bcf47eef"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "05ca8423-760a-4687-a57e-10cb590dfc86", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 251, 
     "path": "../data/Mahur/adf1c0ea-26ee-4921-8149-13a3bcf47eef.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5", 
-            "title": "Vur Pen\u00e7e-i Ali'deki"
+            "attribute_key": "nimhafif", 
+            "mb_attribute": "Nimhafif", 
+            "source": "http://musicbrainz.org/work/589ff4cb-d9a5-4b3f-8c04-1e48f59a24b5"
+        }, 
+        {
+            "attribute_key": "nimhafif", 
+            "mb_tag": "nimhafif", 
+            "source": "http://musicbrainz.org/recording/adf1c0ea-26ee-4921-8149-13a3bcf47eef"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

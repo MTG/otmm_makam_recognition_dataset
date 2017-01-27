@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "muhammes", 
-            "mb_attribute": "Muhammes", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
         }, 
         {
-            "attribute_key": "muhammes", 
-            "mb_tag": "muhammes", 
-            "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Kudsi Erg\u00fcner Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "cccf944d-c237-43e0-82ac-e1c29dbc1b62", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "019382cb-f1fa-4365-9199-3c56885450c0", 
@@ -97,10 +90,17 @@
     ], 
     "duration": 316, 
     "path": "../data/Huseyni/cccf944d-c237-43e0-82ac-e1c29dbc1b62.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
-            "title": "H\u00fcseyni Pe\u015frev"
+            "attribute_key": "muhammes", 
+            "mb_attribute": "Muhammes", 
+            "source": "http://musicbrainz.org/work/db260504-980d-4a3b-8dff-90966c2989f6"
+        }, 
+        {
+            "attribute_key": "muhammes", 
+            "mb_tag": "muhammes", 
+            "source": "http://musicbrainz.org/recording/cccf944d-c237-43e0-82ac-e1c29dbc1b62"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

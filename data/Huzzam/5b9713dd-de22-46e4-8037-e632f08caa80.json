@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5b9713dd-de22-46e4-8037-e632f08caa80"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "M\u00fcnir Nurettin Sel\u00e7uk"
         }
     ], 
-    "sampling_frequency": 22050, 
     "mbid": "5b9713dd-de22-46e4-8037-e632f08caa80", 
+    "sampling_frequency": 22050, 
     "bit_rate": 80, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 205, 
     "path": "../data/Huzzam/5b9713dd-de22-46e4-8037-e632f08caa80.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5b9713dd-de22-46e4-8037-e632f08caa80"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "huzzam", 

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/00ab81ec-07f8-47ba-9610-47ad56393eb9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/00ab81ec-07f8-47ba-9610-47ad56393eb9"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Oya \u0130\u015fbo\u011fa"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "00ab81ec-07f8-47ba-9610-47ad56393eb9", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "title": "Nihavend Saz Semai"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/00ab81ec-07f8-47ba-9610-47ad56393eb9"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
@@ -105,10 +98,17 @@
     ], 
     "duration": 220, 
     "path": "../data/Nihavent/00ab81ec-07f8-47ba-9610-47ad56393eb9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
-            "title": "Nihavend Saz Semai"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/00ab81ec-07f8-47ba-9610-47ad56393eb9"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

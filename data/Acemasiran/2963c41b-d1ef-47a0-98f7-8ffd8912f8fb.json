@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Haluk Recai"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "2963c41b-d1ef-47a0-98f7-8ffd8912f8fb", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 112, 
     "path": "../data/Acemasiran/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/2963c41b-d1ef-47a0-98f7-8ffd8912f8fb"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "acemasiran", 

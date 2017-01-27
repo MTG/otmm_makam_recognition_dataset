@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "cifteduyek", 
-            "mb_attribute": "\u00c7ifted\u00fcyek", 
-            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
         }, 
         {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/b01042b9-18c1-4e1e-9380-4353190945b2"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "b01042b9-18c1-4e1e-9380-4353190945b2", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "title": "Karc\u0131\u011far Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/b01042b9-18c1-4e1e-9380-4353190945b2"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 458, 
     "path": "../data/Karcigar/b01042b9-18c1-4e1e-9380-4353190945b2.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
-            "title": "Karc\u0131\u011far Pe\u015frev"
+            "attribute_key": "cifteduyek", 
+            "mb_attribute": "\u00c7ifted\u00fcyek", 
+            "source": "http://musicbrainz.org/work/01510767-677e-4c52-aed4-3e18e2fd2c61"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "hafif", 
-            "mb_attribute": "Hafif", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
         }, 
         {
-            "attribute_key": "hafif", 
-            "mb_tag": "hafif", 
-            "source": "http://musicbrainz.org/recording/70a235be-074d-4b9b-8f94-b1860d7be887"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/70a235be-074d-4b9b-8f94-b1860d7be887"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "70a235be-074d-4b9b-8f94-b1860d7be887", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "title": "Beyati Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/70a235be-074d-4b9b-8f94-b1860d7be887"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -72,10 +65,17 @@
     ], 
     "duration": 465, 
     "path": "../data/Beyati/70a235be-074d-4b9b-8f94-b1860d7be887.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
-            "title": "Beyati Pe\u015frev"
+            "attribute_key": "hafif", 
+            "mb_attribute": "Hafif", 
+            "source": "http://musicbrainz.org/work/831d4801-0562-491f-922b-f6f987d19b3d"
+        }, 
+        {
+            "attribute_key": "hafif", 
+            "mb_tag": "hafif", 
+            "source": "http://musicbrainz.org/recording/70a235be-074d-4b9b-8f94-b1860d7be887"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

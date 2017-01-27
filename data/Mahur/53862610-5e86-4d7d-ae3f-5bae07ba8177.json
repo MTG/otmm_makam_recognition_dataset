@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
+            "attribute_key": "murabba", 
+            "mb_attribute": "Murabba", 
             "source": "http://musicbrainz.org/work/40acd362-0a5a-416c-931d-6329d87d8016"
         }, 
         {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "murabba", 
+            "mb_tag": "murabba", 
             "source": "http://musicbrainz.org/recording/53862610-5e86-4d7d-ae3f-5bae07ba8177"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Bezm\u00e2r\u00e2"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "53862610-5e86-4d7d-ae3f-5bae07ba8177", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "murabba", 
-            "mb_attribute": "Murabba", 
+            "mbid": "40acd362-0a5a-416c-931d-6329d87d8016", 
+            "title": "Dide G\u00f6rince Ol \u015euh\u0131 Nice Karar\u0131 Kal\u0131r"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/40acd362-0a5a-416c-931d-6329d87d8016"
         }, 
         {
-            "attribute_key": "murabba", 
-            "mb_tag": "murabba", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/53862610-5e86-4d7d-ae3f-5bae07ba8177"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "04b11cfe-d9cc-4350-852f-4212e2e358f1", 
@@ -133,10 +137,6 @@
     ], 
     "duration": 185, 
     "path": "../data/Mahur/53862610-5e86-4d7d-ae3f-5bae07ba8177.mp3", 
-    "works": [
-        {
-            "mbid": "40acd362-0a5a-416c-931d-6329d87d8016", 
-            "title": "Dide G\u00f6rince Ol \u015euh\u0131 Nice Karar\u0131 Kal\u0131r"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 64
 }

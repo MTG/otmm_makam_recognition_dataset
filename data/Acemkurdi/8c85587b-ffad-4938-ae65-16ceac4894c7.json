@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "fahte", 
-            "mb_attribute": "Fahte", 
-            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
         }, 
         {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/8c85587b-ffad-4938-ae65-16ceac4894c7"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "8c85587b-ffad-4938-ae65-16ceac4894c7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "title": "Acemk\u00fcrdi Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/8c85587b-ffad-4938-ae65-16ceac4894c7"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -61,10 +59,12 @@
     ], 
     "duration": 345, 
     "path": "../data/Acemkurdi/8c85587b-ffad-4938-ae65-16ceac4894c7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
-            "title": "Acemk\u00fcrdi Pe\u015frev"
+            "attribute_key": "fahte", 
+            "mb_attribute": "Fahte", 
+            "source": "http://musicbrainz.org/work/4abab307-e784-46fe-8a67-427d54b32511"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

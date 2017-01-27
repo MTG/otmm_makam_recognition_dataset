@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
+            "attribute_key": "beste", 
+            "mb_attribute": "Beste", 
             "source": "http://musicbrainz.org/work/272749c1-1421-44d6-b7c7-83659152d9e8"
         }, 
         {
-            "attribute_key": "cenber", 
-            "mb_tag": "\u00e7enber", 
-            "source": "http://musicbrainz.org/recording/0c7e0531-5990-4ceb-b18d-4e4ef14a1202"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/272749c1-1421-44d6-b7c7-83659152d9e8"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "beste", 
+            "mb_tag": "beste", 
             "source": "http://musicbrainz.org/recording/0c7e0531-5990-4ceb-b18d-4e4ef14a1202"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "[unknown]"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "0c7e0531-5990-4ceb-b18d-4e4ef14a1202", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "beste", 
-            "mb_attribute": "Beste", 
+            "mbid": "272749c1-1421-44d6-b7c7-83659152d9e8", 
+            "title": "\u0130\u015fvebaz\u0131m Vaktidir Seyri G\u00fclistan Eylesek"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/272749c1-1421-44d6-b7c7-83659152d9e8"
         }, 
         {
-            "attribute_key": "beste", 
-            "mb_tag": "beste", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/0c7e0531-5990-4ceb-b18d-4e4ef14a1202"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -153,10 +146,17 @@
     ], 
     "duration": 357, 
     "path": "../data/Segah/0c7e0531-5990-4ceb-b18d-4e4ef14a1202.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "272749c1-1421-44d6-b7c7-83659152d9e8", 
-            "title": "\u0130\u015fvebaz\u0131m Vaktidir Seyri G\u00fclistan Eylesek"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/272749c1-1421-44d6-b7c7-83659152d9e8"
+        }, 
+        {
+            "attribute_key": "cenber", 
+            "mb_tag": "\u00e7enber", 
+            "source": "http://musicbrainz.org/recording/0c7e0531-5990-4ceb-b18d-4e4ef14a1202"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "curcuna", 
-            "mb_attribute": "Curcuna", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
         }, 
         {
-            "attribute_key": "kapali_curcuna", 
-            "mb_tag": "curcuna", 
-            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "047ad4c8-b55b-4846-ae0c-4dbae3256be7", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2cad3ee9-7520-4e0a-a596-c1208fc3f4b5", 
+            "title": "Yetmez Mi Sana"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -80,10 +73,17 @@
     ], 
     "duration": 151, 
     "path": "../data/Muhayyer/047ad4c8-b55b-4846-ae0c-4dbae3256be7.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cad3ee9-7520-4e0a-a596-c1208fc3f4b5", 
-            "title": "Yetmez Mi Sana"
+            "attribute_key": "curcuna", 
+            "mb_attribute": "Curcuna", 
+            "source": "http://musicbrainz.org/work/2cad3ee9-7520-4e0a-a596-c1208fc3f4b5"
+        }, 
+        {
+            "attribute_key": "kapali_curcuna", 
+            "mb_tag": "curcuna", 
+            "source": "http://musicbrainz.org/recording/047ad4c8-b55b-4846-ae0c-4dbae3256be7"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

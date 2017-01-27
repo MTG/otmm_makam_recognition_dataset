@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huseyni", 
-            "mb_attribute": "H\u00fcseyni", 
-            "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "h\u00fcseyni", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Isaac Algazi"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "634adddd-da66-4fd5-8058-c91a6ad9ad8e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "8fc9db17-c9f4-4ae8-a962-27fe5eaf828b", 
+            "title": "Durmadan Aylar Ge\u00e7er"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huseyni", 
+            "mb_attribute": "H\u00fcseyni", 
             "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "h\u00fcseyni", 
             "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "27c607da-eed0-4add-ae39-bfb36ae58db4", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 227, 
     "path": "../data/Huseyni/634adddd-da66-4fd5-8058-c91a6ad9ad8e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8fc9db17-c9f4-4ae8-a962-27fe5eaf828b", 
-            "title": "Durmadan Aylar Ge\u00e7er"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8fc9db17-c9f4-4ae8-a962-27fe5eaf828b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/634adddd-da66-4fd5-8058-c91a6ad9ad8e"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

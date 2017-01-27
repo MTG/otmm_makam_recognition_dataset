@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/3dc2a235-3f39-4dcc-929e-8d3ab56d181b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/3dc2a235-3f39-4dcc-929e-8d3ab56d181b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "3dc2a235-3f39-4dcc-929e-8d3ab56d181b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "35247879-820c-43fb-8214-7e6c88809f93", 
+            "title": "Hasretle Bu \u015eeb Gah Uyudum Gah Uyand\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/3dc2a235-3f39-4dcc-929e-8d3ab56d181b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 258, 
     "path": "../data/Ussak/3dc2a235-3f39-4dcc-929e-8d3ab56d181b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "35247879-820c-43fb-8214-7e6c88809f93", 
-            "title": "Hasretle Bu \u015eeb Gah Uyudum Gah Uyand\u0131m"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/35247879-820c-43fb-8214-7e6c88809f93"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/3dc2a235-3f39-4dcc-929e-8d3ab56d181b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

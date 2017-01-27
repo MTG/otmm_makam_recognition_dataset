@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "89b0307e-1004-4801-9656-aa241241c600", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 157, 
     "path": "../data/Rast/89b0307e-1004-4801-9656-aa241241c600.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/89b0307e-1004-4801-9656-aa241241c600"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "rast", 

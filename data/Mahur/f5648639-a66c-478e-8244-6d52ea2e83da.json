@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
-            "source": "http://musicbrainz.org/work/fb0b7884-0f4d-427a-a8e3-de934815d1be"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
+            "attribute_key": "tavsanca", 
+            "mb_attribute": "Tav\u015fanca", 
             "source": "http://musicbrainz.org/work/fb0b7884-0f4d-427a-a8e3-de934815d1be"
         }, 
         {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "tavsanca", 
+            "mb_tag": "tav\u015fanca", 
             "source": "http://musicbrainz.org/recording/f5648639-a66c-478e-8244-6d52ea2e83da"
         }
     ], 
@@ -56,22 +50,26 @@
             "name": "Do\u011fan Dikmen"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "f5648639-a66c-478e-8244-6d52ea2e83da", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tavsanca", 
-            "mb_attribute": "Tav\u015fanca", 
+            "mbid": "fb0b7884-0f4d-427a-a8e3-de934815d1be", 
+            "title": "Ald\u0131 Akl\u0131m\u0131 Bir Gonca Leb"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/fb0b7884-0f4d-427a-a8e3-de934815d1be"
         }, 
         {
-            "attribute_key": "tavsanca", 
-            "mb_tag": "tav\u015fanca", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/f5648639-a66c-478e-8244-6d52ea2e83da"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1ea19c2a-1d6a-4228-bdab-3ba8df5d2e0d", 
@@ -125,10 +123,12 @@
     ], 
     "duration": 193, 
     "path": "../data/Mahur/f5648639-a66c-478e-8244-6d52ea2e83da.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fb0b7884-0f4d-427a-a8e3-de934815d1be", 
-            "title": "Ald\u0131 Akl\u0131m\u0131 Bir Gonca Leb"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/fb0b7884-0f4d-427a-a8e3-de934815d1be"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

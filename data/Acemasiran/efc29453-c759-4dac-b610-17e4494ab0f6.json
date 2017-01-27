@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Trio instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/efc29453-c759-4dac-b610-17e4494ab0f6"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -29,8 +35,8 @@
             "name": "Fahrettin \u00c7imenli"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "efc29453-c759-4dac-b610-17e4494ab0f6", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -60,13 +66,7 @@
     ], 
     "duration": 319, 
     "path": "../data/Acemasiran/efc29453-c759-4dac-b610-17e4494ab0f6.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/efc29453-c759-4dac-b610-17e4494ab0f6"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "makam": [
         {
             "attribute_key": "acemasiran", 

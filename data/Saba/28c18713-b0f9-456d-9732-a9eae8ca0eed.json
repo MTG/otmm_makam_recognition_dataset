@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Tahir Engin \u0130\u00e7\u00f6z"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "28c18713-b0f9-456d-9732-a9eae8ca0eed", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "d7a2639b-035c-4220-923c-889ef7b34bfd", 
+            "title": "Uzay\u0131p Giden Tren Yollar\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "d1246e00-d12f-4617-837d-3f434bdd5c07", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 172, 
     "path": "../data/Saba/28c18713-b0f9-456d-9732-a9eae8ca0eed.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d7a2639b-035c-4220-923c-889ef7b34bfd", 
-            "title": "Uzay\u0131p Giden Tren Yollar\u0131"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/d7a2639b-035c-4220-923c-889ef7b34bfd"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/28c18713-b0f9-456d-9732-a9eae8ca0eed"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

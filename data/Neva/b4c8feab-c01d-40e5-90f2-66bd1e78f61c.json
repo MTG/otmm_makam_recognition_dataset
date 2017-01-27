@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
         }
     ], 
@@ -27,17 +21,21 @@
             "name": "Dede Efendi"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "b4c8feab-c01d-40e5-90f2-66bd1e78f61c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "dee81ee2-bfae-4276-ad99-75a05d39c56c", 
+            "title": "Ey Gonca Dehen Ah-\u0131 Seherden Hazer Eyle"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -55,10 +53,12 @@
     ], 
     "duration": 226, 
     "path": "../data/Neva/b4c8feab-c01d-40e5-90f2-66bd1e78f61c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dee81ee2-bfae-4276-ad99-75a05d39c56c", 
-            "title": "Ey Gonca Dehen Ah-\u0131 Seherden Hazer Eyle"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/dee81ee2-bfae-4276-ad99-75a05d39c56c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

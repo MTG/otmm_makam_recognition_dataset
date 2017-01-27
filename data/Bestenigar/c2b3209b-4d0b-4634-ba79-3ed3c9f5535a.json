@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "devrikebir", 
-            "mb_attribute": "Devr-i Kebir", 
-            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
-        }, 
-        {
-            "attribute_key": "devrikebir", 
-            "mb_tag": "devr-i kebir", 
-            "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
-            "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
-            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
-        }
-    ], 
-    "title": "Ney Taksimi, Bestenigar Pe\u015frev", 
-    "url": "http://musicbrainz.org/work/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a", 
-    "artist_credits": [
-        {
-            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
-            "name": "Niyazi Say\u0131n"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duo instrumental", 
-    "mbid": "c2b3209b-4d0b-4634-ba79-3ed3c9f5535a", 
+    "instrumentation_voicing": "duo instrumental", 
     "form": [
         {
             "attribute_key": "pesrev", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "1ddaa8b3-a005-4c68-8323-1d566a3ca31e", 
+            "title": "T\u00fcrk M\u00fczi\u011fi Ustalar\u0131 - 1"
+        }
+    ], 
+    "title": "Ney Taksimi, Bestenigar Pe\u015frev", 
+    "url": "http://musicbrainz.org/work/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a", 
+    "artist_credits": [
+        {
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n"
+        }
+    ], 
+    "mbid": "c2b3209b-4d0b-4634-ba79-3ed3c9f5535a", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "title": "Bestenig\u00e2r Pe\u015frevi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
+            "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
+        }
+    ], 
     "artists": [
         {
             "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
@@ -83,10 +71,22 @@
     ], 
     "duration": 344, 
     "path": "../data/Bestenigar/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
-            "title": "Bestenig\u00e2r Pe\u015frevi"
+            "attribute_key": "devrikebir", 
+            "mb_attribute": "Devr-i Kebir", 
+            "source": "http://musicbrainz.org/work/50e4d7c8-9268-488d-b891-ee696ae0f4e5"
+        }, 
+        {
+            "attribute_key": "devrikebir", 
+            "mb_tag": "devr-i kebir", 
+            "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/c2b3209b-4d0b-4634-ba79-3ed3c9f5535a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

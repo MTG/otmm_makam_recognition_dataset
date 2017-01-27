@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
         }, 
         {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/f92c4d19-0c95-4aca-b35f-b5e75d211afb"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "f92c4d19-0c95-4aca-b35f-b5e75d211afb", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
+            "title": "Bestenig\u00e2r Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/f92c4d19-0c95-4aca-b35f-b5e75d211afb"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -60,10 +58,12 @@
     ], 
     "duration": 204, 
     "path": "../data/Bestenigar/f92c4d19-0c95-4aca-b35f-b5e75d211afb.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
-            "title": "Bestenig\u00e2r Saz Sem\u00e2\u00ee"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/aa62a6be-c7a0-4bc7-9931-4190af588d07"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

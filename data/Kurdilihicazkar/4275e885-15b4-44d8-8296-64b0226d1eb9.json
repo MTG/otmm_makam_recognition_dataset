@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "semai", 
-            "mb_attribute": "Semai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/06ab8bcd-b2dc-4e95-a916-1e4f359272b5"
         }, 
         {
-            "attribute_key": "semai", 
-            "mb_tag": "semai", 
-            "source": "http://musicbrainz.org/recording/4275e885-15b4-44d8-8296-64b0226d1eb9"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/06ab8bcd-b2dc-4e95-a916-1e4f359272b5"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4275e885-15b4-44d8-8296-64b0226d1eb9"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ela Alt\u0131n"
         }
     ], 
-    "sampling_frequency": 22050, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "4275e885-15b4-44d8-8296-64b0226d1eb9", 
-    "form": [
+    "sampling_frequency": 22050, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "06ab8bcd-b2dc-4e95-a916-1e4f359272b5", 
+            "title": "\u00d6yle Dudak B\u00fck\u00fcp Hor G\u00f6zle Bakma"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/06ab8bcd-b2dc-4e95-a916-1e4f359272b5"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/4275e885-15b4-44d8-8296-64b0226d1eb9"
         }
     ], 
-    "bit_rate": 56, 
     "artists": [
         {
             "mbid": "ef69589b-9e0f-44a1-8f70-9747adca4bc4", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 312, 
     "path": "../data/Kurdilihicazkar/4275e885-15b4-44d8-8296-64b0226d1eb9.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06ab8bcd-b2dc-4e95-a916-1e4f359272b5", 
-            "title": "\u00d6yle Dudak B\u00fck\u00fcp Hor G\u00f6zle Bakma"
+            "attribute_key": "semai", 
+            "mb_attribute": "Semai", 
+            "source": "http://musicbrainz.org/work/06ab8bcd-b2dc-4e95-a916-1e4f359272b5"
+        }, 
+        {
+            "attribute_key": "semai", 
+            "mb_tag": "semai", 
+            "source": "http://musicbrainz.org/recording/4275e885-15b4-44d8-8296-64b0226d1eb9"
         }
-    ]
+    ], 
+    "bit_rate": 56
 }

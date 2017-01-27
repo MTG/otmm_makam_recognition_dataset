@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "ilahi", 
+            "mb_attribute": "\u0130lahi", 
             "source": "http://musicbrainz.org/work/22e2b828-e3d9-4efe-bac6-1b6523e22d03"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/ed90604c-1702-4740-bddc-7a4f94f896a8"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/22e2b828-e3d9-4efe-bac6-1b6523e22d03"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "ilahi", 
+            "mb_tag": "ilahi", 
             "source": "http://musicbrainz.org/recording/ed90604c-1702-4740-bddc-7a4f94f896a8"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Kani Karaca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "ed90604c-1702-4740-bddc-7a4f94f896a8", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "ilahi", 
-            "mb_attribute": "\u0130lahi", 
+            "mbid": "22e2b828-e3d9-4efe-bac6-1b6523e22d03", 
+            "title": "Re'sul Hikmeti Mehafettullah"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/22e2b828-e3d9-4efe-bac6-1b6523e22d03"
         }, 
         {
-            "attribute_key": "ilahi", 
-            "mb_tag": "ilahi", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/ed90604c-1702-4740-bddc-7a4f94f896a8"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "61d8e82a-8ff3-4675-ac31-df67a14dd772", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 158, 
     "path": "../data/Rast/ed90604c-1702-4740-bddc-7a4f94f896a8.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "22e2b828-e3d9-4efe-bac6-1b6523e22d03", 
-            "title": "Re'sul Hikmeti Mehafettullah"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/22e2b828-e3d9-4efe-bac6-1b6523e22d03"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/ed90604c-1702-4740-bddc-7a4f94f896a8"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "sofyan", 
-            "mb_attribute": "Sofyan", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicazkar", 
-            "mb_attribute": "Hicazkar", 
-            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
-        }, 
-        {
-            "attribute_key": "hicazkar", 
-            "mb_tag": "hicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Koray Safkan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e252c22e-cdff-43f3-a127-a970e7deb35c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2f4fce92-f329-4e19-87a1-3fc45d602592", 
+            "title": "Ben S\u00f6z\u00fcne Ba\u011flamam Bel"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicazkar", 
+            "mb_attribute": "Hicazkar", 
             "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicazkar", 
+            "mb_tag": "hicazkar", 
             "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "16af5f7b-e5d9-48f1-bfae-ab4a649ce7c4", 
@@ -142,10 +135,17 @@
     ], 
     "duration": 195, 
     "path": "../data/Hicazkar/e252c22e-cdff-43f3-a127-a970e7deb35c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2f4fce92-f329-4e19-87a1-3fc45d602592", 
-            "title": "Ben S\u00f6z\u00fcne Ba\u011flamam Bel"
+            "attribute_key": "sofyan", 
+            "mb_attribute": "Sofyan", 
+            "source": "http://musicbrainz.org/work/2f4fce92-f329-4e19-87a1-3fc45d602592"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/e252c22e-cdff-43f3-a127-a970e7deb35c"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "turkaksagi", 
-            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
         }, 
         {
-            "attribute_key": "turkaksagi_ii", 
-            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
-            "source": "http://musicbrainz.org/recording/5bb70380-788b-4a49-b499-1207750de617"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "karcigar", 
-            "mb_attribute": "Karc\u0131\u011far", 
-            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
-        }, 
-        {
-            "attribute_key": "huseyni", 
-            "mb_tag": "karc\u0131\u011far", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/5bb70380-788b-4a49-b499-1207750de617"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u015eehnaz U\u011furel"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "5bb70380-788b-4a49-b499-1207750de617", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
+            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "karcigar", 
+            "mb_attribute": "Karc\u0131\u011far", 
             "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "huseyni", 
+            "mb_tag": "karc\u0131\u011far", 
             "source": "http://musicbrainz.org/recording/5bb70380-788b-4a49-b499-1207750de617"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "0079c3bf-8de1-4434-a093-ace6b5954ccd", 
@@ -156,10 +149,17 @@
     ], 
     "duration": 199, 
     "path": "../data/Karcigar/5bb70380-788b-4a49-b499-1207750de617.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b78bffc8-ebc9-42f8-9a12-9ca86c195a61", 
-            "title": "Bilmem ki Safa Ne\u015fe Bu \u00d6mr\u00fcn Neresinde"
+            "attribute_key": "turkaksagi", 
+            "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/work/b78bffc8-ebc9-42f8-9a12-9ca86c195a61"
+        }, 
+        {
+            "attribute_key": "turkaksagi_ii", 
+            "mb_tag": "t\u00fcrkaksa\u011f\u0131", 
+            "source": "http://musicbrainz.org/recording/5bb70380-788b-4a49-b499-1207750de617"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

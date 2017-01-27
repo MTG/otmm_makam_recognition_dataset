@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Trio instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "0700046f-3740-4804-9a7c-facdb4c8ccd5", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -55,13 +61,7 @@
     ], 
     "duration": 140, 
     "path": "../data/Saba/0700046f-3740-4804-9a7c-facdb4c8ccd5.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/0700046f-3740-4804-9a7c-facdb4c8ccd5"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "makam": [
         {
             "attribute_key": "saba", 

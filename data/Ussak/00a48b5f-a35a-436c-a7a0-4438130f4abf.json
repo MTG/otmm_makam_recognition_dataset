@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/345bd470-b743-4bff-a7f9-8f01541cc691"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/00a48b5f-a35a-436c-a7a0-4438130f4abf"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "ussak", 
-            "mb_attribute": "U\u015f\u015fak", 
-            "source": "http://musicbrainz.org/work/345bd470-b743-4bff-a7f9-8f01541cc691"
-        }, 
-        {
-            "attribute_key": "ussak", 
-            "mb_tag": "u\u015f\u015fak", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/00a48b5f-a35a-436c-a7a0-4438130f4abf"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Tarihi T\u00fcrk M\u00fczi\u011fi Toplulu\u011fu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "00a48b5f-a35a-436c-a7a0-4438130f4abf", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "345bd470-b743-4bff-a7f9-8f01541cc691", 
+            "title": "Girdim Yarin Bah\u00e7esine Ayval\u0131k Narl\u0131k"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "ussak", 
+            "mb_attribute": "U\u015f\u015fak", 
             "source": "http://musicbrainz.org/work/345bd470-b743-4bff-a7f9-8f01541cc691"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "ussak", 
+            "mb_tag": "u\u015f\u015fak", 
             "source": "http://musicbrainz.org/recording/00a48b5f-a35a-436c-a7a0-4438130f4abf"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -563,10 +556,17 @@
     ], 
     "duration": 139, 
     "path": "../data/Ussak/00a48b5f-a35a-436c-a7a0-4438130f4abf.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "345bd470-b743-4bff-a7f9-8f01541cc691", 
-            "title": "Girdim Yarin Bah\u00e7esine Ayval\u0131k Narl\u0131k"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/345bd470-b743-4bff-a7f9-8f01541cc691"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/00a48b5f-a35a-436c-a7a0-4438130f4abf"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

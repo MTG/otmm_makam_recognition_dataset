@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
-            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
         }, 
         {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/f716d17e-c086-4011-b95b-4c75ec998e18"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Emirgan Ensemble"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "f716d17e-c086-4011-b95b-4c75ec998e18", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "title": "Nihavend Saz Semai"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/f716d17e-c086-4011-b95b-4c75ec998e18"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -100,10 +98,12 @@
     ], 
     "duration": 228, 
     "path": "../data/Nihavent/f716d17e-c086-4011-b95b-4c75ec998e18.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
-            "title": "Nihavend Saz Semai"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/8ff4d355-dd46-4074-b266-aeacabaf875a"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

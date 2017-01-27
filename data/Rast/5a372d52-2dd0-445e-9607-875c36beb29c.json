@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "rast", 
-            "mb_attribute": "Rast", 
-            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
-        }, 
-        {
-            "attribute_key": "rast", 
-            "mb_tag": "rast", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Esin Din\u00e7er"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "5a372d52-2dd0-445e-9607-875c36beb29c", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "fc1508ed-2c07-46bb-b47d-71eccb822ff0", 
+            "title": "Leb-i Renginine Bir G\u00fcl Konsun"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "rast", 
+            "mb_attribute": "Rast", 
             "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "rast", 
+            "mb_tag": "rast", 
             "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "03d362b0-4c8f-4d86-8ee1-aaa039f3f7f8", 
@@ -200,10 +193,17 @@
     ], 
     "duration": 155, 
     "path": "../data/Rast/5a372d52-2dd0-445e-9607-875c36beb29c.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "fc1508ed-2c07-46bb-b47d-71eccb822ff0", 
-            "title": "Leb-i Renginine Bir G\u00fcl Konsun"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/fc1508ed-2c07-46bb-b47d-71eccb822ff0"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/5a372d52-2dd0-445e-9607-875c36beb29c"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

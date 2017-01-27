@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "nihavent", 
-            "mb_attribute": "Nihavent", 
-            "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
-        }, 
-        {
-            "attribute_key": "nihavent", 
-            "mb_tag": "nihavent", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Alaeddin Yava\u015fca"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "4ab05c37-d96e-479f-8aad-c36b138b852f", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "7730b7e5-8c2a-4df7-934c-4f67a3e2e38d", 
+            "title": "Ne Do\u011fan Sabah G\u00fcne\u015fi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "nihavent", 
+            "mb_attribute": "Nihavent", 
             "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "nihavent", 
+            "mb_tag": "nihavent", 
             "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
         }
     ], 
-    "bit_rate": 320, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 240, 
     "path": "../data/Nihavent/4ab05c37-d96e-479f-8aad-c36b138b852f.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7730b7e5-8c2a-4df7-934c-4f67a3e2e38d", 
-            "title": "Ne Do\u011fan Sabah G\u00fcne\u015fi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/7730b7e5-8c2a-4df7-934c-4f67a3e2e38d"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/4ab05c37-d96e-479f-8aad-c36b138b852f"
         }
-    ]
+    ], 
+    "bit_rate": 320
 }

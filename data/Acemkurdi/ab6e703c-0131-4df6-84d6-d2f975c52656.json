@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "senginsemai", 
-            "mb_attribute": "Senginsemai", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
         }, 
         {
-            "attribute_key": "senginsemai", 
-            "mb_tag": "senginsemai", 
-            "source": "http://musicbrainz.org/recording/ab6e703c-0131-4df6-84d6-d2f975c52656"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ab6e703c-0131-4df6-84d6-d2f975c52656"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Filiz \u015eat\u0131ro\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ab6e703c-0131-4df6-84d6-d2f975c52656", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
+            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/ab6e703c-0131-4df6-84d6-d2f975c52656"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "7906972c-4510-4da6-a60d-054bffedb6e8", 
@@ -86,10 +79,17 @@
     ], 
     "duration": 229, 
     "path": "../data/Acemkurdi/ab6e703c-0131-4df6-84d6-d2f975c52656.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ae85e900-4287-40fb-9e7c-53e280ad756b", 
-            "title": "R\u00fczgar Uyumu\u015f Ay Dal\u0131yor"
+            "attribute_key": "senginsemai", 
+            "mb_attribute": "Senginsemai", 
+            "source": "http://musicbrainz.org/work/ae85e900-4287-40fb-9e7c-53e280ad756b"
+        }, 
+        {
+            "attribute_key": "senginsemai", 
+            "mb_tag": "senginsemai", 
+            "source": "http://musicbrainz.org/recording/ab6e703c-0131-4df6-84d6-d2f975c52656"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

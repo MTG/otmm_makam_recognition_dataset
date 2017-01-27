@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Trio instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -29,8 +35,8 @@
             "name": "Turay Dinleyen"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "48f3ff44-c15f-4588-af65-6be454328b02", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -60,13 +66,7 @@
     ], 
     "duration": 165, 
     "path": "../data/Kurdilihicazkar/48f3ff44-c15f-4588-af65-6be454328b02.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/48f3ff44-c15f-4588-af65-6be454328b02"
-        }
-    ], 
+    "instrumentation_voicing": "trio instrumental", 
     "makam": [
         {
             "attribute_key": "kurdilihicazkar", 

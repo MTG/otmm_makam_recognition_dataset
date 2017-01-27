@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "cenber", 
-            "mb_attribute": "\u00c7enber", 
+            "attribute_key": "pesrev", 
+            "mb_attribute": "Pe\u015frev", 
             "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
         }, 
         {
-            "attribute_key": "sofyan", 
-            "mb_tag": "sofyan", 
-            "source": "http://musicbrainz.org/recording/9348afbd-cc69-436e-a2d8-fbb1a6b69af0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "suzinak", 
-            "mb_attribute": "Suzinak", 
-            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
-        }, 
-        {
-            "attribute_key": "suzinak", 
-            "mb_tag": "suzinak", 
+            "attribute_key": "pesrev", 
+            "mb_tag": "pe\u015frev", 
             "source": "http://musicbrainz.org/recording/9348afbd-cc69-436e-a2d8-fbb1a6b69af0"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "9348afbd-cc69-436e-a2d8-fbb1a6b69af0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "pesrev", 
-            "mb_attribute": "Pe\u015frev", 
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "suzinak", 
+            "mb_attribute": "Suzinak", 
             "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
         }, 
         {
-            "attribute_key": "pesrev", 
-            "mb_tag": "pe\u015frev", 
+            "attribute_key": "suzinak", 
+            "mb_tag": "suzinak", 
             "source": "http://musicbrainz.org/recording/9348afbd-cc69-436e-a2d8-fbb1a6b69af0"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -206,10 +199,17 @@
     ], 
     "duration": 386, 
     "path": "../data/Suzinak/9348afbd-cc69-436e-a2d8-fbb1a6b69af0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
-            "title": "Suzinak Pe\u015frev"
+            "attribute_key": "cenber", 
+            "mb_attribute": "\u00c7enber", 
+            "source": "http://musicbrainz.org/work/270f55e1-d479-47d0-832f-930a2d20f90a"
+        }, 
+        {
+            "attribute_key": "sofyan", 
+            "mb_tag": "sofyan", 
+            "source": "http://musicbrainz.org/recording/9348afbd-cc69-436e-a2d8-fbb1a6b69af0"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/998f5459-d26b-4c55-91ca-683c47c42e89"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/e8f1d5ec-0561-4554-b1f8-fed6efe34922"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/998f5459-d26b-4c55-91ca-683c47c42e89"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/e8f1d5ec-0561-4554-b1f8-fed6efe34922"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Muzaffer Birtan"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "e8f1d5ec-0561-4554-b1f8-fed6efe34922", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "998f5459-d26b-4c55-91ca-683c47c42e89", 
+            "title": "Kemend Olmu\u015ftu Z\u00fclf\u00fcn"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/998f5459-d26b-4c55-91ca-683c47c42e89"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/e8f1d5ec-0561-4554-b1f8-fed6efe34922"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "b1dc745c-ac52-414e-8a1b-42796e9ec531", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 168, 
     "path": "../data/Acemkurdi/e8f1d5ec-0561-4554-b1f8-fed6efe34922.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "998f5459-d26b-4c55-91ca-683c47c42e89", 
-            "title": "Kemend Olmu\u015ftu Z\u00fclf\u00fcn"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/998f5459-d26b-4c55-91ca-683c47c42e89"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/e8f1d5ec-0561-4554-b1f8-fed6efe34922"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

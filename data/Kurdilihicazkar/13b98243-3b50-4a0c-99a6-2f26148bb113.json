@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
-            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
-        }, 
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "G\u00fcler Basu \u015een"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "13b98243-3b50-4a0c-99a6-2f26148bb113", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "6b134312-4128-41f3-9be1-5f286f950deb", 
+            "title": "G\u00fcl Y\u00fcz\u00fcnde G\u00fcller Solsa A\u011flar\u0131m"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 266, 
     "path": "../data/Kurdilihicazkar/13b98243-3b50-4a0c-99a6-2f26148bb113.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "6b134312-4128-41f3-9be1-5f286f950deb", 
-            "title": "G\u00fcl Y\u00fcz\u00fcnde G\u00fcller Solsa A\u011flar\u0131m"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/6b134312-4128-41f3-9be1-5f286f950deb"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/13b98243-3b50-4a0c-99a6-2f26148bb113"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

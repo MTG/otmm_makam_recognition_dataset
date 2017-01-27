@@ -1,14 +1,14 @@
 {
-    "usul": [], 
-    "makam": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ac5848ad-e5a3-4729-99db-d8b32f9da255"
         }, 
         {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2aff84f1-0aec-48e1-b6e5-b39dc59e5570"
         }
     ], 
@@ -26,22 +26,26 @@
             "name": "Bahriyeli \u015eehab"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "2aff84f1-0aec-48e1-b6e5-b39dc59e5570", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ac5848ad-e5a3-4729-99db-d8b32f9da255", 
+            "title": "Tazelendi Tab-i Alem"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/ac5848ad-e5a3-4729-99db-d8b32f9da255"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/2aff84f1-0aec-48e1-b6e5-b39dc59e5570"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "bb5f5e0c-6c26-4d03-82d4-4d95a2464cbd", 
@@ -51,10 +55,6 @@
     ], 
     "duration": 203, 
     "path": "../data/Segah/2aff84f1-0aec-48e1-b6e5-b39dc59e5570.mp3", 
-    "works": [
-        {
-            "mbid": "ac5848ad-e5a3-4729-99db-d8b32f9da255", 
-            "title": "Tazelendi Tab-i Alem"
-        }
-    ]
+    "usul": [], 
+    "bit_rate": 160
 }

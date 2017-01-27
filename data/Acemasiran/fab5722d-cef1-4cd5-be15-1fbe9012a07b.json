@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "trio instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/b7d09514-5875-43a7-8d30-f5b9ca0900c5"
         }, 
         {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Ahmet Kadri Rizeli"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Trio instrumental", 
     "mbid": "fab5722d-cef1-4cd5-be15-1fbe9012a07b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
+            "title": "Acema\u015firan Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/b7d09514-5875-43a7-8d30-f5b9ca0900c5"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
@@ -76,10 +74,12 @@
     ], 
     "duration": 271, 
     "path": "../data/Acemasiran/fab5722d-cef1-4cd5-be15-1fbe9012a07b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "b7d09514-5875-43a7-8d30-f5b9ca0900c5", 
-            "title": "Acema\u015firan Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/fab5722d-cef1-4cd5-be15-1fbe9012a07b"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

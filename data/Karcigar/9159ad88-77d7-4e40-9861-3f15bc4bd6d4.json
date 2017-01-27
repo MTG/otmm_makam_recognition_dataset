@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/9159ad88-77d7-4e40-9861-3f15bc4bd6d4"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Zeki M\u00fcren"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "9159ad88-77d7-4e40-9861-3f15bc4bd6d4", 
+    "sampling_frequency": 44100, 
     "bit_rate": 192, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 193, 
     "path": "../data/Karcigar/9159ad88-77d7-4e40-9861-3f15bc4bd6d4.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/9159ad88-77d7-4e40-9861-3f15bc4bd6d4"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "huseyni", 

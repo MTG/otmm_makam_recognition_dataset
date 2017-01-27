@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "devrihindi", 
-            "mb_attribute": "Devr-i Hindi", 
+            "attribute_key": "tevsihilahi", 
+            "mb_attribute": "Tev\u015fihilahi", 
             "source": "http://musicbrainz.org/work/45d63a69-4ba7-4a84-a2cb-db2417a22f7e"
         }, 
         {
-            "attribute_key": "devrihindi", 
-            "mb_tag": "devr-i hindi", 
-            "source": "http://musicbrainz.org/recording/b67b3747-c431-4d94-8329-e5b6ab7256e0"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemasiran", 
-            "mb_attribute": "Acema\u015firan", 
-            "source": "http://musicbrainz.org/work/45d63a69-4ba7-4a84-a2cb-db2417a22f7e"
-        }, 
-        {
-            "attribute_key": "acemasiran", 
-            "mb_tag": "acema\u015firan", 
+            "attribute_key": "tevsihilahi", 
+            "mb_tag": "tev\u015fihilahi", 
             "source": "http://musicbrainz.org/recording/b67b3747-c431-4d94-8329-e5b6ab7256e0"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Mehmet Kemiksiz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "b67b3747-c431-4d94-8329-e5b6ab7256e0", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_attribute": "Tev\u015fihilahi", 
+            "mbid": "45d63a69-4ba7-4a84-a2cb-db2417a22f7e", 
+            "title": "Ey \u015eehin\u015fah-\u0131 Risalet V'ey Habib-i Kibriya"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemasiran", 
+            "mb_attribute": "Acema\u015firan", 
             "source": "http://musicbrainz.org/work/45d63a69-4ba7-4a84-a2cb-db2417a22f7e"
         }, 
         {
-            "attribute_key": "tevsihilahi", 
-            "mb_tag": "tev\u015fihilahi", 
+            "attribute_key": "acemasiran", 
+            "mb_tag": "acema\u015firan", 
             "source": "http://musicbrainz.org/recording/b67b3747-c431-4d94-8329-e5b6ab7256e0"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "171cf668-375c-48f2-8761-8a136a207d30", 
@@ -135,10 +128,17 @@
     ], 
     "duration": 142, 
     "path": "../data/Acemasiran/b67b3747-c431-4d94-8329-e5b6ab7256e0.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "45d63a69-4ba7-4a84-a2cb-db2417a22f7e", 
-            "title": "Ey \u015eehin\u015fah-\u0131 Risalet V'ey Habib-i Kibriya"
+            "attribute_key": "devrihindi", 
+            "mb_attribute": "Devr-i Hindi", 
+            "source": "http://musicbrainz.org/work/45d63a69-4ba7-4a84-a2cb-db2417a22f7e"
+        }, 
+        {
+            "attribute_key": "devrihindi", 
+            "mb_tag": "devr-i hindi", 
+            "source": "http://musicbrainz.org/recording/b67b3747-c431-4d94-8329-e5b6ab7256e0"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

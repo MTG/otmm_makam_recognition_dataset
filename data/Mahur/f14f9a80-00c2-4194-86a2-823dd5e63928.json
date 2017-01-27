@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/f14f9a80-00c2-4194-86a2-823dd5e63928"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Bayram Co\u015fkuner"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "f14f9a80-00c2-4194-86a2-823dd5e63928", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -37,13 +43,7 @@
     ], 
     "duration": 97, 
     "path": "../data/Mahur/f14f9a80-00c2-4194-86a2-823dd5e63928.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/f14f9a80-00c2-4194-86a2-823dd5e63928"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "mahur", 

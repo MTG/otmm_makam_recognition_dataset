@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "nefes", 
+            "mb_attribute": "Nefes", 
             "source": "http://musicbrainz.org/work/dafc3863-7051-497a-b341-a0c216249412"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/7965b074-1dda-4993-983f-3aee5847f1b2"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/dafc3863-7051-497a-b341-a0c216249412"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "nefes", 
+            "mb_tag": "nefes", 
             "source": "http://musicbrainz.org/recording/7965b074-1dda-4993-983f-3aee5847f1b2"
         }
     ], 
@@ -53,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "7965b074-1dda-4993-983f-3aee5847f1b2", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "nefes", 
-            "mb_attribute": "Nefes", 
+            "mbid": "dafc3863-7051-497a-b341-a0c216249412", 
+            "title": "Felek Sevdi\u011fimi Ald\u0131"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/dafc3863-7051-497a-b341-a0c216249412"
         }, 
         {
-            "attribute_key": "nefes", 
-            "mb_tag": "nefes", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/7965b074-1dda-4993-983f-3aee5847f1b2"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -111,10 +104,17 @@
     ], 
     "duration": 282, 
     "path": "../data/Muhayyer/7965b074-1dda-4993-983f-3aee5847f1b2.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dafc3863-7051-497a-b341-a0c216249412", 
-            "title": "Felek Sevdi\u011fimi Ald\u0131"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/dafc3863-7051-497a-b341-a0c216249412"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/7965b074-1dda-4993-983f-3aee5847f1b2"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

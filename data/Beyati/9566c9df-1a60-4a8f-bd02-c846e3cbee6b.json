@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130nci \u00c7ay\u0131rl\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "9566c9df-1a60-4a8f-bd02-c846e3cbee6b", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2376eca5-8386-432a-aa23-ad42bfd610ad", 
+            "title": "Seni Ne \u00c7ok Sevdi\u011fimi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "74db65a8-3e56-4978-bbc0-6996ae597ec0", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 228, 
     "path": "../data/Beyati/9566c9df-1a60-4a8f-bd02-c846e3cbee6b.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2376eca5-8386-432a-aa23-ad42bfd610ad", 
-            "title": "Seni Ne \u00c7ok Sevdi\u011fimi"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/2376eca5-8386-432a-aa23-ad42bfd610ad"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/9566c9df-1a60-4a8f-bd02-c846e3cbee6b"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

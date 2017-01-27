@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "evfer", 
-            "mb_attribute": "Evfer", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/1862ed62-cce2-42d9-9d07-224a39cb0ad7"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/5bcc8c41-5bb1-462f-95ac-c932ed172ba4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/1862ed62-cce2-42d9-9d07-224a39cb0ad7"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/5bcc8c41-5bb1-462f-95ac-c932ed172ba4"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Nusret Y\u0131lmaz"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "5bcc8c41-5bb1-462f-95ac-c932ed172ba4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "1862ed62-cce2-42d9-9d07-224a39cb0ad7", 
+            "title": "Bulunmaz Derdime \u00c7are"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
             "source": "http://musicbrainz.org/work/1862ed62-cce2-42d9-9d07-224a39cb0ad7"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
             "source": "http://musicbrainz.org/recording/5bcc8c41-5bb1-462f-95ac-c932ed172ba4"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "2a6ce2b8-d83f-4971-9180-9d0c89729d96", 
@@ -121,10 +114,17 @@
     ], 
     "duration": 154, 
     "path": "../data/Beyati/5bcc8c41-5bb1-462f-95ac-c932ed172ba4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "1862ed62-cce2-42d9-9d07-224a39cb0ad7", 
-            "title": "Bulunmaz Derdime \u00c7are"
+            "attribute_key": "evfer", 
+            "mb_attribute": "Evfer", 
+            "source": "http://musicbrainz.org/work/1862ed62-cce2-42d9-9d07-224a39cb0ad7"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/5bcc8c41-5bb1-462f-95ac-c932ed172ba4"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

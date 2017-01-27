@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/66b611e8-7c17-4256-afa5-3a97a457f8e3"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "gazel", 
@@ -21,8 +27,8 @@
             "name": "Haf\u0131z Osman"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "66b611e8-7c17-4256-afa5-3a97a457f8e3", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -33,13 +39,7 @@
     ], 
     "duration": 171, 
     "path": "../data/Huzzam/66b611e8-7c17-4256-afa5-3a97a457f8e3.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/66b611e8-7c17-4256-afa5-3a97a457f8e3"
-        }
-    ], 
+    "instrumentation_voicing": "solo vocal without accompaniment", 
     "makam": [
         {
             "attribute_key": "huzzam", 

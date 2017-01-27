@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/a65e56c4-5bc9-4b44-a68c-b7777133be35"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Safinaz Rizeli"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "a65e56c4-5bc9-4b44-a68c-b7777133be35", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 65, 
     "path": "../data/Hicazkar/a65e56c4-5bc9-4b44-a68c-b7777133be35.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/a65e56c4-5bc9-4b44-a68c-b7777133be35"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "hicazkar", 

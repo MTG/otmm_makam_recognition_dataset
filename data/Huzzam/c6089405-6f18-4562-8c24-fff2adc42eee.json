@@ -1,15 +1,9 @@
 {
-    "usul": [
+    "instrumentation_voicing": "duet", 
+    "form": [
         {
-            "attribute_key": "ciftesofyan", 
-            "mb_attribute": "\u00c7iftesofyan", 
-            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "huzzam", 
-            "mb_attribute": "H\u00fczzam", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
         }
     ], 
@@ -31,17 +25,21 @@
             "name": "M\u00fcnip Utand\u0131"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Duet", 
     "mbid": "c6089405-6f18-4562-8c24-fff2adc42eee", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
+            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "huzzam", 
+            "mb_attribute": "H\u00fczzam", 
             "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
         }
     ], 
-    "bit_rate": 48, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -120,10 +118,12 @@
     ], 
     "duration": 196, 
     "path": "../data/Huzzam/c6089405-6f18-4562-8c24-fff2adc42eee.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "ec05ec50-2ca6-480f-ab65-44390fa6569a", 
-            "title": "Ey G\u00fcl Ba\u011f-\u0131 Eda"
+            "attribute_key": "ciftesofyan", 
+            "mb_attribute": "\u00c7iftesofyan", 
+            "source": "http://musicbrainz.org/work/ec05ec50-2ca6-480f-ab65-44390fa6569a"
         }
-    ]
+    ], 
+    "bit_rate": 48
 }

@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Ensemble instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -29,8 +35,8 @@
             "name": "Lux Musica"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -50,13 +56,7 @@
     ], 
     "duration": 81, 
     "path": "../data/Neva/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5cb8f0d8-499b-47e5-9d2d-0d43c58c63c6"
-        }
-    ], 
+    "instrumentation_voicing": "ensemble instrumental", 
     "makam": [
         {
             "attribute_key": "neva", 

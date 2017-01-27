@@ -1,45 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/work/dcf0164d-59e3-4bcf-98b1-cef70acdcdf5"
-        }, 
-        {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "beyati", 
-            "mb_attribute": "Beyati", 
-            "source": "http://musicbrainz.org/work/dcf0164d-59e3-4bcf-98b1-cef70acdcdf5"
-        }, 
-        {
-            "attribute_key": "beyati", 
-            "mb_tag": "beyati", 
-            "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
-            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
-        }
-    ], 
-    "title": "Meskenimiz Ku\u015fe-i Meyhanedir", 
-    "url": "http://musicbrainz.org/work/4d132313-aaa2-43f3-a929-ef25e89c5fbe", 
-    "artist_credits": [
-        {
-            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
-            "name": "Do\u011fan Dikmen"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
-    "mbid": "4d132313-aaa2-43f3-a929-ef25e89c5fbe", 
+    "instrumentation_voicing": "solo vocal with accompaniment", 
     "form": [
         {
             "attribute_key": "nakis", 
@@ -57,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "0f1d58e1-9bcf-433e-9d64-414a62955764", 
+            "title": "Dar\u00fcl-Elhan K\u00fclliyat\u0131"
+        }
+    ], 
+    "title": "Meskenimiz Ku\u015fe-i Meyhanedir", 
+    "url": "http://musicbrainz.org/work/4d132313-aaa2-43f3-a929-ef25e89c5fbe", 
+    "artist_credits": [
+        {
+            "mbid": "f9cc2940-4724-499d-9f44-2a8aec983ff7", 
+            "name": "Do\u011fan Dikmen"
+        }
+    ], 
+    "mbid": "4d132313-aaa2-43f3-a929-ef25e89c5fbe", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "dcf0164d-59e3-4bcf-98b1-cef70acdcdf5", 
+            "title": "Meskenimiz Ku\u015fe-i Meyhanedir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "beyati", 
+            "mb_attribute": "Beyati", 
+            "source": "http://musicbrainz.org/work/dcf0164d-59e3-4bcf-98b1-cef70acdcdf5"
+        }, 
+        {
+            "attribute_key": "beyati", 
+            "mb_tag": "beyati", 
+            "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
+        }
+    ], 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -102,10 +95,17 @@
     ], 
     "duration": 346, 
     "path": "../data/Beyati/4d132313-aaa2-43f3-a929-ef25e89c5fbe.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "dcf0164d-59e3-4bcf-98b1-cef70acdcdf5", 
-            "title": "Meskenimiz Ku\u015fe-i Meyhanedir"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/dcf0164d-59e3-4bcf-98b1-cef70acdcdf5"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/4d132313-aaa2-43f3-a929-ef25e89c5fbe"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

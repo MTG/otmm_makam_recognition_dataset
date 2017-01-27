@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "choir", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/619a1912-51ae-4af9-9797-9f33f832d31e"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/2837c013-af26-431c-a4d8-34e89e0555f4"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "neva", 
-            "mb_attribute": "Neva", 
-            "source": "http://musicbrainz.org/work/619a1912-51ae-4af9-9797-9f33f832d31e"
-        }, 
-        {
-            "attribute_key": "neva", 
-            "mb_tag": "neva", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/2837c013-af26-431c-a4d8-34e89e0555f4"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "\u0130stanbul Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Choir", 
     "mbid": "2837c013-af26-431c-a4d8-34e89e0555f4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "619a1912-51ae-4af9-9797-9f33f832d31e", 
+            "title": "Muntaz\u0131r\u0131m Te\u015frifine"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "neva", 
+            "mb_attribute": "Neva", 
             "source": "http://musicbrainz.org/work/619a1912-51ae-4af9-9797-9f33f832d31e"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "neva", 
+            "mb_tag": "neva", 
             "source": "http://musicbrainz.org/recording/2837c013-af26-431c-a4d8-34e89e0555f4"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "003426e2-8add-4559-aa64-da0a25ef404f", 
@@ -538,10 +531,17 @@
     ], 
     "duration": 151, 
     "path": "../data/Neva/2837c013-af26-431c-a4d8-34e89e0555f4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "619a1912-51ae-4af9-9797-9f33f832d31e", 
-            "title": "Muntaz\u0131r\u0131m Te\u015frifine"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/619a1912-51ae-4af9-9797-9f33f832d31e"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/2837c013-af26-431c-a4d8-34e89e0555f4"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

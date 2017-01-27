@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Duo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/86ea3034-2212-49d8-abe4-60b88c88a5ec"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -25,8 +31,8 @@
             "name": "Burcu Karada\u011f"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "86ea3034-2212-49d8-abe4-60b88c88a5ec", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -48,13 +54,7 @@
     ], 
     "duration": 169, 
     "path": "../data/Hicaz/86ea3034-2212-49d8-abe4-60b88c88a5ec.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/86ea3034-2212-49d8-abe4-60b88c88a5ec"
-        }
-    ], 
+    "instrumentation_voicing": "duo instrumental", 
     "makam": [
         {
             "attribute_key": "hicaz", 

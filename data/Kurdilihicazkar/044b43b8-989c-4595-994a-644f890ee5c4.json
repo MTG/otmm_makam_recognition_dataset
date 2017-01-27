@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "ensemble instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_attribute": "K\u00fcrdilihicazkar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
         }, 
         {
-            "attribute_key": "kurdilihicazkar", 
-            "mb_tag": "k\u00fcrdilihicazkar", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/044b43b8-989c-4595-994a-644f890ee5c4"
         }
     ], 
@@ -44,22 +38,26 @@
             "name": "G\u00fcrcan Yaman"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
     "mbid": "044b43b8-989c-4595-994a-644f890ee5c4", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "kurdilihicazkar", 
+            "mb_attribute": "K\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "kurdilihicazkar", 
+            "mb_tag": "k\u00fcrdilihicazkar", 
             "source": "http://musicbrainz.org/recording/044b43b8-989c-4595-994a-644f890ee5c4"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
@@ -96,10 +94,12 @@
     ], 
     "duration": 283, 
     "path": "../data/Kurdilihicazkar/044b43b8-989c-4595-994a-644f890ee5c4.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
-            "title": "K\u00fcrdilihicazkar Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/eadeb598-7511-4a35-81f4-965e212f1980"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

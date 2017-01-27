@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Halil Karaduman"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "5e921b5f-cf31-49a3-bef6-c7db4cbe68bc", 
+    "sampling_frequency": 44100, 
     "bit_rate": 64, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 367, 
     "path": "../data/Sultaniyegah/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/5e921b5f-cf31-49a3-bef6-c7db4cbe68bc"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "sultaniyegah", 

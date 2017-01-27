@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "raksan", 
-            "mb_attribute": "Raksan", 
+            "attribute_key": "turku", 
+            "mb_attribute": "T\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
         }, 
         {
-            "attribute_key": "raksan", 
-            "mb_tag": "raksan", 
-            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "muhayyer", 
-            "mb_attribute": "Muhayyer", 
-            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
-        }, 
-        {
-            "attribute_key": "muhayyer", 
-            "mb_tag": "muhayyer", 
+            "attribute_key": "turku", 
+            "mb_tag": "t\u00fcrk\u00fc", 
             "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Ankara Devlet Klasik T\u00fcrk M\u00fczi\u011fi Korosu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "turku", 
-            "mb_attribute": "T\u00fcrk\u00fc", 
+            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
+            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "muhayyer", 
+            "mb_attribute": "Muhayyer", 
             "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
         }, 
         {
-            "attribute_key": "turku", 
-            "mb_tag": "t\u00fcrk\u00fc", 
+            "attribute_key": "muhayyer", 
+            "mb_tag": "muhayyer", 
             "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "028a0dfb-3a56-44b1-87f7-b9590c923d64", 
@@ -139,10 +132,17 @@
     ], 
     "duration": 132, 
     "path": "../data/Muhayyer/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "7a4c6c8a-71e8-4921-b8b0-aec239b5bc05", 
-            "title": "S\u00f6\u011f\u00fcd\u00fcn Yapra\u011f\u0131 Narindir"
+            "attribute_key": "raksan", 
+            "mb_attribute": "Raksan", 
+            "source": "http://musicbrainz.org/work/7a4c6c8a-71e8-4921-b8b0-aec239b5bc05"
+        }, 
+        {
+            "attribute_key": "raksan", 
+            "mb_tag": "raksan", 
+            "source": "http://musicbrainz.org/recording/63b6d5a6-f086-4c7e-9cba-45a4b9bca2b5"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

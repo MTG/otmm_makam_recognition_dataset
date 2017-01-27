@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "oynak", 
-            "mb_attribute": "Oynak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/4059d892-ef6c-4b32-a282-f5227aaf60a4"
         }, 
         {
-            "attribute_key": "oynak", 
-            "mb_tag": "oynak", 
-            "source": "http://musicbrainz.org/recording/0db48ce4-f018-4d7d-b75e-66a64db72067"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "hicaz", 
-            "mb_attribute": "Hicaz", 
-            "source": "http://musicbrainz.org/work/4059d892-ef6c-4b32-a282-f5227aaf60a4"
-        }, 
-        {
-            "attribute_key": "hicaz", 
-            "mb_tag": "hicaz", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/0db48ce4-f018-4d7d-b75e-66a64db72067"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Bekir S\u0131dk\u0131 Sezgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "0db48ce4-f018-4d7d-b75e-66a64db72067", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "4059d892-ef6c-4b32-a282-f5227aaf60a4", 
+            "title": "Uykudan Art\u0131k Uyan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "hicaz", 
+            "mb_attribute": "Hicaz", 
             "source": "http://musicbrainz.org/work/4059d892-ef6c-4b32-a282-f5227aaf60a4"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "hicaz", 
+            "mb_tag": "hicaz", 
             "source": "http://musicbrainz.org/recording/0db48ce4-f018-4d7d-b75e-66a64db72067"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
@@ -67,10 +60,17 @@
     ], 
     "duration": 73, 
     "path": "../data/Hicaz/0db48ce4-f018-4d7d-b75e-66a64db72067.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "4059d892-ef6c-4b32-a282-f5227aaf60a4", 
-            "title": "Uykudan Art\u0131k Uyan"
+            "attribute_key": "oynak", 
+            "mb_attribute": "Oynak", 
+            "source": "http://musicbrainz.org/work/4059d892-ef6c-4b32-a282-f5227aaf60a4"
+        }, 
+        {
+            "attribute_key": "oynak", 
+            "mb_tag": "oynak", 
+            "source": "http://musicbrainz.org/recording/0db48ce4-f018-4d7d-b75e-66a64db72067"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }

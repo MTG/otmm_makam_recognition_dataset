@@ -1,5 +1,6 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
             "attribute_key": "yuruksemai", 
             "mb_attribute": "Y\u00fcr\u00fcksemai", 
@@ -8,18 +9,6 @@
         {
             "attribute_key": "yuruksemai", 
             "mb_tag": "y\u00fcr\u00fcksemai", 
-            "source": "http://musicbrainz.org/recording/e7b707ec-21ca-42ce-a9f5-f7e2356058e3"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "saba", 
-            "mb_attribute": "Saba", 
-            "source": "http://musicbrainz.org/work/d4159174-df41-44f4-9ec3-06d829250f6a"
-        }, 
-        {
-            "attribute_key": "saba", 
-            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/e7b707ec-21ca-42ce-a9f5-f7e2356058e3"
         }
     ], 
@@ -53,22 +42,26 @@
             "name": "Yavuzhan Erdem"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "e7b707ec-21ca-42ce-a9f5-f7e2356058e3", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "yuruksemai", 
-            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "mbid": "d4159174-df41-44f4-9ec3-06d829250f6a", 
+            "title": "Gu\u015f Etti Nayi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "saba", 
+            "mb_attribute": "Saba", 
             "source": "http://musicbrainz.org/work/d4159174-df41-44f4-9ec3-06d829250f6a"
         }, 
         {
-            "attribute_key": "yuruksemai", 
-            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "attribute_key": "saba", 
+            "mb_tag": "saba", 
             "source": "http://musicbrainz.org/recording/e7b707ec-21ca-42ce-a9f5-f7e2356058e3"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
@@ -111,10 +104,17 @@
     ], 
     "duration": 263, 
     "path": "../data/Saba/e7b707ec-21ca-42ce-a9f5-f7e2356058e3.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "d4159174-df41-44f4-9ec3-06d829250f6a", 
-            "title": "Gu\u015f Etti Nayi"
+            "attribute_key": "yuruksemai", 
+            "mb_attribute": "Y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/work/d4159174-df41-44f4-9ec3-06d829250f6a"
+        }, 
+        {
+            "attribute_key": "yuruksemai", 
+            "mb_tag": "y\u00fcr\u00fcksemai", 
+            "source": "http://musicbrainz.org/recording/e7b707ec-21ca-42ce-a9f5-f7e2356058e3"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

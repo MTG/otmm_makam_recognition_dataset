@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "duyek", 
-            "mb_attribute": "D\u00fcyek", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/06af51e6-6f5d-451d-bae9-5b6641c6a82c"
         }, 
         {
-            "attribute_key": "duyek", 
-            "mb_tag": "d\u00fcyek", 
-            "source": "http://musicbrainz.org/recording/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_attribute": "Acemk\u00fcrdi", 
-            "source": "http://musicbrainz.org/work/06af51e6-6f5d-451d-bae9-5b6641c6a82c"
-        }, 
-        {
-            "attribute_key": "acemkurdi", 
-            "mb_tag": "acemk\u00fcrdi", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Elif G\u00fcre\u015f\u00e7i \u00c7ift\u00e7io\u011flu"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "06af51e6-6f5d-451d-bae9-5b6641c6a82c", 
+            "title": "Bir G\u00fcn Bana Geleceksin Y\u0131llardan Sonra"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "acemkurdi", 
+            "mb_attribute": "Acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/work/06af51e6-6f5d-451d-bae9-5b6641c6a82c"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "acemkurdi", 
+            "mb_tag": "acemk\u00fcrdi", 
             "source": "http://musicbrainz.org/recording/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
@@ -182,10 +175,17 @@
     ], 
     "duration": 373, 
     "path": "../data/Acemkurdi/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "06af51e6-6f5d-451d-bae9-5b6641c6a82c", 
-            "title": "Bir G\u00fcn Bana Geleceksin Y\u0131llardan Sonra"
+            "attribute_key": "duyek", 
+            "mb_attribute": "D\u00fcyek", 
+            "source": "http://musicbrainz.org/work/06af51e6-6f5d-451d-bae9-5b6641c6a82c"
+        }, 
+        {
+            "attribute_key": "duyek", 
+            "mb_tag": "d\u00fcyek", 
+            "source": "http://musicbrainz.org/recording/ad1e74ff-bb4d-45b5-9ca8-f62d7d6aec32"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

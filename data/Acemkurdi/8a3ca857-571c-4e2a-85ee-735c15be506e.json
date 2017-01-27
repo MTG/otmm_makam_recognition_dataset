@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/8a3ca857-571c-4e2a-85ee-735c15be506e"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "\u0130hsan \u00d6zgen"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "8a3ca857-571c-4e2a-85ee-735c15be506e", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 170, 
     "path": "../data/Acemkurdi/8a3ca857-571c-4e2a-85ee-735c15be506e.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/8a3ca857-571c-4e2a-85ee-735c15be506e"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "acemkurdi", 

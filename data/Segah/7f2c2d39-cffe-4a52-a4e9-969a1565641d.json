@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal with accompaniment", 
+    "form": [
         {
-            "attribute_key": "aksak", 
-            "mb_attribute": "Aksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/8797c0d7-e60e-410c-9c5e-2820fe0b4b1b"
         }, 
         {
-            "attribute_key": "aksak", 
-            "mb_tag": "aksak", 
-            "source": "http://musicbrainz.org/recording/7f2c2d39-cffe-4a52-a4e9-969a1565641d"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "segah", 
-            "mb_attribute": "Segah", 
-            "source": "http://musicbrainz.org/work/8797c0d7-e60e-410c-9c5e-2820fe0b4b1b"
-        }, 
-        {
-            "attribute_key": "segah", 
-            "mb_tag": "segah", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/7f2c2d39-cffe-4a52-a4e9-969a1565641d"
         }
     ], 
@@ -41,22 +30,26 @@
             "name": "Nerkis Han\u0131m"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal with accompaniment", 
     "mbid": "7f2c2d39-cffe-4a52-a4e9-969a1565641d", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "8797c0d7-e60e-410c-9c5e-2820fe0b4b1b", 
+            "title": "Suy-i Ka\u011f\u0131thane'de Mecnun-Misal"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "segah", 
+            "mb_attribute": "Segah", 
             "source": "http://musicbrainz.org/work/8797c0d7-e60e-410c-9c5e-2820fe0b4b1b"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "segah", 
+            "mb_tag": "segah", 
             "source": "http://musicbrainz.org/recording/7f2c2d39-cffe-4a52-a4e9-969a1565641d"
         }
     ], 
-    "bit_rate": 64, 
     "artists": [
         {
             "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
@@ -74,10 +67,17 @@
     ], 
     "duration": 138, 
     "path": "../data/Segah/7f2c2d39-cffe-4a52-a4e9-969a1565641d.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "8797c0d7-e60e-410c-9c5e-2820fe0b4b1b", 
-            "title": "Suy-i Ka\u011f\u0131thane'de Mecnun-Misal"
+            "attribute_key": "aksak", 
+            "mb_attribute": "Aksak", 
+            "source": "http://musicbrainz.org/work/8797c0d7-e60e-410c-9c5e-2820fe0b4b1b"
+        }, 
+        {
+            "attribute_key": "aksak", 
+            "mb_tag": "aksak", 
+            "source": "http://musicbrainz.org/recording/7f2c2d39-cffe-4a52-a4e9-969a1565641d"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

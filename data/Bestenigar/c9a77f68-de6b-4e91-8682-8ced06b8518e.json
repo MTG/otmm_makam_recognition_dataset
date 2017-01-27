@@ -1,25 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo vocal without accompaniment", 
+    "form": [
         {
-            "attribute_key": "agiraksak", 
-            "mb_attribute": "A\u011f\u0131raksak", 
+            "attribute_key": "sarki", 
+            "mb_attribute": "\u015eark\u0131", 
             "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
         }, 
         {
-            "attribute_key": "agiraksak", 
-            "mb_tag": "a\u011f\u0131raksak", 
-            "source": "http://musicbrainz.org/recording/c9a77f68-de6b-4e91-8682-8ced06b8518e"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "bestenigar", 
-            "mb_attribute": "Bestenigar", 
-            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
-        }, 
-        {
-            "attribute_key": "bestenigar", 
-            "mb_tag": "bestenigar", 
+            "attribute_key": "sarki", 
+            "mb_tag": "\u015fark\u0131", 
             "source": "http://musicbrainz.org/recording/c9a77f68-de6b-4e91-8682-8ced06b8518e"
         }
     ], 
@@ -37,22 +26,26 @@
             "name": "Tanburi Cemil Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo vocal without accompaniment", 
     "mbid": "c9a77f68-de6b-4e91-8682-8ced06b8518e", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sarki", 
-            "mb_attribute": "\u015eark\u0131", 
+            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
+            "title": "Ka\u00e7ma Mecburundan"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "bestenigar", 
+            "mb_attribute": "Bestenigar", 
             "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
         }, 
         {
-            "attribute_key": "sarki", 
-            "mb_tag": "\u015fark\u0131", 
+            "attribute_key": "bestenigar", 
+            "mb_tag": "bestenigar", 
             "source": "http://musicbrainz.org/recording/c9a77f68-de6b-4e91-8682-8ced06b8518e"
         }
     ], 
-    "bit_rate": 160, 
     "artists": [
         {
             "mbid": "a562cea9-3fe4-4007-b426-56cfbadaa280", 
@@ -62,10 +55,17 @@
     ], 
     "duration": 236, 
     "path": "../data/Bestenigar/c9a77f68-de6b-4e91-8682-8ced06b8518e.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2cf34486-c4e2-4d05-8c67-e603df2e39de", 
-            "title": "Ka\u00e7ma Mecburundan"
+            "attribute_key": "agiraksak", 
+            "mb_attribute": "A\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/work/2cf34486-c4e2-4d05-8c67-e603df2e39de"
+        }, 
+        {
+            "attribute_key": "agiraksak", 
+            "mb_tag": "a\u011f\u0131raksak", 
+            "source": "http://musicbrainz.org/recording/c9a77f68-de6b-4e91-8682-8ced06b8518e"
         }
-    ]
+    ], 
+    "bit_rate": 160
 }

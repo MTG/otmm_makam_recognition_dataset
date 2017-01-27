@@ -1,5 +1,11 @@
 {
-    "instrumentation_voicing": "Solo instrumental", 
+    "usul": [
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/d6b369ef-d619-4619-8c39-1be4292488db"
+        }
+    ], 
     "form": [
         {
             "attribute_key": "taksim", 
@@ -21,8 +27,8 @@
             "name": "Kanuni Hac\u0131 Arif Bey"
         }
     ], 
-    "sampling_frequency": 44100, 
     "mbid": "d6b369ef-d619-4619-8c39-1be4292488db", 
+    "sampling_frequency": 44100, 
     "bit_rate": 160, 
     "artists": [
         {
@@ -36,13 +42,7 @@
     ], 
     "duration": 180, 
     "path": "../data/Hicaz/d6b369ef-d619-4619-8c39-1be4292488db.mp3", 
-    "usul": [
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/d6b369ef-d619-4619-8c39-1be4292488db"
-        }
-    ], 
+    "instrumentation_voicing": "solo instrumental", 
     "makam": [
         {
             "attribute_key": "hicaz", 

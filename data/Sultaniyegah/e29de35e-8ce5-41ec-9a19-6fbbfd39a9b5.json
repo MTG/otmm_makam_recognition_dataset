@@ -1,50 +1,5 @@
 {
-    "usul": [
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
-        }, 
-        {
-            "attribute_key": "aksaksemai", 
-            "mb_tag": "aksaksemai", 
-            "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
-        }, 
-        {
-            "attribute_key": "serbest", 
-            "mb_tag": "serbest", 
-            "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_attribute": "Sultan\u0131yegah", 
-            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
-        }, 
-        {
-            "attribute_key": "sultaniyegah", 
-            "mb_tag": "sultaniyegah", 
-            "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
-        }
-    ], 
-    "releases": [
-        {
-            "mbid": "19a78bb0-438c-407d-a7e0-a376f9e0fdd1", 
-            "title": "Dar\u00fc\u015f-\u015fifa Music of the Ottoman Empire"
-        }
-    ], 
-    "title": "Sultan-i Yegah", 
-    "url": "http://musicbrainz.org/work/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5", 
-    "artist_credits": [
-        {
-            "mbid": "c4727690-41bb-453b-947d-5ac82a477100", 
-            "name": "Erkan Dedeo\u011flu"
-        }
-    ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Ensemble instrumental", 
-    "mbid": "e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5", 
+    "instrumentation_voicing": "ensemble instrumental", 
     "form": [
         {
             "attribute_key": "sazsemaisi", 
@@ -62,7 +17,40 @@
             "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
         }
     ], 
-    "bit_rate": 64, 
+    "releases": [
+        {
+            "mbid": "19a78bb0-438c-407d-a7e0-a376f9e0fdd1", 
+            "title": "Dar\u00fc\u015f-\u015fifa Music of the Ottoman Empire"
+        }
+    ], 
+    "title": "Sultan-i Yegah", 
+    "url": "http://musicbrainz.org/work/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5", 
+    "artist_credits": [
+        {
+            "mbid": "c4727690-41bb-453b-947d-5ac82a477100", 
+            "name": "Erkan Dedeo\u011flu"
+        }
+    ], 
+    "mbid": "e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5", 
+    "sampling_frequency": 44100, 
+    "works": [
+        {
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_attribute": "Sultan\u0131yegah", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "sultaniyegah", 
+            "mb_tag": "sultaniyegah", 
+            "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
+        }
+    ], 
     "artists": [
         {
             "mbid": "1bbfb4be-4d64-4fa4-ad0f-71ad0787ba30", 
@@ -233,10 +221,22 @@
     ], 
     "duration": 327, 
     "path": "../data/Sultaniyegah/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
-            "title": "Sultaniyegah Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/2e898944-fdac-44c4-a523-47ef94767d45"
+        }, 
+        {
+            "attribute_key": "aksaksemai", 
+            "mb_tag": "aksaksemai", 
+            "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
+        }, 
+        {
+            "attribute_key": "serbest", 
+            "mb_tag": "serbest", 
+            "source": "http://musicbrainz.org/recording/e29de35e-8ce5-41ec-9a19-6fbbfd39a9b5"
         }
-    ]
+    ], 
+    "bit_rate": 64
 }

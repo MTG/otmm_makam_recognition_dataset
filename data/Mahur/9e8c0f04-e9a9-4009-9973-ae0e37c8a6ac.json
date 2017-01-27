@@ -1,20 +1,14 @@
 {
-    "usul": [
+    "instrumentation_voicing": "solo instrumental", 
+    "form": [
         {
-            "attribute_key": "aksaksemai", 
-            "mb_attribute": "Aksaksemai", 
-            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
-        }
-    ], 
-    "makam": [
-        {
-            "attribute_key": "mahur", 
-            "mb_attribute": "Mahur", 
+            "attribute_key": "sazsemaisi", 
+            "mb_attribute": "Sazsemaisi", 
             "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
         }, 
         {
-            "attribute_key": "mahur", 
-            "mb_tag": "mahur", 
+            "attribute_key": "sazsemaisi", 
+            "mb_tag": "sazsemaisi", 
             "source": "http://musicbrainz.org/recording/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac"
         }
     ], 
@@ -32,22 +26,26 @@
             "name": "Salih Bilgin"
         }
     ], 
-    "sampling_frequency": 44100, 
-    "instrumentation_voicing": "Solo instrumental", 
     "mbid": "9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac", 
-    "form": [
+    "sampling_frequency": 44100, 
+    "works": [
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_attribute": "Sazsemaisi", 
+            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
+            "title": "Mahur Sazsemaisi"
+        }
+    ], 
+    "makam": [
+        {
+            "attribute_key": "mahur", 
+            "mb_attribute": "Mahur", 
             "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
         }, 
         {
-            "attribute_key": "sazsemaisi", 
-            "mb_tag": "sazsemaisi", 
+            "attribute_key": "mahur", 
+            "mb_tag": "mahur", 
             "source": "http://musicbrainz.org/recording/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac"
         }
     ], 
-    "bit_rate": 128, 
     "artists": [
         {
             "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
@@ -61,10 +59,12 @@
     ], 
     "duration": 243, 
     "path": "../data/Mahur/9e8c0f04-e9a9-4009-9973-ae0e37c8a6ac.mp3", 
-    "works": [
+    "usul": [
         {
-            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
-            "title": "Mahur Sazsemaisi"
+            "attribute_key": "aksaksemai", 
+            "mb_attribute": "Aksaksemai", 
+            "source": "http://musicbrainz.org/work/900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2"
         }
-    ]
+    ], 
+    "bit_rate": 128
 }
