@@ -14,7 +14,7 @@ The audio related data in the test dataset is organized by each makam in the fol
 
 Moreover the metadata of each recording is available in the repository, crawled from MusicBrainz using an [open source tool developed by us](https://github.com/sertansenturk/makammusicbrainz). The metadata files are saved as `data/[makam]/[mbid].json`.
 
-For reproducability purposes we note the version of all tools we have used to generate this dataset in the file [algorithms.json] (https://github.com/MTG/otmm_makam_recognition_dataset/blob/master/algorithms.json).
+For reproducability purposes we note the version of all tools we have used to generate this dataset in the file [algorithms.json](https://github.com/MTG/otmm_makam_recognition_dataset/blob/master/algorithms.json).
 
 A complementary toolbox for this dataset is [MORTY](https://github.com/altugkarakurt/morty), which is a mode recogition and tonic identification toolbox. It can be used and optimized for any modal music culture. Further details are explained in the publication above. 
 
