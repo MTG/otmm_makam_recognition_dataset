@@ -389,7 +389,8 @@
         "verified": false, 
         "tonic": 247.0, 
         "makam": "Acemkurdi", 
-        "observations": ""
+        "observations": "CompMusic dunya stores the recording on a merged mbid, which is noted in the extra `dunya_uid` key",
+        "dunya_uid": "afc94a77-f511-4aae-b91a-4639d8211ec3"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/bde6a612-c11c-435f-8825-81ecd36e381f", 
@@ -1176,11 +1177,11 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/75c034d1-11e0-4851-93d8-a07ba41fae81", 
+        "mbid": "http://musicbrainz.org/recording/17d514b3-1e14-4f02-8ab6-5f2fb344b4ec", 
         "verified": false, 
         "tonic": 495.8, 
         "makam": "Beyati", 
-        "observations": ""
+        "observations": "The dataset included 75c034d1-11e0-4851-93d8-a07ba41fae81 in the dlfm_2016 release. It does not exist in Dunya, so it was replaced with the instrumental version of the same track."
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/78162c6b-0c4e-4226-8fa3-cb25ae3bfff5", 
@@ -2212,11 +2213,11 @@
         "observations": ""
     }, 
     {
-        "mbid": "http://musicbrainz.org/recording/653f8154-b374-4713-99ee-f649f9582b99", 
+        "mbid": "http://musicbrainz.org/recording/b3e53edc-5664-4a5e-a449-ffd3a52eb60b", 
         "verified": false, 
         "tonic": 247.6, 
         "makam": "Huseyni", 
-        "observations": ""
+        "observations": "The dataset included 653f8154-b374-4713-99ee-f649f9582b99 in the dlfm_2016 release. It does not exist in Dunya, so it was replaced with the instrumental version of the same track."
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/6f26af11-7e51-4a2f-bca7-736a9c47fb3e", 
