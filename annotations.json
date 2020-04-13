@@ -389,7 +389,8 @@
         "verified": false, 
         "tonic": 247.0, 
         "makam": "Acemkurdi", 
-        "observations": ""
+        "observations": "CompMusic dunya stores the recording on a merged mbid, which is noted in the extra `dunya_uid` key",
+        "dunya_uid": "afc94a77-f511-4aae-b91a-4639d8211ec3"
     }, 
     {
         "mbid": "http://musicbrainz.org/recording/bde6a612-c11c-435f-8825-81ecd36e381f", 
