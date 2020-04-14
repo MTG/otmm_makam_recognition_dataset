@@ -20,9 +20,10 @@ A complementary toolbox for this dataset is [MORTY](https://github.com/altugkara
 
 For more information, please contact the authors.
 
-Erratum
+Errata
 ------------
-In November 2016, we discovered several errors in the tonic annotations. We are currently verifying the annotations. See the description in [otmm_tonic_dataset](https://github.com/MTG/otmm_tonic_dataset#erratum) for more details and up-to-date progress.
+- **April 2020:** We replaced 2 recordings, which do not exist in [CompMusic Dunya makam corpus](https://dunya.compmusic.upf.edu/makam/), with their instrumental versions. We also patched the dunya_uid of a recording, which is a redirection to the MusicBrainz ID. None of the annotations have changed. (PR #1)
+- **November 2016:** We discovered several discrepancies in the tonic annotations while we were merging human and machine annotations to create the `otmm_tonic_dataset`. See the errata in [otmm_tonic_dataset](https://github.com/MTG/otmm_tonic_dataset#erratum) for further explantion. We advise to use the annotations in `otmm_tonic_dataset`.
 
 <a name="License"></a>License
 --------------------
