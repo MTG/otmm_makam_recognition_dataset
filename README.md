@@ -22,7 +22,7 @@ For more information, please contact the authors.
 
 Errata
 ------------
-- **April 2020:** We replaced 2 recordings, which do not exist in [CompMusic Dunya makam corpus](https://dunya.compmusic.upf.edu/makam/), with their instrumental versions. We also patched the dunya_uid of a recording, which is a redirection to the MusicBrainz ID. None of the annotations have changed. (PR #1)
+- **April 2020:** We replaced 2 recordings, which do not exist in [CompMusic Dunya makam corpus](https://dunya.compmusic.upf.edu/makam/), with their instrumental versions. We also patched the dunya_uid of a recording, which is a redirection to the MusicBrainz ID. None of the annotations have changed. (PR [#1](https://github.com/sertansenturk/otmm_makam_recognition_dataset/pull/1))
 - **November 2016:** We discovered several discrepancies in the tonic annotations while we were merging human and machine annotations to create the `otmm_tonic_dataset`. See the errata in [otmm_tonic_dataset](https://github.com/MTG/otmm_tonic_dataset#erratum) for further explantion. We advise to use the annotations in `otmm_tonic_dataset`.
 
 <a name="License"></a>License
