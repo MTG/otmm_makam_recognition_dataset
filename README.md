@@ -4,7 +4,7 @@
 
 This repository hosts the dataset designed to test makam recognition methodologies on Ottoman-Turkish makam music. It is composed of 50 recordings from each of the 20 most common makams in [CompMusic Project](http://compmusic.upf.edu/)'s [Dunya](http://dunya.compmusic.upf.edu/) Ottoman-Turkish Makam Music collection. Currently, the dataset is the largest makam recognition dataset.
 
-Please cite the publication below, if you use this dataset in your work:
+Please cite the publication below if you use this dataset in your work:
 
 > Karakurt, A., Şentürk S., & Serra X. (2016).  [MORTY: A Toolbox for Mode Recognition and Tonic Identification](http://mtg.upf.edu/node/3538). 3rd International Digital Libraries for Musicology Workshop. New York, USA
 
@@ -22,7 +22,7 @@ For more information, please contact the authors.
 
 ## Errata
 
-- **April 2020:** We replaced 2 recordings, which do not exist in [CompMusic Dunya makam corpus](https://dunya.compmusic.upf.edu/makam/), with their instrumental versions. We also patched the dunya_uid of a recording, which is a redirection to the MusicBrainz ID. None of the annotations have changed. (PR [#1](https://github.com/sertansenturk/otmm_makam_recognition_dataset/pull/1))
+- **April 2020:** We replaced 2 recordings, which do not exist in [CompMusic Dunya makam corpus](https://dunya.compmusic.upf.edu/makam/), with their instrumental versions. We also patched the dunya_uid of a recording, which is a redirection to the MusicBrainz ID. None of the annotations has changed. (PR [#1](https://github.com/sertansenturk/otmm_makam_recognition_dataset/pull/1))
 - **November 2016:** We discovered several discrepancies in the tonic annotations while merging human and machine annotations to create the `otmm_tonic_dataset`. Please refer to the [repo](https://github.com/MTG/otmm_tonic_dataset#erratum) for further explanation. We **advise to use the tonic annotations** in `otmm_tonic_dataset`.
 
 ## License
